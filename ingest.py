@@ -3,9 +3,9 @@ import re
 
 DOCS_PATH = os.path.join(os.path.dirname(__file__), "documents")
 
-CHUNK_SIZE = 500
+CHUNK_SIZE = 1000
 OVERLAP = 100
-MAX_CHUNK = 800
+MAX_CHUNK = 1000
 MIN_CHUNK = 100
 
 

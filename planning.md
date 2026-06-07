@@ -17,21 +17,19 @@ Oregon State University has an eCampus BS in Computer Science program. The progr
 
 <!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions.
      Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
-
-| # | Source | Description | URL or location |
-|---|--------|-------------|-----------------|
-| 1 | OSU CS Course Explorer| Student reviews for CS 161, 162, 225, 261, 271, 290, 325, 340, 344, 372, 493 — copied manually from SPA| Website with aggregated reviews | https://osu-cs-course-explorer.com
-| 2 | r/OSUOnlineCS | Reddit thread: CS 162 vent thread | https://www.reddit.com/r/OSUOnlineCS/comments/59qykl/162_vent/ |
-| 3 | r/OSUOnlineCS | Reddit thread: CS 225 anonymous rant/PSA | https://www.reddit.com/r/OSUOnlineCS/comments/19eytrd/rip_225_bro_psa_if_you_want_to_rant_anonymously/ |
-| 4 | r/OSUOnlineCS | Reddit thread: CS 261 prep recommendations | https://www.reddit.com/r/OSUOnlineCS/comments/185hy2y/261_prep_recommendations/ |
-| 5 | r/OSUOnlineCS | Reddit thread: CS 290 feeling lost and overwhelmed | https://www.reddit.com/r/OSUOnlineCS/comments/4i65as/cs_290_anyone_else_feeling_lost_and_overwhelmed/ |
-| 6 | r/OSUOnlineCS | Reddit thread: CS 325 just want to pass | https://www.reddit.com/r/OSUOnlineCS/comments/kyu17s/325_just_want_to_pass/ |
-| 7 | r/OSUOnlineCS | Reddit thread: CS 340 dark horse candidate for worst course | https://www.reddit.com/r/OSUOnlineCS/comments/oso0c1/cs340_dark_horse_candidate_for_worst_course/ |
-| 8 | r/OSUOnlineCS | Reddit thread: CS 344 tips and experiences | https://www.reddit.com/r/OSUOnlineCS/comments/kgfgpa/for_those_of_us_about_to_take_cs344/ |
-| 9 | r/OSUOnlineCS | Reddit thread: CS 372 revamp discussion | https://www.reddit.com/r/OSUOnlineCS/comments/185hy2y/did_they_revamp_cs_372/ |
-| 10 | r/OSUOnlineCS | Reddit thread: CS 492 tougher than expected | https://www.reddit.com/r/OSUOnlineCS/comments/t5auuy/anyone_else_have_a_tougher_time_with_492_than/ |
-| 11 | r/OSUOnlineCS | Reddit thread: CS 493 new reviews | https://www.reddit.com/r/OSUOnlineCS/comments/1pvvlsg/any_new_reviews_for_493/ |
-
+| # | Source | Description | URL or location | Local file |
+|---|--------|-------------|-----------------|------------|
+| 1 | OSU CS Course Explorer | Student reviews for CS 161, 162, 165, 225, 261, 271, 290, 325, 344, 372 — copied manually from SPA | https://osu-cs-course-explorer.com | documents/cs161_reviews.txt, documents/cs162_reviews.txt, documents/cs165_reviews.txt, documents/cs225_reviews.txt, documents/cs261_reviews.txt, documents/cs271_reviews.txt, documents/cs290_reviews.txt, documents/cs325_reviews.txt, documents/cs344_reviews.txt, documents/cs372_reviews.txt |
+| 2 | r/OSUOnlineCS | Reddit thread: CS 162 vent thread | https://www.reddit.com/r/OSUOnlineCS/comments/59qykl/162_vent/ | documents/cs162_redditthreads.txt |
+| 3 | r/OSUOnlineCS | Reddit thread: CS 225 anonymous rant/PSA | https://www.reddit.com/r/OSUOnlineCS/comments/19eytrd/rip_225_bro_psa_if_you_want_to_rant_anonymously/ | documents/cs225_redditthreads.txt |
+| 4 | r/OSUOnlineCS | Reddit thread: CS 261 prep recommendations | https://www.reddit.com/r/OSUOnlineCS/comments/185hy2y/261_prep_recommendations/ | documents/cs261_redditthreads.txt |
+| 5 | r/OSUOnlineCS | Reddit thread: CS 290 feeling lost and overwhelmed | https://www.reddit.com/r/OSUOnlineCS/comments/4i65as/cs_290_anyone_else_feeling_lost_and_overwhelmed/ | documents/CS290_redditthreads.txt |
+| 6 | r/OSUOnlineCS | Reddit thread: CS 325 just want to pass | https://www.reddit.com/r/OSUOnlineCS/comments/kyu17s/325_just_want_to_pass/ | documents/cs325_redditthreads.txt |
+| 7 | r/OSUOnlineCS | Reddit thread: CS 340 dark horse candidate for worst course | https://www.reddit.com/r/OSUOnlineCS/comments/oso0c1/cs340_dark_horse_candidate_for_worst_course/ | documents/cs340_redditthreads.txt |
+| 8 | r/OSUOnlineCS | Reddit thread: CS 344 tips and experiences | https://www.reddit.com/r/OSUOnlineCS/comments/kgfgpa/for_those_of_us_about_to_take_cs344/ | documents/cs344_redditthreads.txt |
+| 9 | r/OSUOnlineCS | Reddit thread: CS 372 revamp discussion | https://www.reddit.com/r/OSUOnlineCS/comments/185hy2y/did_they_revamp_cs_372/ | documents/cs372_redditthreads.txt |
+| 10 | r/OSUOnlineCS | Reddit thread: CS 492 tougher than expected | https://www.reddit.com/r/OSUOnlineCS/comments/t5auuy/anyone_else_have_a_tougher_time_with_492_than/ | documents/cs492_redditthreads.txt |
+| 11 | r/OSUOnlineCS | Reddit thread: CS 493 new reviews | https://www.reddit.com/r/OSUOnlineCS/comments/1pvvlsg/any_new_reviews_for_493/ | documents/cs493_redditthreads.txt |
 ---
 
 ## Chunking Strategy
@@ -42,13 +40,15 @@ Oregon State University has an eCampus BS in Computer Science program. The progr
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
 **Max chunk size (split threshold):**
-800 characters — reviews up to 800 chars are kept whole; anything longer triggers sentence-boundary splitting
+1000 characters — segments up to 1000 chars are kept whole; anything longer triggers sentence-boundary splitting
 **Sliding-window fallback size:**
-500 characters — used only when a single sentence exceeds 800 chars
+1000 characters — used only when a single sentence exceeds the max chunk size
 **Overlap:**
 100 characters
+**Minimum chunk size:**
+100 characters — segments shorter than this are dropped to avoid weak embeddings from title-only fragments
 **Reasoning:**
-Most reviews average ~500 characters so they fit in one chunk. The 800-char threshold avoids splitting reviews that run slightly longer. The 500-char sliding window with 100-char overlap is a last-resort fallback for unusually long single sentences.
+1000-char chunks keep most multi-sentence reviews intact and provide sufficient context per retrieval slot. The 100-char overlap preserves continuity across sentence-split boundaries. The 100-char minimum filters out thread titles and one-line fragments that produce poor embeddings and waste retrieval slots.
 ---
 
 ## Retrieval Approach
