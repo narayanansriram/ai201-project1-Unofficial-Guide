@@ -1,0 +1,53 @@
+325 just want to pass
+
+I’m am not enthusiastic about 325. I’m sure I’m not the only person taking the course just because I have to. There’s tons of posts about the horror, stress and draining effort this class is. It’s frustrating that there’s no homework grades from the first module and yet another assignment is almost due. I’m hoping to pass this class mainly on hw, discussion, portfolio project and quiz grades. I have read the grumbling posts regarding the exams. Any advice to just pass this class? I’m not asking for flying colors just don’t want to waste money and don’t want the misery twice by retaking it.
+
+I'm right there with you. I've gotten A's 161, 162, 225, 290, 261 and a B+ in 271. This is the first class where I'm really panicking about the possibility of not passing. It feels disorganized, the book is a bit too wonky, and the lectures (relative to other classes' lectures) are just not clear.
+
+My biggest gripe is that this class is supposed to be one of the most important in undergrad CS curriculum and I'm not so sure this class setting me up for success education-wise.
+
+I am sweating it. When I check out the grades and just put in speculation there isn’t room for error. The exam and midterm is going to be ridiculous. The content is so unorganized and the lectures are hardly helpful. This is really a bummer that OSU publishes this class as acceptable.
+
+The last unit before midterms isn't so bad. And for fall semester the midterm wasn't aweful either. The first three units were brutal for me though and I pulled a non curved 86 on the midterm grade.
+
+The second half of class is way easier but somehow the final is way way too har. But my grade was curved from a 59 to a 75ish on the final due to that.
+
+Also doing as much extra credit on the final project as possible helps.
+
+Join a discord study crew for sure if you haven't already.
+
+[deleted]
+
+[deleted]
+
+So far I have not watched a single lecture video or read the book except for chapter 1. I’ve solely used Abdul Barri and skimmed the lecture notes + the practice problems and googled things as needed.
+
+It doesn’t seem terrible so far, but I think the assignments are a bit unclear. Like it just doesn’t seem well polished like a class at a top university would be in comparison. It’s a bit unfortunate, but we have to work with what we’ve got.
+
+Glad to know I'm not the only one that decided to skip the lecture vids and book! (Abdul Bari here too)
+
+You’re doing the right thing focusing on the homework, discussions, quizzes and final projects. Also jump on any extra credit offered. I failed the midterm and the final and still ended up with a B in the class last term. It’s a shitshow, but if you just keep grinding you’ll make it through it!
+
+I haven’t noticed any extra credit posted but wow you give me some hope! Thank you for posting!
+
+For us last term there was extra credit available in the final project, and then a standalone extra credit problem to solve that added 2% to our final grades. They didn’t post those until Week 8 or 9 if I remember correctly, I’m sure you guys will get similar options, as classes before me also got variations of them as well. Good luck!
+
+I am in it too and I wish I had some good advice! One thing I am struggling with is that firstly, it's very math heavy, including a lot of intricate algebraic manipulation, more so than the other classes I've taken (only done 161, 162, 225, and 261).
+
+It's also difficult to determine the best resources to use and the right order to use them in. The textbook is a little too intense to be the first thing you read, but the lectures need supplementation, etc., so I am still trying to figure out the right order to look at various resources so that everything clicks into place.
+
+I agree whole heartedly. The math used in this course expects you to know log algebra and summations fluidly. I find the lectures to jump too quickly through concepts without much explanation and text book a little dense. I think the MIT lectures are actually very helpful to begin with and the going to Abdul and then the text book helps take off a bit of the edge when trying to digest the texts material.
+
+Same boat. It’s consumed almost all of my time so far leaving little time for other things. I don’t have any good advice as I’m just taking it right now too. There is a discord group out there that has been pretty helpful though
+
+Link?
+
+I'm with you, and agree with everyone else on doubling up on the YouTube videos (or even MIT's lectures on the subject, as they utilize the same book but their notes are clearer). The book is useful, but sometimes dense on parts where they could be more outright. If the concept evades you after reading it a couple of times, just find a different resource to explain it -- you'll be able to come back to the details in the book once you've got a better grasp from watching a video on the larger concept.
+
+NGL, when I read my HW group's discussions, and I realized they had understood the HW so much better than I did, that was a real sucker punch. If you ever need a judgement-less person to bounce statements of 'wtf does this mean?' off of, let me know.
+
+[deleted]
+
+That was one of two classes I did have to retake. As I look at other people's code IRL, however, I really feel many of them should've taken an algos course. In the end you will find it valuable. Actually, if you don't want to do this course, maybe just go do some coding camps and forget the degree. This one class will do more toward making you a real developer than all the others.
+
+As other ppl have said, though, you can definitely bone up on your own and improve your chances. Search resources from other universities. No reason not to take another free course, like MIT OpenCourseware, Coursera, EdX, etc, to get more examples or a different angle, if you have the available time.

@@ -1,0 +1,501 @@
+[Unknown] Recurrence relations, combinatorics, recursive algorithms, proofs of correctness. "Course was dry until the midway point. Expect to spend 12 hours a week on it. For the open-book quiz prep, take the small quizzes on the bottom of each explore page, they’re a close reflection of the module quiz. Ignore the 3 day extension like it doesn’t exist. The mock interview was a typed response to a simple leetcode problem and the final opened Sunday of final’s week with 3 days to complete.
+
+---
+
+[March 2026] The modules made this course much more difficult. They were not very well made and could be hard to understand at times. They also skipped over a lot of steps in the process of finding a solution, which I found frustrating because I was not always able to follow the logic of the algorithm without it being broken down. I relied heavily on external resources such as Abdul Bari's YouTube videos to learn the concepts. Otherwise, the assignments were difficult but fair, and the exams were similar. The professor is extremely kind.
+
+---
+
+[March 2025] Generally, I liked the structure of the class. As of Winter 25, there is still an assignment and a quiz just about every week. For the assignments, there is a grace period of three days which was really nice. One midterm and one final which are both proctored as well. My biggest frustration was, similar to another commenter, that the modules were most definetly written by someone whose first language is not English. To many times did I have to reread and try to interpret what information was being conveyed because of confusion, not on the actual topic at hand, but simply the syntax of the English language. If I recall correctly, there were times it seemed like there was information in the module that was directly contradicting itself... sometimes in the same sentence! Honestly, this could probably be very easily fixed by throwing each module into ChatGPT, prompting it to refine it into something that is easy to read in English and maybe having it reviewed by someone whose first language is English. Really frustrating that despite paying thousands of dollars for these courses through a university no less, this is the level of quality we get. On top of that, this is the quality we get for such a consequential topic of all things... unreal. Top employers are known to ask questions about these topics specifically. Otherwise, the class was fine. I probably overly dramatized how bad the grammar is. Also, Abdul Bari is your friend.
+
+---
+
+[March 2025] This class covers really good concepts, but teaches them in the most god awful way possible. This class has a format of one homework assignment and one quiz every week. There's a proctored midterm and final as well, and a couple very simple group projects that shouldn't have really been group projects since there's no collaboration to do. This class is covering very math-heavy topics, and complicated things like dynamic programming, things that most people can't learn very quickly without help. The modules are written by someone who clearly doesn't have a grasp of the English language, they assume you remember every math concept, and the provided examples rarely match what you see on the homework. The homework solutions are easily found online, but that won't save you on the exams. I recommend doing your best to learn the first few weeks material the most, and for the exams, write down literally every algorithm example onto that paper in the smallest font possible so you fit it all.
+
+---
+
+[October 2024] I'm suspicious they've dialed back the difficulty of this course over the years. I went into it expecting the biggest challenge yet, but it wasn't that bad in reality. Like everyone says, the first two weeks suck, but there's really not that much math. The assignments usually have only 2-3 questions, and the programming questions are LC problems. You can find plenty of walkthroughs diagramming the problems, and a decent amount of them have pseudocode provided that you can cite and use. Also, the exams were easier than the HW assignments. Start the assignments early, fill out your cheat sheets on the exams, and you can get a high A. This class combines the concepts of 261 and 225, but the amount of work they ask you to do could be so much worse than it is.
+
+---
+
+[June 2024] Be on time, start assignments early. The first weeks are the hardest ones, don't let this discourage you. I highly recommend relying on outside sources, such as Grokking Algorithms (book) or the infamous Abdul Bari (youTube). Don't worry if you don't get the exploration materials, at some point I just skimmed them and didn't bother wasting time anymore trying to understand them. Throw everything on your study sheet that fits while you are still able to read it. I didn't add only code, also theoretical sections outlining the differences between all the individual algorithms, time complexities, etc.
+
+---
+
+[June 2024] Be consistent, don't stress about learning everything, and study for the tests. I am taking this as my 13th class in the program, and I think it is one of the easier ones in terms of time commitment and effort. I feel like the ratings for this class are misleading.
+
+---
+
+[May 2024] Students tend to exaggerate the level of difficulty of this class. While I agree that the exams were tough, they were certainly fair! Anyone who spends a few hours studying for them, or at least watches the review session and makes their own cheatsheet will be fine. I am terrible at implementing algorithms, and frankly I'm not the best at programming in general, and I managed get out with an A. Do not stress out about understanding everything from the start, finish your assignments on time (grace days are nice but you might fall behind) and give yourself ample time for the quizzes (only 2 attempts allowed). You're gonna do great!
+
+---
+
+[March 2024] Less hours spent per week than 261, but the hours are more painful. Difficulty is sorta consistent throughout the term. Homework can finished in 1 good day. What makes this class hard is exams are worth 40% of your grade so it's challenging to land a solid A, but if you just want to pass, its easy peasy. Course materials are probably the worst in the program but there's great resources online, I recommend skimming the modules for the topics, looking at outside resources and then coming back to the modules to see if you missed anything.
+
+---
+
+[March 2024] The modules aren't great at explaining the concepts, but there are plenty of resources available online. The assignments aren't terrible - there is enough time to figure things out with outside resources and get perfect or near-perfect scores. The exams are ridiculous, however. Exams are proctored, only one sheet, single-sided notes allowed. No scratch paper, but a whiteboard is allowed. Final is cumulative. Exams will often use strange wording for concepts, making it difficult to know what the right answer is. Know the differences between big O, big Theta, and big Omega, and know them well. And be able to describe them in different ways (upper bound, lower bound, etc). Learn P vs NP vs NP-Complete complexity classes and be able to describe them. I wouldn't say it's hard to pass this class, but the exams make it really difficult to keep that A.
+
+---
+
+[December 2023] This class is not particularly difficult, provided that you are comfortable with math. Math topics that are relevant include the behavior of functions (i.e., what does the graph of n^2 look like compared to the graph of n), logarithms, induction (but not as formal as in 225), limits and taking derivatives, and graph traversals/terminology. That being said, the class is not really heavily mathy, it's just that you'll understand things faster if you have a good grasp on those topics. All in all, I'd say this class has a lower time commitment than 261, and while it is conceptually more challenging than that class, the actual assignments are easier. There isn't much coding in 325 - there is usually a single small-scale coding problem in each homework and the rest of the questions are about proofs, techniques, and concepts. You should expect to get most of your practice actually implementing algorithms outside class by doing LeetCode. Another thing that makes this class challenging is that the learning material is extremely bad. It's a contender for having the absolute worst quality modules in the entire program. However, there is an abundance of really good learning material for this topic available online for free. By now you may have heard of Abdul Bari's excellent videos, but you should also check out the University of Washington lectures in the semester playlists on the @cse373 YouTube account that correspond with the topic you're learning. The recommended textbook, the famous CLRS, is a great resource (and a great place to find help with homework), and there's also a book by a guy called Steven Skiena called The Algorithm Design Manual that is pretty good too, and has great coverage of logarithms if you're confused by that. (Note: Steven Skiena also has lectures on YT and his class is also called CSE 373, but that's just a coincidence. The lectures I recommend are SP 2022 at University of Washington). One other thing that can be challenging - the exams are weighted very heavily in this class (this final is 25% of the grade). Careless mistakes or blanking out can bring your grade down multiple points, so be careful. Thankfully, the exams aren't very hard - they involve no coding, you get to bring a cheat-sheet, and there are only a pretty small number of questions that aren't multiple choice. For exams, focus on understanding the concepts and be able to identify the pseudocode for algorithms described in the explorations. Don't get too pressed about not being able to come up with solutions to algorithms problems (especially harder things like dynamic programming), because you won't be expected to solve novel algorithms problems on the exams. Just know how things works and be able to identify problems and you should be set.
+
+---
+
+[August 2023] This class couples nicely with data structures and I'm glad I took data structures before hand. If you enjoy mathematical analysis for proving the time complexity of an algorithm then you'll enjoy the class. If you only enjoy coding then this class will be the bane of your existence. Also, I get why NP hard problems are discussed but I definitely hated that module more than anything else in this class. It was way too abstract for my liking.
+
+---
+
+[August 2023] Go through the pain of gaining access to the GitHub Student Pack (https://education.github.com/pack), which will get you limited access to Educative and its basic algorithms courses. The material in the course modules might not be sufficient to explain the concepts for you. Attend office hours at least once a week. Remember that the professor and the TAs WANT you to pass this course--if you're struggling, let them know; they'd like you to avoid repeating it.
+
+---
+
+[June 2023] Take soon after data structures, and find resources outside the course. Also, study a lot.
+
+---
+
+[June 2023] Focus on activities for the exam. Look up and prep with deriving recurrence formulas, P = NP proofs (lightly touch on), and graph algorithms (Prims, TSP, MST).
+
+---
+
+[June 2023] Compared to 261, this course was easier in terms of getting an A grade because the solutions for homework are easily found online and the exams are quite easy. However, the actual learning materials themselves were much more challenging than 261. The course materials were poorly written, and I often found external resources to be more helpful. You can easily find solutions to all the problems and algorithms you need to know for this course. While ChatGPT is great for coding assignments and homework, I recommend trying to come up with solutions on your own first. It provides a valuable learning opportunity. The midterm and final exams make up a significant portion of your grade, but they are straightforward. They are slightly more difficult than the quizzes, but much easier than the homework assignments. It will take a considerable amount of time to fully comprehend the materials, but you can learn a great deal by practicing coding algorithms and solving problems.
+
+---
+
+[June 2023] Start early. Look at the homework immediately. Use any resource you are allowed to use.
+
+---
+
+[June 2023] Definitely use outside resources. Make sure you spend time ingesting the material. The homework can go quickly, but that doesn't mean you know the core concepts. Prep as much as you can for the tests. Focus on understanding more than memorization. I personally did not find talking to the instructor very helpful, so I would spend your time on outside resources. She is extremely kind though.
+
+---
+
+[June 2023] Start early! This class is really interesting but it definitely takes some time to wrap your head around the concepts. My suggestion is to read over the module at the beginning of the week and have it in the back of your head until you're actually ready to take notes/do the quiz/do the homework so it'll be easier to get started on it since you already know at least a little. If you don't understand something check out Abdul Bari because he'll 100% have a video on it. If the pseudocode is confusing or doesn't make sense to you, definitely use your knowledge of the algorithm and try to make a clearer one for yourself! As long as you understand what is happening and why in each step, you'll be fine.
+
+---
+
+[March 2023] Both Professor Umma Reddy and Dr. Maher Elshakankiri were great professors, who made sure to contact me regarding important information and the effort to help students out with understanding the material. Make sure to get in to the first Office Hours Session if you can, so that you can ask questions about the material and get to vote on the when office hours are held. While the professors are great, the material can be a bit confusing to comprehend so I would recommend that you do watch Abdul Bari's Algorithm's playlist and look at other online resources while going through this course if you are stuck on a specific topic. If you have taken Calc 1 and Calc 2, or Differential and Integral Calculus, then the first two weeks of the course shouldn't be too difficult, since you're going to be using Limits and L'Hopital's rule.
+
+---
+
+[March 2023] Def use outside resource like Abdul Bari videos, Geeks4Geeks, etc. You will need it. The professor (Reddy) was awesome, I like her a lot. But the class itself has wayyy too little resources and examples of what is actually going on. If anything, I think I came out of the course a slightly worse coder because I would overthink things. The concepts are crucial though, and will help you find a job in the future.
+
+---
+
+[March 2023] Use outside materials to learn this stuff. It's an incredibly important topic because it's basically interview prep. Unfortunately, the teaching is poor. Thankfully, there are TONS of outside resources, including Neetcode, Leetcode, Abdul Bari, and many more. Completing this class by itself is not enough to prepare you for interviews. You need to get lots of reps on leetcode (and you can watch nice explainer vids on neetcode, which also curates a list of leetcode problems to do). The wording in explorations and quiz and exam questions is poor, and can make the material hard to understand.
+
+---
+
+[January 2023] This course was not as bad as I thought it was going to be. As mentioned Weeks 1-2, 9 have subject material that is similar to stuff learned in 225 Discrete Math (still nowhere near as math heavy), but it may take some time to wrap your head around the concepts. The rest of the modules are a lot more straightforward. They consist of LeetCode style algos like Dynamic Programming, Backtracking, and Graphing. The midterm and final are fair. They didn't have me writing strenuous amounts of pseudocode, but they were still a bit of a challenge. Luckily, they gave us ample time to complete the tests.
+
+---
+
+[December 2022] If you've been LeetCoding then this course can be easy. Weeks 1 & 2 are math heavy, weeks 9 is proof heavy, 3-8 are different algo's each module. The modules aren't terrible, but they aren't good either. Watch Abdul Bari's video on the topic, go solve some LC easies on the topic with the help of NeetCode, and then start the assignments. Most assignments are a variant of an LC medium. The professors are responsive and want to help you. Midterm and Final are fair however it's easy to go into the final with an A and drop to a B+.
+
+---
+
+[December 2022] Modules can be pretty dry and boring at times, and the material can take some time to sink in. Best to start early to give as much time as possible
+
+---
+
+[December 2022] If Umma-Reddy is one of the instructors, she does a live weekly review session. Submit your questions for the review session. She goes over the submitted questions live. Go to the review session! If you can't attend live, watch the video of it! She will answer questions in real time, have everyone solve some problems together (depending on the questions for the week), go over answers so everyone understands why this answer is correct, that answer is incorrect, etc. It was a huge help. Other than that, this is the only course so far where I have actually had to use outside resources. Abdul Bari's Algorithms playlist on YouTube will help you. The grading and the midterm/final are very fair.
+
+---
+
+[August 2022] Personally, I actually thought data structures was more difficult than this course. I enjoyed the fact that various implementation solutions are on the internet where I was able to study the differing advantages and disadvantages of various approaches in order for me to implement my own solution. To me, this sort of lacked in previous courses where our classmate's solutions weren't ever shared so I did not understand how certain problems were solved. Here, there was an explanation for everything. From TA's, to the weekly help sessions, to the embedded quizzes in the modules, to sourcing the internet, there is an explanation out there and it was neat to find and actually understand the material.
+
+---
+
+[August 2022] Weeks 1-2 and the last week are the only math/logic - the rest is pure coding problems. Don't let the first couple of modules get you down, the rest of the course is quite easy and straightforward (much easier than 261, in my opinion). Modules are basics-only, if you want to work at a large tech firm you'll need to spend a ton of time on LeetCode grinding out these concepts. Pretty meh course, wish I was walking out with a better understanding of these topics, but all assignments/quizzes along with the midterm are quite easy.
+
+---
+
+[August 2022] This is a great class, and I really disliked 261. The subject matter is pretty difficult, so you will probably spend a lot of time learning from outside resources. The Grokking Algorithms book, Abdul Bari's Algorithms playlist, and B2B SWE helped a lot with this class. But the modules are much better written than 261 (tons of examples, not just 1 example that glosses over edge cases like 261), and the instructor records weekly webinars which clarify how you should format assignment answers, so you won't get surprise deductions like other classes. The assignments are very easy because you just need to solve them to get full points, you don't need to achieve optimal time/space complexity to get full points, like 261. This class is heavily weighted towards exams, but the exams are fair. No formal proofs or executable code, just procedural explanations and pseudocode. Weeks 1, 2, and 10 are the most math-heavy, and they were the most difficult for me, but the webinars really helped me get full points. I'd say that overall this is a medium difficulty class. All in all, this is one of my favorite classes at OSU so far, it's up there with 162. Professor Umma Reddy is great.
+
+---
+
+[June 2022] Seems to have gotten nuked sometime in the past few terms. First couple of weeks and the 9th week are the most difficult as they include math and proofs. Everything in between will be as difficult as you let it be. They are basically leetcode problems you can find good resources for online. Also, you learn about time complexity and seems to be a focus in this class but your solutions that you run in gradescope don’t have time complexity requirements, so if it passes the test cases on gradescope, you get the points. The midterm and final seems fair and the professor runs help webinars we’re she answers your questions. Puts in the effort we see a lot of other professors fall flat with.
+
+---
+
+[June 2022] The first few modules suck but it gets easier around week 3. The projects and weekly weren't to bad.
+
+---
+
+[June 2022] Took the revised version of this course, and it was a great experience. Doshna is an extremely caring instructor, and always tried to work with the students whenever they had any concerns, including questions, problems, and anything that they felt might have been unfair as far as grading. She really knows her stuff, and it shows in the Webinars that she takes time out of her schedule to do for the students.
+
+---
+
+[March 2022] Start homework early, attend the review sessions each week.
+
+---
+
+[March 2022] Abdul Bari on youtube will be your savior! Start every assignment as early as possible. Weeks 1, 2, and 9 are the hardest weeks, just stick with it! I would describe the course as an easy B, and an A is achievable with some hard work. The assignments have you write implementations of common algorithms, and most of the code is straight up given to you in the discussion, or you can find lots of resources on Leetcode and the internet in general. There are weekly quizzes that are open note and can be taken twice, so easy 100 percents on those. Bi-weekly group projects are worth 5-10 points each and consist of writing discussion board posts about your approach to a given problem from the homework, and then collaborating to submit one member's work as the best one. The only "hard" parts of this class are the midterm and final that are worth way too much of the final grade, and can tank your grade accordingly. They are proctored and you are allowed a 1 sided cheat sheet, so that helps. I finished with an A, so it definitely can be done!
+
+---
+
+[March 2022] As long as you're actively searching out material online to supplement, you'll be fine. I honestly just skimmed the modules, cuz they'd leave me more confused. They're worded poorly with lots of typos. I suggest figuring out what the modules want you to know, then lookup Abdul Bari videos, Back to Back SWE videos, and Grokking Algorithms book. The instructors do seem to care, they put in the effort to give weekly review sessions if the students want it, and are actively engaged in Ed.
+
+---
+
+[March 2022] This is a challenging class but it's pretty well put together considering how low level the content is. Try to get 100% on the projects and make use of the open book weekly quiz retakes. The midterm and final will wreck you if you don't have 100% everywhere else.
+
+---
+
+[March 2022] First two weeks and the last week are the most time consuming. They can take you 15-20 hours. All the other weeks really just depend on how comfortable you are with leetcode type problems and don't take you more than 10-ish hours if you're focused. In order to actually learn material I had to rely on Abdul Bari and B2B SWE on YouTube and leetcode learning modules if they covered the topics. Material isn't the greatest and can sometimes be confusing if you try to read the canvas explorations first. Overall, the class isn't as bad as previous iterations had it. It is just annoying when you have to use outside resources to really learn the material.
+
+---
+
+[March 2022] Watch YouTube videos of Abdul Bari/MIT to support learning and you will get a good grade. The concepts are a bit difficult but the path is their to learn alot.
+
+---
+
+[March 2022] It’s honestly not as hard as I expected. I found the materials very interesting and I really enjoyed the class. Grading is inconsistent and TAs are unhelpful, so always double check your grades for errors. If you don’t get a rubric back, be very suspicious. I got screwed over out of a couple points on a couple projects, and those points were literally the make or break between an a and a b
+
+---
+
+[March 2022] Great class. You get exposed to cool optimization problems using dynamic programming and different techniques to solve leetcode style problems. The workload is pretty light and the grading's very lenient, which allowed me to take time to absorb its challenging content. I know that this class has gotten a lot of hate in the past, but I think the course has gotten better, because a lot of people seemed to agree on Ed that this is one the best classes that they've taken and that they've learned a lot. The Canvas content was pretty good, but if you don't understand something, do take advantage of Abdul Bari. I personally never used outside resources until Week 9 (NP stuff) but still got an A. If you take time to read through Canvas modules and make sure you understand everything, do your HW and quizzes, you should be good.
+
+---
+
+[March 2022] This course is graded leniently and you should have plenty of time to get the work done. The professor provides a weekly help session on Fridays, strongly recommend you attend with questions to help clear up any issues you might be having with the work. Read the material and look over YouTube/Google for help (Abdul Bari, Geeks for Geeks, etc.). Also, the class allows for a page of notes (one sided) for the exams. If you take good notes as you go through the modules, it will help immensely with your studying. It can still be a bit difficult to grasp some of the concepts (it was for me) but some students have noted they found it significantly easier so YMMV. Overall, this class feels like it's in a good place after the revamp.
+
+---
+
+[December 2021] A little bit let down, easy A for me though so I can't complain too much. All the homework assignments are either pulled from leetcode or already on canvas. Midterm class avg: 84%, Final class avg: 86%. I found all hw solutions online so I thought I was going to bomb the midterm/finals (100 on midterm and 96.7 on final). The quizzes you can attempt twice and questions don't vary between attempts so another easy 100.
+
+---
+
+[December 2021] The first two weeks of the course are very math-heavy, but it gets much better from there. The math doesn't really show up in the mid-term or final other than knowing growth rates and recurrence relations. You are allowed one page of notes on both exams.
+
+---
+
+[December 2021] This course was recently revamped and isn't as much of a mess as it used to be. Doshna is pretty active on Ed and does live weekly review sessions. The first 2 weeks are math-heavy but that goes away from week 3 on and the math didn't really appear on the midterm. Most of the programming problems can be found on Leetcode, and it seems they will be moving assignments to Gradescope in future terms. I took this with 362 and it was the lightest two class term I had in the program thus far.
+
+---
+
+[November 2021] This class is challenging, but doesn't take up as much time as I expected it to in the Summer. The homework is on the lighter side compared to 261/225. Most of it feels like an extension of 261 with the added layer thinking about time complexity. The last module on NP/NP-Hard/NP-Complete took a while to sink in. There were two group discussions with write up assignments. If you get ghosted by a group member (or two), you can easily move on without them which is nice. The quizzes are very easy, but not worth much. Midterm and final were both proctored, mostly multiple choice with some pseudocode writing as well. Not bad if you know the algorithms that are covered in the lectures and make a decent note card.
+
+---
+
+[August 2021] The "revamp" of this course is still a hot mess. I think any algorithm course should be difficult, because the topic itself is multi-faceted and incredibly important. 325 added difficulty by being kinda crap. The explorations they provide on Canvas are filled with typos and don't do a good job of teaching material. The only easy things about this class were the open note quizzes due each week and the discussion posts due every other week. The discussion posts were pretty annoying because you had to make a video solution for solving a given problem, but from an interview perspective verbally explaining is good to practice. The coding assignments ranged from easy to hard, with the portfolio assignment (essentially 3 problems with some other analysis) being the peak of difficulty. The midterm/final weren't crazy difficult (you get a 1-sided cheat sheet), but there was so much regrading due to poorly-stated questions being interpreted in different ways. I do feel like I learned a lot about algorithms in spite of this course's quality, but hope they make some much needed updates.
+
+---
+
+[June 2021] I only watched the provided videos for the last week's material (P vs NP). Otherwise I used Abdul Bari and a few other resources (Back to Back SWE). I never cracked the book. Bari is invaluable for the first few weeks of this class. I think this was the last iteration of this class before it gets revamped- these reviews may be out of date next semester.
+
+---
+
+[March 2021] Abdul Bari's videos on YouTube will save you in this class. Check out the lecture slides to see what topics to review each week, but DO NOT listen to the lectures - they are garbage and will just confuse you. If you do well on the homework and quizzes you can afford to not do great on the exams and still pass the class.
+
+---
+
+[March 2021] Oh this class... the original course content is taught rather poorly and by week 2 I was just using outside resources to teach myself. It took a lot of work and so many of the concepts revolve mostly around taking the time to get it. When you take this I'd take it with easy classes and being prepared for it to just eat up your time. Also look at abdul bari and back to back on youtube to pick up the content.
+
+---
+
+[February 2021] This is considered one of, if not the most useful classes in the program (for interviewing) but it was the worst I have taken. The lectures were mostly useless as other reviewers have said. I can't emphasize enough the need to use outside resources. The MIT 6.006 and 6.046 courses are both terrific and I found Tushar Roy to be the best resource for Dynamic Programming. Additionally, do lots of problems from leetcode, that will help prepare you for the exams. Make sure you really work hard on the homework and get every single point. Also, as mentioned before, use EVERY extra credit opportunity given. I bombed the final and didn't do hot on the midterm but because of the homework and extra credit I got a good grade.
+
+---
+
+[January 2021] I submitted earlier but I have to add that the lectures are truly terrible. I had no idea who they were from until midway through the semester when her name appeared on the screen (it was not Maher or Danielle). It was an instructor called Julianne Schufort ... I don't know how she still has a job because she literally sounded like she was seeing the slides for the first time each week. Not only that, but they had to know she was a horrible lecturer when they asked her to record these presentations - why her of all people?? Be prepared to watch her make countless typos and sound completely confused each week. When people say they watch the lectures at 2x speed, they are not bragging -- she talks SO SLOW that I felt like time had come to a standstill. Listening to it at 2x speed makes it sound like an actual, normal person. I feel triggered now when I hear that "Hiiii class...
+
+---
+
+[December 2020] I took this class with Maher and Danielle. I think the instructors were fair and very receptive to student feedback. On the first test, they did not allow us to make our own study guide. After a lot of student feedback, they allowed us to make our own study guides for the final. The (open book, open note) quizzes can only be taken once, and they are timed. I did well on them at first, but towards the end of the semester, whether due to burnout or an increased difficulty in material, I started doing worse, and that knocked my grade down quite a bit. HOWEVER, they gave an extra credit project, which was very do-able given all the resources online. That project literally saved my grade, as it was a 2% bump if you did all the requirements. I would say the midterms and finals were difficult for me... but a lot of people said they did well just by studying the book and quizzes. We were also required to post 3 times on 2 separate days on the discussion board (groups changed each week). That was usually a huge waste of time because no one really knew how to answer each other's questions, and neither the TAs nor the professors check in to answer questions. It felt redundant at times since we also had teams and piazza going. I recommend sharing links to videos with your classmates because that was the only thing I found useful about group discussions.
+
+---
+
+[December 2020] I will be brutally honest, this class was the worst one that I have taken so far in this program. You will be relying heavily on resources outside of the provided course materials. Read Grokking Algorithms and start going through Abdul Bari and any MIT Open Course algorithms classes videos that you can prior to the start of this class. This is the class you will finally see a lot of the discrete math concepts from 225. Get yourself familiar with the topics that will be covered, as it will help you immensely once you're in the midst of the chaos. Yes, the midterm and final exam were horrible, but if you put as much effort as you can into the Homeworks, Quizzes and Group Discussions and any Extra Credit opportunities that you can you will make it through this class. Reddit and the unofficial Slack channel are great places to commiserate with your fellow students, and those of us that have already powered through this will gladly give you any tips we can.
+
+---
+
+[December 2020] The key to a good grade in this class is getting as many points as possible from the homework, discussions, and quizzes. The school lectures are difficult to follow along and the textbook is dense so utilize outside resources such as Chegg (worth every penny) and Abdul Bari on YouTube. Do every extra credit assignment if you can. Hopefully with all this, you should have a big enough cushion to do poorly on the midterm and finals and still pass comfortably.
+
+---
+
+[December 2020] The content of this class is conceptually hard and the assignments time consuming. Be prepared to study hard and maximize your cheat sheet for your exams.
+
+---
+
+[December 2020] Took this class Summer 2020. Opted to take the on campus-online version instead of eCampus due to a cheaper cost, since they were all put online by Coronavirus. I found the class overall fairly easy, with a few noticeably hard parts here and there. Youtube tutorials and chegg were extremely helpful. Not sure how different my experience was from the true ECampus version, but I was not nearly as overwhelmed as I expected to be based on past reviews.
+
+---
+
+[August 2020] This semester was a bit different (Spring 2020). Because of the pandemic, none of the tests were proctored. Also, I believe this is only the 2nd term since the course was redesigned. This time around, there were no issues with missing materials and the class was overall pretty organized. I personally found the lectures to be helpful despite what most people said about them. I watched them on 2x speed, followed along with the provided pdf notes, and added additional notes for my own personal use (mostly about how a topic related to another or was used in the homework). I had a hard time relying on outside resources because there are many different notations, terms, and overlapping topics so it was annoying to figure out which video corresponded to which part of the lecture we were supposed to learn. It was easier to just go straight to the source (the 325 lectures) because I knew the exams, quizzes, and homework material would be pulled from those along with the book occasionally. I used the book as a reference to see examples mentioned in the lectures or on the homework. That's it. Definitely did not sit down to try to read through those dense chapters. It's graduate level stuff. I would recommend that each week, you add the important formulas, definitions, and pseudocode to a document that can then be used to build your cheat sheet for the exams. And practice practice practice the homework and study questions for exams (using your cheat sheet). The midterm was harder than the final because the first half's material is more complicated. If you do decently on the midterm, odds are you'll be fine for the rest of the course.
+
+---
+
+[June 2020] Get Chegg. Subscribe to Abdul Bari on YouTube. Get friends in the course that can help you with the studying. It was broken up into 3 quizzes, like 5 homeworks, and a final group project. Schutfort was not very helpful when it came to answering questions, which is why you must rely on reading the slides at home yourself, as well as referring to outside resources.
+
+---
+
+[March 2020] The textbook OSU uses from MIT assumes a higher math background than what can be obtained from this program. It reads more like a reference book than an instructional device. While the lectures are unpopular, it serves as a better introduction than the book. That being said, the course content is inadequate and outside source use is a necessity. The homework is the type that makes you go "huh?" It is time consuming. Despite the challenging course the instructors design the grade scheme to work in your favor. As long as you do the homework and make good exam note sheets it is difficult to fail the course.
+
+---
+
+[March 2020] In the beginning it was very hard to understand, if your someone like me who has not taken a math class in a while. They throw you right into the homework involving some very math intensive jargon on the starting week. Try to work with others or at least compare answers, to solidify your understanding. Early on in the term my class made a discord, which was VERY helpful as many intelligent peers joined to share their knowledge on how to approach problems, compare answers, asking to meet up and work with others, to study with others for the quizzes, etc. I agree with others here who say that the textbook is not useful, I have only touched the textbook when there would be a homework problem that required us to use the textbook. The lecture and notes seem like they're geared towards teaching prodigies. The lecture and notes are better after you have a general understanding of the concepts. For this type of class, you will find yourself probably using the internet and youtube videos as your fundamental source of learning/studying, and doing the homework.
+
+---
+
+[March 2020] This class is definitely challenging on the theoretical level and requires you to do a lot of higher level thinking. They're not joking when they say prepare to be wrecked. Take it alone if you can, if you want to have time to intimately understand how the algorithms work. Everyone is saying don't read the book, but I felt that otherwise you wouldn't understand the material on a deeper, theoretical level. For me, really battling my way through the book and understanding what is happening actually made the rest of the class easier since I could comprehend all the moving pieces of the algorithms. The lectures are best as a supplement to the book, it's more of a high-level review of the concepts. Watch them at 2x speed (which will result in them sounding normal, to be honest). Supplemental YouTube videos from Abdul Bari and Tushar Roy definitely help solidify and give examples of certain implementations of algorithms. But don't skip on the reading if you want to understand how/why the algorithms work and how to think like a computer scientist. Also, I recommend reading Grokking Algorithms before taking the course, it's a really short read and can be done in under a week. It also has a few algorithm concepts not covered in 325, and it introduces you to dynamic programming which made that portion of the class a breeze.
+
+---
+
+[March 2020] Don't bother reading the textbook. It's honestly a big waste of time. The lectures are useful but I learned the majority of the material through youtube videos. Don't stress the fine details. Focus on the big ideas and concepts and you will do just fine in this class.
+
+---
+
+[December 2019] The book is entirely useless for the class and I got a good grade without ever touching it. The lectures are okay but I highly recommend that you look up other lectures on youtube that are related to the weekly topic.
+
+---
+
+[December 2019] This class is definitely front loaded due to all of the math you may have forgotten or need to learn. Once you get over that hurdle, you will then need to absorb all of the material from the lecture, outside videos (Bari), and other resources you can find online. Most lecture videos from the professor are ok except for a few. The book is horrible and dense, didn't really need it. Do well in the HW and quizzes and you will be in good shape come test time.
+
+---
+
+[December 2019] Course needs a reboot. Lectures are the worst I have experienced thus far. Listen to the class lectures at 2x speed. Doing this barely made them tolerable. If you want a superb explanation of the topics, look at Abdul Bari's youtube page. He was a life saver.
+
+---
+
+[December 2019] This course is front-loaded: I spent between 14-20 hours per week on it during the first 3 weeks, then about 12 hours per week after that. Dynamic Programming was the most time-consuming assignment. The textbook is dense and difficult to understand, unless you were previously a math major. I reviewed the lecture PowerPoint PDFs instead of watching the lectures. Most of my learning happened from Abdul Bari YouTube videos, GeeksForGeeks, and general internet searches. It is challenging material, but it's made even more challenging due to having to teach yourself every week.The instructor Julianne Schutfort was reasonably active on Piazza but sometimes gave confusing/conflicting advice. This isn't a fun class, but it does lay an adequate foundation for learning different approaches to solve problems.
+
+---
+
+[December 2019] Do well on the first half, since it is super interesting, relevant to interviews and actually fun. Some people say that Dynamic Programming is the hardest week in the program, but if you take it super seriously and hook up with Tushar Roy, you will ace it. The second half of the class is boring proofs and I barely, barely kept my A. That said, I played 120 games of League of Legends during this term and still got As in both classes with minimal effort after week 5.
+
+---
+
+[April 2019] First three weeks are difficult. After you complete Dynamic Programming (Week 3), the class gets much easier. The lectures are really bad so seek outside sources for learning. Overall, this course isn't as hard as people state. However, if you want to get an A, this is the class to pull out all stops and try hard. Speaking with the TA, actively participating in discussions, and monitoring the general discussion is extremely important if you want to get a good grade.
+
+---
+
+[March 2019] Watch the lectures, and google youtube videos for better explanations of what she is talking about. Her lectures are obtuse and filled with pauses as she tries to figure out what to say, so only half of the lecture actually has good information. Rely on your group discussion work. You can get extra credit there and they are usually better at explaining concepts than the professor is. I stopped trying to read the book about halfway in and it saved me a lot of time, so I don't know that it's necessary.
+
+---
+
+[March 2019] Take notes as you read the materials for each module; don't just read what you need in order to complete the homework. Monitor the instructor-led Canvas discussions; she often revises homework requirements on the fly and is frequently notified by students of errors in the course handouts. Don't forget to participate in the group-level Canvas discussions; the extra credit will come in handy. Attend office hours and eliminate any doubts you have about your homework answers.
+
+---
+
+[March 2019] The first few weeks were horribly hard, but the number of hours I put into the class declined after the midterm. Dynamic Programming week was probably the hardest. For the midterm and final, you're allowed a double-sided cheat sheet, which was extremely helpful. Put every single definition/proof example you can think of. The grading for the exams is pretty lenient, the homework grading less so. But almost every question on the homework is a classic algorithms question, so Google is your best friend. There's tons of examples online and I recommend looking up outside resources rather than relying on the textbook and over-long lectures offered by the class. The homework is half math questions, half programming questions. There wasn't a group project in Fall 2018, but there are weekly discussions (mostly BS but I did get some helpful nuggets there). Some interesting topics but I think most people will need more prep after this class before attempting technical interviews.
+
+---
+
+[February 2019] In retrospect, priming myself with a Udemy / Coursea course before starting this course might have been a better idea. The lecturer makes it quite difficult to follow her lectures. I suggest turning on captions to read the lecture instead of listening, as she pauses mid-sentence, and may even change the whole sentence in mid sentence. Turning on the captions helps you anticipate what she is about to say. Likely by the time you finish reading the captions, then she would complete her sentence. Material is challenging and fun. I found myself relying heavily on external resources because of the difficulty in staying awake in lectures. It seems like there use to be a group project in the past few terms, but we didn't have it this term.
+
+---
+
+[January 2019] This class wasn't as hard as I thought it was going to be. Yes, it is challenging and some of the math in the first few weeks can be a struggle. However, after the first two or three weeks it kind of slows down. I found that the most challenging topics in the class were dynamic programming and NP problems, so if you have the opportunity or time, at least get familiar with those topics. Resources are plentiful on the internet but for the most part I stuck to the provided lectures and watched a few YouTube videos about topics that gave me a hard time. The provided lectures are not great, in some cases far from it, but I believe it covers everything you need for the homework. I didn't really touch the book as it was too mathy for me but YMMV. Some people really like the in-depth breakdown of algorithms along with their proofs that the book offers. Fall 2018 grade breakdown: 55% homework, 5% discussion, 20% midterm, and 20% final. If you make sure to do the discussion each week and focus on your homework grade the exams won't hurt you too much. I found that the midterm was easier than the final but that could be from my lack of motivation to study at the end of the term. Make sure you take full advantage of your cheat sheet and fill it with lots of example problems. I did pretty bad on the final but finished the class with an A-.
+
+---
+
+[December 2018] Read the textbook. I know proofs are annoying but I think fully understanding those is when you start to make the jump from someone who can simply write code to a problem solver/computer scientist.
+
+---
+
+[December 2018] Don't watch the lectures. They're a complete waste of time. Glance over the slideshows and then go find a better resource to learn the material (people really love MIT classes). The assignments aren't that difficult but the exams can be a challenge. If you do well on the exams you have quite a bit of cushion to do poorly on the exams.
+
+---
+
+[December 2018] Focus on bigger picture ideas instead of remember every little detail on an algorithm's implementation. The class is intended to teach you how to identify which approach to take for solving problems and how to identify a solution's complexity. You're allowed to create a crib sheet for the exams, so if you're worried about being tested on the small details put them on there.
+
+---
+
+[December 2018] This class is not as bad as I thought it would be. I am more of a "mathy" person though. The lectures are as bad as everyone says they are, but watched on 2 speed made it better. I'd say lectures are worth speeding through, especially for second half of the course. Especially the midterm/final review lectures! They give a really good overview for studying. The book is worth reading for the 1st half, other resources are better for second half. Overall, I'd say it's a very fair class.
+
+---
+
+[June 2018] This class isn't as difficult as people make it seem. People get bogged down trying to understand every proof and every example from the lectures. Don't worry about the details, focus on the big picture. I didn't need to use outside resources either, the lectures were good enough (if you focused on big picture stuff.) Extra credit is plentiful if you take advantage of it. The first and last home work assignment have extra credit. DO IT, it doesn't take too long and can make a big difference grade-wise. Also every week extra credit can be earned in the discussion groups for posting early, often, or having a very useful post - these are basically free points so take an extra minute every day and post something. Don't get freaked out and don't lose the forest for the trees and you will be fine. Grading is lenient as well.
+
+---
+
+[June 2018] Slack is a godsend, ask others. Make sure you do the extra credit when its offered. Getting bonus extra credit in the discussions is really easy to do as well. The midterm and final are rough but fair (also graded pretty leniently). See the reddit sidebar for some great external learning tools. Highly recommend reading Grokking Algorithms ahead of time.
+
+---
+
+[March 2018] I don't even know where to start. Watch the videos they are long and drawn out but they have good information, watch other videos to clarify. The book is meaty, skip most of it unless your going for a PHD.
+
+---
+
+[March 2018] For the midterm and final, focus on making a robust cheat sheet! It can be double-sided, and you really should replicate algorithms onto the cheat sheet as well as (for the final) examples of NP-complete problems and their descriptions.
+
+---
+
+[March 2018] Commonly recommended resources: Grokking Algorithms, The Algorithm Design Manual, Tushar on youtube. Use slack! Use slack. Be part of the conversation. Use the pinned resources there. Watch the videos at 1.5x at least. Start the assignments early.
+
+---
+
+[March 2018] Take the group discussion seriously - they can be a great resource. If the lecture videos aren't useful for you, invest most of your time on outside resources and just use the lectures for review. The group discussion or Slack channel are great places to hear about good outside resources. Google is your friend. Most of the HW problems can be found somewhere if you just know how to search for them.
+
+---
+
+[March 2018] Focus on the lectures over the textbook (though the textbook is worth reading, if somewhat dense). Watch the lectures at 1.5x speed or above (Video Speed Controller is a great extension for Chrome). Get started early on each HW assignment to give yourself time to digest the new material. Don't get caught up in the wash of panic around Dynamic Programming -- watch the lectures, work through examples and attend office hours.
+
+---
+
+[March 2018] Start assignments early, watch lectures on 2x speed, make an amazing cheat sheet, take full advantage of the week to study for the midterm and final. This class is TOUGH but doable - just requires a lot of focus and effort. Look to slack, your hw discussion groups and Tushar's youtube videos for guidance.
+
+---
+
+[March 2018] Only a couple homework assignments offer extra credit, so don't assume that because there was a chance for EC this week that there will be a chance next week, too. The lectures are unedited, long, and generally not up to the usual OSU standards, but you should watch them anyway because they WILL help you on the exams (which together are 40% of your grade) and give you some idea of the topics the homework will cover. Use Google and YouTube to find better resources for those topics once you know what they are. They open the midterm after it's graded so you can see what you missed points on. The final is cumulative, so be sure to go back and study what you did wrong on the midterm and make sure you won't make those same mistakes again. Test study tip: several questions will ask you to consider a hypothetical "word problem" style problem you've probably never seen before, describe (in words) an algorithm that solves it, and then give the running time of that algorithm. The first 2-3 weeks are the hardest, but the class is well-paced overall. There is a homework-free week in the middle to give you time to prep for the midterm, and no homework to compete with the group project at the end of the quarter. One last tip: C++ is more performant than Python, so keep that in mind when picking a language for the final project, which is the only time actual running time (in seconds/minutes) will matter in an assignment for this class.
+
+---
+
+[March 2018] Get started on each weeks material early. It can take some time for the concepts on the homework to sink in.
+
+---
+
+[March 2018] Study with others. Use other materials such as online articles or YouTube videos.
+
+---
+
+[March 2018] Concepts can be confusing, so take extra time to understand and practice. Midterm and finals are fair, but make sure you write some actual examples (especially to hard problems you can solve so you can use the solution pattern to guide you) on your cheat sheet. I recommend doing assignments in Python, great way to pick up a new language, and makes some of the assignments easier to implement. Project is not bad, and we're given more than enough time (2 weeks) to finish it - just don't research something crazy hard to implement. Overall a tougher class relatively, but fair and not bad if you aren't overly confused by concepts.
+
+---
+
+[March 2018] There is a ton of info to absorb in this class. Find the mix of lectures/reading/supplemental/code review that works best for you and don't worry about trying to get through all possible sources. The coding implementation parts of the homework can be time consuming, so it helps to take a look at those early in the week and see what's going to be involved. The exams are tough; investing time into building a good cheat sheet is very helpful.
+
+---
+
+[March 2018] Prepare to spend a lot of time on the class. Start work on the midterm cheatsheet as soon as the class starts. Consider reading Grokking Algorithms before you start the class ... it's an easy read that will help you get your bearings a bit, but the class itself is much more difficult. If you're looking to do more to prepare, consider teaching yourself Python. Take as a goal translating some of the more interesting data structures from the c/c++ implementation into Python. Having working classes for graphs, vertices, etc., and a functional BFS would be great preparation.
+
+---
+
+[February 2018] Don't freak out; stay calm. If you've never studied algorithms before (like me), then there will be weeks where you are lost. When no YouTube or reading will help, go to office hours ( I did 2 or 3 times and it helped tremendously). At the least, office hours will get you through the HW. But for me, it helped me straighten out my thought process. For tests, you get a whole week to study. I used each day (1-3 hours) to study 1 week of material, then used the last day to write my cheat sheet from my study notes and re-practice problems. Remember, the problems on the midterm and final are the same structure as problems you've seen in the class and in lecture. Practice identifying the problem structures as you go and it makes getting the nitty gritty details down easier.
+
+---
+
+[February 2018] This class sucks hard. Prepare to spend many hours watching videos and reading dry material. Prepare to be expected to master about 100 concepts having very little to do with analysis.
+
+---
+
+[December 2017] Look at outside resources (MIT Lectures, etc), definitely try to understand the jist of dynamic programming before starting the class. The exams and homework are pretty fair, but you'll have to work hard.
+
+---
+
+[November 2017] Don't skip her lectures, watch them at 1.5X speed. After lectures, skim the reading (it's a good reference but terrible as learning resource). Start the homework as early as you can. Don't leave any exam questions blank. She's pretty generous with partial credit so give each problem your best shot and write down your entire thought process and any partial solutions.
+
+---
+
+[August 2017] Find outside resources like the MIT lectures/youtube/online class materials from other schools. Watch the class lectures at 1.5 or 2 times the regular speed.
+
+---
+
+[August 2017] I thought the class was front loaded and hits you pretty quickly with some tricky work while you get used to looking at the theory and language of algorithms. The second half of the class was much easier since there is only so much depth you can go into linear programming and NP problems in an undergrad class that does not require a lot of math background. There seems to be a lot of people who recommend looking at other sources of information to get through the course. I did not find that necessary. I only used the textbook and lecture videos to do all the work. The lectures are long and sooooo slow, but I would caution against watching them sped up too much because they are the best resource for completing the assignments. I found 1.2x or 1.3x speed was best.
+
+---
+
+[June 2017] Watch youtube videos, read through pseudocode of many algorithms. Not as hard as people say if you are exposed to the material many times.
+
+---
+
+[June 2017] Realize early that the book is not going to help you at all. Outside-OSU sources are very helpful.
+
+---
+
+[June 2017] Find outside sources. I learned very little from the course lectures. Download a chrome plugin to listen to the lectures with 3x speed. She speaks very slowly... Only watch the lectures to get an idea of what to look up/learn yourself and/or see if she mentions anything regarding exams or group work. I did not spend much time on this course compared to other, but I was flying by the seat of my pants the entire term.
+
+---
+
+[June 2017] Overall very fair, son't be intimidated by the first 2 weeks
+
+---
+
+[June 2017] You can get a lot out of this class if you have the time to really focus on it. It's really interesting stuff. I wish I'd taken it by itself rather than doubling it up and working full time.
+
+---
+
+[June 2017] Focus on collecting as many points as you can from the HWs/Discussions/Projects. They add up quickly so that you don't need to do crazy well on the exams to pass the class.
+
+---
+
+[June 2017] Easy class. Doesn't teach much.
+
+---
+
+[April 2017] Stay on top of the material because there's a lot of it. Ask questions of the instructor, on the homework group discussions, and among your project group. If you know other students, choose your own project group (3 members) - you will interact with these people a lot. Watch the lectures at 1.5-2.0x speed.
+
+---
+
+[March 2017] Hardest course I have taken I think. Try to find a good group and I recommend using Python as your language.
+
+---
+
+[March 2017] Programming the algorithms up in Python and trying them out helped my understanding a lot.
+
+---
+
+[March 2017] I found the lecture videos to be sufficient and didn't find the MIT lectures helpful at all, despite popular opinion. Watch them at 1.5x speed. For exams, study the homework and the sample midterm. Understand why you are using the approach you are using and how to apply it to another situation. If you have taken calculus, it will be extremely helpful in understanding asymptotic complexities. I'd advise bringing a graphing calculator capable of calculating limits to the exam.
+
+---
+
+[December 2016] Study as much as you possibly can. Unless you are naturally gifted in the material its going to take some work. That said use as many outside resources as possible (search MIT, Cal Tech, etc) as the actual course content is lacking.
+
+---
+
+[December 2016] Schutfort just redid the lectures - they are still awful. Watch the MIT algorithms lectures instead and save yourself headache.
+
+---
+
+[December 2016] Build rapport with your project group if you can. My project group was more helpful for questions than the hw groups were. The hw groups felt like one more hoop to jump through, notably because of the requirement to post multiple times over multiple days for each homework. Lastly: python is your friend. In 261 I enjoyed using C, but python was so smooth for the projects, even with feeling fuzzy about the language at first.
+
+---
+
+[August 2016] The lecture/recitation videos from MIT's two algorithms courses will be more useful than the ones done by OSU.
+
+---
+
+[August 2016] Study study study. Everything builds on each other, so if you don't get something from the previous week it will be difficult to catch up. The homework takes several hours. Start early. The projects take several hours. Start early. Make sure you actually understand the concepts. If you look up an answer and say 'oh that makes sense', make sure you know why it makes sense. The class lectures are pretty terrible so try MIT, geeksforgeeks, etc for content. The best way I found to learn the material is do as many example problems as possible. Reading is good but I found it took too much time and I didn't get much out of it. I't's a tough class but I made it through and so can you!
+
+---
+
+[August 2016] Don't skip over anything. Even the thing you think is so obvious and won't be on the final, could be. Start early on the videos each week and watch them at 1.5-2x speed (a suggestion from prior students that really helped!). They're long and speeding them up almost makes them sound normal speed. Attend the review sessions, office hours if you can. Some weren't helpful, but others were - especially the midterm and final study sessions. The textbook was helpful in the beginning, but not so much later on. Still a good resource to have though -- (note: it's available online here and there..). Just relax and really try to enjoy the class. It wasn't as bad as everyone made it sound. Try to find real world applications for the concepts you're learning - that helped me a lot. Good luck!
+
+---
+
+[August 2016] Try to write pseudo code for all the algorithms don't lean on your group or you'll do poorly on the tests, ask your team for help if you don't understand an algorithm.
+
+---
+
+[August 2016] Watch course lectures, but just for the course content, (what's expected for you to know that week). Then, take that outsife of the lectures and go look up videos on MIT or other Youtubers to learn the topics. It'll take you half the time that it to takes Schufort to go through the lectures, (sometimes less). Her lectures are dry, long, and SLOW. I'm fine with long lectures, but she talks incredibly slow and takes a long time to get to the point. She also tends not to be terribly thorough in covering topics, which is surprising for how long they take. Most of the topics are fairly easy to catch on, but difficult ones are Dynamic programming, (WTF?), and NP-Completeness, (all of the proofs feel so subjective...). Unfortunately, if you struggle with these, it'll come back to haunt you. Be prepared to spend a while on the projects, (and scope out a good group). Write-ups are super easy, but the code isn't always so simple... Try making separate helper functions in another file for reading in .txts and what not that you can reuse throughout the term. Saves you a lot of time so you can focus on implementing the algorithms.
+
+---
+
+[August 2016] The 2nd half of the course is harder than the first. I also found the office hours more helpful than the lectures. The book is hard to read but if you fully understand those you're golden.
+
+---
+
+[June 2016] Projects are graded generously but take the most time so I would put less effort into those and more effort into the homework to the point you can do it without looking anything up.
+
+---
+
+[June 2016] Watch lectures on 2x speed. Use Google, the book is standard in programs across the country so it's easy to find related material presented in different ways to get a better understanding. Find group members if possible, it'll be more likely everyone participates which makes the four projects a lot easier.
+
+---
+
+[June 2016] The first 3 weeks( of the 10 ) are the hardest. Find a study group to help learn the hard material with and double check your homework answers with.
+
+---
+
+[June 2016] Not as awful as many say, but start early, often, and practice, practice, practice... Do not take in tandem with a big project class like 496 or 419, else suffer you will. The lectures are awful, but there is useful stuff to be gleaned from them.
+
+---
+
+[June 2016] Get started on your work as soon as its available and participate in discussions. Be familiar with your basic proof set up, particularly induction. Watch lectures at 1.5x speed. The reading pairs well but is really dry. Contrary to what a lot of people say all the information I needed was in class lectures, so absolutely watch them. Don't be afraid to supplement your learning with outside resources though. Requires 4 group assignments so plan for that as well.
+
+---
+
+[June 2016] Highly mathematical...depending who you are that could be a very good or bad thing.
+
+---
+
+[March 2016] The first 5 weeks are incredibly hard. The tests are hard. The homework's hard. The projects aren't too bad. I recommend using Python for most of the projects. And the lectures are pretty bad; use your google-fu.
+
+---
+
+[March 2016] Skip all the lectures and office hours held by the prof. Get all of your lectures from the MIT OCW material. Skim the book, then go to YouTube to fill in the gaps. Don't use Python for the TSP project. If you use the Subtract and Conquer/"Muster" method in place of Iteration for solving recurrences, you won't be marked down on tests.
+
+---
+
+[December 2015] This is a very hard class. The lectures and office hours are bad but worth watching. Read the material. Do the homework. The mid term and final are both hard. Most projects are hard. You will learn a lot but it will be one hell of a ride.

@@ -1,0 +1,101 @@
+How to prepare for 344
+
+Hello, after seeing the thread where most people said 344 was the hardest class in the program I would like some tips on how best to prepare for this class. I will be taking it next semester and would like to get a head start.
+
+I just posted this in another thread, but I’ll also post it here.
+
+Hey I just took 344 this term with no background in C. Literally everything I learned from C was from the modules in the course and then just using google or YouTube videos to supplement whatever I was struggling with. Taking a udemy course or learning from a textbook or whatever to get familiar with C is definitely something I would recommend.
+
+Some general suggestions I have for you and anyone else that may need it:
+
+Try developing your project on something other than Windows, if possible. Any UNIX machine is best. A Mac computer or dual boot Linux or whatever you can do. If none of those are options, just write up your code on your Windows computer and exclusively test on os1. Which brings me to my next point
+
+Get familiar with flip (and more importantly os1) now. Like right now. For 344, everything is graded on os1. So any program testing should also be done on os1. A few times, my program would behave a certain way on my local machine, but would behave very differently on os1. This isn’t always the case, but it can happen. For example, for the 5th assignment this term, my program would always run the test script in full on my local machine. However, it’s behavior was not consistent on os1. Always test and debug based on results from os1
+
+For debugging, I agree, GDB and Valgrind are not super intuitive. Personally, I never used gdb, but I did use Valgrind to check for memory leaks. I would debug using print statements. If there was something wrong with my code, I would just place unique print statements in different parts to try and figure out the problem section (if I couldn’t figure it out myself). Once I was able to narrow it down, I could go over the section and make changes as needed to fix whatever was wrong.
+
+Lastly, start every project as early as possible. They are extremely dense and pack a lot of concepts we learn into one assignment.
+
+I really enjoyed 344. It was definitely challenging and time consuming, but so far it’s one of my favorite classes in the program. I’ve learned a lot, even though some of it may have been on my own.
+
+Anyway, I hope these weren’t things you already knew and they help you a little bit next term. Good luck!
+
+Get familiar with flip (and more importantly os1) now. Like right now. For 344, everything is graded on os1. So any program testing should also be done on os1. A few times, my program would behave a certain way on my local machine, but would behave very differently on os1. This isn’t always the case, but it can happen. For example, for the 5th assignment this term, my program would always run the test script in full on my local machine. However, it’s behavior was not consistent on os1. Always test and debug based on results from os1
+
+I'm curious, what kind of differences came up? How did you fix them?
+
+I've done all my work in this program on my Ubuntu machine and I've never had my code perform differently on flip/os1 than it did locally.
+
+I really enjoyed 344. It was definitely challenging and time consuming, but so far it’s one of my favorite classes in the program. I’ve learned a lot, even though some of it may have been on my own.
+
+Same here. I came into this class not being a huge fan of low-level programming, and now I'm doing OS II as my last elective next quarter!
+
+I was originally developing my programs on Windows, so that may be what the problem was. Once I switched to Mac, things were way more consistent. However, like I said, grading scripts would still run different in my Mac than they would on os1. Not sure why, but it did happen.
+
+And that’s awesome! Hope OS II is just as interesting as OS I. Is it a new class that’s offered for us?
+
+[deleted]
+
+[deleted]
+
+command line, linux basics (cd, ls, mkdir, touch, cat ect.)
+
+data structure ( linked list is used at least 3 of the 6 projects)
+
+basic sorting algorithms ( can you sort from lowest to highest, vise versa)
+
+check out C programming- A modern approach by K.N. King ( others have been recommended, but this was easier to read and more to the point for me. )
+
+When you approach a problem in C, it should be the same approach in Python. Just ask yourself, if this were Python, how would I solve this issue? Fundamentals does not change.
+
+Familiarize yourself with the syntax by starting small
+
+Start projects immediately, because you will have questions and will need to attend office hours. I highly recommend attending them earlier in the week, since TA's and Professors will be swamped the few days leading up to due date.
+
+I sent at least 15-20 hours per week, currently have a 98% and still need to take the open book final.
+
+Good luck!
+
+I'm just wrapping up the class and didn't use linked list for any assignments, but I saw where students were choosing to do so. That is one of the bigger positives of the course - you're allowed to get to the solution however you feel is best.
+
+My biggest recommendation is to read over the assignment BEFORE you go through the lectures. That way, you can be looking for the lecture material that you really need to know for the assignment. Wrapping your head around what you're trying to achieve with the assignments was probably the toughest part of the class for me.
+
+Also, like others have mentioned, start the assignments early and work your way through them slowly, making sure you understand them. This is not a class where you can just brute force your way through assignments with google and not understanding the material.
+
+Best of luck!
+
+I agree one of the best parts of the class was that it was your choice on how to implement the solutions outside of the assignment deliverables.
+
+I also never used linked lists, sorting algorithms, or any other data structures other than simple arrays. I felt like I would’ve spent more time getting all of that set up and working than just looping through arrays.
+
+I agree. I would also recommend to get comfortable with c-strings and string manipulation methods from string.h. They are used in most assignments.
+
+Here’s one pattern I noticed for myself: Literally every assignment, as I was reading the requirements, I was like “that’s it, I’m dropping out. I don’t understand anything, there’s no way I will be able to figure this out”.
+
+That will happen often, but give yourself some time. Once you thoroughly read the requirements, it’s usually not as bad to start on the assignments because most of them offered starter programs or similar programs that you could just adapt to your own requirements
+
+Week 1 there’s a Windows tutorial that links your File Explorer to your files on the school network. I just developed on Atom (IDE) and compiled on Putty. You’ll want to make sure you have your private key set up with Putty.
+
+Other than that, you just have to start early so you have time to ask questions when you inevitably get stuck. The class lists out requirements so specific that nothing is confusing or abstract.
+
+It’s the top 3 most time consuming class but it’s not as mentally tough as Algorithms. It’s a wonderful class
+
+The first couple modules are just brushing up on C. If it’s been a while since 261, that’s where I’d start.
+
+Buy Kernhigan/Ritchie's book on C. It was the single biggest help for me.
+
+[deleted]
+
+I did find the textbook to be helpful as a reference. (The Linux Programming Interface, by Kerrisk). I skimmed "The C Book" and "Modern C" (both optional books) in the weeks leading up to the class, but most of it was way over my head until the course actually started. That's the best advice I can offer...familiarize yourself with C if you can, but don't stress out, the knowledge you need will be taught. I also agree with those who have recommended gaining a basic knowledge of the Linux command line...that will help.
+
+All that said, you really have to work at it. This was the most time-intensive course I've taken so far, definitely averaging over 20 hours per week. If you work methodically and put in the time, you'll do great. I had no experience with C prior to this (or any programming whatsoever a year ago), and I was able to pull off a high A.
+
+Good luck!
+
+Lots of good recommendations about learning C in the other comments. Pre-learning C a bit helps, especially if your only prior experience is Python/JS. But it isn't truly necessary: the first couple of modules and assignments are about learning C, and you will find yourself needing to Google stuff anyway later on. So, while learning C will help, I don't think it's absolutely necessary.
+
+I'd like to emphasize a bit what u/tamhle824 wrote about learning the *nix stuff, and getting comfortable in it. I recommend learning as much about how to navigate within the command line as you can, up to how to write simple bash scripts. (You may want to learn how to read the grading scripts when they're given on a few assignments, but you no longer need to write bash scripts.).
+
+And then I'd recommend finding your comfortable coding location that is as close to being on os1 as possible. I started by coding on my Mac and then testing on os1, but eventually that was more tedious than it was worth, so I switched to coding directly on os1. I personally used vim, but that's something that I rather prefer. If you can't bring yourself to use vim on os1, then I'd put in the time figuring out how to have a ssh connection open on os1 from a preferred editor on your machine. Many people do this with VSCode or VS.
+
+344 is hard, but it's fairly well designed. There were a few small hiccups I found, but the material was relevant and the assignment expectations were pretty clear. (If anything, I think they gave perhaps a few too many hints on a couple of assignments </ducks>.). Frankly, it was the best course I've taken since 162 and 271.

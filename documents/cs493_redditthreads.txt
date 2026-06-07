@@ -1,0 +1,41 @@
+Any new reviews for 493?
+
+There’s only one new reviews on course explorer.
+
+Is this class still requires a lot of writing and documentation? Does it include exams or quizzes?
+
+Is it doable to combine it with Open Source course for someone working full time?
+
+Also, are we forced to use specific language or a specific cloud provider? Do we pick our projects?
+
+Thanks!
+
+Took it this fall
+
+1.) Very little writing and pretty basic documentation that you submit on some projects. NO exams or quizzes; six projects that are spread out over the quarter and have around 2~ weeks to complete
+
+2.) Did this with a fall co-op and I didn’t have much problem with the course. It depends on you on how much work you want to put in for the open source course. I believe there is a form you fill out in the 1st week to list out your language preferences, what type of project you want to do/ work commitment and they’ll try to pair you with teammates based on that. OSU Discord also has some LFG.
+
+3.) python and google cloud for hosting projects. Projects are mainly based on lecture material and there’s adequate tutorial videos that align closely with what you do for the projects. You can also request to have the projects done in a different language or cloud provider ahead of time. Final project is the biggest time sink so it might get hectic for you during the last week to complete final projects for both courses you’re taking.
+
+Hope this helps!
+
+493 projects are solo and I don’t remember about open source group size but I think it was up to 6
+
+The syllabus says 6 assignments only. Did they get rid of the project?
+
+What does the final project look like?
+
+The final project is implementing an API based on its spec. This means not only implementing appropriate data structures and API endpoints, but also handling specific error cases and in specific orders.
+
+Just finished 493. There are 6 assignments and a syllabus quiz. You do not choose your projects, but you can request to use your own language/framework and provider. I used AWS instead of GCP for instance. There is very little writing, but a substantial amount of implementing APIs. You'll also play with storage and database (relational and non). There was also some work with OAuth, although you're really just using it, not fully understanding it.
+
+How is the project though? Time consuming?
+
+The assignments are each unique projects based on a spec they provide, not a quarter long project. 1-3 introduce you to cloud services and some API building. These I would consider moderate assignments. 4 and 5 are really easy and should take little to no time. 6 is the culmination of the knowledge you've gained over the quarter. Of the 6, only the last was truly time-consuming (for me, your results may vary). Given my experience, I was allowed to switch from GCP to AWS and use the tech stack of my choice, but that is done on a prior experience basis and you need approval.
+
+I took it in the Spring and now work as an SDE at a large cloud computing provider. This was hands down one of the most important classes I took and if you're going for an SDE role you should take it. I spend more time working with AWS services than doing actual coding.
+
+edit: I took it with OS, which was challenging but the schedule of assignment due dates made it easy to do Cloud early in the week and OS in the latter half/weekend.
+
+The only thing I have to add to the thorough comment above is that you don’t choose your own project. The assignment instructions provide you everything you need.

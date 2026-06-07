@@ -1,0 +1,713 @@
+[Unknown] Introduction to functional organization and operation of digital computers. Coverage of assembly language; addressing, stacks, argument passing, arithmetic operations, decisions, macros, modularization, linkers and debuggers. "I really enjoyed this class. Its very cool getting to learn about what a CPU is actually "doing" (*spoiler alert* all your code eventually is just moving bits between memory and registers then comparing their values.) I took during the summer so I didn't have to take the mid-term or final - but I could see how those might be pretty brutal if they are proctored. I do think the content is shallow in spots, like this could be part of a Comp Arch 1 + 2 series. Project 5 + 6 each took me about 10-15 hours to complete (I have quite a bit of programming experience so ymmv.) You will lose annoying points based on their arcane style guide, its an easy way for the TAs to pretend they actually graded your code. Call them out on it and get those points back.
+
+---
+
+[August 2025] Be sure to start the projects as soon as you can to give yourself enough time. I took this class during the Summer term and there was no midterm or final exam. Don't be fooled into thinking this class will be a cakewalk from the first projects. This was my only course for the quarter and it was still a struggle. Attend office hours, utilize the Ed discussions and manage your time well. The class is hard, but doable.
+
+---
+
+[August 2025] I found the "assembly" part of the class to be super fun and the "architecture" part to be really dry and horrible - think long readings with quizzes that have questions on things that aren't even in the long readings (although it's open everything - book, notes, Google Search, etc.). Start the projects early - you usually get two weeks for them - and actually learn to use the debugger and you should be fine. One minor annoying point: The projects for a few of the modules were actually assigned the week AFTER you'd do the reading for it - I think so that you could let it soak in - but it often meant that I didn't really understand the readings until after I'd done the project, so in my case, that sort of backfired. But if you're not getting it the first time around, go back after you get more practical experience and see if it makes more sense!
+
+---
+
+[March 2025] Give yourself plenty of time for the last two projects
+
+---
+
+[June 2024] This class is a grind. The only advice is to start the projects early and to go to office hours when you get stuck. Getting an A is doable. I also would not be scared of the midterm and final. Both actually helped my grade
+
+---
+
+[June 2024] Start assignments early and give yourself multiple days.
+
+---
+
+[April 2024] Very good class. It's challenging but in a good way. The first couple weeks are a lot of reading and new info, but after that it's more focused on the coding. Projects 1-5 weren't too hard, but I struggled with Project 6, so like others have said start it ASAP. Overall I feel like a better programmer after taking this class.
+
+---
+
+[March 2024] There is a lot of material to cover in the first 2/3 of the course. Projects 1-5 are pretty simple and I was able to complete them in one sitting. Start project 6 early, it was significantly more challenging than the first 5. You are able to use the penjee calculator for binary <--> hex <--> decimal conversions on the tests, so get comfortable with it early and it will make your life easier.
+
+---
+
+[March 2024] This class is difficult, but manageable. It contains a lot of information, most of which will eventually need to be committed to memory. Create flash cards and start memorizing concepts from the check your knowledge sections, module summary exercises, and quizzes to prepare for the midterm and final. Watch all the videos, and review any worksheets/files you're given. Start the projects early and do the extra credit. Project 5 is significantly more difficult than 1-4, and Project 6 is exponentially more difficult than the rest. Give yourself at least a week to complete Project 6.
+
+---
+
+[December 2023] Everyone says it, but the last two projects do ramp up quite a bit in difficulty. Also, do the extra credit!
+
+---
+
+[October 2023] The course starts deceptively easy but gets more challenging as weeks progress. You start off with training wells and take them off by project 6. Project 1-5 are manageable in 1-2 sittings, but project 6 I would set aside more time about 3-4 days.
+
+---
+
+[August 2023] It really is all about the last two projects. DEFINITELY take this course over summer. There's no midterm/final, and it completely changes the level of chill in the class. You still got to get through those two projects, but you're not facing a final after that. Go to office hours, plan ahead, and prepare to hack away the last couple of weeks of the quarter.
+
+---
+
+[August 2023] So far the only course where I've actually learned something in this program. Useless for webdev but eye-opening for anyone with C/C++ experience to finally straighten out how everything really works under the hood. Course structure is ok, can't jump-start on future lessons/projects which can be annoying but otherwise the pacing is fine. First week is an info dump but it gets better afterwards. VERY important to not skip any topics since the material is cumulative and later concepts require a bulletproof understanding of the basics.
+
+---
+
+[June 2023] For me, the most difficult part of this class was the lack of exposure to actual code for the first 2 weeks or so. The first module goes over the fundamentals of assembly (i.e. hex, binary, what's a register, the structure of a computer, etc) and it's incredibly easy to get lost in these abstract concepts. Writing, running, and debugging code was what finally made it all click for me. After I had exposure to some code, I finally started to understand all the fundamentals. The last two assignments are HARD - start as early as you can. Also, I personally do not recommend attempted the extra credit. I made one attempt on the 1st homework assignment and could not figure it out (spent like 3 hours before giving up). By week 10, I realized that the extra credit I had attempted required knowledge from week 8... Personally, I don't think the extra 2 to 3 points are worth the added effort but to each their own.
+
+---
+
+[April 2023] Most of the class was fine but the last 2 projects are significantly more challenging than other projects.
+
+---
+
+[March 2023] Take it by itself if you can! It's a helpful class for learning basics about debugging and critical thinking in programming. The last few projects are difficult. Starting early makes them manageable.
+
+---
+
+[March 2023] If you start the projects early and give yourself ample time to absorb the content, the class is relatively straightforward. I went into the final with a 102% in the class because of the extra credit on projects 1-4. The final had an average score of 61%, but I was able to get a 99% with not much studying. I was able to score highly due to taking my time on the projects and really learning the material by doing. Also, the quizzes are taken right from the module summary questions and can be easy 100s if you study through them ahead of time.
+
+---
+
+[March 2023] Honestly this class was not as bad as I thought it would be. If you have experience with lower level languages and a lot of experience debugging it isn't THAT bad. This was probably on par with 225 difficulty (I don't like math). Make sure that you read the rubric and comment everything. If you think you have commented enough double the comments. I will end with a B in this class and if I commented better it would be an A (the professor thinks we live in a fantasy land where we comment every line and block in the real world). Like others said projects 1-4 are easy and if you have time do the extra credit. Projects 5 and 6 were the hardest of any class so far in the program (161,162,225) but not awful.
+
+---
+
+[March 2023] I was little nervous to take this class because of some reviews but it wasn't that bad. I think it was similar to 261 in difficulty and time. The way I studied for this class was to first read modules, watch lecture videos, solve all practice problems in module & exercises and then start working on projects. Project 1-4 are pretty easy. Project 5,6 requires more time to complete but it's not that hard once you have good understanding the concepts in module 7&8 (There are some helpful example .asm program files to understand this concepts). exam and quiz are similar to exercises but just slightly more difficult
+
+---
+
+[March 2023] Get comfortable with the penjee calculator. You can complete 85% of the midterm in 30 mins with this alone. Focus on the stack for the rest of the midterm. Write your notesheet as you go through the modules. Rack up your points early with the extra credits to give a nice buffer for project 6 and the final exam.
+
+---
+
+[March 2023] Class starts easy enough but then it really accelerates by around week 5
+
+---
+
+[March 2023] This is an Assembly class more than an architecture class. You will tediously code, but it is very well-structured and clearly well-refined by the professor who is also very communicative. It's time-consuming, and each week will ramp up in how much time you'll spend debugging... it's not necessarily complex, there are just so many requirements to make sure you get full points. You can head into the final with over 100% grade. The midterm and final are the hardest things in the course by a mile. And the final is more difficult than the midterm would have you believe. By the time you get to the final, your grade likely can only go down based on how the grades work... so make sure you are heading into it with plenty of flexibility to score worse than you would expect.
+
+---
+
+[January 2023] I loved this course. It's all logical, but it can be tricky to keep track of all of the registers/stack memory you are using. When in doubt, write things down on a sheet of paper! That always did the trick for me.
+
+---
+
+[January 2023] the first few assignments are easy but don't let yourself get lulled into a false sense of security because the last two are a Lot. make sure to do all the extra credits in the beginning and start on the last two hws asap
+
+---
+
+[December 2022] Start projects 5 and especially 6 early, those are the two most people start running into serious trouble
+
+---
+
+[December 2022] Don't be afraid of this class. It's not a walk in the park, but it's also not rocket science. Many have mentioned that there's a big info-dump at the beginning, and they're right that you shouldn't be intimidated by that. It is reinforced by the later content, and it's actually a good idea to go back and re-read those modules periodically through the course to clarify things. In this class, you're writing very basic programs, you just have less help from your programming language. You'll be moving bytes data around between the computer's memory and the processor's local memory, then doing very basic things like adding/subtracting/multiplying/dividing, converting things between binary/hex/text, sorting numbers and averaging them, and printing text on a screen. Nothing too mind-bending to understand if you give yourself time to learn. That said, you really do need time. It can take a long time to figure out how to do things with such primitive operations, it may take a little while for certain concepts to fully click, and it is very easy to lose track of the bytes you're moving around and end up wasting time (hours) debugging. Most of the projects can easily take over 10 hours to work on, and you also need time to do open-everything module exercises, two open-notes, open-internet quizzes, and two proctored exams where you only have access to a note-sheet and a binary/hex calculator. The exams are the most treacherous part because your time is tight and you can't rely on a debugger to make sure you aren't making little errors that add up over time. The exams are much more about running through simple programs on paper and reporting what things evaluate to at certain points in execution, but there are some conceptual questions and you should have a pretty good understanding of that content as well to get an A. YOU CAN GET AN A IN THIS CLASS - start early so you can do the extra credit and get help when you need it. You can fail both the midterm and final and still pass this class. All in all - a bit of a challenge and pretty demanding of your time, but I think it was a great learning experience and really gave me a peak behind the curtain of what higher level programming languages and the computer itself are actually doing when I write programs in a highly expressive language like Python.
+
+---
+
+[December 2022] There's enough grade padding from the weekly exercises, the two quizzes, and projects 1-5 to cushion you if you drop the ball on project 6 and the final exam. The course is designed for students to pass but definitely distributes grades between A/B/C depending on how motivated you are.
+
+---
+
+[December 2022] Start early, make sure you understand concepts from the beginning.
+
+---
+
+[December 2022] 271 is a very challenging course. I had to take it twice. First time around, I understood basically nothing. Second time was way easier. Give yourself plenty of time to let the information sink in! The explorations can be lengthy, especially if you're taking notes by hand. I found it difficult to translate the information from the explorations into the projects. Office hours are pretty good and professor Redfield was super active on Ed Discussion. This is more of an assembly language class than a computer architecture class. Good luck!
+
+---
+
+[December 2022] Start as early as possible on the assignments and do all of the extra credit for the first few. The material is well organized and the modules are well written, but this is a VERY challenging class. Go over the rubric thoroughly for each assignment and make sure you understand the requirements. Projects 5 and 6 are time consuming and much higher in difficulty than projects 1-4. I spent more than 30 hours working on project 6. It is possible to get an A in this class but you can’t procrastinate on the assignments if you want to do well.
+
+---
+
+[September 2022] This course gives you a very good understanding of how pointers work for programming languages like C and C++. If you can try and take these before you study either of those two languages since it gives you a good visualization of how pointers and stack operations work. Make sure to spread out your workload for the final project, and pay attention to what are the requirements for each assignment, since you can get points deducted due to how you commented on your assignment, and a lot of points removed if you miss one key feature for how your program is supposed to work.
+
+---
+
+[August 2022] Use all of your resources. Do all of the extra credit for the first few projects. The final few weeks of this class are ridiculously hard. Projects 5 and 6 have a ridiculously high difficulty step compared to prior projects. Absolutely do not recommend taking this course in the summer unless it’s your only course. Otherwise, take this course during fall, winter, or spring, along with an easy light class. This class was very difficult and I am glad to be done with programming in low level assembly language. Do note, the first two weeks of this class is a serious information dump (which you truly do not need to fully know).
+
+---
+
+[August 2022] Understand and use the debugger to the best of your extent. Start assignments early. Memorize conversions from binary to hex, understand little endian and RPN. Do all extra-credits, it will make you learn and solidify concepts, and will give you useful points at the end. If taking it over the summer, take it alone. If taking it in another term, paired with a light course.
+
+---
+
+[August 2022] If you can, transfer this course in. This is NOT a great course if you can not attend office hours due to work schedules. The material is very very dry. People talk about how great this class is, I think the professor is amazing (as he is passionate about the subject), otherwise probably the worst course I have taken at a college level with the lack of interaction and lectures for each module. I would not recommend taking this course at OSU if you can avoid it. I found difficulty to be 2X that of 225
+
+---
+
+[August 2022] I thought the module explorations did a good job explaining the concepts. The hard part is putting everything into practice. Good luck.
+
+---
+
+[August 2022] This class is one of the hardest you'll take in the entire program but it is one of the absolute best written. The modules and video lectures are all you need and are very well done. Prof Redfield and Prof Gambord are truly the best. They want to help everyone be successful. Go to office hours, post on Ed, do whatever you have to if you want to get an A. You'll love or hate this class by the end of it. Start modules and projects EARLY, like the day they come out. Projects 5 & 6 can be 20-40+ hours because there are so many moving parts. I took this class after 261, and I think that made this class easier for me since 261 gets you thinking more that a computer scientist. If you have the option, I suggest this path.
+
+---
+
+[August 2022] Do extra credits for projects 1-4. Attempt extra credit for project 5 if you aren't swamped with other stuff. Extra credits are a good buffer for the midterm and final (especially the final, which imo, was much more difficult than the midterm). The modules were very, very well done, so I didn't reference any outside resources during the course. To study for the midterm and final I reviewed the modules and redid the module summary exercises and quizzes. The material is esoteric, but the professor is very helpful and the course is taught well, so getting an A is an attainable goal
+
+---
+
+[June 2022] The first week's module will give you an absolute scare & a half. Please, trust me when I say that you're not meant to understand 90% of that first module that gives a high-level overview of computer architecture. Stick with the course until you get into the actual business of writing programs (Week 2-ish) & little by little, that first module will make more sense. I promise.
+
+---
+
+[May 2022] Start all projects early as possible. This class is a significant challenge with tons of traps to lose points quickly.
+
+---
+
+[May 2022] Be active in edstem, go to office hours EARLY. Don't wait on the projects because the difficulty ramps up sneakily and next thing you know it's the final, you have no idea what's happening, and the TAs are already flooded with other students so they don't have time to get to you. I enjoyed this course, but it was a challenge and took the majority of my time to complete. The professor is very accommodating, the TAs try to help their best. This course is a good ramp in difficultly compared to 161/162. Start early and ask questions for the projects. The exams are very hard, make time to study, then study more. Do the extra credit options to pad your exam scores.
+
+---
+
+[March 2022] Do the early extra credit on the first few assignments (extra credit on assignment 5 and 6 is likely not worth your time, though). Collaborate on the weekly summary exercises (you’re encouraged to do it, and it helps immensely with understanding the concepts). Start your assignments early (within a couple days of being released) so you have plenty of time to figure out how to do them. Read all the Ed discussion posts; it’s likely people are asking questions about things you haven’t even considered.
+
+---
+
+[March 2022] Try to get 100s on projects. Extra credits on early projects are easier to implement.
+
+---
+
+[March 2022] The course ramps up in difficulty at the end of the term, particularly for the final project, so just be sure to give yourself plenty of time to work through it.
+
+---
+
+[March 2022] This class was difficult but fair. It will seem like a lot to learn at first, but keep plugging away -- almost every concept is successively built on in the projects, so once you learn them, you will get plenty of chances to practice and keep them fresh in your mind. Start projects early. Some of them are slightly more difficult than they seem at first. Personally, project 5 took me the most time to complete, and the portfolio project seemed a bit easier. The mid-term and final are a bit harder than the module summary exercises. They contain some questions that you won't see on the summary exercises (especially the final), but as long as you learn the underlying concepts, you should be fine. The quizzes will give you a better metric of how difficult the tests are. I was nervous about the difficulty of this class at first, but ended up really enjoying it. Good luck!
+
+---
+
+[March 2022] Read (part of) Kip Irvine before the quarter starts, start all projects early, do all extra credits, do every Module Summary Exercise twice, study for the tests.
+
+---
+
+[March 2022] Projects 4-6 will most likely take longer than you expect. Debugging them may take an additional day or two, so try and get the project mostly functional several days before the due date so you can have 2+ days of debugging and attempting the extra credit (ideally 3-4 depending on how comfortable you are with material). Extra credit on these specific projects could take up to an additional 4+ hours of work.
+
+---
+
+[March 2022] The first weeks explorations will be important throughout the whole course, become familiar with binary and hexidecimal notation. Memory addresses and different groupings of bits. Into bytes, words, swords
+
+---
+
+[March 2022] Start everything as soon as the module comes out. Do not wait to start assignments. Always attempt the extra credit. The midterm was difficult, the final was brutal, but you can recover from subpar midterm/final grades with excellent module summary, quiz, and assignment grades. Having knowledge of a language such as C and understanding pointers and memory allocation will make Assembly much easier for you.
+
+---
+
+[March 2022] Start early and ask lots of questions. Don’t forget to do your own research outside of class materials. Also, it helps to look ahead.
+
+---
+
+[March 2022] The first few weeks will be brain dump of terminology and theory, create flash cards with anki or some other application. Take the weekly module summaries twice, even if you get a 100% on the first module summary attempt. This allows you to see additional questions that could potentially show up on quizzes/midterm exams. Know how to use your calculator for binary, hexadecimal conversions. Otherwise get familiar with the penjee calculator. Do the extra credit for the earlier homework assignments. I had a 98% in the class up until the Final (which was brutal). I bought the text book "Assembly Language for x86" (Kip Irvine's) but didn't really use it. May be able to find it online if you need to reference it for anything. Start your Midterm cheat sheet early and update it weekly (allowed 2 sided 8.5 x 11" piece of paper).
+
+---
+
+[March 2022] Project 5 and 6 are tough!! Ask for help and start asap on Project 6!!
+
+---
+
+[March 2022] This course provides you with everything you need to be successful. The explorations are thorough and helpful, just be sure to work through them and actually take notes. The videos he provides will walk you through most of the complex programming things. Be sure to stay ahead in this course. If you wait until the weekend Projects are due, you are screwed. Finally, do ALL the extra credit but Project 6. Doing the EC helped me to learn and understand the material far better than doing the bare minimum project. You will be glad you did come the mid-term and final.
+
+---
+
+[March 2022] Spend a lot of time understanding the stack and how to calculate base offset addresses.
+
+---
+
+[March 2022] Start the final project early. I had an A in this course until that project. The final was harder than I anticipated. Make sure to study even though you’re brain dead after the final project. The course was organized, but the work load and difficulty was unreasonably tilted toward the end of the class.
+
+---
+
+[March 2022] Get a head start the first two weeks. There aren't assignments, but there is a firehose of knowledge that is required to complete subsequent assignments.
+
+---
+
+[March 2022] The class has everything you need to succeed. The learning materials are designed incredibly well. That said, for the assignments and the exams: study memory tracing. I think, to make up for a deficiency in understanding of how memory works, this class places great emphasis on your ability to follow the movements of the memory pointers. These include the stack pointer, the source and destination pointers, and memory allocators. By the time you reach the midterm, and most certainly by the time you reach the final, you should ensure you are comfortable with where any given piece of data will be placed in memory. You are given plenty of time to gain this understanding, but make sure you actually learn it.
+
+---
+
+[March 2022] Start on the coding assignments EARLY! I would spend the first couple of days outlining and getting a rough idea of each assignment down and then spend the rest of the time tweaking and making sure that all of the rubric requirements were met. A lot of the instructions for the assignments seem contradictory and confusing at first.
+
+---
+
+[March 2022] Really really read the explorations AND the entire assignment description before you start. It is really hard to make adjustments to your code if you realize later that you did not follow the specs. The class is great and everything you'll need to know is in the explorations. A common mistake is to skim the explorations and/or the assignment specs. This leads to all sorts of problems, and takes way more time than deliberately reading and understanding everything before you start. Lastly, do the extra credit on projects 0-4, but skip it on 5 & 6 because it's not worth it.
+
+---
+
+[March 2022] This class was hard, but rewarding! I learned a lot, and I felt like the course was well-designed. The material itself is very interesting. I spent many FULL weekends in front of the computer doing the assignments. If you don't want to do that, get started as early as possible. (In my case, taking 2 other classes, that was what was 'early as possible' for me sometimes.) If I could go back in time, I would have only taken one other class with this one. My final grade here was the lowest of the 3 classes I took, but it was still an A. The 2 exams are remotely proctored. It felt like I would have done better if I weren't anxious about being watched. I also would have done better if I hadn't developed an over-reliance on calculators over the years, which had me constantly second-guessing my mental math. Definitely practice tracing the execution of code on paper, it comes up a lot.
+
+---
+
+[February 2022] Start early and stay in the debugger until it works.
+
+---
+
+[December 2021] Do as much of the extra credit as you can, especially on the first 3 or so assignments. It will save your grade. While this class can be a little time consuming, I do feel like I learned a lot and it's relatively well put together. I probably spent on average 15-20hours/week on this class, with maybe 25 hours on the last project. The midterm was hard and the final was even harder than the midterm, so study up. You should get an A or A- with moderate effort.
+
+---
+
+[December 2021] Professor Redfield is a real nice guy and very helpful. The explorations are pretty poor. Reading about MASM before having any real practice with it, or a demo, or really anything , never helped me that much. Even when I got to the point where I felt comfortable passing parameters to the stack and writing recursive procedures, I was still missing questions on the weekly quizzes and the tests. The course seems unnecessarily nit-picky. That said, I really enjoyed assembly language!
+
+---
+
+[November 2021] Work ahead and do all of the extra credit. It'll save you down the road.
+
+---
+
+[June 2021] This class is great, I love the structure of the class, and it is very well taught. From my experience, the ULAs are very helpful as well. If you enjoy self studying the material, this class will be great for you, and aside from some videos from Redfield, the course is very hands off. I feel like I learned a great deal from this class
+
+---
+
+[May 2021] Take really good notes and plan out the projects before starting to code them.
+
+---
+
+[March 2021] It's only difficult because assembly instructions are so bare-bones. For that reason, it takes awhile to program some of the assignments. Just stay ahead during the quarter so that you have extra time for the assignments that are more difficult (I say difficult but it's just because assembly is relatively cumbersome). The midterm and final felt less demanding than I was expecting. Also since you can use typed notes on the exams, just stuff a lot of info on them and you should be well set.
+
+---
+
+[March 2021] This was the 2nd term of Redfield's overhaul of the course. It is extremely well put together and everything you need to succeed is in the modules (no textbook or outside sources necessary), which is good because there is a MASM void on the internet. The only downfall of the course is the reliance on text, which could be a struggle for people who prefer video (Redfield does scatter videos throughout, but it is 90%+ text). The projects, especially 5 and 6, are challenging but doable. I suggest completing all EC on projects 1-4 to build a buffer, then completing 5 and 6 to requirements. As a pointer, READ THE REQUIREMENTS OF THE PROJECTS THOROUGHLY BEFORE STARTING. You may build a functioning program but miss the requirements and be surprised by a bad grade. It is very possible to head in to the midterm with 102% in the course, and the final at 101%. Overall, this course was fantastic. Redfield, Vogel, and the ULA's are excellent.
+
+---
+
+[March 2021] Focus on projects worth about 40% of your grade, exams are only 28%. Quizzes and reviews are open note, they take up the other 30%
+
+---
+
+[March 2021] Get the EC early on. The last two projects really make you work.
+
+---
+
+[February 2021] I took the revamped version of this class.. Redfield redid everything, lectures, weekly summary quizzes etc. Way better to understand. Start projects early, especially Project 6 (final project).. Also make use of your note sheet as a way of reviewing.
+
+---
+
+[December 2020] I took the first iteration of the revamped CS 271 with Professor Redfield. It did have some typos and bugs but overall it was a well structured and well paced class. This is a class that starts off relatively slowly but ramps up around project 4 (midway). Nothing in this course is a curveball - from midterms to finals to the projects, everything is doable and fair in my opinion. That being said, you probably will need to put time and effort into learning the material and completing your projects. The extra credit on the projects is a good way to not only pad your grade a little in case you don't do well on the midterm/final/quizzes but also to solidify your understanding/coding in MASM skills. I attempted every single extra credit and while that probably doubled the amount of time I spent on some of the later projects, it felt tremendously satisfying afterwards and also made me confident that I wouldn't have to worry about the final. This class definitely exceeded my expectations for an online class and the TAs and instructor were very responsive/helpful.
+
+---
+
+[December 2020] There's a large volume of info to cover in the course (especially at the start), but it starts to make more sense over time as you learn how to program in MASM. Stephen Redfield is a very responsive and nice instructor. Use the debugger and learn to understand the instruction set references - I regret not taking the time to understand those earlier on for my programming assignments. Start every programming assignment as soon as you can, so you have enough time to debug and get outside help (Piazza/Slack/Stack Overflow/the TAs) when you inevitably get stuck on the later assignments (esp. #5 and #6). Don't be a perfectionist with program 6, or you won't have enough time to study for the final.
+
+---
+
+[December 2020] This was one of my favorite courses in the program thus far. The information is not difficult per se, there's just a lot to learn. It's particularly challenging to take during the summer due to the shortened term. I read the first 3 chapters of the book prior to the start of the quarter and it helped immensely. I also prepped my mac by installing VMware and Windows 10. As you go through each week's reading, lectures, and summary exercises, add the important information to your cheat sheet. This will save you time for prepping for the midterm and final. I think the midterm and final averages were around 73% but almost all of the questions were very similar to the weekly summaries. The first three programming assignments are really easy so I suggest doing the easiest extra credit options. Programs 4 and 5 surprised me, I thought I aced them but I misread important details on the rubric. Learn to use a windows or mac calculator for binary/hex/int conversions, there are YouTube videos to help. Not a lot of surprises in this course, just put in the work and you'll get an A.
+
+---
+
+[August 2020] All the content you need to do the assignments and exams are in the slides and books. For the programs, you can mainly use the slides to get your answers, but will most likely need to supplement it heavily with the book. Learn to debug and become very familiar with it. I used it religiously for each program after learning how to. For exams, I studied mainly the slides, self-check exercises, and the weekly summary exercises/quizzes. The book sections would cover excess material that may not appear on the exam so I did not study the book much for exams.
+
+---
+
+[August 2020] Everything you need to do well in this class is given to you, which I greatly appreciated. I was apprehensive learning about hardware, assembly, registers, the nitty-gritty of a computer, but this class wasn't actually that bad. It's time intensive in the first half of the class with all of the readings and lectures, but definitely stay on top of those. Start the assignments as early as you can. Ideally you can finish those up in a day or two, but if you run into trouble you'll want the extra time to figure it out. Some say to know the debugger inside and out, but I personally hardly used it and was still able to figure out where my errors were quickly. Follow the advice for studying (look at quizzes/weekly exercises). Once the midterm is over, the weekly readings aren't as necessary- I relied only on the lectures from then on and it went totally okay. Lastly, always try to get as many rubric points as you can for the assignments. The last assignment I purposefully "punted" on because I was busy with other things, and I still ended up with a 35/50 on it somehow. Just do your best to stay on top of the class and have a high grade going into the last assignment and final and you'll be okay.
+
+---
+
+[August 2020] Read the book. It's dense compared to the lectures and assignments, but it helps build your understanding.
+
+---
+
+[August 2020] Read the book and start assignments early. The class is wonderfully put together and everything you need to succeed is given to you. It’s just.. a lot. The first few weeks are super heavy on content and the last few weeks are super heavy on programming. Take every opportunity to go above and beyond with extra credit. Make a solid cheat sheet for the midterm and final. It’s not as scary as it’s made out to be and is possible to do (very) well in this course if you put in the time. I was able to finish with a final grade of 99.96%
+
+---
+
+[August 2020] The first several weeks of this class were not too difficult. The first 4 programs are not very complicated, and the midterm was fine. I just re-did the weekly summary questions and quizzes over and over, and put example problems on my "cheat sheet." BUT...after the midterm is when I found the class to take a turn in the level of difficulty. Programs 5 and 6 were very time-consuming, as you now have to work with the stack and pointers. Start as early as possible on these. Also, I found the final to be much more difficult than the midterm. Make sure you know about memory addresses, the different addressing modes, and how they change after different parts of a program are executed.
+
+---
+
+[June 2020] It is useful to put some time investment early in the class as there are many concepts to absorb initially. The exams pull from weekly summaries and lecture exercises so there is nothing strange. The assignments are easy but debugging in the later assignments can be time consuming. While the content was interesting the lesson material was a bit boring. I am sure I will not do hexadecimal conversions regularly in the future. Pay attention to signed/unsigned.
+
+---
+
+[June 2020] I agree with the other reviews but wanted to add one piece of advice: Get a calculator that can add hexadecimal numbers and convert between hex/binary/decimal (the standard calculator app on Windows has a mode called "programmer" that has these features). Then, ask the instructor if you can use that calculator for the midterm/final. A ton of the questions on the midterm and final really come down to being able to convert between number systems and add hex numbers. I'm not 100% sure they'll let you use it, but I think there is a good chance and it is definitely worth asking. You still need to know the material to do well on the exams but the calculator will be invaluable for quickly getting through the questions... adding hex numbers by hand is time-consuming and a pain in the you know what.
+
+---
+
+[June 2020] This is a challenging course. The beginning is filled with lots of reading, although the beginning projects are easy, learning such a low level language do make them rather difficult to get a hang of. Once your figure things out though, it does get easier. My advice would be to make sure you understand the beginning material and exactly what’s happening cause exam questions can be tricky and require you to know a lot for just a multiple choice question.
+
+---
+
+[June 2020] Start early on the Programs! Some of these can get tricky, and there's not really any shortcuts. For the midterm and final, studying past quizzes/homework should suffice. This class, and program 6 in particular, was very difficult, but very rewarding!
+
+---
+
+[June 2020] All in all, I think this was an excellent course. The material was really complex for me, having only 161/2 under my belt, but it's really beneficial as you're learning how and why things work the way they do in the background of high-level languages. The programming assignments are easy at first and get progressively difficult, especially once you're required to use the system stack for procedures. But once you learn how / why this is done, it brings your understanding to a higher level. I would recommend doing as many of the extra credit points as possible, especially on the early, simpler programs. I loved the programming aspect of the class but really disliked the quizzes and exams. I found them to be largely just ...tricky. Compared with 162, the portfolio project was more doable. Difficult, but doable. Start as early as possible on programming assignments, get help when needed, and they'll boost your grade--you'll need those points going into the exams. The workload was disproportionally high compared to 261, leading to my sometimes having to neglect that class to do well in 271.
+
+---
+
+[June 2020] This course covers two general things: CISC (intel-style) computer chip hardware and MASM assembly language programming. The instructor is engaged and is generally helpful. The course materials are quite old, but they were clearly made and revised by masters. This is the best organized course I have taken in a very very long time. Each week/module consists of a textbook reading and lecture videos to watch. To help ensure understanding, each module comes with a Weekly Summary, which is a 6-hour Canvas quiz that we were allowed to take twice (keeping the highest score). Don't let that 6-hour time scare you: the instructor says the time limit is designed for any necessary napping and dog walking during the quiz. Each Weekly Summary attempt took me about 1-1.5 hours of active participation. The Weekly Summaries are open book, open video, open internet and open Slack/Piazza discussion. They're also only worth 1% of your grade each, so the intent is truly to help encourage you to work through the finer details. The grade issue is secondary. There are also 5 quizzes during the term. These quizzes were 1 hour each, and they were similar in questioning to the Weekly Summaries. The quizzes were open book only (no internet, no friends or Slack), and they counted for more of the grade. The quizzes were quite fair overall, and I have never squealed for joy upon getting 7/7 like I did on that first quiz in 271. There are generally a midterm and final exam. Our quarter, the final exam became optional. I actually would have enjoyed taking the final exam, but getting my money back from ProctorU instead was a bigger draw. :) The midterm was generally fair, but there were a few questions that made me scratch my head as unfamiliar. It was a bit disappointing to not receive details back on which questions were correct or incorrect on the midterm, but such is life I suppose. There is one page of notes allowed on the midterm and final exam -- part of the fun of being in this class is noticing exactly how much one can fit on a page of notes when one is really, really trying. :) The class also has 5 or 6 programs to do. These can be deceiving. Start them as early as possible, especially the last half of the quarter. Programming in MASM is a strange existence where one is moving fluidly and typing furiously while actually accomplishing very little. You will perhaps scoff at the program specs when you first read the assignments. You will regret any such scoffing. You will definitely leave the course impressed that anyone ever got a computer to accomplish anything useful. The textbook is absolutely essential, and an electronic copy is very useful. Find a PDF or hold your nose and rent an ebook. It's worth it, and that cost is nothing compared to the course cost. Finally, you will have to program in Windows, using Visual Studio. You can do this via emulation, so you won't have to give up your precious pretty Mac or your bearded Linux box.
+
+---
+
+[May 2020] This course covers two general things: CISC (intel-style) computer chip hardware and MASM assembly language programming. The instructor is engaged and is generally helpful. The course materials are quite old, but they were clearly made and revised by masters. This is the best organized course I have taken in a very very long time. Each week/module consists of a textbook reading and lecture videos to watch. To help ensure understanding, each module comes with a Weekly Summary, which is a 6-hour Canvas quiz that we were allowed to take twice (keeping the highest score). Don't let that 6-hour time scare you: the instructor says the time limit is designed for any necessary napping and dog walking during the quiz. Each Weekly Summary attempt took me about 1-1.5 hours of active participation. The Weekly Summaries are open book, open video, open internet and open Slack/Piazza discussion. They're also only worth 1% of your grade each, so the intent is truly to help encourage you to work through the finer details. The grade issue is secondary. There are also 5 quizzes during the term. These quizzes were 1 hour each, and they were similar in questioning to the Weekly Summaries. The quizzes were open book only (no internet, no friends or Slack), and they counted for more of the grade. The quizzes were quite fair overall, and I have never squealed for joy upon getting 7/7 like I did on that first quiz in 271. There are generally a midterm and final exam. Our quarter, the final exam became optional. I actually would have enjoyed taking the final exam, but getting my money back from ProctorU instead was a bigger draw. :) The midterm was generally fair, but there were a few questions that made me scratch my head as unfamiliar. It was a bit disappointing to not receive details back on which questions were correct or incorrect on the midterm, but such is life I suppose. There is one page of notes allowed on the midterm and final exam -- part of the fun of being in this class is noticing exactly how much one can fit on a page of notes when one is really, really trying. :) The class also has 5 or 6 programs to do. These can be deceiving. Start them as early as possible, especially the last half of the quarter. Programming in MASM is a strange existence where one is moving fluidly and typing furiously while actually accomplishing very little. You will perhaps scoff at the program specs when you first read the assignments. You will regret any such scoffing. You will definitely leave the course impressed that anyone ever got a computer to accomplish anything useful. The textbook is absolutely essential, and an electronic copy is very useful. Find a PDF or hold your nose and rent an ebook. It's worth it, and that cost is nothing compared to the course cost. Finally, you will have to program in Windows, using Visual Studio. You can do this via emulation, so you won't have to give up your precious pretty Mac or your bearded Linux box.
+
+---
+
+[May 2020] This class will come as a surprise if you're used to just driving in and getting all the code done. This class actually makes you study. Read the textbook, or at the very least, watch the lectures. Taking the time to learn all the conversions and definitions taught in the first couple weeks will make the rest of the class a breeze.
+
+---
+
+[May 2020] Best structured class in the program by far. The book is super dense but is well worth the read. To do well you really need to read the book well. Assembly was a bit like learning how to program all over again for me. It takes practice so you can't mail in the programming assignments. The last 2 programs took forever so start early no joke. There was an announcement which stated severe consequences for students caught plagiarising and there were several cases found that term. Exams were challenging but doable. DO ALL the Summary Exercises & Quizzes & Practice Problems and you'll be good for the midterm/final. Thanks COVID for bailing me out of that final lol.
+
+---
+
+[March 2020] The book is actually pretty helpful to be honest. This class just scratches the surface of x86 assembly. Before starting, Learn how to debug in VS and get acquainted with the MASM compiler that is used to compile x86 assembly into executables. This class will make you bang your head against the wall toward the end as the projects grow in size. The best advice I can give for that is start every project early and ALWAYS attempt the extra credit when it is given. Resources online for x86 are definitely lacking so prepare yourself to do a lot of guessing/checking when it comes to writing programs. Redfield was a pretty good professor and was very active on Slack with the students.
+
+---
+
+[March 2020] This course is quite challenging, but I did think that it was very well made. The assignments can be difficult and it's important that you look to the example programs and lectures before tackling them. The lectures are useful, the book is helpful, I only wish that I spent more time actually understanding how everything we learned fits into what we do in other classes as a whole. Try to soak up as much info as you can, because everyone says this is a foundational class for many others in the program.
+
+---
+
+[March 2020] The class starts out pretty east and ramps up in the second half, so be ready for it. Start reading and assignments early. This course is very well laid out, the textbook and lectures have all the information you need to succeed. There is plenty of information available online too, but if you do all the reading, lectures, and practice questions you will probably do a minimal amount of web supplementing for this course.
+
+---
+
+[March 2020] I found the subject matter almost unbearably tedious, but that was through no fault of the course: the quality is high. The lectures are good, the frequent summary exercises are actually really helpful, the expectations and requirements are crystal clear, the tests are fair and the grading is fair. The instructors and TAs were very, very helpful on the forum and Slack. If every course in the program met this same standard of quality, it'd be spectacular. Word of warning: while most of the programs are pretty straight-forward, the sixth program is a huge step up in difficulty from everything before it, so start it early.
+
+---
+
+[March 2020] Understand how the conversions work early on (hex,binary,decimal, twos complement). Start early on understanding parity bits, and hamming code error detection/correction, because they're key concepts. Understand register memory operations, such as how the registers change for each instruction, how the stack works and FPU, which are also key concepts in the coding portion of the class. Rest of the topics in the class were easier to understand, but if you can understand these key topics, you should be able to easily obtain an A in this class.
+
+---
+
+[March 2020] Pretty difficult class if you are early on in the program, but may be easier/take less time if you take it later on. Subject material can be tough to wrap your head around and the coding assignments may feel a bit tedious. Take time to watch lectures and try to keep up with the reading. Practice problems, quizzes, and summary exercises are very helpful for preparing for the midterm and final. Conceptual and term/definition type of questions were more difficult on exams than the coding portions. Do EC on assignments if you have the time to, but it is generally not worth stressing over unless you really need the points because you only get 1 point per EC (about 2-3 points available per homework) and they tend to be more difficult or time-consuming.
+
+---
+
+[January 2020] Do solid work on the programming and quizzes where your effort will pay off because the exams are difficult to score well on. You can follow the grading rubric for the programs and do the assigned exercises to prepare for quizzes to get near perfect scores.
+
+---
+
+[December 2019] This is one of the most well-organized and clearly laid out courses in the program. Watch the lectures, do the reading and the provided exercises each week and you'll be in good shape for the many open-book quizzes. The midterm and final are pretty rigorous & detail oriented, but again if you go over the provided materials you will be set. The extra credit on the homework is usually not worth it unless you really want the extra practice - they'll have you do hours of work for an extra point or two. Your time is better spent just making sure you get all the points on the main assignments/hw/quizzes IMO.
+
+---
+
+[December 2019] This has been one of my very favorite classes in the program so far. The first 2 weeks have very long readings and lectures. Don't worry, it eases up. Programs 1-4 are quick and easy. Program 5 is a step up in difficulty. Program 6 is the most challenging, so start early on this one. One of the most organized and well though-out courses in the program. It is optimally designed for you to learn. The weekly summaries are open book, and you can take them twice. This is a great way to learn! You take it the first time and really find out what you don't know, then you review those concepts more for the 2nd attempt, resulting in real progress. Quizzes are also open book, but you only get one chance. 2 exams are 40% of your grade, and they are no joke, but about 80% of the questions follow the exact format (or are exactly the same) as ones found on your summaries and quizzes, so you know what to prepare for. Having been in the IT field for 18 years now, I can offer this advice. Don't rush through this class, the concepts you learn here will be very helpful for you during your career. Not that many will be writing Assembly code, but understanding how memory is organized, and how the computer really works is a foundational concept that will pay dividends long into the future. Take your time, learn the material well, and you'll have a great semester.
+
+---
+
+[December 2019] This class was the most difficult for me. Ask lot sof questions, work lots of examples, read all of the notes and watch lectures.
+
+---
+
+[November 2019] Practice. Doing the required assignments isn't enough practice to anchor the concepts in your head.
+
+---
+
+[November 2019] The tests are faithfully taken from the lectures and weekly summaries. Convert that content into flashcards and/or retake those regularly. Make sure you are familiar with even the last few lectures for the final. The final project seemed significantly harder than the others, but I found the grading to be fairly forgiving for that one. In hindsight, I would recommend "timeboxing" that project so that you can be prepared for the final. I took this compressed which required a lot of time for me, but I think they did remove one project for that version of the class so it's doable. I purchased a calculator for conversions which is allowed and is useful for most of the conversion problems. I would also stress that TAs are very helpful (for this class they were mostly available during the weekdays) and held office hours on slack. Also, piazza was useful. I even put questions up on piazza and slack in the hour prior to my exam for topics that turned out to be on the test and they were answered in time for me to understand - so that saved me some valuable points.
+
+---
+
+[September 2019] Assembly, the language, is annoying, but I did find the worm's eye view educational. The class is very well structured, stuff is graded in a reasonable time frame, and the professor is present, fair and kind. He actually replied to an email I'd sent him multiple times, to make sure I understood. All in all, it's an example for other classes to follow. Tips: The book is a bit messily laid out, but it's actually pretty good. Read it. Become best friends with Visual Studio and its debugger, especially the memory, register and flags panel. Don't be afraid to copy things to a register so you can see what's going on. You don't have to buy a calculator, you can use the Windows one, so get used to using its Programmer view. Do as much extra credit as you can. Do not fall behind!
+
+---
+
+[August 2019] Start projects ASAP. I thought this was a pretty easy course but I also found it extremely interesting so I was pretty motivated to learn the material. This was the first class I saw clear organization in the material and definitely something every course in this program should strive to be. I didn't find the material to be terribly complex, but there is a fair amount to know and understand. Watching lectures was helpful, going over all the material that's provided online(quizzes, week summaries, exercise questions) before taking the exam was the most helpful to me. Read the book early on to get a good understanding of the basics and after about week 4 you can probably just use it as reference. Tests are challenging so really study, but they are absolutely fair. The final two programs take a significant amount of time compared to the first three. The last one tests your knowledge and your ability to keep track of the stack.
+
+---
+
+[July 2019] Do most everything that's offered you in terms of comprehension questions and end-of-chapter exercises. Not doing any of that is a recipe for not having a good understanding of the material and struggling to get an A or B in the course.
+
+---
+
+[July 2019] The first 2 or 3 weeks are very overwhelming. There's a lot of information needed to start learning assembly. The middle 60% of the class isn't so bad, but the last 2 homework assignments can be really time expensive. Make sure to start the last project (#6) as early as possible so you don't get stuck trying to study for the final at the same time. The quizzes and exams are very similar to the summary exercises. Review them early and often before taking exams. If you want to prep before starting class, get Visual Studio up and running with the Irvine library via the instructions from the Irvine book's website. This can be time consuming if you aren't used to Windows or Visual Studio.
+
+---
+
+[June 2019] Take Colt Steels Udemy course on web development prior to the term starting. This will make the class much easier. The class moves swiftly and does not dive deeply in to the topics. Homework 6 is harder than the Project so start early. There's only 1 option for extra credit and its on an early assignment. Make sure you do this because it is actually worth a lot of points.
+
+---
+
+[June 2019] The course material and lectures are great compared to other classes (such as 290/162/161). The material necessary to receive an A is clearly defined and reinforced with the Summary Exercises and Quizzes. Justin Goins is a great professor and is active on Slack/Piazza. The TA's actually grade things on time (as opposed to 162 with Zhang). Start early on the assembly programs and load up on as many extra credits as you can, especially for #1 - #4. Programs #5 and #6 are significantly more time consuming that 1-4. Learn to use the VS debugger features as you will definitely need them for #6. If you have time prior to the term, read CODE by Charles Petzold. Great book if you're unfamiliar with computer architecture. If you commit the time, there is no reason to not get an A.
+
+---
+
+[June 2019] This is the best organized class I have taken so far. It is tough, but they provide you with everything you need to do well. For the exam make your cheatsheet. and then don't use it. The book is good, the lectures are better. The lecture check worksheets should be done over and over as practice for the exam until you can do all of them with no issue. Class was hard at first, but things start to coalesce midway through. Prof is super responsive on slack/piazza/email, even on the weekends.
+
+---
+
+[April 2019] Tough class, but it's pretty well designed and organized. Don't get bogged down by the minuscule details. Just write a very good page of notes for the midterm and final. Split your notes page into 2 columns and use really small font.
+
+---
+
+[April 2019] Lectures are great in this class. Take the weekly summary twice, if possible. Start the first reading early and don't skim those chapters. You will need to become familiar with that information.
+
+---
+
+[April 2019] Read the early chapters of the book to make sure you understand it, later on you can be more selective in what you read.
+
+---
+
+[April 2019] This course is structured well, so that you always know what's expected of you. My time was split pretty evenly between weekly checks, bi-weekly quizzes, and programming assignments. The textbook is useful but dense. Early programming assignments are simple, but the last two take a substantial amount of time/frustration. Don't be afraid to ask for help! I found office hours very helpful. The proctored midterm and final are similar in difficulty to the quizzes.
+
+---
+
+[March 2019] This class is toughest in the first few weeks, when you're still trying to learn the basics of MASM and have a ton of readings to cover. Once you get past that, the class slows down and becomes much more manageable content-wise. It does start to peak again towards the end, but that's mostly due to the amount of time it takes to complete the last two programming assignments, so get started on those early. Go for as many easy extra credit points as you can, because they do add up and can really boost up your final grade. Most of the weekly reading quiz questions are either directly from the book or from the lecture slides, so take your time while doing them (6 hours) and don't worry too much because you get 2 attempts. For quizzes and tests, go over each of the questions listed after every lecture video and also review the weekly reading quizzes. This is a very straightforward and well-organized class, and as long as you put in the work, you will do very well (I ended with over 100).
+
+---
+
+[March 2019] If you really want to learn this material, it can be tough. But if you just want to get through the course, they set it up so you don't actually have to learn/memorize a ton of stuff.
+
+---
+
+[January 2019] Do all the easy EC on the projects that you can. Really makes up for any mistakes on the Midterm or Final
+
+---
+
+[December 2018] The organization of this class's content is pretty great except the syllabus section. The lectures are generally very good, and grading was fairly prompt. Take advantage of the early extra credit opportunities. Study the course material well and often because the exams are not a walk in the park but they are 40% of your grade.
+
+---
+
+[December 2018] Lecture are very boring, but useful. Exams are very similar to weekly summaries and quizes.
+
+---
+
+[November 2018] To prepare for this class, try out the mobile/PC game "Human Resource Machine." It doesn't teach you code, but it does get you in the "assembly mindset." The early projects are very easy compared to the later projects. Don't let the early ones mislead you on the time commitment to finish the later projects. The weekly summaries and couple of quizzes were great for checking my understanding between exams. For exams, I studied the weekly summaries, put these questions onto notecards, and rewatched lectures.
+
+---
+
+[August 2018] The homework will not prepare you for the tests. Take the questions from the self-checks, biweekly tests and quizzes and put them in a doc. Print them. Do the questions over and over on paper until you truly understand them, and even then, expect the exams to wreck you with questions that are just different enough from what you saw on homework or practice tests. You'll probably run out of time on exams. GET A CALCULATOR that can do binary-hex conversions like the Casio fx-115ES PLUS. They don't make it clear in the syllabus or course materials that this kind of calculator exists and that you can use it on the exams. Don't be misled into thinking you have to do all the conversions by hand. There's no point in doing them by hand, it'll slow you down way too much on the tests and you'll never be tested on your abilities to convert/add/subtract binary or hex by hand. The extra credit part of the homework usually takes as long as the meat of the homework and is worth just 1-2 piddly points. You're better off using that time to study for the exams. Class is overly focused on minutia and details. Expect to spend 11 weeks learning a lot of stuff you'll (probably) never use in your CS career.
+
+---
+
+[July 2018] I was initially intimidated by the course due to the rumors. Class is actually not bad. First few weeks may be confusing but it will make sense around week 3-4.
+
+---
+
+[June 2018] The lectures are really good. Make sure to do all the self-assessments related to the lectures. Make it a point to do as much extra credit as you can early on (before it gets harder). It can help improve your grade significantly.
+
+---
+
+[June 2018] 161 taught you how to cin and cout, right? 271 would be doing lots of those too... except now a "cin" will need 4 - 6 lines of codes. Learn to use the VS debugger to watch the registries, that was very helpful for most of my assignments. Skip the book, only use it to search for terms. Lectures are hard to pay attention to but a must. Final and midterms were both reasonable but not easy.
+
+---
+
+[April 2018] Focus mainly on doing the assignments to learn the material. Use the textbook as a reference. Do the extra credit as well! The summary exercises, quizzes, and lectures will help fill in any gaps. The tests are very challenging, but maximizing your points earned from the coursework will provide a nice cushion for you in the end.
+
+---
+
+[March 2018] Skip the textbook. Watch lectures and do the practice exercises after each one. Make your cheat sheet detailed, you'll be able to help yourself a lot on the midterm and final. Also the last project will take you a long time. Get started early, because you'll also have a final exam and 2 quizzes to take care of in the last week of the class.
+
+---
+
+[March 2018] Exam questions come from lecture videos, lecture exercises, weekly summary exercises, and quizzes. Projects are interesting, but require a high degree of focus. You get to learn how a computer works, cool!
+
+---
+
+[March 2018] The class expectations are very clear and nothing on the projects or exams are surprising. There is a lot of content to grasp though. It's a very dense class and it can be challenging to understand all of the concepts thoroughly.
+
+---
+
+[March 2018] Do ALL of the summary exercises and review the quizzes for the midterm/final exams. The tests are hard, but 100% fair.
+
+---
+
+[March 2018] The course is... interesting. I liked the course overall but the material was very dry. It was like reading a verbose instruction material. It made it hard to stay focused sometimes. I found doing the project then the quizzes the easiest. I get to play around with new techniques/concepts before being tested on them. I studied for the midterm and final using anki flashcards. I'd pull all of the questions from the summaries/quizzes/end of section textbook review questions and put them in to a flashcard app. This helped me get an A on both major tests. The extra credit options for the projects are worth taking. They get harder as the semester moves forward so try to do as much as possible in the beginning of the semesters in order to give yourself a buffer for the midterm and final (worth a combined 40% of your grade). Overall I learned a lot from the class and it was well put together. The textbook was the worst part of the course so don't get discouraged with the readings. The programming assignments and extra credit will teach you the most!
+
+---
+
+[March 2018] This course is very fair but it is a lot of consistent work. When I say fair I do not mean is it easy. Most people have not programmed in MASM before so it can be time-consuming to wrap your head around the concepts. The lectures are very good, I stopped reading the book after about week 4 and only referenced it when needed. The homeworks are quite involved so get started ASAP. The grading is done on a TA rotation and some are much more lenient than others: keep that in mind. Midterm: study all quizzes, summaries and lecture exercise solutions. If you can do all summary and quiz problems you will do pretty well on the midterm. Final: make the practice final exam bae. Very very similar in structure. Recursion, albeit not a horribly difficult concept in high-level languages, is a bit wonky in MASM. Do the exercise solutions after all lectures, will help a ton. Piazza was pretty helpful. Slack, unfortunately, was nothing short of a toxic environment controlled by a few individuals. The circle jerk was real and it was really a shame. I think Slack on the overall is great but it became disgusting for the 271 channel. Since it was controlled by a few egomaniacs, I never really felt comfortable asking a question there.
+
+---
+
+[March 2018] Take the summaries twice to get access to the questions. Do the early EC! Start the final project way in advance. It is so much harder than any of the other programs.
+
+---
+
+[March 2018] A lot of reading. Lots of reading.. but ultimately really helpful. This class can get a bit confusing, and there's a lot of frontloading the first 2-3 weeks, because there are so many new concepts, but after you get the hang of writing assembly code and registry concepts, it's not at all bad.
+
+---
+
+[March 2018] Pay extra attention to the practice questions after each lecture.
+
+---
+
+[February 2018] The class gets much harder the last 2-3 weeks. Take advantage of the extra credit and easy assignments in the beginning. Treat weekly summaries like real quizzes.
+
+---
+
+[January 2018] This class was pretty tough. You are expected to know a lot of material. The first four assignments are pretty straight forward while the last two are much more time consuming. If you have a chance, do the extra credit for the programming assignments. Study the self-checks, weekly summaries, quizzes, and programming assignments (basically everything) for the midterm and final.
+
+---
+
+[January 2018] Study the lectures an the text book! Assembly programming is only part of the class! I found it to be easy once you dedicate the time watch all the lectures and read the text book.
+
+---
+
+[December 2017] Stay in the books, do all the review questions (in the book and in the lectures). Overall well organized and put together.
+
+---
+
+[December 2017] Don't stress the first couple weeks. It comes at you fast and with seemingly endless amounts of information. Spend your time on the stuff in the Summary Exercises, that's really what you're expected to know.
+
+---
+
+[December 2017] Study the quizzes and exercises
+
+---
+
+[November 2017] Do not underestimate this course. It is very well organized but if you fall behind early (like I did) you will find yourself struggling. Keep on top of the material and give yourself plenty of time for the assignments. Once I began dedicating the time needed for this class I improved. The practice exams are helpful for the real exams. The book and lectures are great resources. He gives demo code when going over new topics, I highly suggest downloading them and running with the debugger to understand what is happening in the code.
+
+---
+
+[August 2017] Starts easy, racks up later. Learn the concepts of stacks, passing parameters, array syntax clvery well.
+
+---
+
+[August 2017] This class is heavily front-loaded, you'll be learning a ton in the first 3-4 weeks and then the pace slackens significantly. I highly recommend all the extra credit! On early projects it will get you ahead for your future projects, and the later ones it gives you a chance to learn things that aren't emphasized in the course but are interesting, like writing code for the floating point unit.
+
+---
+
+[June 2017] Start early and do the extra credit early on in the course. The later programs are time consuming.
+
+---
+
+[June 2017] Practice a lot by testing the code samples from the book and assignments.
+
+---
+
+[April 2017] The course material (lectures and text) is very good and is really all you need to complete all the assignments. Every programming assignment has extra credit options. Make sure to do at least some of them. They do not add a whole lot of complexity to the programs and the extra points will come in handy.
+
+---
+
+[March 2017] Definitely a higher learning curve for this class compared to others. Make sure you follow all the criteria laid out for the homework and get all the points in the summaries and quizzes and you should be fine.
+
+---
+
+[March 2017] Look over the summary exercises and the quizzes before the exams. Do the early extra credits.
+
+---
+
+[March 2017] Study study study. Technically difficult but great class.
+
+---
+
+[March 2017] Set aside time with no distractions where you can really concentrate on the lectures. Then do the reading. THEN watch the lectures again, do the self check exercises (do not skip these). You can do the weekly summaries along with lectures and reading as you have 6 hours and two tries. COPY these down somewhere (Word or whatever). This is because the quizzes and exams are identical to the concepts you'll see here. Lastly, projects aren't TOO bad if you understood the content. He gives lots of hints in the lectures!
+
+---
+
+[March 2017] This class is hard, but well structured and fair.
+
+---
+
+[March 2017] Midterm was much easier than the Final. Do well on the quizzes and you won't have to worry about the final. Final and Midterm are very fair. If you can do the quizzes/exercize slides, you don't need to worry about the exams.
+
+---
+
+[March 2017] Well organized but midterm, final, and last few quizzes are tough. Make sure to double-check your calculations carefully on these.
+
+---
+
+[March 2017] Debugging and stepping through a program helped keep track of registers
+
+---
+
+[March 2017] I actually didn't think this class was that hard, just a lot of work. If you can review x86 Assembly basics before starting this course, then it'll make things go more smoothly.
+
+---
+
+[March 2017] Starts off slower and ramps up (in difficulty) towards the end of the term. Work hard in the beginning of the term and take advantage of open note quizzes.
+
+---
+
+[August 2016] This course was awesome! The design and organization were a breath of fresh air when compared to 162 / Rooker. Everyone says this class is one of the hardest, but I did not find it to be that way.
+
+---
+
+[August 2016] Watch the videos, do the summary exercises both times. Start the assignments early or risk running out of time and to ensure you can do the extra credit. Most will need the boost after the midterm and final. Focus on practical hands on knowledge- this class is all minutia and the devil is in the details. Practice all of the problems from the summary exercises and lectures until you really know how they work .
+
+---
+
+[August 2016] The TAs feel like robots - expect no help there. Redfield very helpful as an instructor - if you have an issue, take it to him. The summaries are easy, quizzes slightly more difficult - there are lots of opportunities to screw up. The Midterm and Final were fairly difficult. I did well (at least on the midterm, no final grade yet), but it took a lot of studying and there was some fairly obscure stuff, and a few 'gotchas' that really took understanding the nuances very well. The programming wasn't bad, but some of the extra credit could be a little tricky. A lot of people struggled with stuff, I would definitely start early. The accelerated pace seemed a bit much once or twice, otherwise manageable. It would be nice if they went back and adjusted the materials somewhat to correctly reference other assignments, as they were all swapped around.
+
+---
+
+[August 2016] This is a bruiser of a class if you fall behind. I ended up behind and focused solely on the programming assignments and ended up with a horrid grade. Don't fall behind. Watch the lectures 2-3 times and study hard for the mid-term and final.
+
+---
+
+[August 2016] Do not use a grace day until after the midterm, the assignments get quite a bit harder after that. Also, make sure you know the quiz material well, the midterm and final are pulled from those questions, which are quite a bit tougher than the weekly assessments. If you have time make sure to do the extra credit.
+
+---
+
+[July 2016] Do all the self study worksheets, take quizzes 2x times, plan for last 2 assignment being hard
+
+---
+
+[July 2016] I actually enjoyed this class a lot. I thought it was really well taught. Start early on assignments, MASM is a beast. Look over the practice questions posted with the lectures. Quiz and summary exercise questions will be similar. Test questions will be as well, if not taken directly from the quizzes/summary exercises. Make good use of your note sheet for exams, there is a lot of information to know, but largely nothing surprising.
+
+---
+
+[June 2016] Know how to use an index of a book. Be prepared to use google to explain this crazy language structure. The weekly summary exercises and quizzes are your best place to find material for the exams instead of the practice exams that are posted.
+
+---
+
+[June 2016] Ask the TA's for help. Not a lot of outside resources to rely on.
+
+---
+
+[June 2016] Class is really well laid out. A lot of material to learn but very manageable. Tip: make sure to work through the lecture checks.
+
+---
+
+[March 2016] The concepts are new to many people - if there's anything you don't completely understand, be sure to clear it up by asking questions on the forums or with the TAs, because you need to really understand the concepts to do well in the course.
+
+---
+
+[March 2016] Read the book. Don't skim it. Read everything. Also master the self check exercises for every lecture. They are there for a reason and if you understand those then you'll be good when the time comes for the exams.
+
+---
+
+[March 2016] Watch all lectures and take a lot of notes and do the reading. Coding projects are not too bad but can be difficult if you get stuck since there is pretty much no information outside the book and whats covered in lecture. Midterm and Final are pretty intense but if you spend a lot of time making your note card, you will be OK
+
+---
+
+[March 2016] Not as difficult as most people lead you on to believe.
+
+---
+
+[March 2016] Read the summary exercises, as they are pretty much exactly what is on the weekly summaries and quizzes. Midterm was taken from quizzes. Get a calculator that can translate back and forth between bases; you should know how to do it yourself, but you do NOT want to waste time calculating back and forth or risk making a mistake.
+
+---
+
+[March 2016] Stay on top of your work. Do the weekly check exercises that accompany the lectures, since they will be the format of the weekly summary checks, the quizzes, and the midterm/final. I found that most homeworks took me between 5-10 hours. The practice midterm and final were representative of the actual exams. Use the discussion forums to ask questions often!
+
+---
+
+[March 2016] Even if you get a perfect score on a summary, go ahead and take it a second time. You'll get a second set of questions that will be different from the first set of questions. The quizzes and midterm/final are largely made up of questions that are pulled from the summary exercises. Start the programming assignments early.
+
+---
+
+[March 2016] Don't skip the self-check exercises. The quizzes and parts of the final were directly from them.
+
+---
+
+[March 2016] Do really well on the programs and you don't need to stress about the exams much.
+
+---
+
+[March 2016] DO as much of the extra credit as you can. Do the practice exams as they almost mirror the actual ones. Make sure you know how to figure out memory addresses early. Some programs are easy, some are not.
+
+---
+
+[December 2015] This class is one of my favorites in the program thus far (and I am almost done), a lot of people don't like it though mostly because of the assembly language. Embrace it; whether you know it or not, these are your roots as a CS professional. If you played old video games ever, if you have ever installed drivers, if you have ever wondered how the PC and software talk...then those are all answered through low level languages like C and Assembly. That is also important to note; C will be used heavily from this point on and to debug certain problems in C you will need to know how assembly interacts with the computer.
+
+---
+
+[December 2015] This class is one of my favorites in the program thus far (and I am almost done), a lot of people don't like it though mostly because of the assembly language. Embrace it; whether you know it or not, these are your roots as a CS professional. If you played old video games ever, if you have ever installed drivers, if you have ever wondered how the PC and software talk...then those are all answered through low level languages like C and Assembly. That is also important to note; C will be used heavily from this point on and to debug certain problems in C you will need to know how assembly interacts with the computer.
+
+---
+
+[December 2015] Complete as much extra credit as you can. Start writing "cheat sheets" for each week and you'll have an easier time writing them for the midterm/final. I rushed through the weekly summaries and could have scored better. The lectures are sort of off with the assignments but things started to make a lot more sense to me after the 3rd week. Each point will count towards reducing your stress for the final week where there will be a programming assignment, weekly summary, quiz, and final due so get the easy ones while you can :)
+
+---
+
+[December 2015] Exams are tough - don't underestimate them. Get a calculator that does the conversions for you.
+
+---
+
+[October 2015] In the summer session the final was a bit tricky. I went into the final with an 88.5 (I was so proud of my grade). I studied really hard, made a superb cheatsheet and felt pretty confident / ready (just wanted to get it over with) going into the final. The final is rigorous in the sense that there were way too many questions for the time allotted. And, (perhaps I was burned out) the wording of the questions were like riddles(literally contrapostives and vague wording left and right! ). I ended up getting a B- in the class, I am still really proud of my grade!
+
+---
+
+[September 2015] Proctored tests are very difficult. Assignments start off easy, but the last few can be very time consuming. Study the weekly self-checks and the summary exercises to do well on the proctored exams.
+
+---
+
+[August 2015] Do NOT overlook the practice exercises provided with each lecture. If you can understand these without any help, you will be golden.

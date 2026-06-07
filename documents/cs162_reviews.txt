@@ -1,0 +1,553 @@
+[Unknown] Get ahead on the homework, it does ramp up a little bit towards the end with recursion and linked lists. If you come in with a basic understanding of python and OOP it will help a lot.
+
+---
+
+[December 2025] If you don't know Python absolutely prep with a course on a platform like Udemy, Zybooks, etc. Choose your group members from the Discord to ahead of time. Work ahead to give yourself plenty of time with the final project.
+
+---
+
+[December 2025] This was definitely a step up in difficulty from CS161 and the projects were fairly complex, especially the early ones that are just trying to see if you have a handle on OOP and can deal with lots of nitpicky instructions (I think this is half the battle on these assignments, and actually pretty reflective of real-world projects. There are a couple of group assignments, similar to CS 161, and I didn't find them to be a good use of time in CS 161, so I skipped them entirely in this course and as a result, spent much less time those weeks. I still got an A. I did participate in the final discussion, but watch out for this one, because they opened it up randomly and we actually had a previously-unmentioned "due date" for making our first post in the discussion, and they specifically docked points if you tried to come in at the end.
+
+---
+
+[March 2025] There are a lot of students in this program who have prior experience with CS topics and some who already work in tech! So when people say a course is super easy, just keep in mind that you have no idea where they're coming from. The material in this course isn't too complicated, but frankly I don't think it was taught well. What's terrible is that as I take more classes at OSU, the better CS 161/162 look. Many of the topics are taught oddly, where the concepts are almost explained fully but there always seems to be a tiny bit of information missing. (Sometimes this is because there are related concepts they didn't explicitly teach and expect you to just know, sometimes it's because the examples they give are brief and not very helpful, sometimes it's because they don't tell you how you would actually apply what you're learning.) The extra resources they give you reference built-in methods and techniques you're not allowed to use in the class, which is frustrating. Like many other classes in this program, it requires you to find your own resources if the modules aren't enough. I really wish they would provide longer and more complex examples that were not part of the module. In 161 there were some recorded zoom sessions with professor Hedaoo, which I found very helpful. Professor Baker made some good videos, but most of the time they didn't go beyond the examples already provided. The professors and TAs are fairly responsive on Ed Discussion, though there were a number of questions that were never answered, and the student had to make another post asking again. I do think I learned a fair amount, and the assignments were a good way to practice what you had just learned.
+
+---
+
+[July 2024] This course is more challenging than 162 but is still pretty easy. I thought the only difficult project was the portfolio project and that is just because it is longer than all the previous assignments. I would recommend being very comfortable with classes.
+
+---
+
+[June 2024] Start assignments early and be solid on your object oriented programming fundamentals. Utilize unit testing and write your own tests to verify that your program logic is correct and passes the assignment requirements listed in the rubric.
+
+---
+
+[April 2024] I paired this with 271 and this was definitely the easier course. It also allows you to work ahead. I stayed 2 weeks ahead through most of the course, so if I had a challenging week in 271 I could focus on that and not think about 162. The material in this course is pretty easy if you are familiar with Python and OOP.
+
+---
+
+[March 2024] I would come in being comfortable with OOP and recursion. Also take advantage of Samarendra's Learning Sessions. They are extremely helpful to understanding the content. Also, be prepared to review concepts from 161 as 162 builds on them.
+
+---
+
+[December 2023] Should be merged with 161 to make room for a real class.
+
+---
+
+[June 2023] Definitely more challenging than CS161 but in a fun way. If you're taking CS271 with this class, you'll definitely appreciate this class since you won't have to worry about managing the stack, registers, etc.
+
+---
+
+[April 2023] Could have stood to be more rigorous.
+
+---
+
+[March 2023] I ran through Python Crash Course by Eric Matthes before starting the program and it covered more than this class did. The final project for this class was really frustrating though. They had us make a Chess replica, but due to having such a sparse and vague ReadMe, they wound up telling us the tests would only use moves that followed the rules. In other words, we did not have to test for users trying to break the rules. It made the project trivial, but also useless in terms of putting on GitHub later on.
+
+---
+
+[March 2023] Projects 2 and 3 were long but quite easy. If you did fine in 161 this class will be a breeze.
+
+---
+
+[March 2023] Start projects early, some of the assignments can be quickly completed but Weeks 2,3,6,7, and the final project take much more time.
+
+---
+
+[March 2023] Pair with another easy class (not 271)
+
+---
+
+[February 2023] Not a well-designed course. A few assignments that take long, but overall pretty easy. Final project is easier than most assignments
+
+---
+
+[January 2023] Anyone insisting that students who struggle in this class aren’t cut out for CS is only telling on themselves. Those types of people need to stop gatekeeping and instead worry about their own progress in the program. This course is poorly resourced: not enough exploration material and nowhere near enough OH availability. The common tip shared by past students on discord is to purchase a separate online course that actually covers the fundamentals of Python. This class is a step up in complexity from the final assignment in 161. As with most classes, if you have experience in programming, this course shouldn’t be terribly challenging. If you’re a novice, be sure to take this class on its own for the term. You’re gonna need all the time you can spare.
+
+---
+
+[January 2023] Tl;Dr: Easy A, unless you aren't cut out for CS. Learn to use the debugger and you'll be fine. A good pair with CS 271. If you didn't struggle in 161, you won't struggle in 162. There are maybe 3 weeks where you need to actually put in more than 4 hours a week. There is a vocal group who will complain about the assignment difficulty but probably shouldn't be in CS. If you are complaining, it's probably because you decided to ignore the module explaining how to use a Debugger--debug your code! The Portfolio Project was easier than most assignments, and frankly, disappointing as the culmination point of the class. Pair this with CS 271 which will eat up WAY more of your time per week. 271 will also force you to learn to debug, which obviously helps you with 162.
+
+---
+
+[January 2023] Really productive class. You will probably get stuck at some point, but the TAs are very helpful. If you take it with Reddy, she does weekly sessions I recommend. Professor Scott (they/them) was also extremely helpful on teams.
+
+---
+
+[December 2022] Many of the projects in this course will take as long or longer than the final project of 161, particularly projects 2 and 3, and to a lesser extent, the final project. The material in this course is a grab-bag of intermediate programming and Python topics that don't necessarily build to anything cohesive; in fact, you could complete the final project using only things you learned in 161. The class seems primarily like an excuse for you to get practice writing more object-oriented python programs. Some of the material is covered in a very cursory way in the course content, so you'll likely be doing some supplemental Googling. If you did well on your 161 final project, you'll likely not have a hard time figuring the projects in this course out, but you will need substantially more time to finish many of them.
+
+---
+
+[December 2022] Start the assignments as soon as you can! Especially when you get to recursion and all of the assignments after that point, the assignments present a few curve balls so it's helpful to start working on them with plenty of time. I work full time, I don't think I'd be able to take another class on top of this one.
+
+---
+
+[December 2022] There's a few time consuming assignments, I'd say probably 1/3-1/2 of them actually were big 'in-depth' ones. Other ones were not bad. Course just felt like 161 but more concepts learned really (some are a bit more difficult to grasp at first). Don't procrastinate for the bigger projects.
+
+---
+
+[December 2022] Start early; learn linked lists and recursion ahead of time.
+
+---
+
+[December 2022] The difficulty varies A LOT. Start early
+
+---
+
+[November 2022] The majority of assignments were not to complicated, with most of them being able to be finished in one session, with some notable exceptions like the final project. The lectures videos were extremely unpolished, unenthusiastic, and I stopped watching them after the 3rd week. The help sessions however were very useful and I recommend watching the recorded sessions if you get stuck with any of the assignments.
+
+---
+
+[September 2022] Get ahead early and attend any tutoring/OH sessions you can if you have questions. The later modules are certainly more difficult than the earlier ones. If you breezed by 161, this will be a bit of a surprise for you.
+
+---
+
+[August 2022] Start your assignments as soon as possible, and prepare for them with pseudocode and reading. Go to TA hours and College of Engineering tutoring sessions as much as possible.
+
+---
+
+[August 2022] The instructors are very hands-off. You are expected to learn the material with little support, with explorations that do not adequately cover the material. Good luck. My best advice is to immediately find other students in your cohort and lean on them for support.
+
+---
+
+[August 2022] Assignments 2 and 3 are heavily focused on OOP and have given previous students trouble, so brush up on OOP if you find yourself struggling. Our final project was a watered-down version of Monopoly, and I found this much easier than assignments 2 and 3. Overall, a very easy class.
+
+---
+
+[June 2022] Start assignments early, learn Python basics.
+
+---
+
+[June 2022] This is a tough one! The first 2 Object Oriented projects are a wake-up call from the assignments done in CS 161. It's certainly not an impossible course; just a significant step up in expectations from 161.
+
+---
+
+[May 2022] Very similar to 161 but a little more challenging. Still very light and manageable coursework. Learned a lot, didn't stress too much until the final project overlapped with the final project in another course. Overall easy A, light time commitment.
+
+---
+
+[March 2022] Keep on top of the programming assignments as soon as they’re released and you should succeed. Don’t be afraid to go to office hours or ask questions on Ed.
+
+---
+
+[March 2022] If you took CS 161 at OSU, you’ll be surprised at the scale of the weekly projects in CS 162. Do everything you can to stay ahead in this class. The project for week 1 is a breeze. Don’t let that fool you. Get project 1 done early and immediately start studying for week 2 so you can get a jump on project 2. I made the mistake of thinking the cadence of this course would be like CS 161 and started studying/projects the Monday before it was due. I work full time and had a lot of very late nights (talking 2am) or full weekends completing projects. It’s not the material was super hard to grasp. The real challenge came from the size of the projects. The first few assignments felt like the final in CS 161 but instead of having two weeks to do that, you only got a week. The good news is that I walked away feeling confident that I knew how to use Python.
+
+---
+
+[March 2022] Make sure to allocate some extra time to the first couple projects as they are a big step in amount of work from the previous course.
+
+---
+
+[March 2022] Make sure you have a solid understanding of OOP and are comfortable with Python. If 161's final project was really difficult, spend some time trying out more projects like that or you'll be in trouble in 162. If you're comfortable with OOP and Python, this will likely be a breeze.
+
+---
+
+[March 2022] Start early and don’t be afraid to ask for TA help or ask questions on Ed Discussions!
+
+---
+
+[March 2022] First couple weeks had some intense projects, get ready for that.
+
+---
+
+[March 2022] Start early, get ahead early, go to office hours.
+
+---
+
+[March 2022] Work ahead on all the assignments. Many are much trickier than 162 and many assignments have Gradescope tests that are hidden. So be sure to test your code and all kinds of edge-cases thoroughly! Also, this course starts with a bang so be prepared to do some big projects the first 3 weeks.
+
+---
+
+[March 2022] Don't expect to be able to complete every assignment the day it is due. Assignments 6 and 7 are regarded as the two most challenging by most students, past and present. The course gives you everything you need to succeed and is designed incredibly well. That said, be sure to break assignments up into multiple days -- at least two. I had a good deal of programming experience prior to entering this class and I found myself throwing a whole day away trying to complete projects the day they were due -- and I was incredibly dissatisfied at the end as I felt I was doing the bare minimum to get the job done. When I started my projects a day or two earlier, I still felt pressed, but by the end, I felt my programs were vetted, bug free, and something I could be proud of. I completed the class with some 102% (+A).
+
+---
+
+[March 2022] I feel like they may have course corrected a little bit too much with this iteration of CS 162. While the class felt like a natural extension of CS 161 and built on concepts in that course, it did not go deep enough into subjects and the final portfolio project felt very lackluster and simple.
+
+---
+
+[March 2022] Read the directions carefully, and before you start coding. Also, test your code; the visible tests are not enough to prove that your code works.
+
+---
+
+[March 2022] Very similar to 161 in terms of course structure and the amount of work per week. I felt like it was very well designed and paced, and not any harder than 161. I wound up generally spending part of a day taking notes, then an entire long day (the due date) working on the assignments. And that was just enough time to complete them, but I would obviously NOT recommend getting started that late if at all possible. There's just a small amount of group work every few weeks. I recommend initiating any discussions with your group as soon as you can if you want to give the group enough time to really consider each other's code. Don't wait for someone else to do it.
+
+---
+
+[February 2022] This was a great class. I didn't do any prep for this class beyond 161, and I spent an average of 120/11=10.9 hours/week on this class, and I got an A. I really like the course's project-based approach towards learning. It features a great mixture of easy, medium, and hard projects, and for the most part, the modules did a pretty good job at preparing me to the do the assignments. The week 6 (recursion) and week 7 (linked list) modules were the only exception, those modules were pretty weak, and the assignments were very challenging (easy/medium difficulty Leetcode questions), so I had to go outside of the course content to figure out how to complete them. However every project's requirements are very clear, and the professors are very responsive on Ed, so you'll know exactly what you need to do in order to get an A. The professors recorded some live homework help sessions, which was nice, but I didn't find them particularly useful, because the professor couldn't say much about the HW without giving away the solution. The professors also did some bonus live lectures that expanded upon 161/162 course content, which was cool, but I felt those were mostly tilted towards 161 students. This class's portfolio project was really fun, and I learned a lot. Overall, I think it's worth transferring in credit for 161/225, but 162 is such a well-designed class that I'd definitely recommend taking it at OSU.
+
+---
+
+[December 2021] Overall thought this course was decent. This was all taught in Python and each week we'd learn one of the following subjects: 1. Exception handling 2. Unit testing 3. Inheritance, composition, polymorphism 4. Searching, sorting, algorithm analysis 5. File handling, pickling/json 6. Recursion 7. Linked lists, stacks, and queues 8. Generators 9. First-class functions 10. Decorators This class has reading lessons followed by repl.it examples, practice problems followed by solutions. There are pre-recorded videos that the instructor teaches about the lesson. Every week there would also be live webinars held on Zoom (also recorded!) where the instructor goes in depth about the lesson/module of the week. If you cannot attend the live session, there's a form to submit a question where they'll likely answer towards the end of the Zoom. There are two group "projects" where you basically review everyone's code and provide inputs on which ones the best and why you think that is. I found that I often used outside sources such as RealPython.com to get more in depth with the modules.
+
+---
+
+[December 2021] Projects 7 and 8 seemed like they gave people the most difficulty. The portfolio project was pretty straightforward, by comparison. Once you make it through the decorators and generators unit, you’re home free!
+
+---
+
+[November 2021] This class focuses a lot on Object Oriented Programming (OOP) concepts - I would recommend reviewing OOP a bit before class starts. The first few assignments were on the lengthier side, requiring about 200-300 lines of code. I would also strongly recommend learning how to use the debugger in PyCharm- this will help you to become more effective at debugging and ultimately will save you a TON of time on assignments, especially the final project. I wish they included this as part of the curriculm. As the semester progresses assignments get shorter and focus on other concepts, such as decorators, generators, JSON, etc. The recursion module in week 6 was a bit of a beast - make sure you allow enough time to work through this module. The final project is a different game each semester that you use OOP to create the backend for. All in all this was a solid class - I don't have much of a programming background but found it to be pretty straightforward. If you put in the effort to learn the concepts and debug/troubleshoot, this is a relatively easy A in my opinion.
+
+---
+
+[September 2021] The assignment readme's essentially lay out all the requirements that will be tested for on Gradescope. This makes it pretty simple to get full credit on assignments if you read carefully and test the required functions and classes. The instructors and TAs are very responsive if you get stuck along the way.
+
+---
+
+[June 2021] Review python syntax before the term so that you're not spending time reminding yourself about that while new concepts roll in
+
+---
+
+[June 2021] Its as everyone else says, the course material ramps up drastically in the second half of the course, I would say around module 6/7, the concepts will require more time to understand, and will be confusing if you haven't been exposed to the concepts before.
+
+---
+
+[May 2021] This class wont demand a lot of your time until the end. Be prepared for the final project. Don't procrastinate.
+
+---
+
+[March 2021] This class is a pretty natural continuation of 161 and is maybe 3x the time. Assignments 2 and 3 are longer and OOP-heavy, but the readme gives very detailed descriptions of what needs to be done which makes them quite manageable. The rest of the assignments are shorter, but there is a spike in difficulty in weeks 6-8, with a focus on recursion. The portfolio project is a complex board game (my term was Janggi). You have 2-3 weeks to get it done, which is plenty of time. Overall, this class wasn't all that difficult and the instructor, Hedaoo, is awesome. He would be online for 2-4 hours on nights assignments were due to answer questions and help with bugs.
+
+---
+
+[March 2021] I was a transfer student that had done about half of CS50 (free online) and the equivalent of CS161 at another school. I don't think CS 162 was a poorly structured course necessarily, but the assignments (projects and quizzes) were all testing very basic understanding. For example, quizzes test very high level understanding of concepts (e.g. what is recursion) rather than low level "how would you fix this code snippet" type questions. This means that acing quizzes is extremely doable. The projects as well are all laid out precisely with the specific functions/classes you need with the parameters and outputs that should be returned. The TAs appear to grade largely based on whether your code passes Gradescope tests or not. There was no project design aspect to the assignments. I spent no more than a couple hours on the beginning projects and around 6-8 hours on the final portfolio project.
+
+---
+
+[December 2020] Videos and exercises do not seem sufficient to cover new material. The expectations of the homework projects far exceeded what was demonstrated in the module lesson. Frequently had to use outside resources to understand this class and asked for help. Instructors were very helpful. Odd pedagogy at times where they responded to questions with questions so you don't get an answer when you are lost. Get used to google searching for actual answers. Used Tim Buchalka's python masterclass for help, too. Weeks 2 and 3 assignments are long but straight forward. Try to get ahead in this course in case you get hung up around recursion, linked lists, or JSON. The final project was to build the board game Focus (see Wikipedia) and required tons of testing to make sure the complexity of the program was working without errors. You can only see 7 tests when submitting to gradescope but in reality there were 40 tests to pass. Took an A+ in the class and worked very hard for it.
+
+---
+
+[December 2020] Was a pretty solid class, and not too difficult. The explorations are short and practical, while the coding assignments are pretty reasonable. This was my first term at OSU, since I got credit for my school's equivalent to CS 161. To prepare, I did parts of Tim Buchalka's Python Programming Masterclass course on Udemy when it was on sale. It was helpful, but any free resources would probably work too. OOP is heavily emphasized during the first few weeks, and for the final project.
+
+---
+
+[December 2020] If CS 161 was your only experience with programming, prepare for weeks 2 and 3. Refresh your knowledge of classes and list comprehension. It gets easier after that (in my opinion), but don't leave those assignments to the last minute.
+
+---
+
+[December 2020] Give yourself at least an extra day to do assignments, as some (weeks 2 and 3) are uncommonly long.
+
+---
+
+[August 2020] Really make sure you understand the last couple of modules in CS161, regarding classes, methods, inheritance and OOP. If you didn't spend the time to really get that in CS 161 on the last couple of assignments, then prepare to be wrecked on your first couple of assignments.
+
+---
+
+[August 2020] The move to Python made this course a lot easier. Being able to focus on the underlying concepts of programming without getting caught up with the programming language itself was great, though I didn't feel very challenged until the final project. Even then, the final project's difficulty for me was based on the fact that every prior assignment was a hand-holding, "make these classes with these methods" experience. The final project is really just "make this program, and make sure it works". Best advice I can give for that is to get a deep understanding of OOP, and when/why you should implement different classes.
+
+---
+
+[July 2020] I used the low end of 6-12 hrs for this class; 1-1.5 hrs to watch the lectures and do reading and examples, and the rest in the assignments. The first few weeks the assignments were longer than I had anticipated - start them early. The course cadence was much more regular after those first few weeks. Overall a good part 2 introduction to Python.
+
+---
+
+[July 2020] This class is significantly harder than 161. You go from writing a few lines of code per week, to 200+ lines. You are given 2 weeks to complete the final project, which I believe changes each term. When I took it, we had to code a game called "Gess," which is a cross between "Chess" and "Go." Start this project as soon as it opens. I had nearly 1,000 lines of code by the end.
+
+---
+
+[June 2020] This class is easier now than in the past when it was taught in C++, but that doesn't mean you can skate through it. Some of the programming assignments have very detailed requirements and take a lot of time to sort through. As mentioned in other reviews, the portfolio project is a doozy. There is a heavy emphasis on object-oriented programming, so watch some youtube tutorials on Python OOP if you want a leg up.
+
+---
+
+[June 2020] Start early if you can, but mostly enjoy the instruction and the assignments. This class is no longer the intense destroyer that C++ 162 was. Instead, the structure is very similar to 161's structure: a lesson page or two with examples and interactive practice exercises, and a video in which Alcon goes over the same ideas on his computer. (Pretty sure Alcon did all the 161/162 videos in a day or two sprint, so it's fun to watch the light change in his office over the course of the modules.) The topics are well organized, and the assignments are generally fair. When I took it, the assignments for weeks 2 and 3 caught some people off guard with their complexity, but then the length of the assignments went down again until the end. I felt that a couple of the assignments were a bit more tricky than useful for the topic at hand, but my puzzling brain also enjoyed those challenges. The final project (the portfolio project) was a large step up in complexity from the prior weeks. That said, it also seemed entirely fair as I was working on it. This quarter there was a bit of chaos in the beginning, as the TAs weren't properly assigned until the week 2 assignment was due. Given the increased depth of that week 2 assignment, the situation left a nasty taste in some students' mouths. That said, the TAs and one of the two instructors were very engaged the rest of the term. Hopefully that was a one-time logistics hiccup that won't replicate itself in future quarters. I would have enjoyed a harder course, but I also know many of my classmates would not agree with that assessment.
+
+---
+
+[May 2020] Start early if you can, but mostly enjoy the instruction and the assignments. This class is no longer the intense destroyer that C++ 162 was. Instead, the structure is very similar to 161's structure: a lesson page or two with examples and interactive practice exercises, and a video in which Alcon goes over the same ideas on his computer. (Pretty sure Alcon did all the 161/162 videos in a day or two sprint, so it's fun to watch the light change in his office over the course of the modules.) The topics are well organized, and the assignments are generally fair. When I took it, the assignments for weeks 2 and 3 caught some people off guard with their complexity, but then the length of the assignments went down again until the end. I felt that a couple of the assignments were a bit more tricky than useful for the topic at hand, but my puzzling brain also enjoyed those challenges. The final project (the portfolio project) was a large step up in complexity from the prior weeks. That said, it also seemed entirely fair as I was working on it. This quarter there was a bit of chaos in the beginning, as the TAs weren't properly assigned until the week 2 assignment was due. Given the increased depth of that week 2 assignment, the situation left a nasty taste in some students' mouths. That said, the TAs and one of the two instructors were very engaged the rest of the term. Hopefully that was a one-time logistics hiccup that won't replicate itself in future quarters. I would have enjoyed a harder course, but I also know many of my classmates would not agree with that assessment.
+
+---
+
+[May 2020] If you read nothing else: Take Tim Buchalka's "Learn Python Programming Masterclass" on Udemy. Get at least 40% through it before starting 161 and you will find 162 to be much easier compared to students who go into 162 armed only with what they learned in 161. Other than that, start your projects early, ESPECIALLY the Portfolio Project at the end. Know how to debug effectively and get very good at using online resources like Python documentation and StackExchange.
+
+---
+
+[March 2020] I took this class during the quarter it was switched to Python. From what I understand, there used to be weekly programming assignments, a programming lab due every other week, and a group project or two. We only had to do weekly assignments and a few group code reviews. The weekly assignments varied in length. Some weeks they did not take very long, other weeks I spent nearly 20 hours working on them. But definitely not as much as time as this class used to be from speaking to past students. The weekly quizzes were super easy. The final was not though. I think the final took me twice as long as even the hardest weekly assignment. But I also learned a lot during the final. As long as you ask a TA for help when stuck, you'll ace this class.
+
+---
+
+[March 2020] The course was redesigned to Python, and as I understand it it had dropped in difficulty. Weekly programming assignments were not overly difficult, but they were still more difficult than 161. The final portfolio project presents a significant upswing in difficulty, so be prepared to spend much more time on that than your other assignments. Overall it was a good course, most of the quizzes were fairly easy, the majority of what you'll learn will be from what you implement in your assignments.
+
+---
+
+[March 2020] The projects are large enough that asking for help becomes difficult. Do your best to stay ahead. However, the course is changing from C++ to Python and python from my understanding doesn't directly deal with pointers. Not as easy as everyone said it would be. Yes, you will spend a lot of time in this course.
+
+---
+
+[December 2019] I had very little programming experience going into this course. The workload is challenging for sure and I found myself spending about 20+ hours per week, especially in the first half. Weeks 3 and 4 are particularly difficult and I felt overwhelmed by week 4, even questioning if this was something for me. I powered through it though and things started to get easier in the second half. The workload is still heavy but you can start to reuse a lot of the code you developed in the first half. By the end of the course I felt pretty good about programming in general. Be prepared to do a lot of reading as well, mostly in the first half. The book is well written and worth having for reference in the future. While you could certainly get by without reading everything and just looking things up online, I think the book helped me see how a lot of these concepts fit into the bigger picture.
+
+---
+
+[September 2019] Start all projects as early as possible - you will be thankful you did because you'll need the time to debug and test your projects. The quizzes are more or less helpful, so don't stress too much about them. There is a huge knowledge jump from 161 to 162 (though I don't know how this will change as the courses switch to Python).
+
+---
+
+[June 2019] Start early, even if it's just writing down requirements and formulating a plan for coding later, this will save you time. Reusable code is your friend (menu/input validation). The front half of the class is an uphill slog, it does get better but be prepared to code, a lot. If you can take this course alone, do so, especially if you are working. If you need to take another class try and take one with a lighter work load.
+
+---
+
+[June 2019] Start assignments early, plan carefully, make use of extra credit. Contact your TA's often or other TA's frequently with questions.
+
+---
+
+[June 2019] No preparation needed. 161 was my first exposure to programming and that was adequate for 162. It was easier than expected but time consuming. Not a class to put off until the last minute. The projects had game like themes if you like games. Just think of coding in this class like grinding in an rpg for EXP to level up and that will essentially be this class.
+
+---
+
+[June 2019] It gets easier towards the end. Stay on top of things early.
+
+---
+
+[April 2019] Do not procrastinate. Work at developing reusable menu and validation functions/classes early on. Don't let yourself get stuck on the first step of the final project. Decide and move on.
+
+---
+
+[April 2019] This course is all about time management. I spent over 20 hours per week on it. The concepts aren't difficult, but projects are time-consuming. Grading is lenient, but make sure you double-check requirements before you turn it in, because there are a lot of components to each assignment. The course starts very heavy, especially around weeks 3-4, then becomes easier in later weeks. The basic requirements for the final project are pretty easy, but you can spice it up if you want to use it on your resume. To prepare for this course, I would recommend learning about makefiles, robust integer/string input validation, 2D arrays of pointers, and inheritance. Lectures are useless. The textbook is good preparation for quizzes. learncpp.com and stack overflow are good resources for programming assignments.
+
+---
+
+[March 2019] 162 does require a higher time commitment than other classes, but the grading is very lenient. If you meet the grading rubric and have a foolproof input validation, you should be averaging close to a 100%. You have the option to retake each quiz a 2nd time, but you only keep your last score. Only retake it if you scored less than 18/20. Prior to the semester starting, go through Suraj Sharma's C++ tutorials, learn to use makefiles, and learn to use Valgrind. Get familiar with Langston's Ant and maybe even start on it. I found the video lectures to be of no use, and the textbook was marginally better. C++ online resources and Stock Overflow will be better resources for this class. This class is all about producing code that meets the specs, don't make it any harder than that.
+
+---
+
+[March 2019] People make this class out to be way more time consuming than it is. The grading is so lenient and there's so much extra credit that almost anyone should be able to get an A.
+
+---
+
+[January 2019] Procrastination is not your friend in this class. Do your best to get readings, labs, and projects done early. Find a group for the group project early, one that actually communicates. Find the time to do the extra credit, not does it only help your grade, but it reinforces the topics that show up on the quizzes. Start planning your final project the day the specifications are released to allow time for debugging.
+
+---
+
+[January 2019] Read the textbook where you can. Start all the projects early and factor in some buffer time in your schedule early on
+
+---
+
+[December 2018] Code Langton's Ant before the class starts, and read ahead in the book. This class has generous and worthwhile extra credit. The labs get more ambiguous in the later weeks, but nothing too bad. The (unproctored) quizzes do have some poorly worded questions, but getting 18/20 average should be doable if you slow down and read the questions carefully. You are able to pick your groups for the group project, so take advantage and get a good group going as soon as you can. Overall, the class was fun, and you learn a lot.
+
+---
+
+[December 2018] This course can be as time consuming as you make it. Grading is very lenient. Lots of extra credit, make sure to take advantage of this early.
+
+---
+
+[November 2018] If you know pointers really well prior to taking this course then you'll be fine. If not, then I would recommend you do the Microsoft Intermediate C++ course on EdX. This course also covers inheritance and polymorphism, so it would be beneficial to have some exposure to those concept beforehand as well. Otherwise, the material isn't overly difficult, there's just a ton of work to do each week. Prioritize and plan ahead and you'll be fine.
+
+---
+
+[August 2018] Ignore the textbook and the provided lectures as they provide very little value. Instead, rely on learncpp.com, cplusplus.com, Paul Programming on youtube, and TA office hours. The TAs for this course were tremendous. It was not the super difficult class that it is made out to be. If you are able to plan your assignments and manage your time, you will get exceptionally fast at the concepts.
+
+---
+
+[August 2018] Read through the advice on OSU Course Explorer and follow it: learn about/prepare makefiles, menu functions, input validation, etc. before you even reach the first day of class. You hit the ground running in this class and it doesn't let up until you're in the last few weeks. I found the book helpful and stopped watching the lectures completely by week 3. LearningLad and TheChernoProject on YouTube were helpful for some of the more difficult concepts.
+
+---
+
+[August 2018] As with CS161, dive into the code as early as you can to practice learning the concepts. learncpp is sufficient for doing well on the assignments. I also used visualgo.net to learn about linkedlists. My grades were being submitted slow, but seemed to be more lenient than 161. Perfectionism will kill your time, just nail all the requirements, and double-check the grading rubric. My confidence went from 0 to 100 after the second major project. Code and test everyday on FLIP. I wished I used my time to learn VIM, would've saved me a lot of headache from trying to figure out errors from going from Visual studio to FLIP.
+
+---
+
+[June 2018] Be prepared for a large learning gap from 161 to 162. 161 does a great job of setting the foundation for C++, but the first project in 162 is intimidating at first. Be sure to get really familiar with pointers, including double pointers.
+
+---
+
+[May 2018] Start your projects early to give yourself plenty of time for debugging.
+
+---
+
+[April 2018] Know your pointers really well! Get a head start on all assignments if you can. Really focus on the Labs and Projects. Use outside resources (YouTube, cplusplus.com, etc) to thoroughly understand the concepts. It's okay if Big-O notation is confusing at this time, class did not dwell too long on the subject.
+
+---
+
+[March 2018] It's not a cakewalk and I wouldn't recommend taking this class with anything else if you're working. But, you'll walk away far more competent in C++ than you thought possible after 161
+
+---
+
+[March 2018] The first four weeks of the course were the most challenging with a combination of stepping up from 161 and simply the amount of work to complete. Begin on labs and projects early so you're not rushed, and take advantage of the extra credit.
+
+---
+
+[March 2018] Workload starts off heavy, but if you write your functions for the first few labs and projects well, you will be able to use them for future assignments. The difficult part of this class isn't the work, it's the time required.
+
+---
+
+[March 2018] Start assignments right when you get them. I barely touched the textbook and watched youtube videos on the relevant topics.
+
+---
+
+[March 2018] Start working early! The projects aren't necessarily hard, but they are very time consuming.
+
+---
+
+[March 2018] Get started on assignments/projects ASAP. Most assignments will have you writing as many lines of code as you did ALL TERM for 161
+
+---
+
+[March 2018] The class isn't that bad it just requires being resourceful. Some weeks (like week 2) you get assigned 2 chapters for 200 pages of reading. Most of the material is interesting but not all of it is useful. The lectures are useful because they demonstrate the most useful skills that are needed for the work due that week. learncpp.com is extremely helpful for getting a different perspective on certain things (inheritance and polymorphism I'm looking at you). It doesn't hurt to read the project/lab specs for the week before doing any reading to understand what you'll need to learn. That's half the battle really. We didn't use copy constructors or operator overloading yet it takes up like 50 pages of chapter 11 which is the roughest chapter. Do the extra credit -- it's usually pretty trivial. The coursework is graded very fairly and may I even say a bit lenient. At the end of the semester I'm at over a 100%.
+
+---
+
+[March 2018] Don't procrastinate. It feels overwhelming at first if your only programming experience is coming from 161. It gets a little more comfortable after about the midway mark, but it's still a ton of work most every week. Use your resources. Ask questions on Piazza. Ask questions on Slack.
+
+---
+
+[March 2018] Assignments were a bit unstructured and course materials a bit sloppy. Pay extra attention to detail in assignment requirements and provided skeleton code.
+
+---
+
+[February 2018] This class isn't very difficult, but it requires a LOT of work. I didn't think the material was difficult, but I still probably spent about 20 hours per week on the class. There is a lab due every week and some larger projects due throughout the quarter. Unfortunately, there is group work and that was the most annoying part of the class for me. Start the assignments early and follow the instructions. They are usually pretty straightforward and the TAs and professor make an effort to clarify requirements.
+
+---
+
+[January 2018] You need to work every day. Many assignments are not complicated, but the number and length of assignments is HIGH.
+
+---
+
+[December 2017] This class has a unique workload. Every week, there is just 1 lab due. However, every 2 wks, there is a lab, project, and test/group project due. Make sure you start on the projects early on, preferably the weekend the assignment is given. Even if you have programming experience, expect to spend about 20-30 hrs/week on this class. Learn how to use GIt early on. Use Slack + Piazza for questions. Never fall behind in this class.
+
+---
+
+[December 2017] Start early! This class isn't difficult grade wise, it's the massive amount of work that is the challenge. You will not be able to cram the entire weeks material into a Sunday afternoon.
+
+---
+
+[December 2017] Learn Pointers and Dynamic memory before starting the class.
+
+---
+
+[November 2017] Start early! The minute..... the SECOND each module begins, start working on the stuff!
+
+---
+
+[August 2017] Read the programs early and think about them while watching the videos, reading the book or just out doing something unrelated. Always think about the program. Study up on Github it is a great backup tool.
+
+---
+
+[August 2017] Start your projects early and test them often. Get ahead of the reading so you can focus on your programs.
+
+---
+
+[August 2017] Always start projects and labs as early as possible. Get a plan outlined before starting to code. Get very comfortable with Pointers.
+
+---
+
+[August 2017] Do all the extra credit because it's stuff you'll need for the next lab/project anyway! Take pictures of your notes/Dry Erase board because you can include those in your design document if you don't have much to say.
+
+---
+
+[June 2017] Learn makefiles asap (it does not have to be complicated, just make sure it gets the job done) Menu functions are needed in almost all your programs. Input validation is required for your programs. Start the labs early, I mean it ! ! ! Start the projects early, I mean it ! ! ! Check your leaks using valgrind ! ! ! Read the things required in your code sheet ! ! ! Read the lab directions, and project directions multiple times, until you get it ! ! ! Work load hours varied week by week for me, in a week I could have spent anywhere from around 13 hours - 18 hours, the next week it could be 18 plus hours, another week it would could have been 40 plus hours. So it varied from week to week. Grading was reasonable, and fair for the most part.
+
+---
+
+[June 2017] Try not to procrastinate. The work isn't terribly difficult, it's just constant and there's a lot of it. The first two weeks ramp up really fast! If you feel like dropping, wait it out. It seemed like things got a bit easier after getting through those initial weeks.
+
+---
+
+[June 2017] Learn makefiles, input validation, and pointers before taking the class. Start assignments immediately, if you fall behind it is very hard to catch up
+
+---
+
+[June 2017] Review pointers A LOT. You will need to figure out a menu function, input validation function and makefile in week 1 so if you can learn those in advance - do so!
+
+---
+
+[June 2017] Get started early. Read early. Do the labs early so that A) you understand the material and B)you have more time to do the projects. Use your late days wisely. There is a generous late policy. Better to lose 10% and be a day late than turn in an incomplete project with memory leaks. Despite wanting to quit altogether at least 10x....I will end up with either a high B or low A and I learned a ton. Oh, and some weeks it seriously took me 25-30 hours. No exaggeration.
+
+---
+
+[June 2017] Start early, read Piazza daily, and don't be afraid to Google. This class WILL take you more time than you're used to from 161. Also - the first few weeks are the worst, really make sure you've set aside ample time for those first few weeks.
+
+---
+
+[April 2017] Be ready to work your ass off. Start assignments early. Do NOT wait until the weekend it is due to start. As soon as material is available, dive in right away. If you get behind, you might never catch up. Took both this and 225 at the same time while working full time and it was extremely difficult. Lack of sleep, more caffeine consumption, lack of exercise, weight gain, junk food (due to being glued to the computer chair), burnout, etc... Learn pointers, input validation, inheritance, and polymorphism early and make classes for things so you can reuse them to save you from duplicating work.
+
+---
+
+[March 2017] Make sure you have a lot of time. This class took more than 30 hours every week and sometimes more than 40. Know pointers and dynamic memory allocation inside and out.
+
+---
+
+[March 2017] Pointers pointers pointers. This class is heavy on pointers so be sure to know your pointers.
+
+---
+
+[March 2017] Base your work off of the assignment PDFs, not what that TAs post on Piazza. Form a group on google hangouts/slack and communicate with other students!
+
+---
+
+[March 2017] Larger labs and projects. Make sure you understand pointers and how memory leaks work.
+
+---
+
+[March 2017] Budget your time. There is a lot of work but the grading was pretty easy so don't spend too much time on the labs which are a lot less points than the assignments
+
+---
+
+[December 2016] Summer course was rough. Topics are not tough to learn, just make sure you have a good grasp of pointers. Just the condensed amount of work in the short time frame made for no weekends/social life to complete the assignments/labs and study for tests each week. I was easily spending 30 hours per week to get an A.
+
+---
+
+[August 2016] Be prepared for inconsistency. Rooker's grammar and assignment descriptions are terrible and often, you have to stay up on the Canvas discussions to ensure you really know what's expected. Despite the inconsistency, the class taught me a log. Being forced to learn a lot on my own really helped to hammer in the material in a real way.
+
+---
+
+[August 2016] Complete each requirement one step at a time and make sure it works before moving on to the next. This way you won't run into big problems and have to start over from scratch. You'll also at least have parts of the assignments complete to be able to get patrial credit if you are unable to get everything to work as it should. Start assignments early.
+
+---
+
+[August 2016] It almost seems like half of your grade depends on two things: getting a Valgrind check to state "no errors found" and writing a bunch for the testing/reflections (quantity over quality).
+
+---
+
+[August 2016] Read chapter 11 gaddis before starting this class. Will be a monster, monster help. -Get started on the Labs as soon as they're assigned. Even if it looks like Egyptian, just get started on it. Write out some pseudocode, design doc, whatever. -Write C++ every day. Every damn day. Even if it's a int main with a while loop asking for input. Just something to keep you going and your brain alive. -Comment your code as you go (in terms of function headers and file headers). Will save alot of time. -Get started on the Doodlebugs assignment as soon as it opens. This is when the class generally shits their pants. -Don't be overwhelmed by the group work, just try and contribute early on. -Take the design documents seriously. They can really help. -Pray to fuck you don't get assigned Niza Volair as a TA. Because she is literally a Nazi. -Pray you to get a badass, cool TA like Harlan Waldorp, who grades on the important stuff and not the ass kissing factors (ie, writing a 15 page design document). -In general this class seems fairly TA-dependent, which is quite unfortunate.
+
+---
+
+[August 2016] - Start early and often on assignments. - Make sure you understand pointers (there is a group collaboration review of these but that is halfway through the quarter. You start using pointers immediately.) - Ask questions when you have them. Many assignments/labs have misinformation in the instructions. (i.e. left over from previous quarter or just plain wrong) - Watch lectures and read chapter before starting on homework - Always check your code for memory leaks using valgrind, you lose quite a few points if you have leaks. - Don't panic. Meditate. :)
+
+---
+
+[August 2016] Not that hard, but will take over your life in terms of time, plan accordingly
+
+---
+
+[July 2016] Keep up with the reading and assignments, or you WILL fall behind and be stressed.
+
+---
+
+[June 2016] Prepare for pain and suffering. The first assignment is probably the worst, but the general poor quality of the instructor makes aspects of this class a giant pain in the ass. TAs seemed to routinely grade based on their view of what the assignment should be, rather than what the actual requirements were as laid out in the assignment. The group work is poorly structured (too many people, too easy for free riders). Overall the class isn't hard, but it is a decent time commitment some weeks.
+
+---
+
+[March 2016] Starting out this class is very daunting, don't let it dissuade you, just break down the problems into smaller manageable pieces. If lab 5 is still the doodlebug lab make sure to start immediately, it was disproportionately harder than any of the other labs.
+
+---
+
+[March 2016] Don't rely just on the lectures. Learn the topics from outside sources.
+
+---
+
+[March 2016] Pace yourself. I feel as if I learned a lot, but most of the learning came from Stack Flow and You Tube Videos which is both a good and bad thing and probably a contributor to why you had to spend a lot of extra time on this course.
+
+---
+
+[March 2016] Get ready to be busy as fuck...lots of busy work. Weekly labs, biweekly assignments, biweekly group projects. Concepts aren't difficult though.
+
+---
+
+[March 2016] It seems overwhelming at first but it is not bad! They throw you into the deep end but it is not unmanageable. Get ready to use google, stack overflow, and other resources all the damn time, because unlike 161 you pretty much are on your own as to how you implement things. You *will* need resources beyond just the book. Rooker seems like a fucking oddball at first but he's really not that bad. Don't hold it against him. He is really really bad at communicating clearly - get ready for confusing assignments and test questions. Roll with it though.
+
+---
+
+[February 2016] Work hard, work early! Rooker is a weird guy, things are always vague and confusing. If you're confident in your abilities, starting late can be an advantage because you have the benefit of everyone else clearing up the confusion. But, you need to be confident that you'll finish on time. The group work sucks, and the groups are too large for the amount of work that is given.
+
+---
+
+[December 2015] Do NOT wait until the last day to do the labs. Don't get hung up on details just make sure to satisfy the requirements for the assignments. The tests are unproctored but only 15 mins for 20 questions.
+
+---
+
+[November 2015] Don't spend too much time trying to figure out what the instructor wants, just do what makes sense and explain it in the reflections document.
+
+---
+
+[November 2015] Very easy, somewhat similar to CS161

@@ -1,0 +1,421 @@
+[Unknown] Introduction to operating systems using UNIX as the case study. System calls and utilities, fundamentals of processes and interprocess communication. "This course is brutal. Came in with studying VIM and C basics during the break but that didn't do anything for me. The homework doesn't match up with what you learn in the module, you'll have to do a lot of studying outside just to understand how to get started on the homework. I prefer not starting assignments asap so others can ask questions on Ed and Discord, to help shine some 'path' to help us even get started. Smallsh was brutal; Gradescope's test didn't match the assignment requirements. At some point are we really learning about OS concepts or learning how to program to figure out what the grader is looking for? Smallsh was just extremely frustrating even with asking a bunch of people for advice and going to office hours and constantly scanning Ed/discord. We're super blessed to have more starter code during this course which I cannot imagine how previous quarters supposedly did without it. The first 2 assignments (base 64 and tree) will get you 'comfortable' with C programming and using the CLI to run tests. The last 3 assignments really are about core OS concepts (smallsh, MTP, OTP). The TA's are super helpful in this class (shoutout to the ones who answer questions outside of office hours). In terms of homework grading, it's going to take a lot of effort to hit the D mark (around 60%), then it takes less effort to get to around C/B mark (60-85). Depending on how your debugging skills are, it might take just a little more (or a lot) to get to the A mark. I highly recommend going to office hours and just lurking if you don't have any particular question (you'll get pointers and get assistance just by listening to others talk and ask questions)
+
+---
+
+[March 2024] This class is actually really cool! The modules aren't spectacular or anything, but they're not useless like others have suggested. Ryan Gambord is also actually a good instructor in my opinion. I could see how he may have rubbed people the wrong way in the past; he is very particular about things that nerds have strong opinions about, but he is very communicative, understanding, and contributes a lot of extra material/help on Ed that is not included in the modules. Maybe he saw all the negative feedback and changed in response to it, but I really don't have a bad thing to say about the guy. I don't think he has permission to completely change the course modules at this point, but it seems like he's done a lot to make this course better. It was a challenging class, but I think it was fair and very rewarding overall. If you've read other reviews of this course, you know you need to start early and attend office hours as necessary. The assignments are submitted with Gradescope, and your score is exactly what the autograder gives you. You're even provided a copy of the testfiles, so everything is completely transparent. That's really all there is to this course. Everything is doable, it's just difficult if you're unfamiliar with C and/or system programming. I honestly don't know what more people want -- you really do just need to read the modules and refer to man pages and then think critically and use your programming skills to solve problems. The man pages aren't hieroglyphics; if you've referred to documentation while coding before and you've read the modules, it shouldn't be too difficult to get the hang of using them. The final exam seems to have finally been tuned to the point where almost everyone seemed to think it was fair. If the program didn't have at least one class this technical and challenging, it wouldn't really be much of a CS degree! I would say, if you've gotten this far in the program, you definitely have what it takes to pass this class, though you might have to dig a little deeper than you have before to get through. One final piece of advice - if you're reading this and you're very early on in the program, don't take the easiest option at every point in your courses. The more you do that, the harder a time you'll have in this class.
+
+---
+
+[March 2024] The easiest part of this class for me was the final. I found it very representative of the content and all the answers could be found in the modules (not word for word, of course, but the content was all there). I really screwed up on smallsh, but was able to salvage my grade. Overall, start the assignments early. Go to office hours. READ THE ED DISCUSSIONS. And don't give up. If I can get a 30% on smallsh and still pass, then so can you :)
+
+---
+
+[March 2024] This course is challenging and time-consuming, but doable. Knowing a small amount of C (from a course taken years ago, so it wasn't very fresh knowledge) definitely helped. Use the resources available to you in the class - Ed Discussion, office hours, Discord, etc. Respect the class, but don't be afraid of it! You can do it!
+
+---
+
+[March 2024] Like everyone has always said, this class takes a lot of time. You have to start each assignment right away and spend time just understanding what you need to do as well as any started code you've been given. Once you have that down, you code and debug, go to office hours, discuss on discord... until you either pass gradescope or run out of time.
+
+---
+
+[March 2024] I'm amazed this course is still allowed to go on in it's current state. Knowing C is a prerequisite for this course. What they mean is 3 courses of C: 101, 102, and Data Structures. That is the level of skill and knowledge this class was designed for, and it hasn't changed. I would take 101, 102, and DS at an institution that offers them in C so that you are prepared. And then go ahead and take CS 344 at another institution, too, because there is no good reason to take it here. This is not an "Operating Systems" course where you read 3 Easy Pieces. This is a Systems Programming course and there are some OS1 concepts sprinkled in. Some people say "take this class by itself". What they mean is "this should be the only thing you are spending 12 hours of your day doing. If you are working, put $4000 into your account since you're going to need to take it twice.
+
+---
+
+[March 2024] Go into this knowing it's a "weed-out" class; only a few students in each section are supposed to pass it. Nearly all of us would've flunked the final had Prof. Gambord not curved the grades. I don't think there's much difference between CS 374, the course I took, and the legacy CS 344. I started the term with genuine interest in the subject, and that hasn't vanished entirely, but I feel discouraged from taking a further course in it. I scraped out a passing grade by parking myself in the TA's office hours every day, reading the discussions on Discord, reviewing flashcards I'd made of the module content, watching Brewster's video lectures on YouTube, and working on the assignments two hours every day. It's frustrating that a course with so many important fundamentals on the syllabus is so indifferent to teaching them to novices.
+
+---
+
+[January 2024] This is the most difficult class I have taken in the OSU post bacc program so far. It was very difficult and extremely time consuming. There are 5 total projects and 1 final. The final is really difficult, so try your best to get 100% on all the projects. The projects are all different and have different weights. The first and last ironically I thought were the easiest. The absolute hardest is the 3rd project called smallsh. It is the most difficult project I have done so far. I gave myself a little over a week and was still scrambling on sunday and did not finish the whole thing. If you can time manage, you should be able to give yourselves 2-3 weeks to work on it and you'll need all that time. The good news is there were a lot of TAs and they held office hours all day. So there is a ton of help available. You also get whatever score gradescope gives you and you can submit as many times as you want. That was really helpful in testing the code just by submitting into gradescope. The whole course is in C and you have to use VIM on lynx. Atleast that is what I had to do. I learned a lot, but it isn't a fun course. I did get an A- though.
+
+---
+
+[December 2023] Easily my worst academic experience. Just trash. The assignments are what takes up everyone's time, as everyone else says. Here's my feedback on each assignment: base64 is a crapshoot because the modules don’t prepare you for it. It’s a common thing tho so there’s good YouTube videos on it. Start early but if you really get stuck module 3 should help you out tree imo is the easiest of the quarter. Make sure you know generally what the code does and really really pay attention to the helper functions. Most of it is just a bit of code and using the helpful functions smallsh sucks but it’s mainly a time game so start early and you’ll get there mtp is a nightmare if you’re not careful about it so test the shit out of every step before adding anything. Also about 3 days in the prof posted the megathread with a wayyyyy easier method of doing it so don’t start this one until the megathread goes up. I’m serious it will save you so much time otp is actually kind similar to mtp. I actually think it was the easiest second to tree. Like mtp, just be able to test with every single new thing you add to it, and definitely stream each character, don’t try to push everything through with buffers
+
+---
+
+[November 2023] Start every assignment as early as you can. Expect to spend about 3-5 hours to understand the project that's being assigned and what to review before writing your first line of code. Create a task list and incrementally go through them as each assignment is large and can be a lot to take in at once.
+
+---
+
+[June 2023] The instructor, Ryan, is a pompous [donkey], but he also puts a lot of time into the class and answers questions on discord. The class is mostly difficult because many people (including me) have to learn how to code in C, use a vi code editor, and learn about operating systems all at the same time. Ryan craps all over the modules, but they aren't all that bad. Ryan's main advice is to "read the man pages", but the man pages don't make sense until you have some familiarity with C. This is the one class I'd recommend pre-studying for if you don't already know some C. As stated in other reviews, Ryan has no empathy or ability to put himself in the position of someone who didn't start coding in C at the age of 8. I still have a 4.0 in the program, but this was the closest I got to losing it.
+
+---
+
+[April 2023] This class is hard and is going to take up a lot of your time. You will go days where you feel completely lost on assignments and you're just sifting through the modules, man pages, discord, etc over and over again but slowly but surely things will slowly starting piecing together. I had a little C/C++ experience prior to this class but still spent an large amount of time on the projects. Start as early as possible on the projects because again, the first few days of starting the projects you're just trying to find your way in the dark and then progress will be slow but the projects are doable if you put the necessary amount of time in. In terms of resources, I didn't find the modules helpful at all, I would rely most on the man pages and then the provided sections from the textbooks but by far the best resource is going be the Discord channel. Make sure you stay up to date on what people are talking about for each assignment because it can be tough trying to search through all the conversations after the fact when you're working on your assignment. The instructor Ryan is a blessing and a curse for this course. He is knowledgeable and willing to help/available but he explains things to students in a manner that is not very helpful. When he answers questions or explains a certain topic he does it in way that it's more of him trying show off how much he knows about a certain subject rather than explaining it in a way that the students (who most don't have tons of C experience) are going to be able to understand. He will go off on these tangents about how youtube tutorials, tutorial websites, stackoverflow, etc. are all horrible ways of learning C/operating systems and the only way to learn properly is to read the man pages and textbooks. For example, he provided a video for one of the assignments showing how to create a function that would find a subset within a greater string and return it. The video easily could have been 15 min long max but ended being an hour and 15 minutes because he spent the first hour walking through some random youtube tutorial on this topic that no one would ever watch because it was such poor quality and literally going segment by segment in the video and explaining how this person is wrong and doesn't know what they're talking about. Then finally at the end of the video he gives you the code that you need for the assignment. Overall I think his intentions are right but he's just going about it in the wrong way. I walked away with an A in this class because I had the time to put into it but you need to make sure you're getting close to 100% on all the assignments because the final is definitely difficult and not a way to gain back points.
+
+---
+
+[April 2023] The course isn't nearly as bad as most of the worry warts will have you believe. I was able to use the Linux manual pages, the course explorations, and cpp reference to complete all of the assignments. Spent time on getting the assignments 100% working so that the final doesn't drop your grade to a B. Ideally, you want to go into the final with a 100% grade. As others have mentioned, the final is not an environment where you will be gaining grade points. The instructor cares that students learn the material and he puts forth a great deal of effort attempting to help students learn. However, he doesn't explain information very well. He frames his answers in a manner that assumes the learner is already a master of the material. By the time that you will find his explanations useful, you will no longer need his help. I am a bit skeptical that this magical rework will actually be a benefit to the course...
+
+---
+
+[March 2023] Worst class I've ever taken in my life, and it's not because I'm salty: I got an A. The reality is that OSU ecampus doesn't prepare students for 344 and it's up to us to play catch-up because the professor is not interested in meeting us at our level or helping us through the transition to C. Be sure to learn pointers, strings, arrays, and structs in C before taking this class and don't believe anyone who tells you it's ok to just jump in without previous experience. I had a terrible time, particularly in the first three weeks because of very tight deadlines for the first two projects coupled with never having programmed in C before. Project 3, Smallsh, took me 16 straight days of hacking away at it all day. Other people were faster but definitely prepare to work on it for at least a week, likely more. Project 5 was difficult in its own way and took me a week to debug. The professor is OBSESSED with making things harder than they have to be, from long-winded, often insulting Ed Discussions and Discord posts, to requiring Vim. VS Code is banned, so I would recommend using CLion and SSHing into os1 through another terminal.
+
+---
+
+[March 2023] I dreaded this course since the day I enrolled in the program. I can assure you not to fret. Here is my general advice: If you have time to prep with some C before the course, then you should. It is not a necessity, but of course it would be helpful. Regarding time, this course requires a lot of it--the most out of any course I have taken in the program so far. Of course your experience will vary, but Smallshell and OTP took me the longest with 20hr+ and 12hr+ respectively. Also, run your own race. There will always be people in the Discord bragging they finished a project. Good for them, but come on, no one cares. Regarding the development environment, some people hate on vim, but I would suggest to just use it. Use vim and develop on os1 to avoid any issues and possible penalties if you are using something else like VSCode. It's just a few keyboard commands to learn. I don't see the big deal. Regarding the course materials, the modules for the course are essentially useless, but The Linux Programming Interface is "optional reading" that, while dry, is helpful (it feels like the modules were an attempt to distill the relevant chapters from that book). I read the relevant chapters in the LPI book and the man pages and that was enough. Regarding the final, the prof uses a normative approach, so I think there was some misunderstanding regarding last terms final and the horror stories associated with it. The final was a fair assessment in my opinion, but I have no idea what the questions were like last term. But, it is a better final than others in this program (I'm looking at you 271). I think you will hear a lot of horror stories about this course because it is indeed difficult with little to no guard rails--at least that was my experience. But if you put in the time and test thoroughly on os1--including your makefile-- then you will be just fine. Hell, you might even like it. Probably not, but maybe.
+
+---
+
+[March 2023] Know C before taking this course. Understanding C and pointers (no need to be an amazing C programmer) takes this course from "prepare to be wrecked" to "kinda hard." Find a reputable source (e.g., a university's online intro to C or similar) to learn the fundamentals of C. I cannot say this enough: UNDERSTAND POINTERS. This term some skeleton code was given for several assignments. The final was incredibly fair. The major issue I had was that the instructor would sometimes seem not to know what was in the modules and then tell us the modules were completely incorrect on topic X, which was very frustrating. However, I believe summer 2023 is the revamp and that particular issue should go away. The current instructor has an interesting attitude---ranges from incredibly condescending to very appropriate, and I could do without the incredibly condescending range. However, in general he does seem to care about students being able to understand the material in the course and is a very reasonable grader.
+
+---
+
+[March 2023] This class has a steep learning curve if you're unfamiliar with C, but if you can make it through the first few weeks you should be okay. The first few projects Base64 -> Tree -> Smallsh felt like impossible tasks at first, but with time and breaking them up into bite-sized pieces you can pull through! Some people seem to take issue with the current professor, Ryan Gambord, but he ended up being pretty helpful. Get comfortable navigating the class Discord as it will be one of your most helpful tools, and pay attention to any skeleton code provided by Ryan. Side note: Supposedly, this class is scheduled for a revamp in Summer 2023.
+
+---
+
+[March 2023] Summer 2023 is the latest revamp, so advice will be deprecated soon. But: do pay attention to C, and learn the basics, and learn about memory management. Take the time to code a few small things in C. This class is about Operating Systems but you can get really distracted and tangled up in C syntax if you don't prepare a bit beforehand, and that will waste time, which you don't want to do. Follow the professor's advice on useful material. The modules are mediocre. Get used to using the Man pages, and USE THE CLASS DISCORD: your professor and fellow students will be a huge help to you on there.
+
+---
+
+[March 2023] The class is different, it must be. This class is easier than 372 by far. I actually had an entire week of doing nothing between the second and third (smallsh) assignments and now smallsh doesn't appear to be as difficult as it once was. I even started smallsh a week late (so two weeks of doing nothing) and it looks easy enough to finish with 100% with a week of coding (some have already done so). Smallsh now has a great step-through guide on what is expected and many of the requirements are explained with more clarity. You certainly cannot start the assignment two days before the due date and learn everything needed to do well (some do, but fail). You should at least give yourself one week for each assignment to digest the requirements, because there still is a lot. There is quite a bit of classmate communication on the Discord server that makes this class much easier. There tends to be three groups who work together on the assignments. You have the quick ones who seem to finish earlier, the mid-tier who learn from the quick ones, and the late followers who are still asking questions many of the mid-tier people had answered by the quick ones. Start the assignments early and you can have the assignments done sooner because many of the students work together providing a lot of support. Recommendations: Take 381 if possible prior to 344. Much of the heartache of learning a new programming language is taught in 381 and this will come in handy when learning C and Linux. Many complainers in the class complained that the professor didn't hold their hands when learning C. So expect to have to read the manuals and other boring hard-to-understand material. Also, consider taking 372 and 475 before. 372 is covered later in 344 and one of the harder assignments in 372 is found in 344. If you had taken those courses before 344, then OS1 will be a breeze for you. With all that being said, there is an upcoming revamp due out in Summer 2023. I would imagine the professor will make for a better learning approach at the details he expects students to pick up when they complete each assignment. From my experience in this class so far, I wouldn't have a problem taking 344 in the summer, even with a revamp. I took 372 in the summer and that was rough. For those who have a hard time learning new languages (or even haven't taken 381) and don't put much time into learning, then it's best you take it during the regular terms. There are still plenty of students who still don't get the finer details the professor wants for us to learn. Maybe it'll require more time to learn. Lastly, I've worried more than I needed for each of the classes up until this point and I realize now that much of the complainers or reviewers tend to be those who are more vocal. Don't let them discourage you from taking hard classes.
+
+---
+
+[February 2023] I work as an Embedded Systems engineer and this class was so bad. If you can take OS elsewhere, do. The class is entirely self-teaching by scouring textbooks and online resources, so if you don't learn well from just reading try to find some youtube videos. Brewster's old videos are good, but they may not be relevant for the new versions of this class. What's worse though is the professor. He's got an ego, so don't listen to his mean remarks. If you don't do well in this class you'll still do just fine professionally because there is so much more to the CS world than Vim and string parsing.
+
+---
+
+[January 2023] This class is awful, especially for a required class. I came away from this class with my soul crushed, since I'm usually a straight-A student, but only got a C in the class. Professor Gambord seems to want to "improve" the class, but his expectations are ridiculously high so that only those who have been coding in C on Linux for several years prior to this course even have a chance of doing okay. It's probably not completely impossible to get an A, but be prepared to spend over 35 hours a week on the assignments and the readings and researching. Also, be sure to cite your sources excessively well, as Gambord has a penchant for reporting suspected academic dishonesty according to his rants and what I've heard from other students. My recommendation would be to take this class at a different university if possible. Don't bother taking it here because you won't learn anything except to hate yourself.
+
+---
+
+[January 2023] If you're new to C (I was and most are taking the course) then definitely take some time to learn about some of the basics BEFORE the class. The biggest (and very annoying) disconnect where most of our complaints are in this course is the assumed knowledge the professor has - the C docs that provide much of the how-to for specific functions requires a certain foundation to understand. This is the most frustrating part of the class because in effect its like asking a mechanic to fix (and understand) the engine before he's been taught to change the oil. Biggest advice here is make friends in the class and use the class discord. The final has been analyzed by others and thats a very fair assessment. It's a shame this class is so poorly structured because complicated language systems (like assembly) can be taught in a very approachable way (as 271 is). But with the two new assignments (base64 and tree) neither of them build upon each other, and the only real overlap of practiced knowledge is string manipulation, which is used heavily for assignment 3 (smallshell). To the future students I hope the class is structured more logically, using 271 Assembly as a model where each project builds and relates off of prior practiced concepts. Unfortunately this class feels like being homeschooled, where you yourself are the teacher. I would find outside help with online videos (others have mentioned) and stay active in Discord. GOOD LUCK !
+
+---
+
+[January 2023] Can't emphasize enough, like most other reviews say, START early. My timeline recommendations and tips for each assignment: 1) Base64 - Took me about 5 hours. Give yourself at least a 1 week early start for this, particularly if brand new to C. Analyze and understand the sample program the Professor posts, it's very helpful and gets you 90% of the way there. 2) Tree - Took me about 8 hours. Similar to base64, start about a week early for peace of mind and incremental progress. Skeleton program provided by the Professor, intuitive (but not difficult) fill-in required. 3) Smallsh - The dreaded project. Give yourself at minimum of 2 weeks for this one. It's a long process, but the assignment itself isn't conceptually difficult. It took me about 25 hours total. Start with a plan of attack and some pseudocode. Knock out each step/requirement one by one. After tackling string get-parse-process-store, the remaining steps can be coded straight from the modules. 4) MTP - This one is similar to base64. Took me 10 hours total. If you choose, give yourself a mental break from C after smallsh and start this one with at least one week. A sample program is provided that you can analyze and use as a template. The code itself can be written fast and adapted from the example program, but I personally spent the vast majority of hours on this assignment debugging little mistakes. Check your loops (or lack thereof :)!! 5) OTP - This one confused me a bit, lots of past reviews and student impressions made it seem like smallsh 2.0. It is most definitely not. Give yourself at least 1 week for it. Took me around 10 hours. At first glance it's a bit of a doozy because it requires the creation of 5 programs - an encode server, encode client, decode server, decode client, and keygen. You quickly realize decode client/server are just a copy paste of your encode with a couple lines changed. Keygen is fun and quick. Working server/client code is provided for the assignment or you can adapt straight from Beej's (provided resource) for 90% of the encode/decode code pretty much done for you. Test incrementally as you go, first time tackling this I broke something socket-related in my code and started from scratch because I coded far too much without testing and could not find the source of my initial bug. Now for the final... the final was revamped in Fall 2022 and left a bitter taste for many students. Honestly, I think Professor Gambord made a mistake revamping the final before the course material itself was revamped. The expectation for many students is that a final tests based off material directly discussed or outlined in the course itself. Re-reading the course modules start to finish does not adequately prepare for the final and that in my eyes is what I find "unfair." This wasn't the case for many questions. Questions required a deep understanding of C and external readings. Several questions were worded in a tricky manner with one or two synonyms replaced and one being the technical "most correct". Now the man pages, C documentation, and linux text book are all referenced in course materials but I'm going to be honest. The assignments are so time-consuming in this course that it's not feasible to treat it like other courses with big exams. The vast majority of students are doing the bare minimum with external resources to finish their programs because the assignments take so damn long relative to other courses. There's never a breather. This means that the vast majority of students who are taking other courses and/or working on top simply don't have the time to sit down for the week and read 8-12 hours of a dense textbook and multiple man-pages outside of what's required to complete an assignment. It's not realistic with the heavy time constraints of the course. It would be excellent if important man-pages were digested and broken down in the modules and presented in a more readable format (the Professor did this a couple times on Ed and each of those posts were very helpful). So all this to say, yes... the final was very difficult. Yes, it felt a bit unfair that expectations for the final suddenly changed last minute as a much more difficult one was substituted in. Yes, answers were not worded directly with a clear correct answer that stands out, but rather a 85% correct option, 90% correct option, 95% correct option, and finally, the expected option. That being said, the final was curved and stated from the beginning it would be curved so a 60% effectively became an A-. So don't fret too much grade-wise.
+
+---
+
+[December 2022] Get some exposer to the process of writing C code. Get familiar with your choice of IDE, compiler, and debugger. I used the clad standard VIM, GCC, and GDB. Most of the class is string manipulation and passing pointers.
+
+---
+
+[December 2022] Let me be as clear as possible: DO NOT get behind to start the quarter. I had heard this class was brutal, but had heard the same about 325 and had still managed an A, so I figured this would be of the same ilk. I was sorely mistaken. As others have mentioned, Gambord does make himself available and will try to answer your questions. He also is principled and not a push over. That is all well and good, but his expectations for students are not in-line with reality. The course is incredibly challenging and the assignments will need to be treated like a full-time job. Courses in this program are intended to require ~12 hours of effort per week, but unless you are very well versed in C and OS coming into this course, you will spend far more than that on readings + assignments. Creating + testing apps is incredibly laborious and time-consuming. If you fall behind, you will be in big trouble, because the final exam is absolutely not an opportunity to gain back points; it is an invitation to hang on for dear life to whatever points you have. There is a question that 7% of the class got correct. SEVEN PERCENT. On a multiple choice exam. How that does not set off alarm bells to an instructor I cannot understand. Rather, the reaction from Gambord was that we did not understand the material because we did not read well enough. A full quarter of the questions on the final were from one module (out of 8). Two other questions had nothing to do with anything we learned about operating systems or coding in C, but rather a specific encoding method that was never mentioned in the course modules. I am ecstatic to have passed so that I can put this course in my rearview mirror. I should add that I much prefer back end development, enjoyed and aced 271, and actually believe I would have loved this course and its challenging assignments had some aspects not been completely insane. I really hope they are able to straighten this out, because I feel for others who will undoubtedly find themselves in the same place I was going into the last week, unsure if you'll even pass the class despite entering with a 3.9 GPA in the program.
+
+---
+
+[December 2022] Start on assignments early, this has been said a million times in reviews and anywhere this class has been discussed. Because it's true. Gambord has a discord server set up to where you can drop in and ask for help or give help to other students. Every time there is a assignment due in a couple of days, you'll see someone drop in and ask about something that is an early part of the assignment. You don't want to be in that position! This is one of the last quarters this iteration of the class will be given, as the revamp will be done by summer 2023. Gambord has changed up a few things, added a new assignment, removed the rust assignment. Given some more skeleton code on the early assignments. Smallsh is still unchanged. That one is the time suck. Do not start late on that one especially. I had a high A going into the last assignment and fell flat on my face on that one. Then came the final. Before he took over, on average the final was a 90% on the final, open note, open book, non-proctored. He didn't like how simple it was and consisted of only code snippets. He changed up the final this quarter and it wrecked about 75%+ of the class. I think there was about a day left for us to take the final and he showed us a graph where only about 3 of the 100+ students that took the final got at least a 70%. He had to change a few things of how some questions got credited and also threw a huge curve on the whole class. I was able to squeak out with a solid B. He can be a little high on his expectations from students. He mentioned before that he started C programming when he was a young child. And when he went over his review of the final, pretty much talked about how we didn't do enough reading of the man pages, and the understanding the concepts. Really not that hard to believe when the modules on the subjects are sometimes wrong according to him, and it's all just walls of text. Which of course the man pages are as well. Hopefully with his revamp he'll condense the readings to exactly what he wants the students to understand, because how it is, it's a little too much. He obviously cares, he just might be one of those professors that are just so high on their understandings of the language and material that it's hard to understand how a beginner can view things. Especially with this being a good chunk of the students first experiences with C. Very happy to be done with this class. Final piece of advice, if you are planning on taking this class, learn how to dual boot your computer of install a virtual machine of Linux. (It's not difficult to do, if you have some free time mess around with it before you start class) It can work with windows, but you won't get much help with your problems in that area. And honestly I have learned to love Linux after using it for a while. Not vim though, screw vim.
+
+---
+
+[December 2022] This course left a bad taste in my mouth. The current instructor (Gambord) is responsive on Discord, etc., and he also appears to want to challenge students, which are both great things. However, as the course currently stands, the instructor had no hand in the module explorations, so there is a bit of a disconnect between the difficulty of his new projects (BASE64 and TREE I believe) and the modules, and there is a massive disconnect between his expectations for the final and how the course is taught. Projects: There were 5 total. Not too bad overall, but can be time consuming. Start on them as early as possible, as other people have recommended. Also, pay close attention to the requirements for each project, because little details can lose you points. For some of the projects, you will lose points for things that are not even covered in the rubric. Always be sure to exit with the appropriate value, output errors to stderr, close files you opened, and free memory you allocated. The testing scripts you are given for the projects are not how the instructor grades them, so be very careful about the output. Final: The instructor has apparently been coding in C since he was 8, and it seems to have addled his ability to make a fair exam on the subject. There is one practice exam in the course (and a few quizzes for the intro to C section), which he claimed would be representative of the final. He also claimed that there would be no trick questions on the final. Neither of these things were true. The exam was multiple choice with only 16 questions, but the questions and answers were poorly worded to the point where it felt like we were being tested on how the instructor's brain interprets English rather than the subject content. Despite being open book, most of the class failed the exam. Most of us thought we were doing well until we hit the submit button, too. I personally went into it with an A and came out with a B+. The instructor's response to this was basically that we students don't spend any time reading Manual pages or documentation to Fully Understand C, so we need to fix that (implying this would be a good way to drive that point home). MFer, I spent more time reading Man pages than I did on the modules. /rant Anyway, no advice to offer here. No amount of studying would have helped me on this exam, looking back at it. Worst test I have ever taken in my life. TL;DR: There will probably be a lot of new things for most people in this class: working in a Linux environment, and using Vim, Bash, and C. My advice for people worried about this class is to familiarize yourself with Linux and Bash, and watch Benjamin Brewster's videos on YouTube (sections 1 and 2 will get you a nice headstart) to get started with C. You can use VS Code with Windows instead of Vim if you prefer, although the instructor will try to scare you away from it. Finally, I wouldn't recommend waiting for the revamp (coming in a couple terms?). From what I've seen, the instructor is not great at teaching, and any modules he writes will probably be less instructive to beginners in C than even the current ones. Godspeed.
+
+---
+
+[December 2022] Instructor Ryan Gambord does seem to care and is trying to improve the course. On the other hand be prepared to teach your self pretty much everything. The course material sucks. The instructor say using anything other than the course material is academic dishonesty. Do your self a favor and learn C before taking the course.
+
+---
+
+[July 2022] This class in my opinion is horrible. Yes it is a hard class and requires a lot of hard work. Unfortunately it was designed for a program that used to be largely taught in C++, where as now 80%+ of OSUs curriculum is in Python. You are expected to learn C during this term, in addition to the actual classwork. There is a lot of required reading and manuals to go through in order to do this, so yes you will be paying thousands of dollars to teach yourself. The provided links to "crash course to C" and the like are almost useless, because your projects are focused on file manipulation, permissions, threads, signals, and a multitude of difficult concepts that are not even mentioned in any of these videos. The TAs in the class I took regularly did not answer questions, or worse said things like "looks good" when asked a specific question about a specific bug. The instructor I had (Gambord) seemed to be fully capable of programming in C himself, and did put out a lot of skeleton code and help on Ed. Unfortunately he also seemed to spend a lot of time complaining about student conduct, going as far as writing a gigantic post on Ed about how many students cheat and how if you can't hack this class you won't be able to get a job. Interesting to read for me as I struggled in this class quite a bit, and also work a full time job as a software developer. He also answered fewer than 50% of the emails I sent him, so perhaps he could focus his energy elsewhere in future terms. The concepts of this class are interesting, although operating systems is by nature very low level programming and this sort of work isn't going to be what everyone getting a job in the industry is going to do. There are basically only projects (very difficult) and a final that counts for 30% of your grade, which is absolutely ridiculous. The content of the final in no way warrants that. The way to survive this class is to make friends early and get as much help from your peers as possible the way through. Do not rely on TAs who don't help or an instructor who looks down on you. Ed and to some extent discord are where you can get useful help if you are persistent. Its ultimately a class designed for an older program with very poor instruction, but you are required to battle through and complete it whether you learn anything or not.
+
+---
+
+[July 2022] Be prepared to read outside course material (man pages, c documentations, etc.)
+
+---
+
+[June 2022] This class is not impossible. It does not hold your hand like every other required class in the program does. If you start your projects two days before they're due, then good luck to you. If you start each project early you should be fine. I took this class with 361 and 362 with FT work, always started projects within 2 days of them opening. I promise it is manageable, the modules themselves were light so while the project hours below look scary, that was 99% of the class. No midterm or quizzes, and the final was open book / open internet. We only had 5 projects (professor dropped Rust project). Hours spent on projects breakdown: P1: ~30 hours, P2: ~35 hours, P3 (smallsh): ~55 hours, P4: ~14 hours, P5: ~30 hours. Gambord was the instructor and he was 10/10. Down to earth, very accessible, and reasonable grader / regrader. You can do this.
+
+---
+
+[June 2022] Get experience in C and build a thick skin before coming in. Unless you are a full time student, do NOT take any other classes alongside this one. And even if you do, only take one lightweight course like 361. Do not take 340 alongside bc 340 is kind of demanding as well. The professor is a bit of a tightwad about the Academic Integrity policy, so DO NOT google anything relating to the general assignment (i.e. don't google "how to build a shell in C") and cite your sources when you do use a source (it's okay to look up things like how to parse a string or build a structure). Also, he's changing the assignments but not the materials, so wait if you can to take the class because it was a WRECK this semester. About a third of the class dropped iirc. Class average on the first assignment was a 70. The one good thing is that Professor Gambord is very accessible, but he gets frustrated easily. He's a VIM purist, but it's a mistake to try and use VIM unless you have any prior experience, so just use VSCode. Start as early as you can on the assignments and ask questions often and you should be okay.
+
+---
+
+[May 2022] Take this class alone. Go to office hours every week.
+
+---
+
+[March 2022] Wait for the revamp if you can. The new instructor seems to understand how terrible the class is and genuinely wants to improve the class. Highly recommend taking an online class in C that puts a lot of focus on strings before taking this class. Also, find Brewster's old lectures on youtube if you can and watch those before reading the modules since those are basically a wall of text. It takes a little bit to figure out which videos correspond to which modules but is worth the effort.
+
+---
+
+[March 2022] Very time consuming projects. I felt that I learned a lot in this course, even though the content was kind of messy. Spend time in Linux learning and compiling C, and it will make your time a lot better in this course as far as learning the actual course content. If you don't, you're going to spend a lot of valuable class time figuring out C, compilation errors, segmentation errors, etc, and it won't be conducive to learning the actual OS concepts in the class.
+
+---
+
+[March 2022] A lot of students argue that the course is essentially a string manipulation and memory management course in C. I don't entirely agree but it will definitely help you to get a solid foundation in the basics of C in the beginning so that you don't spend unnecessary time debugging simple concepts later on. I did not have any experience with C prior to this course but spent a good amount of time on the first two projects making sure I knew how to debug properly and use Valgrind to check for memory leaks. I think this will really save future students a lot of time as the actual OS concepts the assignments implement are fairly trivial; for the most part, you're simply extending code the modules provide. I did end up investing extra time on my own (outside of reading the modules) to learn how to use double pointers and to learn how to implement a basic hash table structure for better time complexity. This was not strictly necessary to complete the assignments but would be something I would recommend students learn. The assignments are all very doable if you learn the foundational concepts early on and start the projects early (it will probably be a fairly time intensive course for most students). The grading criteria is very clear and lenient as well. The final is open book and tests basic concepts.
+
+---
+
+[March 2022] The projects are hard and take a ton of work, but the requirements are clear and grading is straightforward. This class has a ton of TAs with great availability. Start the projects early and go to office hours if you get stuck.
+
+---
+
+[March 2022] Wait to take it if you can; there's a planned revamp because it is an absolute wreck right now. If you can't wait, learn C before you start, because this course does a terrible job of teaching it, so you'll end up relying on outside resources anyway. I spent well over 40 hours per week in this course, got an A, and can't say I learned much of anything about operating systems, just a patchwork of C string manipulation. Be prepared for minimal TA engagement and zero assignment feedback--you are on your own in this course.
+
+---
+
+[March 2022] Hardest course in the program but probably the most rewarding. The most time consuming assignments can seemingly take upwards of 30-40+ hours. If you're not used to doing this yet, make sure to plan out / draw a high-level diagram of the program before ever writing code and use that as a guide. Assignment requirements are clear and grading seems to be lenient. Getting a 100% in the course is absolutely doable given the time and effort.
+
+---
+
+[March 2022] Start on assignments early. Pay attention to details on the test scripts for pertinent assignments. The final should raise your grade at the end of the quarter if you struggled. Take with an easier class.
+
+---
+
+[March 2022] If you are not familiar with C programming language, I would try to have a good grasp or understanding of pointers (creating, dereferencing), dynamic memory allocation (calloc, malloc, free), and data stream (stdin, stdout, file pointers) before going into this class, as it would make things significantly easier if you are not struggling with these during assignments. Smallsh is a project where you build a unix shell using multi-processing, and is intimidating if you do not have a firm grasp on how to properly start and end processes. After smallsh, don't slack off, because the difficulty continues with threading.
+
+---
+
+[March 2022] Learn C prior to taking the course
+
+---
+
+[March 2022] This class is maybe a notch less difficult than everyone made it out to be, but difficult nonetheless. I felt like I understood the material well, and averaged anywhere between 10-20 hours per week. I haven't seen a project breakdown, so here's my opinion: Assignment 1: Super easy intro assignment. Took me ~5 hours Assignment 2: Starting to ramp up, in retrospect not crazy hard, but I was still learning C. Took me ~15 hours. Assignment 3: The dreaded smallsh. Honestly this project is time consuming and moderately difficult, but they give you a grading script so there is 0 ambiguity of what's expected and what grade you'll get. Took me ~25 hours. Assignment 4: A little breather assignment after smallsh. You're given a lot of starter code, but the topic takes a little bit to wrap your head around. Took me ~10 hours. Assignment 5: A lot of people found this to be more difficult than smallsh. I thought it was more difficult conceptually, but they at least give you starter code. Took me ~20 hours Assignment 6: Difficult to understand at first (this project was in Rust), but super easy to code because they give you starter code. Took me << 5 hours Final: Overall really easy, since you learn so much from the projects. Open everything, so you can plug code examples into an editor and create a pdf with info from all explorations.
+
+---
+
+[March 2022] If you can, wait to take this class once it’s been properly revamped. The instructor this term acknowledged that the course, in its current state, is unfocused and incoherent. The class was painful for all the wrong reasons. You can definitely get a good grade in this class but be prepared to put a lot of time into each project. The final is open book, open notes, etc. so you should be able to get an A if you have the modules in a word document for easy searching and a text editor up to run code examples.
+
+---
+
+[March 2022] I took the Fall 2021 course, where they went back to the previous (not revamped) material. Take a LinkedIn Learning or other course for C++ prior to this. The class is in C, but knowing C++ makes you more marketable after the class and C is close enough that knowing C++ will still help you. The last two assignments are TOUGH. Start them early. I work full-time and took this class by itself, and I'm glad I did.
+
+---
+
+[March 2022] They reverted back to the original course for Fall 2021. I was very excited to learn about OS, and 344 did not disappoint. Be prepared to read a lot and to spend time digesting complex topics. Smallsh and OTP are very long assignments-- be sure to start them as soon as they are assigned. Although the class is difficult, it is very straightforward. The modules a detailed and well-organized. If you do the readings and understand them, you will be all set to complete the projects. For some of the programming assignments, the professor provides skeleton code that you modify to fulfill the requirements. I found this format helpful, although I also enjoyed building smallsh from scratch.
+
+---
+
+[December 2021] I took this class during summer 2021, and something had to have happened behind the scenes because this class was a mess. One of the TAs would constantly belittle people on the message boards. He was so condescending that it felt uncomfortable to watch. As a student, I felt scared to even comment or ask questions because it seemed like he would respond with a "you should know this" kind of reaction. The instructions for the projects were vague, and the readings, which were endless, were not helpful at all. I spent a long time doing each reading, but it made no difference. I basically learned nothing in this class.
+
+---
+
+[September 2021] It was revamped and is horrible. Spent 40+ hrs on each assignment. 50% had a C- or lower. I’m pretty sure they cannot release this class next term Bc it’s not a real class at the moment. Modules are useless and assignments basically have no instructions. You’re paying $2000 to teach yourself and the assignments/instructions omits important information that is required for the assignment Bc it fosters self-learning. Awesome teaching method. I’m almost positive it’ll be fixed but for summer 2021, this class is f***ked up.
+
+---
+
+[August 2021] The most workload heavy course in the program. The key for success is to NOT procrastinate. Start each module as soon as you can, get a good general understanding of the concepts in the explorations, then start coding. The hardest assignment took me about a week to complete. Read assignment instructions and grading rubrics carefully or you'll lose out on some points. Try to get as many points as possible. Don't worry about the finals as it's open-book/open-notes.
+
+---
+
+[June 2021] This course was definitely the most time consuming of any non-elective class. The material is not overly difficult to comprehend, but the projects are big. Start each assignment ASAP.
+
+---
+
+[June 2021] This class is definitely the toughest one I have taken in the program. It's very well organized, unlike the sh*tshow 325 is. It's very information-dense, and if you aren't familiar with the C language, get as much exposure to it as possible before the class starts. The first five assignments are in C, and the sixth assignment is in Rust. Start the programming assignments as soon as they are released, as you will need all the time you can get to complete them. The instructors and TAs were great, and even though the assignments were tough, the expectations were clear and the grading was fair. The final is unproctored and open books, open internet, open terminal, open whatever else you can think of, the only limitation is that you are not allowed to collaborate on it with any other students in the class.
+
+---
+
+[March 2021] Start early. Waiting until the last 4 days even is a huge mistake, these assignment show no mercy and take no prisoners.
+
+---
+
+[December 2020] This class is not as difficult as many describe it. It is just a lot of work. If you start any class assignment right after it is assigned, I would say I spent about a week on each one. One would definitely set themselves up for failure if they did it on the last weekend. Take your time to absorb the assignment requirements and ask TAs if you have any questions and you will have no problems with this course. Definitely probably the worst course if you are procrastinator.
+
+---
+
+[December 2020] This is definitely the most work heavy course I have taken so far in OSU CS. It was definitely all doable, though you really had to stay on your toes. I took the accelerated summer version of this course, there was one major lab assignment every week, with a mix of "in class assignments" and quizzes throughout. No midterm, but a final that ended up being the hardest part of the course for me. Due to the nature of some of the projects, You really want to start early. The only ones I ever struggled on were the ones I started too late. That is probably the best advice I can give for the programming labs.
+
+---
+
+[August 2020] The course was redesigned this summer. Modules now consist almost exclusively of written text and examples on repl.it (no lecture videos or required textbook). Also part of redesign, projects are now only in C (first 4 assignments) and RUST (last assignment, which was mostly graded as extra credit). Assignments can be heavy and tough, but grading scripts and guidelines were provided for all assignments. So getting a perfect score on assignments is definitely do-able if you work ahead and double-check submission. Otherwise, grading is not very flexible. -- Final is 30%, multiple choice, unproctored, and open-book.
+
+---
+
+[August 2020] Start the projects ASAP. like no joke. And go over some C stuff if you have time to begin with. Literally the first day start looking at the videos and read over the project to you have an idea of what to pay attention too. A lot of the lectures you can glean some base code from, but I had to do a lot of Googling/research to finish a lot of them. Take advantage of the TAs, honestly the best communication in the whole program for me so far. It was hella rough though. I feel like I did learn a lot regardless. I did not enjoy this class, but it is one of the better ones I feel like. It's just hard is all. The final is open note and not TOO bad. Have flip open on the side to test code. Otherwise, the key to this class like pretty much everyone has said is to manage your time well.
+
+---
+
+[June 2020] I found a few TAs that were helpful and consulted them a lot. It was really hard for me, honestly. My kid kept saying I was ignoring her, but I still managed an A- it’s within reach. The grading scripts help, but it takes a considerable amount of front end work before you get your code to pass any of the script. Just please start coding each project as soon as you can.
+
+---
+
+[March 2020] I would highly recommend taking this class as early in the program as possible. It's--in my opinion--the best class in the entire curriculum and you learn an enormous amount by taking it. Yes, some of the projects are difficult and they require that you actually read through the lectures and readings. But, if you do, you will have all of the tools necessary to complete every assignment. Will the assignments still take a good amount of time? Yes, but you'll have fun completing them. The instructor provides grading scripts to run all of your assignments against, so you will know that you have at least gotten as many points on an assignment that the grading script covers. Some points are still left for grabs to award to styling, commenting, and referencing sources. You are not expected to know everything prior to an assignment, but you are expected to show exactly where you learned different concepts. If you comment nearly every line and reference every Stack Overflow question you looked at, you will have absolutely no problem getting full points on every assignment. Start the projects early, work on them a little bit every day, and you will surely find this course be enjoyable and very well worth your time.
+
+---
+
+[February 2020] This class is a lot of work, but it is by far the best in the program. The assignments are clear and the materials are truly there to assist you in completing your projects. The instructor is extremely approachable and knowledgeable. Designate a large amount of time for this class, but have fun taking it! The assignments are really great.
+
+---
+
+[February 2020] This course has been one of my favorites thus far. The assignments are very challenging, but they provide a great sense of accomplishment once you complete them. Don't wait until two days before the due date to start and then bombard Piazza with questions in desperation. The assignments are worth 75%+ of your grade, so get a jump on them. The instructor and TA's were top notch! They were all very responsive and eager to provide help whenever needed. One of my favorite aspects of this course was the lectures. They are SOOO good compared to many of the others I have experienced up to this point. Awesome job Brewster! If you take the time to learn the concepts for each programming assignment, the final will be a breeze.
+
+---
+
+[December 2019] Easily the most challenging course of the program in terms of the complexity of the programming. Hone your basic C skills before the start of the class and allocate large amounts of time to all of the projects. Do not start a project with fewer than five days before the due date.
+
+---
+
+[December 2019] It's very difficult and I'm probably dropping out of the program due to the time intensity. I cannot stress enough. START EARLY. Take alone if you can or with a very light course. Spend weekends and nights on this. Toughest course in the program, and I've only got 4 left.
+
+---
+
+[July 2019] Watch the lectures, then read the assignment requirements and start thinking about them. Plan your program, then write it, then read over the reqs AGAIN to make sure you got them all. The requirements are long, but they are clear and precise. Three of the four programs even have grading scripts. The majority of your time will likely be spent debugging, so **get started early!** I think the first bash assignment was the hardest, and the 3 others were all C and not too bad at all. The small python program takes all of 10min to write, even if you do not know python. The TAs are awesome and make themselves freely available on the Slack, so use that if you need it.
+
+---
+
+[June 2019] Start your programs early and use Slack as much as possible. The TA's are there to help and are the most helpful TA's in the program.
+
+---
+
+[June 2019] Get started early. The course is divided into 4 "blocks" as opposed to weekly assignments, which requires a bit more attention to time management. However, all lecture materials are available on day one, which makes it easy to get ahead. The TAs and instructor are amazing and super supportive, which ultimately makes the class really enjoyable.
+
+---
+
+[June 2019] Watch all the lectures (at regular speed for once!), read all the required reading, and take advantage of the TAs on Slack. All of the information you need to complete the assignments can be found in the materials you are provided, though you may need to tweak things a bit from what's on slides, etc. Start on each of the programs as soon as they're assigned and work on them incrementally during the couple weeks you have to complete them. It's much, much easier to put in 1 or 2 hours every day or two than to cram 20 hours of work into the weekend before the due date.
+
+---
+
+[April 2019] It's like doing four final projects in a row. The four projects of this course are all large and time-consuming and the course feels more like an advanced C course than it does an intro to operating system topics. You'll get introduced to things like file i/o, threading, sockets, but expect those parts of the assignments to feel slapped on to a behemoth C project that could've easily been 162's final. However, unlike many courses in this program, this one is ORGANIZED and the expectations are CLEAR. You will be given a grading script to run and interpret to determine if your program will get a passing grade. Final is open book and multiple choice. Hot tip: the class will tell you to author all your work on the school server using Vim, but that's insanity mode for C files with hundreds of lines. I was able to do all of my work in my usual IDE on my Macbook and transfer it to the school server with no ill effects. Reports of things going horribly wrong if you develop on your own machine are overblown. Signed, someone who did all the work on their own machine.
+
+---
+
+[March 2019] Course basically boils down to 4 assignments, but they get harder so don't procrastinate. I personally found the lectures to be very helpful, but stay active on Piazza because there will be a lot of useful details shared there.
+
+---
+
+[December 2018] Ask questions and check piazza a lot. There is a lot of good info to be found in there. Project 4 was probably the hardest so get started on that early so you can ask questions. Other than that this was my favorite class. Brewsters lectures are hilarious and informative. Even if I don't get an A this was the most worthwile class. I learned so much. Even when I felt like there was no way I could do what the requirements were asking, I found a way. Break the assignments down into small steps and you will get through it. Good luck!
+
+---
+
+[December 2018] Be aware that nothing is shortened or simplified due to the summer term - this is the full-blown 10 week course in 8 weeks. With that said, I can't add anything that hasn't been said before - Brewster and his TAs really put their everything into this class. Take advantage of high quality lectures and assigned readings. The assignments are fair, applicable, and interesting, just will take you a bit of time. Don't sleep on OTP.
+
+---
+
+[August 2018] This is an enjoyable, well made and taught class with an amazing batch of TAs. The programs are difficult but everything you need to complete them is included in the lectures / reading material - especially the reading material. I can't emphasize enough, everything in the reading material is there for a reason and likely very important to completing the project. Even things that you first think "oh I don't really need that" you will need. I think this class is similar to 162 in that the material itself isn't necessarily that hard or complicated, but the assignments are very large and take a lot of time to implement. Most students end up with an A so don't worry too much. Brewster is the best professor in the program bar none
+
+---
+
+[August 2018] Be disciplined and attack the content early and often. It can be easy to fall behind because of the block format (not weekly as in other classes). You are given much time to learn but need it to cover much material. The programming assignments are fascinating and this was my favorite class so far (261 - Data Structures being a close second).
+
+---
+
+[June 2018] This is a great class. All the project have an associated grading script, so you know exactly what grade you'll get on it when you run it with your project. The professor and TAs are very helpful and want you to succeed. The only way to fail this class is if you procrastinate or get lazy, and turn in something with mistakes hoping it wouldn't be caught. Don't do that. The 4 projects each took me 18-25 hours to finish, with a good number of hours making sure it gets full credit based on the grading script, so give yourself plenty of time. Lectures are very helpful in understanding and getting the projects done. Easy final since it's open everything and very straightforward. Don't procrastinate, set a schedule, and you'll be fine.
+
+---
+
+[June 2018] Brewster and his TAs are great at answering questions. Visit piazza and slack frequently to get a sense of how to start your assignments. And start them EARLY. For an estimate, 162's final project took me 3 days to complete, and 344's each assignment took me 4-5 days of work. If you want to start ahead, familiarize yourself with bash. It will greatly reduce the shock on the first part of the term. This course is challenging but doable, and help is extremely available.
+
+---
+
+[June 2018] I really liked this class, but it was challenging material in my opinion. There is a lot of memorization of tiny details that can make or break your programs. The projects are no joke, and they are graded strictly. i.e. f your code does 99% of the program correctly, but formats the output incorrectly, the graders will mark you down on it. Start projects early, procrastinate and you will fail
+
+---
+
+[March 2018] Start assignments as early as possible. Make sure to watch videos and leave time to review videos.
+
+---
+
+[March 2018] Learn linux BASH before entering the class. The first assignment put me behind the while course, and it's written all in BASH. Learning there first is not optimal because the assignments are hard. Same with C. Do not use the class as an opportunity to learn C, you need to know it well already. Make sure you understand how to use a debugger(GDB would be best since your linux programming), valgrind to find leaks FAST and without fuss or you you should practice more coming in. I only say this because the assignments are legitimately hard in this class, you'll want to spend you time asking question on piazza about thew new concepts, not figuring out why there is a seg fault in a certain block of code! It's a great way to practice software engineering skills that the program has been trying to teach us. Breaking down the problems into small pieces!
+
+---
+
+[March 2018] This is the most we'll put together class in the program, hands down. Make sure you start assignments early.
+
+---
+
+[March 2018] If you start early on assignments you will do fine
+
+---
+
+[August 2017] This class is hard but fair. He gives you plenty of time to get rolling on things so USE IT! I cannot stress that enough. Some of the programs are different than what you are used to doing and take some fiddling to figure out, so start early and stay on top of everything and you will be golden! He is also a very proactive teacher, so if you don't understand don't hesitate to ask questions.
+
+---
+
+[August 2017] This was probably my favorite class so far in the program because of the enthusiasm of the instructor, the quality of the video lectures, and the clarity of expectations. As everyone else is saying, start the assignments early. Follow the grading scripts for guidance. They tend to start with the easy requirements first and then test for the more complicated requirements at the end so go in that order. Everything you need to do the assignments is provided in the lectures, so if you find yourself looking outside the class a lot, then you are probably over-complicating things.
+
+---
+
+[June 2017] Enjoy Brewster's teaching! He's great. Assignments take a long time, but you are given everything you need to complete them successfully.
+
+---
+
+[June 2017] Certainly not an easy class. Brewster is great though and gives you all the tools you need. Plus, he's very active on Piazza and answers all questions. You'll learn a lot and the projects are interesting. Start them early! You will save yourself so much headache if you start projects early. I didn't twice and I was scrambling at the end.
+
+---
+
+[June 2017] There is a lot of lecture content, so what it early otherwise you wont have enough time for the projects. The projects are large but the requirements provided are detailed. Just code towards passing the grading scripts - don't worry about extra features. Take advantage of the Slack room (details are on the subreddit) because Brewster is active in there in addition to Piazza
+
+---
+
+[June 2017] Start your projects early. Some of the projects can seem overwhelming, so break them up into doable chunks and work steadily on one or two pieces a day. Try to finish each project at least a week before it's due, so that if you misjudge your ability to complete all the requirements, you'll have the time you need to finish.
+
+---
+
+[June 2017] Get started early on the programs, as long as you do that you should be good.
+
+---
+
+[June 2017] This course was challenging but doable. Like everyone said, start the projects early. I had to turn in one project late because the entire weekend was not enough time. Brewster is the best professor and this is by far the best course of the program.
+
+---
+
+[March 2017] Start projects as soon as possible
+
+---
+
+[March 2017] The concepts are not too difficult to understand but implementing them in a program can lead to some stressful days. Listen to everybody who says start the programs early instead of waiting until the deadline. The class discussion board is great for help and to see that you are not alone with these problems.
+
+---
+
+[December 2016] Start the projects early and keep a steady pace. The projects aren't hard but you don't want to do them the night before they are due.
+
+---
+
+[December 2016] Start the projects early. They are involved so give yourself time to really absorb the lecture material and do lots of Googling. Professor Brewster is very involved and supportive, and the final seemed very fair.
+
+---
+
+[August 2016] As everyone will tell you start the projects as early as possible
+
+---
+
+[August 2016] It's very challenging and you need to put in the time on the projects. START THE PROJECTS EARLY or you're gonna be screwed. Brewster is the best professor there is and this is probably the best/funnest course in this program.
+
+---
+
+[August 2016] The projects may look easy, but they are harder than they first appear. Don't wait a day or two before its due.
+
+---
+
+[August 2016] Get started early and brush up on your C programming. The lectures do a good job of giving you the tools you need for each project but there will still be C related programming that the textbook can fulfill for you.
+
+---
+
+[August 2016] Start the assignments EARLY!!! I can't stress this enough.
+
+---
+
+[August 2016] Start the programs EARLY! Do not fall behind! Brewster is a fantastic teacher, ask him questions.
+
+---
+
+[August 2016] I'm not really sure why this class has such a rep for being difficult. The course grade is a syllabus quiz, 4 programs, and a final; that's it. While the lectures do not hand everything to you to complete the assignments and you will need to do some research, it is more than enough to point you into the right direction The grading scripts are provided for all assignments but 1; this is usually ~90% of your grade. The remaining 10%ish is from your code style and comments. Comment a lot and keep notes on what references you used. Probably due to the class size and the automated nature of grading, feedback is minimal and grading seems to be extremely lenient, which is unfortunate if you are looking for helpful feedback where you can improve. Overall, the class is as straightforward as can be without doing all the legwork for you, but programs might take extra time if you don't understand the content. The lecture about zombie processes is mildly embarrassing to watch; try not to cringe too much.
+
+---
+
+[August 2016] Be prepared by watching videos. I had to do a lot of outside research, but I liked the instructor. Don't wait until the last minute to do programs! Can't stress that enough.
+
+---
+
+[June 2016] Start the projects early! There are tons of resources to help you through the projects, but starting early is the best bet.
+
+---
+
+[June 2016] Don't underestimate any of the assignments. Brewster gives you plenty of time, but these are not assignments you can knock out in a weekend.
+
+---
+
+[June 2016] Start early with the projects and check forums frequently. Book wasn't really necessary.
+
+---
+
+[June 2016] Start the programs early. You'll get 2-3 weeks to do each program, but don't wait until the last weekend! There is a lot to the programs, but they're not necessarily very difficult, just time consuming. Final exam is open everything and not too difficult. There is no midterm.
+
+---
+
+[March 2016] Very time consuming. Start early. Otherwise not that difficult. Some annoying technical minutia, but exam is open book which is nice.
+
+---
+
+[March 2016] Practice a lot. The concepts all seem very simple and easy during lectures and notes, but when you need to facilitate them into larger code it becomes complicated and potentially confusing. Have a decent grip on C coding at the very least.
+
+---
+
+[March 2016] Start the projects early. The later you do, the more stressful it will be. Every assignment is a long and challenging slog.

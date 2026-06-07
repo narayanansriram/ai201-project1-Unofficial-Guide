@@ -1,0 +1,79 @@
+CS340 - dark horse candidate for worst course?
+
+From 290 to 325, we've all seen complaints about poor quality of instruction and outdated materials. Here are some shortcomings of 340, as I see them:
+
+Endless documentation - from the team evaluation form, to repeatedly having to list all peer reviewer feedback along with the team's decisions based on that feedback, it feels like too much, at least in the shortened summer term. I'm not against documentation, but the required amount of it doesn't match the scale of our project.
+
+Project requirements - this course is primarily taught through the class project. My issue here is that to understand what's really needed, the Project Requirements page is just the starting point. You have to look for various Ed posts and answers by the professor, in peer review "things to look for" and grading rubrics. One example is that we only found out that multiple webpages are needed to display each table from some posts on Ed. Another is that it turns out that the project website needs to be administrator-facing rather than client-facing, which was not at all how the project was originally framed.
+
+Both of these areas could be defended as giving us some "real world" project management difficulties, but it distracts from learning about databases and deploying them to support a website.
+
+On the plus side, there are lots of office hours, and TAs seem able to help with thorny technical issues. What do you all think? Am I blowing this out of proportion?
+
+_No_1_Ever_
+
+I feel like the lack of clarity in the requirements is a little annoying, but the effort needed to alter the project to meet the requirements isn’t too bad. Whereas in 344 I’m consistently putting in 20+ hours to meet the base requirements alone and if I’ve misunderstood something it can take another 3 to 5 hours to fix.
+
+344 this summer is a struggle
+
+I'm also taking it this summer and I've take all but 362 from the required courses. It's my #1 most hated class.
+
+Nope. It’s been crappy. No one knows, including the people teaching the class, what is expected.
+
+I did the 325 revamp. I’m WAY more frustrated with this class.
+
+I did 325 before the revamp, and dislike 340 more. At least with 325, you knew what you were getting into each week, and what topics to learn on YouTube/Geeksforgeeks.
+
+Your post reinforces the fact that they don't really listen to the end-of-term feedback. I took 340 last fall and many teams were creating storefront sites. It wasn't until week 8 or 9 that the prof corrected them and said that the site was supposed to be more administrative in nature. Luckily, my TA corrected me in week 3, or I would have been in the same boat. I can't imagine having to change the website that late in the term, and I am sure I am not the only one who would have mentioned this in their teacher evaluation form.
+
+[deleted]
+
+I'll give credit to CS340 for at least having the information somewhere.
+
+CS372 offers no guidance - any questions are met with paragraph long replies essentially explaining why they won't help you. And don't dare ask which question you got wrong in a practice quiz, module review, midterm, etc - you won't get to know :)
+
+340 is definitely not the best designed course but far from the worst.
+
+I think it comes down to partner, TA, and idea. I got lucky because my partner came out with an easy idea to meet the requirements and understood the scope. If you inflate the scope (make a database w/ requirements, make node or flask app to interact with it), you quickly will get very into the weeds and you will butt beads. TA also plays a role. My TA was pretty easy going and we reached out a couple times. Ultimately, they grade it, if you get feedback from them and correct it, then you are on a good path.
+
+TLDR: I feel you
+
+As far as scattered project requirements, I have seen this issue on multiple occasions throughout my time in the program. For $2,000 a class, I don't feel we should be searching 3 different sites (canvas, piazza/ed, slack/teams) for assignment requirements. It irritates me beyond belief. I actually lost points once when I followed the rubric and assignment directions to the letter, but missed some post on Ed where a TA answered someone's question, effectively changing the requirement as it was written in the assignment. They refused to give me points back, sending me a link to their ED response. I let it go since I already had over 100% anyway.
+
+If there is a clarification, that is what the notification feature is for. It sends everyone an email notification about the issue and there is an alert on canvas letting us know. Some instructors do this and I am so grateful to them.
+
+Holy shit taking points off there is absolute bullshit. It at least needs to be a Canvas announcement.
+
+Every Prof I've had so far goes and in and actually updates the assignment/rubric and then makes a canvas announcement - that's the standard procedure for any class, in any college, ever.
+
+The person who took the points off was a TA. I think if I had made a big enough stink about it I could have gotten it back from the prof. But the TA made it clear that they wouldn't because of their ed post. Since I had over a 100 already I just let it go.
+
+I am glad to hear you are having a good experience! Maybe I have just been unlucky or maybe things are improving! This quarter is one of the few I have not had this issue.
+
+Well put. At least the prof. in 340 has taken to pinning clarifying posts on Ed., so it's a little easier to find than during the beginning of the class.
+
+That definitely stinks :(. Seems like a thorny TA issue more than the course itself. It is definitely one of those classes where you hope to get the lenient/benefit of the doubt TA as opposed to the stubborn stickler.
+
+To be quite honest, 340 was one of my favorite courses in the program. I learned a lot and I felt like most of the requirements were laid out early, and for anything that was murky, I just stopped by the Professor's office hours or asked on Ed. I probably learned more about the stuff in 290 in 340 than I did in 290.
+
+It does suck that the course is narrower as opposed to open in terms of database specifications/design, but I think that's just to simplify grading for 70+ groups.
+
+I really appreciated how each module was laid out week to week, and the building block nature of the course as opposed to courses that seem so disjointed or just say "do this by X date" and throw you to the wolves. The key trick for CS340 was to always look at the grading rubric for the requirements as opposed to anything else. The rubric was always super detailed with exactly what each submission was looking for, point by point.
+
+In the term I took it, the admin-facing aspect was in one of the week 1 modules if I recall correctly. Odd that that may have been removed or altered.
+
+Have to agree, this was probably my favorite course. If you enjoy web dev you might like this course as it’s essentially web dev with db integration.
+
+I'm in 340 right now and I agree with you. Maybe because it's a condensed quarter but there is too much peer reviewing, drafts, and busy work. Then the requirements between the edstem and assignment description pages greatly differ. The actual project in itself, is pretty reasonable though. I can understand why they want to do away with client facing because they fear students will not get requirements done or implement user-authentication correctly. That said, it should have been made clear from week 1 instead of umm...close to the end of the quarter after the TAs made no comment on our first draft about it? So, you're not out of proportion regarding this.
+
+There's definitely a ton of busy work, but I think that's there to help struggling groups more than anything. If you found a solid partner and are always ahead on your project, the peer reviews and the like seem over the top. But for groups that require a lot of troubleshooting or adjustment, I think the peer reviews and busy work are quite critical.
+
+I am in 340 right now also, but I think there are other classes much worse than 340. 340 is definitely in top 5 worst for this program though.
+
+I do agree with you, that requirements for this project are quite vague and to have to constantly look for clarification for each assignment on pages other than the assignment page is a testament to how poorly written the assignments are.
+
+My other big gripe is that the lecture materials feel very outdated and often does a poor job of explaining the content. The book is not much better being quite dry and tedious to read. This class needs a complete revamp amongst others.
+
+Haven’t taken 340 yet, but it sounds like you’re describing some frustrating aspects about a lot of the courses in the second half of the program. We’re expected to read every single Ed discussion post and response in order to not miss project requirements, even if some of those only appear a day or two before it’s due. Why not just put everything on the assignment page clearly? Then students don’t have to wade through discussion posts for hours, reading things that may or may not be relevant to their own questions, just to figure out what is expected. I’m in 344 now and absolutely hate this aspect.
+
+You won’t hear complaints about 340 because it’s an easy course. That’s how it is at any school. If the course is garbage, but any easy A no one will complain.

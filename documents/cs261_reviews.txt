@@ -1,0 +1,553 @@
+[Unknown] Teaches abstract data types, dynamic arrays, linked lists, trees and graphs, binary search trees, hash tables, storage management, complexity analysis of data structures. Classwork is done in C (not C++). "Make sure to start early and pay close attention to the specifications in the assignment documentation. You should also spend time making sure you understand everything conceptually without a computer or the midterm and final will be killer. Also, draw things out by hand; I used my dry erase board more for this class than any other course I have ever taken.
+
+---
+
+[December 2025] Class is not easy, but definitely doable. Biggest advice is to start assignments early. Make sure to utilize your free days (not using them doesn't benefit you). There are two unproctored exams (midterm and final). Don't go too slow on the exams, otherwise you will run out of time. If you are struggling with the material, check out Abdul Bari on Youtube/Udemy. Supplementing 261 with his course can be very effective.
+
+---
+
+[June 2025] Carefully read and slowly practice implementing what is taught. This is one of (arguably) few true CS courses in the program and an even rarer one that’s content-complete, therefore it’s worth picking to the bone. Don’t stress about grades, just try to learn, and you’ll do fine.
+
+---
+
+[March 2025] Be sure to read every. single. detail. of each homework assignment, or you will regret it. The graders are very generous with point deductions. The content of the course is challenging, but interesting, and you gain a better understanding of some commonly implemented data structures.
+
+---
+
+[November 2024] Roughly the same difficulty as 271. Assumes you're already pretty strong with python. Start the homework early. The python debugger is your best friend. Read, understand, and follow the assignment specifications. Prof Scovil can sometimes come off as a hardass, but he's hilarious. Super professionally done course videos. He won't give you answers and he expects you to do most of the problem solving. One of my fave courses so far at OSU
+
+---
+
+[June 2024] Randy Scovil's homework specs were so vague and unhelpful. Most times, they would omit many details that you would only find out in Gradescope tests. Once you find them out, you have to go to Office Hours and wrestle with.the TAs to get help. Scovil's OH were like his homework specs: vague and unhelpful. When you ask him a question, he would ask you a question back and leave you even more confused.
+
+---
+
+[April 2024] To parrot everyone else: start assignments as early as you can! You can 100% every assignment if you give yourself enough time, and that makes the exams much easier too. I recommend getting on the course's schedule. Modules unlock on Monday, but their assignments don't open till Friday. Use the week to go through the notes (and work through the previous week's assignment) so when the new assignment unlocks you can start it the day it opens. Going into this class I was nervous as hell but I took the final with a high A For the work itself, draw things out on a whiteboard or scratch paper and use the debugger! Compare your program against their test cases then use the conditional debugger to get to the test that's failing (because you will have failing tests and that's okay!) and step through/into slowly to see which variables are off. It's significantly less stressful doing this process when you know the assignment isn't due for like 5+ days, and practicing it on the assignments before AVL makes AVL more manageable (that one it's updating the parent/child references that fucks everything up)
+
+---
+
+[March 2024] I enjoyed this course and found the assignments and tests to be fair and balanced. The concepts were explained OK in the readings, but the assignments really helped to drill in the knowledge. My main pieces of advice for this class are to (1) actually read the explorations and take notes - a lot of people complained that things were not explained but they were in the explorations - and (2) start the assignments as early as possible!!!! Some of the assignments sneak up on you in terms of difficulty. I studied moderately for the exams and got a 100 on both, they are pretty fair and go over a good amount of the class without being too nitpicky and detailed. Good luck!
+
+---
+
+[December 2023] Make sure you grind the material. Review online. With python this is fairly easy. Most of the structures have been done before, so refer to other material to get a good starting point if you're every stuck.
+
+---
+
+[December 2023] Make sure you have a good understanding of object-oriented programming! The assignments are not too difficult if you watch lecture and read the explorations. The midterm and final were fair.
+
+---
+
+[December 2023] You don't get the benefit of collaboration in this course like you did in 161-162.
+
+---
+
+[September 2023] Not too hard at all. You go over the basic data structures and implement them from scratch starting with a static array to hashmaps. However, they provide starter code and the assignment document is very detailed and well written. Tests were fair and as long as you do the explorations you should be fine.
+
+---
+
+[August 2023] Get a head start on all the assignments so you know which ones are going to be difficult before the deadline. TAs and Prof are super helpful.
+
+---
+
+[June 2023] Start assignments early and get comfortable with the PyCharm debugger!!! The debugger is absolutely your best friend. I do not mean adding in print statements, I mean the actual debugger; put in break points where you start running into trouble and step into your code slowly. TAs are invaluable, get into office hours the second they start and shoot off your message right away to get into the queue because it fills up fast.
+
+---
+
+[June 2023] Learn how to get really good at using your debugger and start on the assignments early. Read the requirements carefully and take the time to plan and map out your approach before coding. It will help limit rework and debugging later on. Make sure you’re fully grasping the content from each module, especially the early ones as complexity ramps up and everything builds in itself.
+
+---
+
+[May 2023] This is a good, but somewhat difficult class. Give yourself plenty of time to work on these assignments; they are likely the most challenging assignments you've faced in the program so far. It is much easier to think clearly when you aren't under pressure. Some past reviews complain about 20 page assignments. What this means is that you receive a 20-25 page PDF with assignment details. About 4 of those pages are cover sheets, table of contents, and basic ground rules. The remaining pages are descriptions of the methods you'll implement, and then test code and the expected results, each spanning 1-2 pages. Half of these methods are typically very easy and brief. Some of them are literally one-liners. It's really nothing too crazy or onerous. If you pay attention to all the requirements and pass all the Gradescope tests, you can definitely make a 100 on every single one of the assignments. Use the debugger. Get good at it. Use all of its features. Use stepping, use watches, use conditional breakpoints. MAKE SURE YOU READ THE GENERAL REQUIREMENTS PAGE OF THE PDF EVERY TIME. Certain things are prohibited in some assignments (such as recursion), and the penalties can be steep. Exams are non-proctored, extremely fair, and representative of the course material. You will be a better programmer when you finish this class.
+
+---
+
+[March 2023] Office hours are important, but they get less helpful towards the end as the TAs get really bogged down. I'd recommend finding a peer tutor that explains things in a way you understand through COE to supplement. As everyone advised, I started the assignments as soon as they came out, and that worked really well for me. The discord for this class was also incredibly helpful. One warning: double check every method for time complexity. It really can bite you in the ass when it comes to scoring.
+
+---
+
+[March 2023] This class was hell. I wish I had a comment to prepare me for this course ahead. If you can, do not take this course with another class, if you're working full time. The time it takes to finish an assignment is a lot and the Gradescope test errors are SO vague so you can't even figure out how to fix the problem based on the response. I went to office hours as much as I could, and it was pulling teeth to get the TA's to help along with Scovil. I understand they do not want to give away answers...but at that point I needed to understand the solution to actually learn. I wanted to learn! I didn't want to just pass all the Gradescope tests. But that's the result. Passed the tests, got an A, and got nothing conceptually learned.
+
+---
+
+[March 2023] My advice on using late days in the class. We had 4 late days that were available for use. If you plan on using them for an assignment, start by using the max available (2 for us) and then adjust down (which was allowed). On one of the harder assignments I requested 1 late day and then realized I needed more time and requested to use a 2nd, which the professor declined. Seemed pretty petty, so just start my using the maximum.
+
+---
+
+[January 2023] everything before and after AVL trees is pretty manageable but that unit is a bit of a beast, so be sure to get started on that project as soon as possible! you'll be spending a lot of time debugging
+
+---
+
+[December 2022] Start your labs as early as possible
+
+---
+
+[December 2022] Give yourself plenty of time to get the course assignments done and review the course content. This is where you start needing to visualize different concepts presented in the course so having a whiteboard, scratch paper, or Microsoft Paint open will come in handy to help draw out concepts like trees, linked lists, and graphs. Pay attention to the pseudo-code discussed in the course explorations and the reading for each section of the course. Also, don't be afraid to stop by office hours for this course since the concepts talked about here are pretty difficult to grasp immediately. The TAs did a great job helping me out with understanding what I needed to do for each part of the assignments.
+
+---
+
+[December 2022] Pay attention to the requirements for the first few assignments and max out those points... some future assignments rely on them so if your complexity is wrong on the first, it will be wrong on the next.
+
+---
+
+[December 2022] Work on assignments as early as possible. They are time consuming but you learn a ton from them.
+
+---
+
+[August 2022] AVL assignment is much more difficult than other assignments. Expect to spend at least twice as much time on this assignment
+
+---
+
+[August 2022] This class is pretty straight forward. All of your learning will be done be completing long projects. The explorations are short and to the point and adequately prepare you for said assignments. If you did well in 162, this class should be easy. Be sure to start the assignments early and DON'T use the provided pseudocode in the explorations. They are far more confusing than helpful and will rob you of a the chance to solve the problems on your own (which is a profoundly valuable skill to hone while you are a student).
+
+---
+
+[June 2022] Read the assignment documents thoroughly. Yes, they're long, but they have a lot of good information in them. Watch the video the instructor puts up for each assignment. Personally, I did not need to go outside of the modules/required reading in order to successfully complete this class with an A, but make sure you do all the required reading linked on the first page of each module (some book chapters, etc.). The midterm and final were difficult but fair.
+
+---
+
+[June 2022] I wanted to be really harsh on this class when I was in it. Reaching the end has cooled me down. Get ready to spend a lot of time on assignments. The assignment topics are good, the level of difficulty is high, the tests are fair, the learning material and TAs are near worthless. There were some old video lectures on here near the end that I thought were helpful, the rest of my learning came from Abdul Bari. Expect to get help from outside resources and peers in chat forums when going through this course. Key tips: 1.) Week 1's Python Fundamentals is NOT Python Fundamentals. Treat it like it's worth 30% of your grade. 2.) Assignments are 20 pages long. Each assignment is comparable to doing everything in CS 162 -- in a week. 3.) Requirements are tedious, GradeScope tests are thorough, code performance expectations are strict. Working code with a single requirements violation can drop your final grade by 1-5%. When people say start early, they mean start the day it opens. Learn the subject material 2 days before the assignment becomes available. 4.) If you work, I would consider taking this course by itself.
+
+---
+
+[June 2022] This class has covers lots of very important CS topics. The teaching is ok, but thankfully there are MANY online resources that explain the material very well. There are lots of great YouTubers explaining each concept. William Fiset (https://www.youtube.com/channel/UCD8yeTczadqdARzQUp29PJw) has lots of videos with nice visuals. While the material can feel intimidating, it’s not as complicated as it first seems. I think watching YouTube videos on each topic before reading the explorations is the way to go, since many people had trouble following the explorations, but they made sense once you already had a head start on the material (which maybe isn’t a ringing endorsement of the course materials). Don’t rely too heavily on the pseudocode provided in the explorations. First off, it doesn’t cover every little thing your code will need to do, so you’ll have issues if rely to heavily on it. Secondly, you’ll understand the material better if you build it more from scratch. Good luck!
+
+---
+
+[June 2022] Modules weren’t super helpful, so I supplemented with Udemy data structure courses (Abdul Bari, Scott Barrett, Colt Steele) and YouTube (back to back SWE, CS dojo, etc). Assignments can be challenging, so start early and use office hours (can be hit or miss), but I felt like after doing the assignments, I had a decent understanding of the material. Watch out for grading- expectations are not clear, and during my quarter TAs would take off 100% points for not meeting time complexity requirements, which wasn’t communicated beforehand. Like many OSU classes, not a lot of feedback on assignments or guidance on best way to implement code (ie after the assignment is done), which is frustrating if you’re trying to learn/improve.
+
+---
+
+[June 2022] If you work full time, you'll need to schedule tons of time outside of work for assignments which are 20+ pages long. Assignment 4 is terrible so get your grade up as best as possible before then. Check Gradescope grading. TA's are inconsistent with grading. One TA said the grade posted in GS is your final grade and that they will not grade your work if it doesn't pass the tests. On other assignments...TA's manually grade the work. There's no structure to grading and the rubrics are private and not publicized for students to understand how many points will be deducted.
+
+---
+
+[May 2022] Start early as hell, be prepared to be irritated by arbitrary restrictions in your assignments. Hard work, and critical thought required but the pay off in completing the assignments is very rewarding. I learned a lot, I was stressed a lot.
+
+---
+
+[March 2022] Most of the assignments are good, but the modules and office hours were pretty much useless. The modules do not provide the code examples/edge cases necessary to complete assignments, so you need to use external resources to actually learn the material. I recommend reading "Grokking Algorithms" by Aditya Bhargava, and buying Abdul Bari's Data Structure class on Udemy. Bari's theory videos are free to watch on Youtube, but you need to buy the course in order to get Bari's implementation videos, and those make a big difference. Replace 261's modules with the matching topics in Bari's course, and just do 261's assignments and practice quizzes. Both 261 and Bari teach data structures with C language pseudocode, but Bari explains it 10x better. If you get stuck, then you can try going through the modules. They'll make more sense after going through Bari. There is no content on the exams that is unique to the modules/extra readings. The optional module quizzes are very representative of the questions that will be asked on the exams. So just do Bari+Quizzes, and you'll be solid for the exams. This class does a great job ramping up people new to Python during the first 3 weeks, so don't worry if this your first class in Python. The assignments involve doing a ton of Leetcode-style questions, ranging from easy (Fizzbuzz) to hard (AVL). Save some of your deadline extension days for the AVL assignment.
+
+---
+
+[March 2022] Watch 3rd party content, make a plan to solve.
+
+---
+
+[March 2022] Start assignments early. I did not, but wish I had
+
+---
+
+[March 2022] Read and follow the assignment requirements very carefully. I got full points on all the assignments by doing this, but it seems like a lot of people lost points for minor things.
+
+---
+
+[March 2022] Talk to the TAs if you get stuck. The size of the projects are significant/detailed and the graders are picky. Pay attention to the assignment requirements. I work full-time and took this with 290. Spent about ~15 hours a week on each assignment. Everything ramps up to the AVL assignment, then the class becomes a little more chill with Hash Maps as the final assignment. The AVL assignment will be a time sink and is known as the toughest assignment in the class (took me about 25 hours to complete). Midterm was tougher than the final. Again, pay attention to assignment specifications! They will mark you down for little things that you may have just glanced over.
+
+---
+
+[March 2022] It is definitely helpful to look for videos on the data structures, as some of the explanations are wanting. That said, do not forget that you are neve allowed to use built-in methods from Python. This is where people run into trouble. Doing something like some_val = len(some_array) will get you a massive deduction. You need to look at the way the starter code is implemented and find the correct method (e.g. some_val = some_array.length()).
+
+---
+
+[March 2022] Save your extra days for AVL and either HashMaps or the final project (the final project itself was not hard, but having the extra time to focus on other classes at the end is nice). Most projects were easy if you are comfortable with your programming skills. Office hours were held in abundance throughout the week. Several of the UAs were really great in office hours, Scovil was not (vague and unhelpful). Try to go when the UAs are on if you can. A lot of people used outside resources (YouTube lectures) for help with understanding the structures, I personally was fine with just the explorations but I have taken some upper-division programming coursework prior to this course.
+
+---
+
+[March 2022] Swallow pride and go to office hours
+
+---
+
+[March 2022] I feel like each of the assignments is fairly straightforward, with the exception of AVL trees. Also be careful about accessing class variables or you will lose half the points on the method where you did it. Midterm was a bit of a shock, don’t spend too much time on any one question. The book linked above is also no longer required, but the pseudo code in the modules is still written with C in mind. Overall, not too bad
+
+---
+
+[March 2022] The course is taught in Python, so if you haven't used it before I would study before the course begins (a primer is provided in the first week or two as well though). Open Data Structures is a textbook referenced occasionally throughout the course that is available for free online. When you're going through the assignments, follow the restrictions carefully, as seemingly trivial violations can cost you loads of points.
+
+---
+
+[March 2022] Make sure to get started early on the homeworks, or you’ll probably be in trouble. Don’t worry too much about not fully understanding Big O notation which is covered at the beginning of the class. The midterm was harder than the final. I found the hardest part was figuring out how to access different indexes or functions because certain parts of Python are nerfed, but you get the hang of it. I personally really enjoyed the class and learned a lot. The AVL tree assignment was very time consuming.
+
+---
+
+[March 2022] This was the most time consuming class I have taken. Homework assignments are 20+ pages. You have to pass every gradescope auto-grader test....as that will essentially be your final grade for any project. The syllabus did not specify that the auto-grader would be the final grade. It mentioned that TA's would grade the assignments for partial credit, but this is not valid. No one manually grades your assignments. If you work full time, this course pairs best on its own. I do not feel as if this is catered towards working full-time professionals who need to take more than one class per term for tuition.
+
+---
+
+[February 2022] Read the Explorations and PDFs. Don't procrastinate on assignments.
+
+---
+
+[December 2021] This was an easy A. I was expecting a much more difficult class based on reviews from the previous semester. Most projects you could easily complete in 6-8 hours. The only exception was the AVL Tree, which was the hardest project in the course and many people struggled with it. Both the midterm and final exam were fairly easy, closed book, and unproctored.
+
+---
+
+[December 2021] This course in the summer was BRUTAL. The assignments had way too many problems to be able to be finished in a week, and were a huge step up from CS162. Set aside a lot of time for the readings, some weeks had over 40 pages of reading to do, along with 2-3 wikipedia articles, and 2-5 exploration pages. Be ready to do some external research, since some problems require solutions not discussed at all anywhere in the explorations or the readings. ULAs are helpful, but vary by term. Randy is nice, but a stickler, and he won't make any exceptions.
+
+---
+
+[October 2021] This class is a LOT of work. Don't let gaps in due dates fool you. Tons of homework, and many many readings assigned. Don't wait to get through all of the reading to start on assignements, start as early as you can, get help from TAs, and try to talk things out with class mates as much as humanly possible. Tests are hard but not impossible. I got a C on the midterm but 100% on the final. Submit to gradescope often and get all of the easy work out of the way for the points so you can dedicate more time to the hard problems.
+
+---
+
+[June 2021] Not too hard to do well, but at the end a few specific problems ramped up its difficulty quite a lot!
+
+---
+
+[March 2021] I think this quarter (winter 2021) was a bit of a step up from previous quarters in terms of the workload/difficulty of this class. Everything is very well laid out and topics are presented extremely well. You'll consistently write >100 lines of code for the homework, split between a bunch of methods that range from easy return one-liners, to recursive solutions requiring helper methods. Due to the importance of this course, I am happy that I struggled and am now very comfortable with every topic that was taught. Some weeks of this class were just reading and took 1 hour, near the end they stacked assignments and quizzes and I was putting in closer to 15. Overall a reasonably difficult class that you can get an A in with enough effort. We had unproctored, closed book exams that were middle of the road, but that may or may not change post-covid.
+
+---
+
+[March 2021] It's well structured and linear. Felt like a spiritual successor to 162. There was a bit of a crunch during the last few weeks when one of the homeworks covers two modules, but stay ahead during that time and you'll be fine. Workload wasn't relatively that demanding.
+
+---
+
+[March 2021] This is a fairly well structured class with each week covering a different data structure. The course is pretty self-contained (you don't really need to look to outside resources to do well). I would absolutely recommend getting a whiteboard if you don't have one to go through examples/algorithms before you start coding. Assignments are pretty straightforward and your grade on assignments is whatever you get on Gradescope (unlimited submissions, which has pros and cons). If you start assignments early, you should do well. I do think this was a significant step up from 162 so make sure you're comfortable with basic Python concepts before starting this course.
+
+---
+
+[March 2021] Give yourself a week in advance to work on each assignment. Keep python skills up to date before taking this. The TA's were very helpful but they get very busy right before assignments are due so try to ask your questions early. Course info was good along with a YouTube video here and there to supplement.
+
+---
+
+[December 2020] Complete the homework - use late days if needed, don't be afraid to turn in the assignment late
+
+---
+
+[December 2020] Relatively easy, probably due to COVID procedures. None of the coding assignments were very difficult. Midterm and final exams relatively easy, though the professor looked for very specific answers and don't like much fluff.
+
+---
+
+[September 2020] This is a good course to take during the summer as it's not too difficult. I highly recommend Rob Edward's YouTube videos as the lectures in this course are subpar. The programming assignments are fairly easy, although there are some tricky implementations that required TA help. Unfortunately, there are very few TA's and not enough office hours so they are swamped. Piazza was a cluster this quarter. Try to get to the assignments early so you can get help if needed. Thankfully the prof is really active on Slack and was more than willing to help me out.
+
+---
+
+[August 2020] Make sure to start assignments as early as possible to give yourself time to finish them since they are quite extensive compared to your average programming assignment in CS 162.
+
+---
+
+[August 2020] If you took 161/162 in C++ like I did, be sure to learn some Python beforehand. Assignments provide you with skeleton code to work with, having previous Python knowledge will save you time. I also recommend skimming through Grokking Algorithms and the class text (both available online with some searching) to familiarize yourself with different Data Structures and ADTs, knowing the general concepts will also lighten your workload.
+
+---
+
+[August 2020] I thought this course was great. Just keep up with the readings and you should do fine. Utilize office hours if you find the topics difficult.
+
+---
+
+[August 2020] Put in the time to really understand time complexity and how these different data structures work. If you don't understand the intricate details of how these data structures work, then you are going to really struggle, especially on the quizzes. Understanding Big O notation from CS225 is vital here.
+
+---
+
+[August 2020] I'd either pair it with UC San Diego 'Data Structures and Algorithms specialization' or get a 'Data Structures and Algorithms in Python' textbook ( Goodrich, Tamassia, Goldwasser). Maybe both. If you are not interested in extracurricular activities, the homework guides are sufficient unless you overthink. You decide how hard you'd want to work and how much you'd want to get out of the class.
+
+---
+
+[June 2020] No exams I’m pretty sure because of covid? But overall the course was easy, assignments weren’t bad given a skeleton for each one.
+
+---
+
+[June 2020] Pretty easy course--partly because of COVID and what I'm guessing is a reduced workload, but also because it is just so straightforward to implement this stuff in Python. There was such a big gap between modules that I sometimes forgot I was even in this class--I really wish I'd taken a second course with this. I didn't think the open source online text was very good, but there are lots of YouTube videos out there to supplement things for you.
+
+---
+
+[June 2020] This class covered Dynamic Arrays, Linked Lists, Queues, Trees and Hashmaps. The explorations covered other data structures but there were no assignments to reinforce the concepts so I just skipped them. Graphs and AVL trees were mentioned but not covered in any rigorous way. To be honest, a solid foundation in Python helps the most in this class. If you did well in 161/162, you are going to be well positioned to make this class your back burner class. No book, no exams, so its pretty much a gimme if you do the work and double check your submissions.
+
+---
+
+[June 2020] I think the class was probably easier than normal this quarter, as the grade was based entirely on 4 programming assignments of about 25% each. I had no programming experience prior to 161/2, but I found these assignments to be really doable. All gradescope tests are visible when you submit an assignment, so you know exactly what you need to fix, and help is readily available. Again, with minimal programming experience, I was able to finish the class with about 98%. The portfolio project took me about 10-12 hours to get a 100%, whereas the 162 project took probably 60+ hours to come out with about a 73%. I think that speaks to both the relative difficulty of 162, and the relative easiness of these assignments! I feel like I did grow through this class, but I still have a TON to learn about data structures. Taking 271 simultaneously definitely required that I spend the vast majority of my time on 271.
+
+---
+
+[June 2020] This class was surprisingly easy for me. Due to covid-19 the worksheets and exams were dropped for the semester, so maybe that played a big role.
+
+---
+
+[June 2020] New redesign, in an intentionally easier quarter due to COVID issues. Light workload. Light lesson modules. I'm honestly not sure how much I learned. I think/hope enough? I made Gradescope happy, which seems to have been important on each assignment. The instructors and TAs are present and helpful. That's nice, and it's not true in some other courses.
+
+---
+
+[June 2020] Data Structures Review from YouTube and group work are key to succeeding in the course
+
+---
+
+[February 2020] Get a group as soon as Slack access is set up. The worksheets have some typos here and there so you'll want to make sure you read them carefully, but so long as you put in the effort you'll get the points. Do not start assignments late, especially the Hashmap one at the end, you will be dealing with a lot of seg faults if your pointer knowledge isn't great.
+
+---
+
+[December 2019] I found this course really interesting and the topics covered are SUPER useful and important for pretty much every other class, especially Algorithms. The provided lectures and material are pretty poor so make sure you do whatever is necessary to understand what's being talked about. The concepts covered in this class are fundamental to lots of programming so it's easy to find outside resources.
+
+---
+
+[November 2019] The only concepts from C that you might not have covered in earlier classes were void pointers and function pointers - these will come up in the last quarter of the class. No need to do any specialized C prep. The most valuable things you can do to keep a good grade are (in order of importance): 1. Join a group early via slack, preferably before class starts. The students forming groups then will be the most motivated, and will help push you when you start getting lazy halfway through. 2. Create an implementation of each data structure from each worksheet along with unit tests. This will end up being a lot of work (10 hours per week, and more when doing AVL Trees/Heaps) since there are generally 5 worksheets per week. Your own C implementations internalize the structures/code so that you can answer questions on the exams that you might not have done before (if you don't Leetcode). Generally, exam coding questions will be something from the worksheets but with a twist. 3. Leetcode practice targeting each data structure is a fantastic supplement to the worksheets and their implementations - this will really help on the exam coding questions. It seems like it's easy to get a bad grade. Lots of students complained about the exam difficulty, but I'm not sure what kind of prep they did. I feel like doing these three things (and staying on it) helped earn an easy 97% final grade.
+
+---
+
+[September 2019] I was pretty lost the first few weeks of class, which starts with logic and expressions. This wasn't a typical 'numerical math' class, where you just operate on numbers. There is a lot of terminology and evaluating written statements. I think some general context and background of discrete math would have been helpful to ground the material in the real world, so if you want to prepare I'd suggest reading up on the subject and learning the basics of what this type of math is about and what it's used for. As the class progressed I could start to see how all the modules fit together and tied into computers (as well as many other areas of life). Toward the end of the class I was enjoying the subject much more and wondered why I hadn't learned this stuff before. The language in the required book can be confusing at times, and using the other recommended book or outside materials was helpful to parse some of the concepts. I also tried using an ebook version of the textbook for the first half of the class but eventually broke down and bought a physical copy around the midterm. I think having the physical version helps a lot when you need to skip around and review material. Unfortunately the midterm and final make up a HUGE portion of your grade (50%). However, the teacher provides some nice practice exams and the questions appear to be taken directly from the homework or quizzes with only slight changes. I thought the TA's and teacher were good at responding on Piazza and Slack.
+
+---
+
+[September 2019] This class was a shitshow. It was reworked and poorly done. The midterm average wound up being a D+ students then began pulling apart the poorly written midterm and points were given back. The issue was their was a poor correlation between the topics and structure of the midterm and the assignments. The textbook for this class is very useless. The lectures were OK but I recommend San Diego State University's lectures (there is a bald headed british guy) , the lecturer there explains AVL trees, Binary Trees etc much, much better then the OSU lecturer. The final for the term was better then the midterm but still had some ambiguity. In fact both exams I believe the professors knew some of the questions were written poorly because they included an assumption box on both exams where you could basically write down what you assumed about the questions and why and they would look at these while grading. Overall, I am one of many students who is disappointed with the quality of this class and hoped for something better. Not sure if other terms are better but the summer term was paltry at best. The group work in the class was another annoyance. I had a good group , but the group work felt superfluous and not really beneficial in any meaningful way that couldn't be accomplished in a more efficient manner. The course work wasn't difficult but the poor presentation overly complicated the course. Do better OSU.
+
+---
+
+[August 2019] Laurel and Larissa were teaching this term and were very responsive and friendly. It looks like they are taking over this course while it is being re-worked for next year. The content in the class is VERY old. You can trace the assignments and worksheets back many years. Throughout the years, it has received little to none quality of life updates as the worksheets use inconsistent code style or are even incorrect. If you can do anything to make your life easier in this class is get in a good group. My group was great. There are weekly meetings and it is key to get a group who is engaged with going through these spaghetti worksheets. The greatest part of all this is the amount of time spent on the worksheets in the end makes up so little percent of your grade (15%) it is ridiculous. Assignments are copy-paste from worksheets so they are meaningless. Tests are the only meaningful part of your grade so you better pray to rng gods.
+
+---
+
+[August 2019] The first half of the class covers Arrays and Linked Lists which is mostly a review from 161/162. Because of the limited material in the first half, the midterm exam tries to compensate by using trickeration and leetcode type coding challenges. The midterm is hot garbage, presumably written by a TA that has no formal training in exam writing. The 2nd half of the class covers Trees, BST's, AVL Trees, Heaps, Hash Maps, and (limited) Graphs. Because it covers more material, the exam is more general with less trickeration. Hope you get to experience the Python rewrite (Spring 2020) because this class is not good. I recommend using the Udemy C/C++ data structures class to actually learn data structures.
+
+---
+
+[August 2019] I highly suggest finding group members that are engaging, ones that discuss the topics beyond just the worksheets. Make sure you understand how and why structures and sorting methods work. Focus on watching the lecture videos and worksheets rather than the readings when studying for the exams. The topics for the first half of the class are not too bad, but the latter half ramps up in difficulty.
+
+---
+
+[June 2019] Learn some C before the first week. Assignment 1 is a bit more work than you will originally think it is. The tests are not bad. Do your best to conceptually understand each data structure and abstract data type. The midterm had one coding question(worth more points than any other question though), the rest were conceptual questions about data structures. The final had 2 coding questions(again, worth more points), and the rest were conceptual questions about data structures. There are a ton of typos on the worksheets. It's honestly ridiculous how many typos and errors there are. Why no one has taken the time to fix them after countless numbers of students have complained about it is beyond me. Get familiar with an IDE. I used CLION. It will be especially helpfull when you get to trees. You can step through each branch and see what's the the left/right of each node. Class is designed well, it just needs some serious re-polishing. It can easily be turned into a great class with just a little bit of effort. Tests combined are worth 55% of your grade. For some odd reason, they have you download a text file, write code into it for the coding questions on the exam, then reupload the file onto canvas. Utterly ridiculous method if you ask me, and so prone to error. So just be sure you are submitting the correct file for each question on the exams.
+
+---
+
+[April 2019] Overall this course was pretty good. I thought the lectures were clear, but the worksheets are poorly formatted and some of the questions in the later worksheets are also poorly worded. The programming assignments were fair, and I appreciated the skeleton file format. I would recommend spending a little bit of time each day making sure you really understand the concepts and implementations, and the class should be cake.
+
+---
+
+[March 2019] Read K&R before the class. Pick a group early. Start homework right away, especially later in the term. Don't take the information given to you about complexities at face value.
+
+---
+
+[December 2018] The videos are more helpful than the readings provided in each module. The stakes on the group work are low, you get your 1 point as long as you turn something in, correct or not. Class is more coherent than 225, but there's still plenty of conflicting and/or nonsensical instructions. You get a pretty good gut feel for Big O and the various data structures by the end, though, so I would say the content is actually good. Tests are fair, if not immune to gibberish.
+
+---
+
+[December 2018] The first few weeks of this class are fairly straightforward, covering things like dynamic arrays and linked lists. On top of these you implement interfaces like bags, stacks and queues. The latter part of the course becomes more challenging conceptually, covering trees (BST, AVL, heaps), hash maps/tables, and graphs(BFS, DFS, Dijkstra). Exams have a lot of questions revolving around time complexity (e.g. whats the average case for adding to a linked list, what about a hash map with chaining, with buckets?). They also have a few programming questions for which you can use a text editor (offline), and of course application questions like simulate breadth and depth first searches of this graph or remove the value 16 from this BST. The assignments required us to implement the interface as specified in the header (.H) like add, contains, removeAt, etc. You do not need a strong understanding of headers, OOP, makefiles, etc. as the focus is on the data structures themselves. Some assignments will build on these data structures (we built a spell checker on top of a hash table with buckets). Most weeks you will have group work covering 3-5 worksheets (taking 1-3 hours to complete in one go), and an assignment. The worksheets require the group to work on implementation of the same basic functions you will implement in the assignments. They are worth basically nothing in the grand scheme of things at 1 mark each for participation. That said, understanding the worksheets will help you succeed in both the assignments and exams for this class. The lectures are basically visual versions of the textbook readings. I found myself reading the chapters less and less as the semester wore on. Most of the content in the readings are covered in the videos, with the longest being around 30 mins and the shortest around 10 min. Make liberal use of the 1.5x speed to get through some of the repetitive or drier sections. In addition, Mycodeschool on youtube does excellent comprehensive lectures about most of the data structures covered in this class. For me the most difficult part was rebalancing AVL trees (although we didn't implement it). Conversely, the easiest part was hashmaps/tables (since these are basically identical to the first weeks coverage of dynamic arrays and linked lists). The best advice I can give for this class is to understand the abstract data types (ADTs) conceptually along with their interfaces. If you can visualize the data structure (like a linked list or a tree) and imagine traversing through it or removing elements then you will find this class a breeze. Best of luck to future students!
+
+---
+
+[August 2018] Studying up on linked lists and dynamic arrays will make the course much easier, as they're both the fundamental data structures you'll be using to write each of the abstract data types. Familiarizing yourself with C, particularly with regards to dynamic memory allocation and print statements, will also make life a lot easier. The class also has a heavy focus on group work with the weekly worksheets. Worksheets are graded based on effort, as opposed to correctness, and you could technically split the worksheets among group members to lighten your workload. However, completing the worksheets yourself not only helps you better understand ADTs, but will also make the coding assignments and exams much easier.
+
+---
+
+[August 2018] Like everyone else says, make sure to do all the worksheets yourself - especially before exams.
+
+---
+
+[June 2018] Grokking Algorithm book would be fun to read. This course didn't have a book but lots of pdfs. Midterm was hard, Final was more feasible. Practice lots on WRITING (not typing) code. Practice as if you won't have a compiler to check and have to submit it immediately.
+
+---
+
+[April 2018] The textbook isn't very helpful, to be honest. The lectures are pretty good. Knowing the worksheets backwards and forwards will help you the most.
+
+---
+
+[March 2018] There are some annoying mistakes in the "textbook" and worksheets that seem to never be fixed quarter after quarter. That said, if you complete all of the worksheets yourself (without just copying what your group does), do all the reading, and be thoughtful as you complete the coding assignments, this class will both teach you the essential basics of data structures, and not be too difficult to finish with a good grade.
+
+---
+
+[March 2018] Lecture videos help with the worksheets. Worksheets help with the tests!
+
+---
+
+[March 2018] Don't sweat it if you don't understand AVL trees, it happens to all of us.
+
+---
+
+[March 2018] Don't memorize data structure and ADT implementation really try to understand how it works. The Midterm and Final won't be nearly as bad that way.
+
+---
+
+[March 2018] Check piazza regularly. Sometimes the requirements would change there.
+
+---
+
+[March 2018] It starts off light but the concepts grow in complexity as the course progresses (linked lists, arrays, etc. --> hashtables, dictionaries, etc. --> trees --> trees/graphs traversal). Overall not a bad class, and as long as you take the time to read and watch the lectures, you should be fine. Make sure you understand the concepts each week, since they build on each other. This class should allow you to start Leetcoding with a software engineering mind :)
+
+---
+
+[March 2018] Take advantage of the opportunity to work as a group.
+
+---
+
+[January 2018] Do all the worksheets yourself, even if your group splits them up. The class has a nice slow-down around the midterm and final so you should have some time to study for these tests. Since tests are over half your grade in this class, take them seriously - the midterm is heavier on coding, the final is heavier on trivia type questions. I made a huge stack of flash cards full of tidbits, trivia, and dry facts (run time complexities, signatures, etc. of data structures) and studied them for the midterm and final. Doing this helped me earn an A in 261.
+
+---
+
+[December 2017] Data structures are pretty boring but they are the basis of computer science. This is one of the things you will probably not learn as well if you rushed your education(bootcamp). This is something that separates programming from computer science.
+
+---
+
+[December 2017] Spend time learning how each data structure works, not just the code. There will be many questions on the theory as well as Big-o. The exams are worth a large part of the grade so don't shrug off learning the theory. Still, an enjoyable a fascinating class!
+
+---
+
+[December 2017] This course has a lot of busy work (worksheets) and the programs can end up taking a fair amount of time to finish. The majority of your grade in this class will come from the midterm and final, so make sure you thoroughly understand all the topics before going into each exam and take plenty of time to review the practice tests in order to do well in this course.
+
+---
+
+[December 2017] I believe your group will be a big determiner in how you feel about this class. The material learned here is vital to separating you from the posers so do give it the attention it deserves. The concepts require a good deal of abstract thinking, but if you give some effort you should be able to get an A pretty easily. Reading chapters is not important. I never read anything after the midterm and did great in the class. Literally everything you need for the assignments/exams is in the videos/worksheets.
+
+---
+
+[December 2017] A lot of this class depends on how good your group is. Don't spend time reading the textbook.
+
+---
+
+[December 2017] The lectures and worksheets are great resources. The book not so much. Supplement your learning with the Yale DS pdf found on the subreddit. Code in the worksheets usually end up being used for the homework, so do your best at completing them correctly. The exams can be difficult, but Google is your friend. Her practice tests are also similar to the exams.
+
+---
+
+[August 2017] Know the worksheets inside and out
+
+---
+
+[August 2017] Definitely check out a lot of alternate sources. The class material is confusing and there are a lot of typos and contradictory material that will confuse you.
+
+---
+
+[August 2017] Read the assignments very carefully and get clarification from the professor when needed. The course is very disorganized and it's easy to miss points on things that are not clear.
+
+---
+
+[August 2017] Focus on the lectures and worksheets, not the "book
+
+---
+
+[August 2017] Homework is easy, tests are hard. Make sure you know which are ADTs and which are data structures.
+
+---
+
+[August 2017] The data structures introduced aren't particularly challenging, but strong skills with C pointers will really help you grasp the material and complete the implementations more easily.
+
+---
+
+[June 2017] Worksheets reference each other and are used out of order. Prepare to skip back a few weeks to find functions/prototypes/etc.
+
+---
+
+[June 2017] Start early on assignments. The worksheets are graded very leniently, but give them a serious shot and work with your group. The functions you write in the worksheets end up being necessary to complete the assignments. Don't skip the lectures or the reading, they're helpful. The first few weeks are easier than the rest of the term. As far as exams and long-term retention...don't focus on the specific implementations in C (although you will write code on the exams, only about 15% of the points are coding in C). Focus on understanding how the data structures and abstract data structures work, be able to describe operations, simulate them in a diagram, describe time complexities, and identify which data structures would be best for a situation.
+
+---
+
+[June 2017] Do not slack in this course. This will test your C language abilities pretty well. The information you learn in this class will definitely be helpful for all future software development.
+
+---
+
+[June 2017] Aside from poorly written exams, the class was okay. Learn to love https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+
+---
+
+[June 2017] Don't over think the assignments. The data structure implementations are not overly complicated, and the worksheet solutions get you halfway there.
+
+---
+
+[March 2017] Try to find a good group in the beginning because you will be doing the weekly worksheets with them. All of the assignments are based off of the worksheets, so it's important to do them right.
+
+---
+
+[March 2017] First half of the course is pretty easy, second half it gets a bit tougher so be prepared. As long as you do well on all the homework you should be in a good place for the exams
+
+---
+
+[March 2017] Review the worksheets for the midterm and final. Programs are fairly easy.
+
+---
+
+[March 2017] Harder than 271, but doable. Weekly meetups with your group members. More coding needed than 271. Recommend you do all the worksheets and know them very well.
+
+---
+
+[March 2017] Provided book isn't that great, try Mastering Algorithms with C. Professor is nice but a bit scatterbrained.
+
+---
+
+[March 2017] Don't be afraid to use outside resources. The lecturer did a poor job of editing his videos. He frequently misspeaks and has to clarify what he's saying, and it's almost always in the middle of a complicated concept. Goodbye, train of thought.
+
+---
+
+[March 2017] Revisit the worksheets to study for the midterm/final.
+
+---
+
+[March 2017] Redoing the worksheets was one of the most helpful things for me for studying for the exams
+
+---
+
+[December 2016] Understand the concepts behind the code. It's what's tested on both exams. Also, do every extra credit assignment you can. Might just push you up a grade.
+
+---
+
+[August 2016] Focus on understanding the concepts intuitively, draw them, simulate traversal, addition and removal. Watch the videos, the book was not as important. Spend time on the worksheets they directly translate to the tests.
+
+---
+
+[August 2016] Favorite class so far as far as concepts are concerned - however, coordinating with a group is a hassle. If you take this course during the summer, I recommend avoiding other classes that involve a lot of collaboration as you'll end up spending every day of the week in group meetings.
+
+---
+
+[August 2016] The "book" for the class was hardly helpful, I supplemented it with "Mastering Algorithms with C" and found that one to be much more useful. I really liked the lectures and found them to be quite good. For the midterm and final the practice sheets are nearly identical to the actual test. Know them well.
+
+---
+
+[July 2016] Try not to get bogged down by working with your group on the worksheets. Understanding how each function is implemented on the worksheets is absolutely key.
+
+---
+
+[June 2016] Continually practice the implementations so you don't have to cram for the exams. When you do the homework, really understand the implementations, don't just copy from the worksheets or elsewhere. The lectures are really good, so make sure you watch all of them and take appropriate notes.
+
+---
+
+[June 2016] Samina's expectations are vague and confusing. Be prepared for some initial frustration. Once you get into the swing of things it's not so much of a problem. Get comfortable with C. Don't wait until the last minute to do assignments.
+
+---
+
+[June 2016] This class isn't difficult. Study the worksheets for the midterm and final.
+
+---
+
+[March 2016] Be cooperative with the members of your group. The wording of questions on the exams is a little wonky.
+
+---
+
+[March 2016] Do the worksheets as they really help with the programming assignments and, more importantly, with understanding the concepts.
+
+---
+
+[March 2016] The group work is mostly useless. The "book" for this class is a joke. I'll be planning to take a free online data structures course to brush up, because this class fell really short in terms of making me feel like I could go into an interview. The homework code feels hobbled together, and often contradicts itself. Be sure to keep current with the discussions on Piazza because many people will hash out the issues ahead of time.
+
+---
+
+[March 2016] Assignments and worksheets take time, be careful and prepare well. Debugging can be challenging due to longer programs. Significant amount of material covered.
+
+---
+
+[January 2016] This was easier than I thought (got an A). You might want to save this to pair with the tough classes (e.g. I heard 325, 344)
+
+---
+
+[December 2015] Just get it over with....I am not impressed with the structure of this class but she is overly fair and wants you to succeed.
+
+---
+
+[December 2015] Just get it over with....I am not impressed with the structure of this class but she is overly fair and wants you to succeed.
+
+---
+
+[December 2015] Do not underestimate the difficulty of the tests. Be prepared to write code, answer multiple choice questions, and take the full amount of time allotted to complete the test. The group work can make or break your understanding of the material, so fingers crossed that your group works well together.
+
+---
+
+[November 2015] Make sure your algebra is down well. Go through the practice quizzes and study previous semester's homework solutions. Use alternate resources beyond the required reading.
+
+---
+
+[November 2015] Tests are pretty hard, and what ultimately ruined my A.
+
+---
+
+[October 2015] Have the worksheets out while you watch the lectures and fill them in as you go. Use the group worksheet time to solidify your understanding.
+
+---
+
+[September 2015] I would listen to the lectures to understand the content, skim the provided readings (don't waste your time like me) and get another Algorithms/Data Structure book to supplement. Also check out this site... http://visualgo.net/ . The worksheets were 85% helpful for me, a lot of times our group would actually meet in real time through Gchat to do them, it was pretty fun.
+
+---
+
+[September 2015] Watch the lectures before doing the worksheets and assignments, often part of the answers will be presented.

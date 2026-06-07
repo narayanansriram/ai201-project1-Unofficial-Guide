@@ -1,0 +1,115 @@
+Did they revamp CS 372 (Introduction to Computer Networks)?
+
+Based on this thread, the class is horrific. Yet, I see 2 good reviews from this past December (2025) on Course Explorer. Did they change/revamp the class or it's just difference in opinion?
+
+Should I take it or 381 (Programming Language Fundamentals), which does not have exams?
+
+Thanks in advance!
+
+For context, 372 (Networks) used to be taught by Samina Ehsan and Eric Muhati but is taught by Stephen Redfield this Spring (2026). So, I'm not sure if it still has exams. 372 (Prog. Fund) is taught by Joseph Jess (same instructor from last semester.)
+
+I can't comment on a revamp or not, but I am in the class now.
+
+Lecture content is ok, but the book readings are required so the lectures don't cover everything... We have weekly summary exercises due every Sunday. You get two attempts and each attempt has a 2 hour time limit. They definitely pack a punch though, the first week's exercises felt like an exam. Each one after that has felt somewhat like an exam as well but so far the first was the worst. I easily spend about 2 - 3 hours on these exercises alone. Additionally, they're not completely 1:1 with lectures or the book. Sometimes there are questions that I find are in the next week's lecture content, not the week that we are being assessed on...
+
+Labs/assignments haven't been too difficult, though.
+
+Revamp or not, it is still a pretty heavy class and I would recommend pairing it with a light course.
+
+seconded. i wouldn’t say the class is poorly taught - i wouldn’t necessarily say it’s well taught either. it isn’t even a difficult class per se, but the most important thing about the class is that there’s a lot content and a lot of work is required on the part of the student to retain it all
+
+Bro, Samina is ass. Horrible lecturer and super annoying voice.
+
+If you get Redfield teaching the course that would be ideal. I had him for Computer Architecture and he was an all around amazing dude. Can’t recommend him enough.
+
+I made the original post. I actually liked networks ha, took it last quarter. It’s fundamental knowledge and hammered down on concepts you see throughout this program like HTTP, TCP/UDP, etc. HOW THE INTERNET WORKS! Also, if you take OS before it, you’ll have a leg up. Math does suck in the class, but that’s it.
+
+I very much dislike mobile tho.
+
+I haven’t taken 372 but I had Samina for 225, super nice lady but explanations were just reading the bullet points.
+
+It’s got to be an upgrade if someone else is teaching it.
+
+I don't usually jump in on these kinds of things but I hate this class. I don't mind readings, but the weekly exercises require you to understand math that isn't really taught, and while you can logic your way through a lot of it, it's painful. The book isn't bad, just dense, and the reading takes quite some time to get through. I'm in the middle of the second programming assignment now and it's unintelligible. The annoying part is, I feel like I do understand the concepts we're supposed to know, but the weekly exercises and programming projects aren't checking for that knowledge because it's easier to get a pass/fail type of answer on a math problem. The labs are fine but as others mention, straight from the textbook authors and you don't need this class to do the lab.
+
+If you do decide to take it, consider taking it alone or paired with something really, really easy. Or, get the textbook and just spend some time reading it and watching the lectures from the author on YouTube, and skip the class.
+
+The class and its content is good. I’m glad I took it, especially since 493 was so good.
+
+Caveat: I used the textbook author’s video lectures on YouTube almost exclusively instead of the canvas lectures.
+
+Exams were fine. No need to avoid the class due to it having exams.
+
+I would not base my evaluation of a class on reddit posting, honestly. You have a biased sample size of people who are more likely to complain.
+
+372 course material is comprehensive -- you're not going to get spoonfed everything you need to know in the lectures. You do need to use the lectures, the textbook, and you can cite additional helpful sources as needed, while doing projects. The weekly summary exercises are time-consuming and take a good amount of work. The projects take even more work, because you are expected to figure it out. The exams were the easiest part of this class.
+
+Can you compare to a non-elective?
+
+I can, but in the sense that it is different from all the non-electives (I've taken all of them except capstone). Specifically, it does not contain all the information you need to know in the lectures (but the lectures do contain necessary information less easily found elsewhere), and there's an outsized amount of textbook reading expected to be able to synthesize all the information for projects.
+
+I took Winter 2026 and it was my favorite class of the program so far. The lectures and summary exercises are bad, but the textbook, labs, and programming assignments are really good. Learning this material will make you a better programmer, full stop.
+
+Old posts make it seem like this class is a nightmare and not worth it, even as a pre req for cloud. I’m looking to see if this class is still that lousy as I might just switch it to a different elective such as 381.
+
+Thanks in advance!
+
+I thought the assignments were trying to teach important concepts, but the readings and quizzes were mostly nonsense in my opinion. I was generally frustrated with the class. I was kind of burnt out that quarter but I didn't learn much in this class. Mostly learned what I need to learn more about.
+
+I just took 372 last quarter and I 100% agree. I was really frustrated with the class and found it to be a waste of time and money.
+
+Thanks for the insight. In hindsight, would you do it again?
+
+I feel guilty because people mention it’s important and is a requirement in other CS programs, but like, if you walk out not knowing much anyways whats the point.
+
+I wish cloud could be taught as a standalone, and dislike having to waste a slot because I would definitely forgo networks if that were the case.
+
+I'd def strongly consider not taking the course. If there was a better alternative then I'd likely take that. I didn't feel like I had many viable options for my electives.
+
+Here's what I have to say on taking it this last quarter:
+
+The lecture material is bad. It's not synced up with the textbook or the quizzes in a super meaningful way; it is significantly shorter (about 40 minutes of pre-recorded 'lecture' video per 100 pages of dense textbook reading with many, many concepts in it) and often fairly light in content.
+
+The textbook is good, but does not really prepare you for how to take the quizzes. There will be questions on the quizzes that are very specific math word problems and trivia that seem to expect you to have a flawless interpretation of the textbook, but because of how vague the lectures are, what that information is and how to utilize it is never sufficiently highlighted. In particular, the lectures will almost never prepare you for how to do the math problems. Thankfully, there's always google, but even then some things remained completely obscure to me. There are also office hours, but I feel like consulting the profs/TAs just to glean the basics (when there's such a disconnect between instructors and students in an online program already) is not good design.
+
+The midterm and final are just revised combinations of the prior reading quizzes with trivia questions pasted together word for word and the math problems with changed variables, so unfortunately, you REALLY need to make sure you can perform on the reading quizzes. That's part of why it's so frustrating.
+
+I agree with the other commenters that the programming assignments are practical, but the difficulty curve is both harsh and the instructions (possibly depending on professor) can seem almost too purposefully vague, and give you little help in navigating the starter code. Assignment one is about an hour of work, assignment two and three are somewhere in the vicinity of 12-24 hours of work depending on your comfort. In particular, assignment 2, RDT, had very poor instruction and was immensely confusing to navigate, along with guidelines that were hard to interpret if you met correctly. Ironically, the issue is not so much with coding the actual solution to the programming problem they present as navigating the very confusing codebase they provide you with minimal documentation in addition to the nebulous instructions. Once you have those pieces together the actual solution to the labs was pretty basic.
+
+There are about 5 labs on using a packet sniffer. These were probably the coolest and the most problem free, but they were also ripped one for one from the much better written textbook authors. I did feel like they helped actually isolate concepts and understand their practicality.
+
+Despite all this, the class is not undoable, but like many others in this program, you will need to sink significant time into looking at material out of class. I do not think the grading curve is that harsh, but actually expecting to fully comprehend the deluge of material by yourself from only the course materials is almost impossible. I wouldn't say it is a nightmare, but if you have a heavy course load or need to prioritize other things, probably don't take it.
+
+Thanks for the detailed write up. I will absolutely he referring to this when making my decision.
+
+Unfortunately it seems like cloud might be one of, if not the, best classes in the program so I may have to grin and bear it for this one… we shall see.
+
+I transferred Networks from Foothill. It was strictly a networks class (first course in the CCNA sequence) and not a programming class, but I still learned a lot of relevant info
+
+I thought it was a very good class. The readings were very informative and useful, as were the programming projects. I disagree with the strong criticisms here, although the lectures were relatively useless rehashes of the textbook material, and you're better off just listening to Kurose's lectures on the book's website. It's a very good textbook, and the Wireshark labs also come from the book. The whole class is built around the book, and covers most but not all of it (many subsections are not required reading, but we go through all the most important things).
+
+I took it last year, so I don't know how much it's changed (if at all), but I thought it was a good class overall. The math problems are tedious, but not super difficult. You just have to practice them. The programming project requirements are somewhat vague as I remember, but that allows for some creativity in how to implement things. You will have to do some research on your own though, which people seem frustrated by. Just be glad the programming assignments are in Python and not C.
+
+Not the answer you may be looking for, but I would suggest writing a list of electives you can take as what electives does OSU offer, what prerequisite they have, in what quarter are they offered? Then rank them and decide. Networks may not be the most glamorous class, but it teaches great concepts and it was a prerequisite for other electives I was interested in.
+
+Sure. I’m using this post to help me decide between the
+
+Networks/Cloud/FundOfProgramming combo
+
+VS.
+
+Parallel or CyberSecurity/Mobile/FundOfProgramming combo
+
+I did Networks/cloud/mobile. I know mobile is different now, but i also have seen people questioning cloud as you are just doing API development + learning a bit about documentation (reading/writing). Again, assuming it didn't change much. The actual "cloud" part of the class wasn't impressive in my opinion.
+
+Just take the best electives that are out there and that align with your interest. They are not going to be deal breakers when you start applying for jobs.
+
+Bad lectures, easy labs and homework. Easy A of you're not up for a huge challenge
+
+I found it fun. I agree that quiz can be annoying because it involves lots of math. Like unit conversions or finding total time it took for data to arrive from point a to b, or the data transfer speed found based on bits vs. bytes vs megabita or megabytes etc etc. This seem to annoy alot of people.
+
+But I really enjoyed the programming assignment. We had to implement TCP like connection using python and I found it quite fun and learned alot.
+
+I agree that I learned a lot from this class everything was mostly straightforward for labs and quizzes and midterm and final. The three big coding projects were what took the most time and I felt extremely overwhelmed and lost on it. It could be that I didn’t have a strong grasp of the material and coding, I was still able to complete them and honestly got full points. It’s doable if balanced with the correct classes but definitely a heavier workload than I expected. And I agree with the previous person, I felt extremely burnt out.
+
+I took this because I believe it was a prerequisite for cloud networking but idk if it’s worth it..

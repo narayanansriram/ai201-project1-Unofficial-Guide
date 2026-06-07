@@ -1,0 +1,81 @@
+[Unknown] Condenses CS161 and CS162 into one fast-paced course. "Study hard, keep good notes, get into good coding habits, and make sure you understand all of the assignment requirements!
+
+---
+
+[November 2019] Get a testing suite like Google Test or Catch up and running in the first week of class and learn how to use it. This will save you tons of time debugging during the middle of the course when the assignments get longer. Get comfortable debugging in an IDE or with gdb. Fixing non-working programs will go much more quickly with a debugger than with cout statements. Exams are about 50% reading code and being able to discern a result. Reading a lot of code will help with this - go through the book examples with your whiteboard and get practice tracing values through the sample programs. The other 50% of exams will be language features. Things like default constructor behavior, "which function gets called"-type questions for polymorphism, and "which variable is in scope at this time?" The best practice for the exam would be doing all of the checkups at the end of the book sections. If you can do well on these, you'll do well on the exam.
+
+---
+
+[April 2019] Assess the difficulty of the assignments immediately after they are accessible to you on Canvas; last-minute coding will kill your grade. The textbook is extremely useful for studying for the midterm and final; do the exercises that relate to each chapter. The video lectures are poorly made and, for most topics, not helpful.
+
+---
+
+[July 2018] Familiarize yourself with a unit testing framework like catch2 early on. If you can write your own unit tests for your projects, you can be almost 100% certain you'll pass the automated tests on mimir. Get a headstart on group work since it can be slow to reach consensus. The class is not that hard if you manage your time and test your code before submitting it.
+
+---
+
+[June 2018] The book and the teacher's notes are really all you need, which is good because the lectures are okay at best. Both the teacher and TA were responsive over email and Piazza. I did worse on the first exam than the second, mostly because of first time ProctorU issues. Prof does like to be tricksy on the exams, and there were errors with some of the questions, so double check your results when you get them. Protip: the reading for module 7 is extra long and arcane, and that week you also have two group assignments on top of the normal homework, so be proactive.
+
+---
+
+[June 2018] Read the book chapters and do the projects ahead of time. Make sure to test your programs thoroughly for all specifications. Projects are a big chunk of your grade and its nice to have a buffer going into the final.
+
+---
+
+[March 2018] Do the readings, code the examples in the book and go line by line so you understand what each line of code is doing. Learn pointers (they're not as scary as people make them out to be). Don't leave the assignments till the day they are do, always test them on FLIP so you don't waste submissions on MIMIR.
+
+---
+
+[March 2018] If you're familiar with OOP it is worth your time to take the accelerated class.
+
+---
+
+[December 2017] Easy if you have programming experience. The assignments are too easy compared to 162. Taking 161 + 162 is better preparation if you've never programmed before.
+
+---
+
+[December 2017] The workload is decent, be prepared to read chapters or familiar with sample codes from textbooks. Usually every week covers 2 chapters. Read w/ Video materials, you will find the hw is alright. Be aware of more reading materials in the first four weeks. The Professor is always on the Piazza, usually take him 30 mins to response, if you got questions on your codes. Most TA are reasonable with grading.
+
+---
+
+[June 2017] Study your pointers (I thought it was a joke passed around by students, but no actually study your pointers) and NEVER go a week without understanding the material in and out, because it all builds on itself. For example, if you don't know how to create variables (week 1), then you won't be able to create methods, and if you don't understand methods (week 3) then you can't create classes, and if you don't understand classes (Week 5) then you won't be able to create class interactions (week 7) etc... then you're screwed from week 1 lol
+
+---
+
+[March 2017] If you understand the readings (and especially if you've programmed before) then the assignments are very straightforward. The first exam was a little tricky so make sure you prepare, but the second seemed like you would do well if you did the assignments.
+
+---
+
+[March 2017] If you have some experience with OOP, this class is not difficult
+
+---
+
+[March 2017] If you have taken an intro course before, you can skip/skim over the lectures/readings. A lot of the exam questions come from the textbook, so review it before the test.
+
+---
+
+[March 2017] Start projects early. There were many times where I would wait until the last minute and have to work most of the day to finish. Would've been much easier to do little pieces every day.
+
+---
+
+[March 2017] The most important topics are C++ syntax, pointers, and object oriented programming. Make sure you learn how to use valgrind, and write your own comprehensive tests for each assignment.
+
+---
+
+[March 2017] - Alcon likes to ask "gotcha!" questions on the exams. Be prepared to parse and pay close attention to simple, but tricky questions.
+
+---
+
+[March 2017] The first few assignments are very easy, but the latter few will probably take extra time to debug
+
+---
+
+[February 2017] Get started early on assignments and read the material beforehand. Google is your friend.
+
+---
+
+[June 2016] Work ahead. Read the text (it's very good). Start the programming homework assignments early, those are the biggest portion of your grade. Make sure that your code compiles and runs on the FLIP server, it doesn't matter if it runs on your home computer. If it doesn't run on FLIP, you will get little or no credit. Also turning in an unfinished project on time is better than missing the deadline completely.
+
+---
+
+[June 2016] Understand that this is (most likely) your first taste of CS; chances of that occurring without headaches/stress/worry/doubts are slim to none. You should know the C++ language well enough to get into trouble after this class, various condition statements such as do while loops/for loops/if-else statements/switches/etc, object oriented programming, recursion, pointers and de-referencing pointers, and you MIGHT touch a little on memory management. You should also learn how to debug and how to do it well. Learn how to test as you go. The key objective in this class is not to become a know it all and perfect at the language. The key is to understand these different concepts. A for loop/while loop/switches/condition statements etc will generally be the same in all languages. They use the same pseudo code and thus are written very similarly. Once you know these concepts, picking up other languages is extremely easy.

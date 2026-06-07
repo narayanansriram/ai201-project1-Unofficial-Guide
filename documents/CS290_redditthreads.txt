@@ -1,0 +1,113 @@
+CS 290 - Anyone else feeling lost and overwhelmed?
+
+The material lately is just killing me. I'll understand it one day, and the next it all looks new to me again. The how-to guide is giving me so much anxiety; I'm not sure how I'll ever put together anything halfway decent. I can't even figure out this week's assignment. I know this is 100% my fault...I should've made sure I understood the material completely each week. Instead, I just kept throwing together assignments without fully getting the concepts.
+
+Sorry for the rant. Anyone else feeling this way? This is the first class where I feel this lost. How did I let myself get so behind?
+
+I feel the same. It's the combination of an inactive teacher, assignments that don't quite match up with lectures and readings, and a book that is just rather awkwardly written. My assignments get 100% but they're sloppily thrown together and I feel like I have not retained anything.
+
+The class is pretty much being taught by that TA Satpreet and students on Piazza.
+
+I thought this course was going to be a lot more interesting, but I've found myself more excited to study assembly language. That alone indicates a problem.
+
+Isn't it amazing how a well-structured course makes it so engaging? I am enjoying assembly too.
+
+It's all because Paul2son was a boss and Redfield actually cares.
+
+Good to know others feel the same. I thought I would really like this class but I'm hating it at the moment. But I wonder if it's web dev I don't like or if I just don't like this particular course?
+
+That's because Assembly is awesome! Seriously, it's the best class.
+
+It's the combination of an inactive teacher, assignments that don't quite match up with lectures and readings
+
+The class is pretty much being taught by that TA Satpreet and students on Piazza.
+
+How often are you all experiencing this sort of issue in your classes? I'm considering applying in 6 months to a year but if this is a common occurrence I'll probably look at another online CS degree. I'm not keen on dropping ~$30k on a program with disengaged teachers, especially when it's all online.
+
+[deleted]
+
+Comment deleted by user
+
+[deleted]
+
+What's the book, Eloquent JS?
+
+[deleted]
+
+Comment deleted by user
+
+[deleted]
+
+Gotcha. And the course is primarily focused around node.js right?
+
+2 more replies
+
+FWIW I'm doing OK, got the assignment down finally. I've been frustrated at times but mostly chalk that up to JS being a hot mess of a language. I like the lectures and have backed away from reading Eloquent JS since I don't find it all that helpful.
+
+[deleted]
+
+Comment deleted by user
+
+Hey that's mine! lol Looks like I forgot to delete my s3 instance. It took me roughly 12~14 hours but it wasn't efficient as I did it in one sitting. I think it was from 8-10ish. I made it more detailed because I wanted something to put on my resume from this class and up to that point I didn't have anything. I also was a teacher until recently so I'm used to explaining things with examples and creating learning material.
+
+Basically I would just open a text doc and write down the topics you want to cover. So mine was something like intro to api/json/requests then I just chose a couple of api calls to cover and coded those in jsfiddle/codepen. Honestly, I don't think this was necessary.
+
+I think you would be fine with just logging all of the results and skip the to html part. Actually, you could probably skip the intro section/json/challenges/html and just cover a few api calls with code examples. Could do something like, "I'm assuming you're familiar with x y z if not here's a link to where you can learn more about it," to cover your ground a bit.
+
+I wrote everything out in word for each section, then I just coded a one page web app that showed the movie details/stuff/all the stuff at the end and broke it down into smaller parts to use through out. The css is just bootstrap boilerplate.
+
+I think you could get 10/10 by just going over your api calls with code examples to go along with it. To start, I would just take a couple of your api calls, do examples and explain what you're doing/data you're getting. Then grab a bootstrap template and put it on a s3 instance. There's no need to use node/s2 instance because it's just a static site. After you have that done I would email/pm her with a link to your site asking for feedback/things you might have missed or should touch on. I wouldn't worry too much about it and when you do your final project -- use jquery. I found out afterwards that we could have used it and died a little because that took me ~30 hours to get working properly. The screwed up thing is they didn't even test it! I checked my database after it was graded and they didn't create/update/delete anything. I really ended up disliking this class although I had fun on the how to. If you think you might like webdev I would work through freecodecamp. I got an internship mostly due to the projects I completed from their challenges/projects.
+
+[deleted]
+
+Thank you for starting this thread! I thought I was the only one... or maybe I'm just feeling a little burned out at the moment.
+
+BTW does anyone know how we actually turn in the how-to guide? Do we host it via AWS? Just turn in the files?
+
+You can also add your files to your public_html directory on FLIP. That way you can continue to have your site up if you decide to get ride of your AWS instance once it starts to cost $. Your address will be: http://web.engr.oregonstate.edu/~[yourONIDname]
+
+You can host it via AWS and just send them your link with the correct port
+
+I hated the how to guide because it was really hard for me to find something to write about. If I picked something with documentation, I was like this doesn't need a guide, if I picked something with very poor documentation, I was not able to get it to work. I have something called a "how to" in mobile/cloud due soon I hope it is not the same type of project
+
+I took mobile/cloud last term. The how to guide is practically the same type of assignment.
+
+Damn, that sucks! Not looking forward to that
+
+[deleted]
+
+I'm considering applying for this program, but reading through the comments here has left me with doubts about the quality of the faculty. Can anyone speak to the level of engagement and activity from the faculty? Are the inactive/non-caring faculty the exception or the rule?
+
+The course content is pretty solid for most courses. Faculty...ehh. I've only taken a few courses so far and they've been lackluster. They're very reactive as opposed to proactive in teaching style.
+
+Right there with you. I'm considering dropping the class right now and really grinding down on some material this summer so I can try again in the Fall. At this point I just feel so behind I don't think I can catch up.
+
+[deleted]
+
+You would still have to pay the course price of $1880 though, wouldnt you?
+
+The material isn't that hard that it's worth losing tuition over it. Just study your ass off and finish the term.
+
+Did you see the post earlier?
+
+https://np.reddit.com/r/OSUOnlineCS/comments/4gjcal/cs_290_outside_resources_for_javascript/
+
+Also, I actually just started the basic Javascript course on Udacity. They use jquery but it still seems helpful. They also have an intermediate course, Object oriented javascript that goes over closures and they have an Ajax course. Also, Coursera has a couple web dev courses. The first one seems closer to our class.
+
+https://www.coursera.org/learn/html-css-javascript-for-web-developers
+
+https://www.coursera.org/learn/html-css-javascript
+
+Thanks, I'll check out some of those resources.
+
+Doing the Ajax interactions as we speak. I can't even get the professors example to run!
+
+I'm going to end up cobbling together whatever I can to make it spit out whatever it's supposed to. I'm spending all day just trying to figure out why his code doesn't work.
+
+EDIT: I finally got first half done.
+
+Protip: Ditch the professor's example code. It's shit.
+
+[deleted]
+
+Comment has been removed

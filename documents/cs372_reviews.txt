@@ -1,0 +1,325 @@
+[Unknown] Computer network principles, fundamental networking concepts, packet-switching and circuit switching, TCP/IP protocol layers, reliable data transfer, congestion control, flow control, packet forwarding and routing, MAC addressing, multiple access techniques. "This class is DENSE! The programming assignments are doable, the hardest thing is knowing what they want from you and parsing the skeleton code. Definitely check out Kurose's lectures on YouTube they are a great supplement. I like to track my coursework with Toggl so I have an objective reflection of the time consumption. This class took me 152 hours over the quarter, roughly 50% of the time was spent taking notes, 25% on quizzes/exams/studying, 15% on programming projects, and the rest on Wireshark labs. For me, weeks 6-8 took the most time (20+ hrs per week), so be prepared for that heavy mid-course run!
+
+---
+
+[March 2026] Kurose's textbook is amazing and use Kurose's youtube lectures when possible. The programming skeleton code is great, helpful, and very well organized. People generally struggle because they're not used to real OOP. If you're used to OOP from something like Java, you'll have no problems. A great class for web application developers and great to take as a prereq for CS 493.
+
+---
+
+[December 2025] Read the textbook or watch the textbook authors lectures (free). The OSU lectures real bad and just plagiarize the textbook but worse.
+
+---
+
+[December 2025] This class is pretty easy (the content and weekly summaries are kind of like CS 271). But the content isn't all that informative, so I watched Steve Tarzia's lectures online! They follow the same path as this course but are very in-depth and interesting. It made the class really fun! The labs take way too long, but are easy (usually just taking screenshots of things). The programming projects are open-ended. You don't get a lot of guidance, and they have to cover a lot. That being said, it was fascinating and fun to play around with IF you have the time!
+
+---
+
+[March 2024] I had this class with Prof Muhati, and my experience was much better than others based on previous reviews. This topic is so important and this class so informative that it's honestly a crime that it's not a required course for the Postbacc program. There are a handful of coding projects in this class, and how miserable they are seems pretty directly tied to the professor you have, as the specs for them leave many of the details of the implementation up to your judgement and interpretation, and you're expected to work without much handholding. Between the assignment details, the rubric, and the spec documents, there is a notable level of ambiguity and sometimes inconsistency. I think for that reason, the professor you have for this class matters way more than in other classes. Muhati was very open and communicative, and it's clear that he does not see himself in an adversarial relation to his students. There are a handful of projects that involve interacting with different parts of the network stack, and they're all pretty interesting in their own ways. The first is pretty easy, with code you can mostly borrow from the textbook. This one sheds a lot of light on what some of the tools used in 290 are doing in the background. The second and third are significantly more involved and time-consuming. Do not procrastinate these projects. The final project is fun and very easy. It's a socket program implementing a chat server and client. You can reuse the bulk of the code from the first project for this. The skeleton code for assignments 2 and 3 is an absolute mess. It seems pretty likely that someone hastily reworked existing Java code to Python, as it contains a lot of Java-style conventions and old-school approaches to writing code. There is a very embarrassing preamble essay for one of the most challenging assignments in the class, RDT, condescendingly citing a 30 year old paper on adult pedagogy as a rationale for the poorly structured starter code and vague and confusing assignment description. It's the classic "I'm teaching you what the real world is like" crap, but adding a giant diatribe about it into the course module is obvious cope. Having read things people have said about this course in the past, I can probably guess who wrote it. The other assignment FAQ pages are worth reading, however. Outside of that, you'll be doing Wireshark labs every other week or so, which I found fun. They involve looking at data packets and the information contained in them and developing an understanding of what you're seeing at and how the network stack is operating. There are module summary quizzes that you can retake twice, where questions often repeat week to week. There are two discussion groups before the exams which involve choosing a topic and recording a brief video explaining it and demonstrating an example problem. Finally, there is quite a bit of weekly reading, which you can mostly skip and still do well, but you really shouldn't because the book is great. People have complained about busy work in this class, and I don't really think that's fair. It is a very busy class, but the primary learning activity that came across as busy work to me was writing the reflections after each project. I think every other assignment had a clear value for learning the material. Overall I would definitely recommend this class to everyone in the program and it should probably be a required course, but I wouldn't take it if you needed something with a small time commitment or you're otherwise dealing with a lot of stress. I would also avoid taking it with certain faculty members who have a reputation.
+
+---
+
+[December 2023] This class was a ton of busy work. Definitely read the textbook, as it was the best resource in this class. The midterm seemed to take questions directly from the module quizzes, so study those as best as you can. The assignments were difficult and tedious - time needs to be spent debugging the given code to first even understand what it is doing. However I definitely feel like I learned a lot in this class, and can appreciate networking moreso now than before. The midterm and final were not proctored thankfully, and were completely open-note and open-book. You have two attempts at the weekly module quizzes, and some questions overlap between the two attempts. The discussion groups are mainly busywork, recommend just getting the video and comments out of the way ASAP so you can go back to doing regular work.
+
+---
+
+[December 2023] This class is okay. The textbook is good and you should read it although it is verbose. The author has lectures on YouTube that are a lot better than the lectures in the explorations. The skeleton code for the projects is really pretty bad and seems to get in the way more than helps. It’s like someone trying to write Java code using Python — overuse of object oriented programming and an overall non-standard style. Spend time to thoroughly understand the skeleton code and its quirks before starting. Exams are open note and textbook and follow the summary exercises and practice exams pretty closely. You should still study and prepare because running out of time may be an issue if you need to constantly reference your book or notes.
+
+---
+
+[August 2023] The textbook is great. Read it! The instructors, Samina and Eric, are terrible, as are the explorations and the assignment descriptions. For example, the project rubrics were something like "5 points for a pdf explaining the program and 70 points for the code", and the instructions themselves were vague and unclear. Then, some graders would take of 20 points for formatting output improperly, even though the instructions were not specific and they refused to provide guidance on Ed. The explorations confused more than they explained, so I stopped reading/watching them after a few weeks. Basically, anything touched by someone at OSU was terrible, but the textbook was great. Also, the textbook's authors have video lectures that I've heard were pretty good. All this said, I'm glad I took the class because the book taught me how the internet works, and I feel like that's an important thing to understand as a programmer.
+
+---
+
+[April 2023] Get the labs done early, they're annoyingly long. The lecture videos are awful, just read the textbook and you'll be fine. Grading is sometimes totally subjective and off-rubric... For that reason, take advantage of all extra credit opportunities. Power through and you'll be in cloud in no time (if you're not taking this for cloud's pre-req, take something else... worst class I've taken at OSU)
+
+---
+
+[March 2023] This is absolutely the worst experience I have ever had here. The course is purely self-study and an exercise in search. What's worse is that you will not find out your actual standing in most of your grades well past a month. Why is this relevant? Because decisions that could have been made like dropping a class cannot be made because you won't know where you stand The projects are graded harshly even though the Professors outright tell you there's no guidance on how to actually do them. Oh and don't bother trying to learn from your mistakes. They won't show them even after you have taken your weekly quiz.
+
+---
+
+[March 2023] In short, this class is kind of a mess right now. It feels packed with busy work that doesn't provided substantial value. On the other hand, the textbook is great. If you read the textbook and can locate the textbook author's lectures they will prove far more valuable to your learning experience than anything in the class material itself. As a result, if you're good at self-studying I would choose to do that instead of taking this class. However, I wouldn't skip on learning Networks.
+
+---
+
+[March 2023] This course is a lot of work. That said, I think the excessive amounts of time I spent reading, doing WireShark labs, doing programming assignments, and doing the weekly quizzes, help a lot of the basic networking concepts stick. Like others have said, the book is great (book based assignments included). For me, I benefit from guided learning and I think this course is god for that. I never would have touched WireShark, the Python Socket Library, nor would I have taken time out of my day to learn networking terminology, bit transmission calculations, etc. i have taken a networking course before, but this was far more hands on and I appreciate that. Having Eric and Saminah oversee the course are also a huge benefit, considering comments about their predecessor. If you need someone to force you to learn technical networking, the class is worth it. If you can self teach and prefer other electives this is course is quite replaceable.
+
+---
+
+[March 2023] Don't. This course has a great textbook and all the materials (videos, activities, etc) that you'd need to learn all about networking are online, and free (well, not the book): https://gaia.cs.umass.edu/kurose_ross/eighth.php So if you're interested in the topic - you should be, it's fascinating and useful! - take the time to watch the videos on there and maybe buy the book if you're a book person. OSU literally just takes this UMass class, dumps a bunch of crappy and confusing content on top of it, and charges you $2000. It's also got a ton of busywork and the assignments are confusing.
+
+---
+
+[March 2023] The problem with this course is the teaching staff. Very little activity from any instructional staff on Ed, some of the answers will seem to contradict project specs (I don't think this is intentional, honestly, I think it's laziness). Two of the TAs never seemed to bother to hold office hours, which made it difficult to ask questions/get help. There was one instructor who tried to answer student questions. The book is necessary. Get it and read it. Assume the projects need to be researched prior to starting and you'll be OK. Give yourself plenty of time for the labs, they can be tedious and time consuming.
+
+---
+
+[December 2022] I was nervous going into this class because of the negative reviews, but I found the reviews to be mostly incorrect. Sure, the professor can be vague and frustrating. However, if you have any interest in learning about the internet or the network side of a computer, you will probably find this class enjoyable. Don’t take this class over the summer (11 weeks smashed into 8); it was rough. Take this class before 344. I liked the course content, mostly the book. I recommend watching the videos and reading the required reading since this content will be on the weekly quizzes and exams. Make sure to record all of the knowledge checks and quiz questions since these will greatly help when taking the exams. Many students struggled with Traceroute and RDT. Traceroute was hard because the instructions were vague. However, if you follow the introduction to Traceroute and not the section in the book, you will finish the project quicker than most. It can be an easy assignment if you stick to the introduction’s description of Traceroute. RDT was a fun assignment and was time consuming because there were so many layers to the project; see some Reddit reviews of the course if you are struggling and you might find helpful suggestions to start the project. The grading was lenient. If you meet the project requirements in any of the assignments, then you will probably get an A on each of them. The last assignment, client server chat, can take 2 to 3 hours depending on what references you read. The extra credit could take longer. I didn’t do it since I didn’t need the extra credit.
+
+---
+
+[August 2022] Overly stuffy with constant busywork and vague assignments. Lowest quality course taken so far but not hard to get an A with time. The review below me sums everything best.
+
+---
+
+[August 2022] I did very well because I had time to sink into this class, but if I could go back I would have just skipped this class. There is a reason this class itself is an elective now and I don't think any other class is worth taking this one for, at least not in its current state. You could probably get just as good an introduction to networks by doing a read through of the book or watching some videos online. There is a lot of required reading which you should definitely do. Almost all of your learning will be from reading the book because the course explorations and lecture videos are laughably bad. It is really hard to believe that the lecture videos came from a university level instructor. You'll just have to see what I mean. You will also have to record a video introducing yourself, two videos going over topics that were covered, and you will need written responses to two of your classmates' videos in each instance. There are frequent Wireshark labs where you have to capture and annotate 20 to 30 screenshots, and while these aren't difficult and can be a little bit interesting, they can take a very long time. There are four programming assignments, two of which are very easy and two of which probably shouldn't be too bad, but you may find them taking a very long time because the instructor is purposefully vague with directions and assistance. He claims the reason he is so vague and unhelpful is so you'll figure things out yourself and better understand things and as a result you might do a little bit better on the final. The problem with that is...the final is pretty easy to begin with. The midterm and final are open note and open book and many of the questions you will get you already saw word-for-word in the quizzes. The skeleton code in the programming assignments you have to use will also take you a long time to wrap your head around because they are a bit convoluted and you'll have to kinda guess at what specific direction they were thinking of going when writing it. Overall, you're mostly on your own in this class and don't expect much help, if any, from the instructor. I think it boils down to the instructors being the gatekeeping types and I don't think these types of instructors work well for an intro class. With all the time you sink into this class, you'll wish you had taken a different class and had extra time to study Leetcode, work on a resume, practice for interviews, work on a project of your own, etc.
+
+---
+
+[August 2022] The class definitely is a decent amount of work, between the weekly readings, quizzes, and homeworks. The final projects (Traceroute and RDT) seem difficult when you first go through them (the project pages take a good amount of time to digest), but looking back they aren't nearly as bad as I had been told they were. Overall, this class is filled with information that is fundamental to nearly everything we do in modern day, but I hit a point where my brain would throw out old info to make room for new. Tests are open note, so take really take diligent notes during the readings and you'll have zero issue getting a passing grade.
+
+---
+
+[June 2022] Be prepared to teach your self or find YouTube lectures. The projects are painful due to a lack of instructional material, ambiguous requirements and poor starter code. The weekly quizzes are open book. The Packet tracer labs are time consuming due to having to take an annotated screen shot of every step.
+
+---
+
+[June 2022] This class was acceptable, but the course content was disappointing. If you are interested in Networking, the textbook is available online and provides all the information covered in the class. I personally felt that the programming assignments did not contribute to my understanding of networking concepts. The Wireshark labs are also available online. The weekly quizzes feel out of date because despite going through all of the readings and modules, there would still be questions that weren't covered. I think this is a subject that could be self taught if you are on the fence between this class and another elective. I personally wish that I had taken a different elective.
+
+---
+
+[June 2022] There is a lot of work assigned each week, but it's rarely complicated. Read the assigned text first, as it will help the lectures make more sense. The midterm and final are relatively straight-forward, as long as you practice all the example questions that they've given you along the way. The wireshark labs are a bit tedious, but they do demonstrate the points made in the book and are an easy way to buffer your grade. The programming assignments don't require particularly special programming skills, but rather an understanding of what you're being asked the replicate. The skeleton code is frankly confusing and ugly, but I would still take it over doing the whole thing from scratch. They've likely increased some of the instructions since others have taken the course, as I felt like it was very clear what they wanted me to do. For example, at one point you are replicating Traceroute; rather than doing convoluted strategies, just focus on what occurs in a Traceroute program and code each of those blocks. Besides, grading is lenient and you get late days to use. While it was way more work than it needed to be, I thought it was an incredibly useful class and I'm really glad that I took it.
+
+---
+
+[March 2022] Be very patient. The material, and outdated skeleton codes, take some time to understand and digest.
+
+---
+
+[March 2022] Spend some time on the coding projects but don't stress too much. Making an effort is enough to get an A.
+
+---
+
+[March 2022] Basic ideas are sound, execution is awful. The course layout is a mess--assignments don't relate to the modules, modules/book don't cover the material on the quizzes, and the lectures are the worst I've seen in the program. Start projects early--they are not difficult, but there is essentially no rubric or requirements, so you're going to have to ask a LOT of questions, and the instruction team is not very responsive. The course badly needs to be redone, but it seems like there's no sense of urgency because it's required for Cloud/Mobile. If you have to take it, look up lecture notes from other universities, because this course isn't teaching the concepts with any kind of rigor.
+
+---
+
+[March 2022] Start the projects early and try to read and really understand the provided skeleton code. Understanding how the skeleton code works will make the assignments much easier. I didn’t find the course material to be very helpful in completing the assignments, so I spent a lot of time reading external resources.
+
+---
+
+[March 2022] Pay attention to the rubric, because the programming assignments will take up 80% of your time in the course and are worth 30% of your grade. They also offer no help or explanation on how to complete them. Imagine doing all of the readings, watching all of the explorations, doing all of the summary exercises and understanding it all, and then you get a programming project that asks you to have a totally different skill set with no help on where to develop it. This needs to either be a conceptual class or a coding class, it cant teach concepts and grade on code.
+
+---
+
+[December 2021] Took 372 in Fall 2021. I agree with recent reviews and this is my first Course Explorer review as well. This class needs work. It has great potential and interesting low level material, however it's executed poorly. The early lectures have some dynamic "white-boarding" presentations which are pretty good, but the rest are dry/mundane ppt slides. OSU should really take note of the work done on 271 to create effective learning materials. As a student, for this class I would recommend starting the programming assignments early because there is not much guidance given for requirements on how to execute the tasks. Starter code is provided, but a lot of time is needed to absorb to trace the flow and intent. The class isn't hard, but frustrating with execution.
+
+---
+
+[December 2021] Fall 2021 Review: This course makes every other course in the program look excellent. Imagine being given applied networking math problems with zero direction on how to solve them. Imagine being given labs from the Windows XP era. Imagine being given open-ended projects. Even better, imagine instructors having zero presence. This course is not difficult. I did not feel any reward or satisfaction from completing it. Only take this if your desire is to shift to the cloud elective.
+
+---
+
+[December 2021] I took this course in Fall 21, shortly after it was made an elective. From what I have read and experienced, the course content hasn't changed, but the grading has, and some projects have been shifted around slightly. Overall, it's more the same than not, but an easier class because of more lenient grading. I've heard plenty of complaints about this class, and most of them are still issues. However, it seems to be more little things now. Grading rubrics are all present and in my opinion, pretty clear for the most part. There are PLENTY of small annoyances with this class. I definitely feel frustrated with things like: poor instructions, ambiguous requirements, new math problems on quizzes, etc. However, all of these things are pretty small, and don't add up to being larger problems. The midterm and final exam are a cumulative 20% of your grade now. Exams, quizzes, are open book and open note. Labs and Projects (the projects seem to have more clear requirements now) are worth a cumulative 50% of your grade. Other things round out the last 30%. The course is a lot of hours for me personally. Probably ~20 per week give or take. About 8 of those hours are just getting through the textbook and taking notes. I don't watch the lectures. I've heard bad enough things about these lectures, and honestly just ditched OSU lectures halfway through this program anyway. We're all just setting ourselves up for a painful existence if we expect that OSU lectures will amount to anything. So each week I read the textbook (and take very detailed notes). Then, I do any labs, projects, and weekly quizzes. It's a lot of hours - and a lot of that is tedious work in my opinion. BUT, I am learning quite a bit about networks, and definitely think anyone who can take this class, should. It's really not that bad now. Yes, it's time consuming. Yes, there are 20+ annoying things each week that come your way. But if you stick to the textbook and give the bird to all other OSU created content, you'll learn a lot and do well. I'm not a textbook person myself, but although I'm slow learning this way, I still learned a ton. Time consuming, painful, and tediuous. But well worth it for what you learn. And you get to take the cloud course! I did not take this with another course, but did work part time at an internship (~20 hours per week as well). That was a full plate for me, given fluctuating hours in both work and school.
+
+---
+
+[November 2021] This course was so bad, it prompted me to write my first review while in this program. It was highly praised when it was required, and there are few reviews on the current iteration of this course (now an elective). The workload hasn't changed, so I will comment on my experience. The instructor interaction is frustrating, (if and) when they do respond. As the previous review stated: expect pretentious and obnoxious answers. There's an excuse for everything you might reasonably ask for: practice midterm feedback? Nope, can't release that cause cheaters might post it on Chegg. Project rubric? Nope, it's a "discovery" assignment. In the name of flexibility, here's some abstract skeleton code that you have to decipher to implement an abstract version of some networking protocol. Then, your subjective implementation will be graded by another subjective, hidden rubric! You later "discover" the module pertaining to the project is released later (???). Would've been nice to get an intro module before tackling a project to recreate a networking protocol from 30-40 years ago. For the labs, just use the provided trace files to save yourself the frustration of the outdated instruction PDF. For the projects, read up on the protocol/use the native OS implementation, understand the skeleton code, then begin your code. The book is skippable, read and watch the lectures at 2x. Overall, it's not a difficult course, but it makes courses like 290 and 325 look good.
+
+---
+
+[August 2021] Lots and lots of busy work for this class. Assignments included weekly lectures and quizzes, plus labs, projects, two exams, and two short video demonstration videos. I felt like the course gives a good overview of networking and I learned a lot. I didn't use the book at all and still got an A in the course - the lectures were enough, but do watch on 1.25x+ speed because the instructor is a slow speaker. If you keep on top of all the work you'll be fine.
+
+---
+
+[June 2021] First off I'd absolutely recommend doing the textbook readings - they are listed at the beginning of each module and take the bulk of reading/digesting time but that is where I learned the most. Investing the couple hours/week to read through the textbook and try to understand it probably saved me hours on each project because I knew I had a solid understanding of the concepts. The actual modules themselves are very loose summaries of the material covered in the textbook. The second thing I'd add is that the projects may be deceptive for some students. Many students complained they were too complicated/unclear and I'd agree that the skeleton code provided was often times confusing and the documentation could have been better. However, if you have read through the textbook and spend an hour or two going through the skeleton code to try to understand how everything should function, the actual Python programming is trivial. You may need to read over how the struct and socket module work but the documentation for both are very good. Grading for projects also seems lenient. I was able to max all project points despite knowing there were some bugs in my code. Finally, I would add that I think if you have an interest in networking fundamentals this is a good course that is not too overwhelming but covers more than the standard Net+ type material. I have taken Net+ and Sec+ and still learned a good deal in this course. However, if you are strictly interested in improving your programming/Python skills, this may not be the course for you.
+
+---
+
+[June 2021] There isn't much direction for the project but if you read the book you can figure it out.
+
+---
+
+[June 2021] If the course stays as it is this term with the newly added projects, it is now much more difficult than previous reviews state. Project 2 was the first time I have ever been legitimately lost on where to start an assignment in my entire academic career. The course has moved from Slack and Piazza to Teams and ed. Teams is dead compared to the good old slack channels from previous terms, and ed looks like someone's pet project.. there is a delay between when you type and when it appears. I came into this course super excited about the topic and am closing it out wanting nothing to do with it.
+
+---
+
+[May 2021] Try to get something out of the weekly summary and use sample math problems to build your exam "one sheets
+
+---
+
+[June 2020] A lot of busy work. You have a weekly exercise assignment and either a lab or project due every week. There is a midterm and final. The midterm is straightforward and the final is abstract(multiple choice and a little fill in). I mainly focus used on the summary exercises course modules and did well. The material is pretty wide and vast for a introductory course, so it can be overwhelming. Time management is key for this class and will either make or break you. Project 2 will catch you for a surprise, so be prepared.
+
+---
+
+[June 2020] I suggest setting a schedule and sticking to it. There is a continuous, decent amount of work in this course that is made more enjoyable by breaking it down into parts each week. The TA's are a great resource, so use them if you have questions. Also, the professor makes himself available to students on Slack, which is great. Take the weekly summary tests twice if you can, as it will help you on the midterm and final. Also, start writing your programs early, they are hard after the first one. This class is full of great information.
+
+---
+
+[June 2020] This is a challenging course and similar to CS 271 in format. Lectures are dense and require your constant attention. Questions on the weekly "Summary Exercises" are from both the lectures and textbook. Labs are straight-forward and only take a few hours each. The two projects are focused on sockets and are time-consuming and frustrating if you haven't taken CS 344 yet (like me). The projects are in C, C++, and Python. Don't let yourself fall behind, especially with the projects!
+
+---
+
+[March 2020] This course is being redesigned, so this review may be outdated. Each week there is ~1 hour of lecture and ~50 dense pages of reading. For the most part, they cover the same material except the reading goes more in-depth. Most of your grade comes from Canvas quizzes, including the proctored midterm and final. This includes weekly homework quizzes, 2 quasi-exams (non-proctored), a midterm and final (proctored), and make up 69% of your grade. There are practice quizzes available after every week, and they are excellent prep for the midterm and final. If you're doing well on those, you should be very confident going into the exams. The programming projects are by far the most intellectually challenging part of the course. Start them early and do as much extra credit as possible. This could easily bump your final grade by ~3% or more. The labs are a nice way to demonstrate what's being taught in lecture, and they are easy. Do them early, because they can take longer than you think.
+
+---
+
+[December 2019] This is not a class where you can either read the text or listen to the lectures. Some material that's tested on is present or elaborated upon in one set and not the other.
+
+---
+
+[December 2019] Really pay attention to the weekly exercises, they will help you immensely on your midterm and finals. Start the projects early, and see if you can take this after you have taken 344. There's not a whole lot of guidance for socket programming, but the programs are a decent chunk of your grade.
+
+---
+
+[June 2019] Don't slack on the weekly quizzes, commit to either the lectures OR the book, take 344 first, don't spend too much time trying to port your 344 assignments over
+
+---
+
+[December 2018] This is a 300 level class meaning not every solution will be handed to you on a silver platter like in most of the lower level courses in this program. Before you throw a fit that "question x" was never taught - yes, it was. This class gives you everything you need to succeed but you need to do the reading, you need to watch the lectures, and you need to work out the practice problems. I really enjoyed this class but the entitled classmates who expected everything to be handed to them on a silver platter got tiring after a few weeks. You need to put in the work yourself. This is an upper level course and a higher level of study and critical thinking is expected of you.
+
+---
+
+[December 2018] While not terribly difficult, there is enough steady work in this class where you can find yourself behind quickly. Don't expect much interaction from the professor or TAs. Most of the info you'd need is already well covered by the lectures and readings.
+
+---
+
+[December 2018] This class is the same structure as 271. Everything you need to know is in the lectures. There are two programming assignments which are both difficult but very meaningful and teach you a lot about the coding side of the material. There are also a number of labs where you simply walk through packets and answer questions about what you see. The rest of the class is really "book learning" where you need to prepare to answer multiple choice/ fill in the blank style questions. It is very straightforward and there are zero surprises.
+
+---
+
+[November 2018] I found the class delivery to be a bit dry, but it is the same format as 271, so no surprises ever. Paulson-made classes are quite predictable. Exams and quizzes are made from the weekly questions. Take each weekly check twice as questions change. Programming assignments are the most difficult part. I'd say to budget 15-20 hours for each to be safe over the two weeks they are available. YMMV.
+
+---
+
+[June 2018] Get an early start on the assignments
+
+---
+
+[June 2018] Put all your effort into reading the slides and acing weekly quizzes. If you can ace those quizzes then you will ace the midterm and final. As for the projects, start them early. I would say this class is moderately difficult, but keep in mind that I did networking stuff for my internship last year, so I already was comfortable with about 1/5 of the material I would guess.
+
+---
+
+[March 2018] Similar to 271 with the weekly summaries and quizzes, but there are also a few Wireshark labs and two programming projects which you should definitely get an early start on (these go a lot easier if you've taken 344 before). Make sure to look through the exercises and solutions posted with each lecture before attempting the weekly summaries.
+
+---
+
+[March 2018] Similar to 271, lots of reading, picking up fine details, and regurgitating them for weekly assessments. The programming assignments are challenging, but much easier if you've already done 344 and still have that code to reuse.
+
+---
+
+[March 2018] study the review questions so you know them inside and out
+
+---
+
+[March 2018] Keep a running doc of summary exercise questions, it'll help you make your crib sheet for the midterm and final. Don't just copy and paste these, type them out, and you'll be surprised how much you retain. :)
+
+---
+
+[March 2018] Would have been easier if I had taken 344 first. 70% of the grade is tests (weekly reviews, quizes, midterm, final) on canvas so take them seriously.
+
+---
+
+[March 2018] Get started on the assignments early, but if you have taken CS344 already than half of the coding will carry over to CS372. You probably don't need the book, but some questions may require outside material to answer. Also, there are practice summary exercises in the "Quiz" section of Canvas - they are ungraded and can be used for additional practice.
+
+---
+
+[March 2018] Read the textbook. Do the no-credit weekly summary exercises to review for the tests.
+
+---
+
+[March 2018] Good course - especially easy if you have a CCNA
+
+---
+
+[December 2017] Study the practice quizzes, read the book, and enjoy a well-organized course!
+
+---
+
+[December 2017] If you're confused, do the lab and the lab helps a lot on clearing things up.
+
+---
+
+[August 2017] Just like 271, stay on top of the summary exercises. There is so much info you may have to go through the materials several times to remember things.
+
+---
+
+[June 2017] Stay on top of the lectures and weekly quizzes. Start labs and projects early as possible.
+
+---
+
+[June 2017] There's a lot of memorization. The weekly summaries require a bit more digging than the summaries did in 271.
+
+---
+
+[June 2017] Take all of the quiz attempts and use these questions to study for the midterm and final. Also use the weekly exercises to study for the exams. It was helpful to have taken 344 before this as the programs built off of the cipher assignment from 344 with sockets.
+
+---
+
+[March 2017] Reading isn't required but you will have to do some googling on things not completely covered. I lucked out and had a very active weekly discussion group which contributed to my learning immensely so if that doesn't happen be the one to ask questions!
+
+---
+
+[March 2017] Like the other Redfield/Paulson class (assembly), this class is similar in structure and has tons of information. You can use notes on the exam, but be prepared to cram lots of information on it. I'd advise taking 344 before this because the last project in 344 has a lot of code which can be reused for this class' projects.
+
+---
+
+[December 2016] Make the solutions to weekly summaries the first thing that you read, before watching the lectures. Then gonback to it after you've watched the lectures. This I find speeds up the information absorption process
+
+---
+
+[August 2016] This course is organized the same way 271 is. I found the content to be easier, but challenging. This class should be taken after 344 as currently 344 has socket programming assignments and completing those before the class will make it significantly easier. This is one of the best designed classes in the program. Expect workload to be even and constant - like 271 there are no surprises. I took this class by itself in the summer.
+
+---
+
+[August 2016] This class is not programming heavy. There are a handful of programs you'll make. They're difficult sure. But if you've taken 340, they're manageable. The hard part about this class is that there is a lot of reading and studying required. You'll be expected to watch some dense lectures, read some dense books, and consult extra sources.
+
+---
+
+[August 2016] Start the assignments EARLY! This class is structured like CS271, so take the Summary Exercises and Lecture Exercises seriously.
+
+---
+
+[August 2016] Class layout is just like assembly. Do the self checks after every lecture. You get to use a page of notes for the exams, make them as you go through the coarse. Use the quizzes and weekly summaries as a guide to what you need on your cheat sheet.
+
+---
+
+[August 2016] Do all the readings he tells you what to study but it's a ton of material so if you don't test well this class is awful.
+
+---
+
+[August 2016] Use the exercises to prepare for tests
+
+---
+
+[June 2016] The projects are crazy involved! There are discussions each week - do them, they are easy points! Very similar structure to 271.
+
+---
+
+[June 2016] The first program is easy. The second program is much harder than the first, so don't underestimate it. CS 372 is like Assembly except with extra help on exams (no credit quiz reviews!) and less coding.
+
+---
+
+[June 2016] Take 344 first--it makes this class much easier.
+
+---
+
+[June 2016] Take 344 first--it makes this class much easier.
+
+---
+
+[June 2016] Nothing is particularly difficult and there aren't any surprises. Just work through the material every week (which gets really tedious) and get an early start on the labs and projects.
+
+---
+
+[June 2016] This is built just like Assembly so prepare to put in a lot of time per week in this course. Study the summaries to do well on the quizzes/midterm. If you do the assigned readings and put in the time and effort you'll do fine on the final but it's not a cakewalk.
+
+---
+
+[June 2016] I found that doing all the problems, even the optional practice questions, were really helpful.
+
+---
+
+[June 2016] This class is about 90% memorization of facts/definitions, and problem structures. The midterm and final are all basically problems you should have seen before rephrased to ensure your comprehension. If you watch the lectures, do the labs, and take the practice quizzes you'll be ready for the tests. There are 2 programs to write using socket libraries. The first requires C or Python for the client, and C++ or Java for the server. The second requires C or C++ for the server and Java or Python for the client. So if you aren't familiar with the C socket library review it, and pick Java or Python to learn as well.
+
+---
+
+[June 2016] Class is setup like 271. Weekly summaries, weekly graded discussions, 2 quizzes, 2 programs, 5 labs, midterm, final. All interesting stuff. The labs use Wireshark which is easy to install and use. The 2 programs are fun but take some time. There is the option to use Java, Python, C or C++ for the 2 programs which is nice to be able to code in something other than C!
+
+---
+
+[June 2016] Start assignments as soon as possible. Choose at least C or C++ for your first assignment as you will have to use one or the other on your second assignment and it will make your life a whole lot easier. If you can get through the summary exercises you can get through the midterm. The final is a slightly different format.
+
+---
+
+[March 2016] Socket programming coursework is challenging. Otherwise on par with average coursework.

@@ -1,0 +1,721 @@
+[Unknown] An introduction to the discrete mathematics of computer science, including logic, set and set operations, methods of proof, recursive definitions, combinatorics, and graph theory. "The course content is dense and it sort of feels fast paced, but an A is pretty achievable. I did watch Kimberly Brehm’s YT videos to help me learn some of the material. The grading is very lenient. They drop the lowest 3 quiz scores, so I was able to relax on some of the quizzes if I knew I didn’t study enough. Towards the later half of the course, I ended up really pushing my limits (due to life and such) and learned the whole week’s material, completed the quiz and HW assignment all in a matter of a few hours before they were due. Did that for a couple of weeks and surprisingly aced everything. Wouldn’t recommend it though as the material didn’t really stick come finals time. Again, they were very lenient on the scoring with the finals grade, so I scored higher than I was expecting. Ended up keeping my A in the class by the end of it all.
+
+---
+
+[March 2026] Plan to spend 25 hours a week minimum on this course. Attend all weekly office hours. Take solo if possible. Do demo quizzes the day they open, use provided solutions to figure out the answer structure the course prefers, study from there. Accept you're unlikely to get an A.
+
+---
+
+[December 2025] The course material is very dense, especially at the beginning. It starts off very abstract and makes sense as you move into Assembly language features and capabilities. The projects are a time consuming but doable with the materials from the course modules. Citrix is no fun, so if you don’t have a windows computer allocate extra time for laggy Citrix.
+
+---
+
+[December 2025] Take your time. Start strong since the first 2-3 assignments are less of drain. Read and practice as much as you can. For those that can attend the class times with the professor you can pretty much get 100s for the assignments. I went to just one and he was solving homework problems.
+
+---
+
+[August 2025] This course covers some really interesting material, but it can be a VERY heavy load, especially early on. The workload got easier towards the end of the course, but it was still non-trivial. The reading can be dense but it is extraordinarily helpful, so don't skip it!
+
+---
+
+[August 2025] This class isn't as hard as its made out to be. Yes it is a pretty big time commitment but there is lots of grade padding so really anyone should be able to get an A. The pace can feel relentless as you will cover two very meaty topics each week then immediately move onto something totally different, but this doesn't really matter because nearly all the points are awarded through async homework assignments where you can check your answers before turning it in. Really the only time you need to _know_ discrete math is on the final where the grading is pretty lenient and you are given most of the formulas so you don't need to do much memorizing. I personally found the textbook and the lectures to be pretty good learning resources and didn't feel the need to watch youtube videos or go to office hours. I took my last math class almost 15 years ago and work full time.
+
+---
+
+[June 2025] Go to Dr. V's office hours. He will literally walk through entire homework problems and as long as you can take good notes, you'll do okay on the homework. But this class really is as hard as they say. Just keep in perspective that you'll probably never touch this stuff again outside of a couple of upper-level classes.
+
+---
+
+[March 2025] This class is a pain. The material is complex, but what makes the class so awful is how poorly organized and taught it is. It's hard to figure out the requirements for assignments, because the relevant information is sprinkled throughout different pages, hidden inside big blocks of text, or in some supplementary PDF that you have to search for. There were frequent typos about which problems to do, grading criteria, and page numbers. My advice on how to get through this class: - Look at the assignments ahead of time. Gather all the information in one place so you can keep track of it (I printed a lot of things out). Check off rubric requirements as you complete them so you don't miss anything. - Watch Dr. Ehsan's videos for how she wants you to format answers. The "think out loud" videos are particularly useful for this. But don't expect to understand the topic after you're finished with the readings and videos. - Attend Dr. V's office hours if you can! If you can't, see if a friend will fill you in on the things he covered. - Watch Professor Kimberly Brehm's discrete math videos on YouTube. She explains things well, though you do have to be mindful that the way she shows work is not always the way CS225 wants you to do it. - Set aside a LOT of time for this class. There were times when I was spending 30-35 hours a week trying to understand the material and complete assignments. - Consider what grade you're aiming for. The quizzes were more unforgiving because they were multiple choice and you couldn't get partial credit. Homework and the final were generous with partial credit, and frankly they are quite lenient with grading. If you're okay not getting an A, you'll probably find the class less stressful.
+
+---
+
+[July 2024] This course is difficult, but once you get on a roll in the class it starts to get easier. Go to Dr.V's office hours. He will work through full problems. Lowest HW and Quiz are dropped so there is room for error in the class. Also, use outside resources like Brehem youtube videos to get a good grasp of the material.
+
+---
+
+[March 2024] My previous ME degree helped gear me up for this class, and it was comparatively easy when stacked against some of me previous ME courses. Now, that being said, life got in the way and I began struggling to get everything done each week. General STEM course rules apply - start early, and give yourself time to stew on and come back to a question. I was only able to make it to one office hour session, but it was very helpful. I like reading the text, and was able to develop decent understanding from that, but the reading would often take me all weekend to complete (I'm a slow reader). I'd recommend reading. There are many homework problems that are almost straight copies of those in the text, and if not other examples are usually given. Suck up the pride and post early on when you get stuck. Profs were very accommodating of my life circumstances - as with in the professional world, communicate early and often. One assignment is dropped.
+
+---
+
+[March 2024] I found this class challenging and extremely time-consuming. Prepare to study/do homework for ~30 hours a week during the hardest units if you're like me and don't have a strong math background. Absolutely attend Dr. Vakalis's office hours whenever you can. Dr. Ehsan is kind and helpful with questions as well. I also recommend skipping the recorded lectures and just learning from the textbook/youtube. I ended up with an A- in the class, partially because the grading on the final was very lenient.
+
+---
+
+[December 2023] Skim the book for formula and examples, watch ALL the videos often there is a problem done there. Make sure you try to attend as many office hours as you can. Find a TA you like and stick with them. It is a doable class, but often the material in conveyed in a poor way in the book. The book is dense, instead look for a view youtubers who are teachers, some very good ones out there.
+
+---
+
+[November 2023] Practice algebra before starting this course. Attend Vakalis' office hours to make sure your homework grade is good. Don't waste too much time trying to learn from the book or modules-just find what the topic is by skimming, then to watch some youtube videos over the topic from a real teacher. It'll save you a ton of time, and you can go back to revisit the book and modules as needed. The final exam was easier than any of the assignments.
+
+---
+
+[July 2023] Conceptually the material isn't difficult, there's just a lot of busy work plus assignments should be typed. Don't waste time with latex, word gets you the same results with 10% of the effort. Don't bother with the lecture videos the book is adequate. Always look up answers online before submitting to not lose easy points, plus those explanations are usually more descriptive than the book's answer key. The final was easier than the assignments.
+
+---
+
+[June 2023] Make time for this course! Looking back, the material wasn't that difficult, but you will move through topics quickly and the homework assignments are very time consuming. The most important thing to focus on is formatting similar to the instructor example problems, as that is where most points are lost. I did not take advantage of office hours, but I heard really good things about Dr. V. Also, utilize the class discord for support from other students.
+
+---
+
+[June 2023] This was my first term at OSU Ecampus. I work full time and initially registered for both CS161 and CS225, but chose to drop 161 after a few weeks so I could focus all my attention on CS225. I'm glad I did.
+
+---
+
+[June 2023] The only difficulty in this class is the pace of the work and amount of it. If you're working full time and taking another class this will be very difficult for you. It was pretty overwhelming for me working part time and I'm very comfortable with algebra. I did learn a lot but it felt like I only knew what I was working on that week until I studied for the final and it all came together. Go to Vakalis' office hours even if you have to take off work. Or hopefully someone can record them and share them with you. They are invaluable and I would even say you have to go to them. Worth every penny.
+
+---
+
+[June 2023] Start all the assignments as early as possible and get comfortable with Latex! I used Overleaf for assignments and tests and it was super helpful. Also, brushing up on college algebra really is helpful. I wish I didn’t have to spend as much time reviewing college algebra when completing some of the longer proofs!
+
+---
+
+[April 2023] Start the homework assignments early, and be prepared to spend a lot of time on them. I haven't taken a math class in almost 10 years, and I think I didn't suffer as much as I did because I reviewed a lot of algebra on Khan Academy before starting at OSU. Remember to read the rubric for the homework assignments to make sure you're completing the assignment correctly, and do practice problems in the textbook where the answer is available in the back - this is helpful if you get lost.
+
+---
+
+[March 2023] Go to Dr. Vakalis’ office hours. He essentially does a lecture like an on-campus class, which makes some of the more difficult content much easier to understand
+
+---
+
+[March 2023] Go to Prof Vikalis's office hours if you're able to. Frankly, the lecture videos were hit or miss in terms of being helpful for your assignments. I found the textbook to be helpful, I'd recommend doing the example problems as you read along. The example problems are generally applicable to the homework problems, and they're good practice as a ramp up to the difficulty of the homework problems. Start each week early! Get good at algebra (exponent laws, factoring) in the first week of the class if your algebra is rusty. The material for this class will take a good amount of time to complete, but the content can be difficult but nothing overwhelming if you have the time to commit.
+
+---
+
+[March 2023] Start early on the assignments. Your classmates might claim they worked only "an hour or so" on them, but, for you, that might be triple. Go to office hours at least once weekly; as you wait for your turn, you can listen to another student's session with the TA, and the discussion might be relevant to a problem you're working on. Grab for every little point you can with the extra-credit assignments, early in the term, so that your grade can withstand a potentially middling performance on your final exam.
+
+---
+
+[March 2023] This class is no joke. My review might not apply to everyone because I haven't taken any kind of mathematics course in over 10 years. I spent around 20 hours per week studying each module and then another 2 to 3 hours in office hours with the instructors. My recommendations in order of importance: 1). Brush up on your algebra knowledge. Khan Academy has a course on algebra 1 and algebra 2 which will help you significantly. This is critical for your success in this class. 2). Attend Dr. Vakalis's office hours like your life depends on it. He holds office hours twice per week. 3). Double check all of your homework answers. 4). Use the unofficial student Discord server to review, talk, and study.
+
+---
+
+[February 2023] Two words: time sink. The required textbook and lecture videos should only be used to supplement the superior material found all over YouTube. You're essentially spending ~$2k on college credits and a curriculum outline, nothing else. I've read great things about Vikalis, though I never had a chance to attend his office hours. Apparently he walks through solutions to homework exercises, which I imagine is a huge time saver. Speaking of homework, prepare to read through a wall of text just to figure out the rubric. There are also so many templates and formula sheets to keep track of, but they do come in handy during the "quizzes" (exams). This class is by no means difficult, but the workload is very heavy.
+
+---
+
+[January 2023] Definitely go to Office Hours. If you are taking Vakalis, he was extremely helpful in passing the course.
+
+---
+
+[December 2022] Try to get 100% on the homework. I started early each week and had the TAs check every question. A chegg subscription also saved me a lot of confusion.
+
+---
+
+[December 2022] The homework is graded and the scores can quickly affect your grade so go to office hours and make sure you're turning in correct answers as much as possible. The final for the class is generous with partial credit, so if you've done well on all the HW, you'll be fine even if you don't do super well on the final.
+
+---
+
+[December 2022] Prepare to get destroyed by nonsensical information. You'll be doing a lot of exercise vs back-of-the-book answer comparison, just to understand how to finish your homework. Homework was definitely time consuming. Lectures explain the material in pretty good layman's terms but definitely not enough to fully enable you to complete the hw assignments. Final exam was not as bad as the instructors made it seem.
+
+---
+
+[December 2022] Read the textbook if something doesn't make sense. The supplemental Youtube videos are also very helpful!
+
+---
+
+[December 2022] This course sucked. Prof. I is amazing and is the only reason this class is reason I will get an A. So much busy work and decently difficult materials.
+
+---
+
+[November 2022] I hated it. But you can get it done. I think I would have taken it over summer to get it over with faster in retrospect.
+
+---
+
+[November 2022] Took during SU 2022 with 161. I spent 3 hours per week on 161. I spent 18+ hours on 225. I haven't done math in over a decade, but I was never bad at it. I got an A because they are very forgiving on grading (there is no way I should have scored the grade I did during the final, IMO) and I put a lot of work in. During the summer, this class is insane in terms of the busy-work assignments that are due. You also have to read a wall of text just to interpret how they want the assignment, what they want the assignment to be, and when things are due (the discussion due dates are NOT automatically in canvas to remind you). It is a frustrating course because it demands constant busy work. TIPS: Be aggressive in completing the assignments ahead of time during the summer because you WILL underestimate the time it will require and when things are unexpectedly due. The quizzes are easier than the homework, discussions, and practice quizzes--so don't fret. However, the final exam was far different compared to the practice finals--so use the study guide instead for that one.
+
+---
+
+[August 2022] If you are comfortable with proof-based mathematics or the kind of logical thinking necessary for programming, the course material is not difficult. This is not a number crunching class, and it only lightly requires actually working with algebra (though you need to be comfortable with algebra to easily see solutions to the problems). The grading is pretty forgiving as well. HOWEVER - the thing that makes the class challenging is the frequency that assignments are due. If you are familiar with the topics in the course already, you will be busy. If you are not, you will be very busy. You may only have 6-8 actual questions to answer on a given weekly assignment, but they may each take anywhere from 10 minutes to an hour to figure out a solution to, and then you have to type your solutions out and format them properly. The fact that you will be typesetting your work as opposed to doing it by hand (which is an option outside of the quizzes), will make things take longer, even if you're pretty capable in LaTeX. The logic and proof writing chapters (the first half of the course) take the longest to work on, without a doubt. We had two assignments due each week on the same day, typically with 2-4 problems each. Every other week, you will have Discussion problem sets with three different deadlines to manage ranging over the two week period. A problem set is due initially on a given day, replies to others' work due 3 days later, and then corrections to your problems due 4 days after that (coinciding with the next week's homework due date!). Lastly, we had two quizzes and a comprehensive final quiz. The quiz questions were not as challenging as the most difficult homework problems, and they are about 75% multiple choice or fill-in-the-blank, and then 25% short answer or proof writing. If you can do the homework, you can ace the quizzes. I didn't find that the content and workload was too much to handle during the Summer term, BUT I do not have kids and I was spending less than an hour on CS161 a week. If you have a busy life and/or are not familiar with the 161 content, topics in discrete math, or writing proofs, it is probably wise to heed the common advice to avoid this class in the Summer.
+
+---
+
+[August 2022] Don't take this class during the summer. Chegg is absolutely necessary. There are weeks where a large, two part assignment will be due on Tuesday, and a discussion post with 4-6 problems due the same day. By Friday you must have reviewed two other solutions by your classmates, and the following Tuesday the next homework assignment will be due along with your corrections on the previous discussion post. You can't let up after that though, because you'll need to take a quiz by Friday, and begin working on your homework assignments due on the upcoming Tuesday. This repeats every two weeks. This class was insane. I am working full-time and trying to balance family, work, and this god forsaken class. It is not reasonable to assume you will have time to yourself during this 8 week, condensed course. The concepts in this class are not particularly challenging and they are super cool. They might take a bit to fully grasp, but thereafter they are fairly easy to recall, and implement. YouTube helps a lot here. The problems are logical, inherently, and can become easy to work through with practice. The real bummer is the number and length of assignments, discussions, and quizzes due over the eight week course. In addition, the feedback you get will not be remotely close to immediate. I understand it can't be easy to grade hundreds of these kinds of assignments, but this might mean there should be fewer assignments. Assignments and discussions are long and tedious. Learning LaTex was annoying. I would highly suggest learning to use it by writing out the problems from the back of the book ASAP. Try writing problem statements from YouTube videos before the class starts if you have the opportunity. You don't need to use LaTex for homework assignments, but you must use it for quizzes and the final, so if you can learn it by doing homework assignments right away, you will be in an advantageous position as the first quiz comes along. Once you know LaTex it becomes second nature, but it's important to become fast with it as soon as possible. I will add that the two most valuable things I've taken away and applicable to my job have been DeMorgan's laws (writing nice and tidy conditionals for my colleagues to read later), and the shortest path algorithm (just a cool problem solving method). Outside of these two things, everything learned is theoretical. Let the special people in your life know that you will be at your keyboard for every available moment during the next eight weeks. I loved math in college, and had the good fortune to take a shit load of classes for my first degree. I realize I really liked writing the problems out and solving them by hand, which helped to cement the concepts. Writing math, in LaTex, at a keyboard was challenging-- it felt artificial. I started the first two weeks writing everything out by hand and then quickly realized it is much faster to type, and that I do not have the time to lose. I would recommend you don't start out the class wasting time by writing things by hand. Anyway, take what you will from my experience. I hated this class. It has made me question whether or not I have the time to pursue this degree at all. I know for sure I will never take a summer course again.
+
+---
+
+[August 2022] Very time consuming class with lots of assignments due each week that can take quite awhile, agree w/ everyone that things ease up dramatically after week 6. Definitely recommend a Chegg subscription to help you see how the problems are worked from the book, don't just copy and paste as you will need to still understand what is going on to be successful. The TA's and professor are very active on the discussion boards. Lowest quiz was dropped, this was evident on the grading page in Canvas but not officially announced til late in the semester. The quizzes were much easier than the homework & discussion problems, however a lot of questions are multiple choice with no partial credit so you can still take a big hit to your grade if you miss one or two. The first 2 were entirely multiple choice. The good news is that the amount of work you are given in this class is really just forced study time so you are never too far off from being prepared for the quizzes depending on how fast you pick it up. Worst part of the class was just the sheer volume of things that needed to be done each week, it really requires you to commit time almost every day, especially in weeks 1-6. Stay ahead as much as possible. All that being said I was dreading this class and I am currently positioned well for an A or A- heading into the final, so it can definitely be done! Good luck!
+
+---
+
+[June 2022] Read the textbook. Don't bother with her videos. Invest in Chegg--not to copy answers but to see how things are solved. Don't be afraid to query the graders if you feel things were graded harshly or without justification. In my case, they did acquiesce & return points fairly frequently when I presented my case.
+
+---
+
+[May 2022] Review algebra and dedicate a lot of time for this class.
+
+---
+
+[March 2022] Prepare to have this class take over your life. Sounds dramatic but with all of the assignments (two per week), the canvas discussions (with corrections) and the quizzes...it's a lot of work. I took this class with 161 and I work full time as an swe. I struggled every single week to get by. I didn't spend much time on 161, if I didn't have a background in swe already I'm not sure how I would've made it. It's possible to get an A but you'll need to work for it. I did the readings and looked at Youtube tutorials online. The lecture videos were not as helpful for me. Discussions and HW will save your grade. Good luck!
+
+---
+
+[March 2022] Start on the reading and assignments immediately. Don’t get beaten down trying to understand everything in the lectures/readings—get a grasp of the major ideas, then proceed to the exercises. That’s where you’ll really master the material.
+
+---
+
+[March 2022] Brush up on your algebra, including common factors, quadratic formula, factorials, inequalities
+
+---
+
+[March 2022] Use office hours, preferably with professor
+
+---
+
+[March 2022] Just try to go ahead as much as you can
+
+---
+
+[March 2022] Brush up on your algebra before the class (specifically exponents). Be prepared to spend a lot of time reading and doing assignments. You have assignments that take a lot of time, and discussions, which are just more homework questions that you talk about. Each week has two assignments due that covers different parts of the chapters to read, and the questions can be very challenging to figure out because you’ll need to use obscure algebraic methods to get from the question to the answer. It is possible to pass the course with an A, but it will take work!
+
+---
+
+[March 2022] Start your assignments early. Survival of the first 6 weeks is crucial.
+
+---
+
+[March 2022] Make sure to follow the schedule, and work ahead.
+
+---
+
+[March 2022] Stay on top of the material and put the time in, and you'll be fine.
+
+---
+
+[March 2022] You will lose points for proof format. Use the templates. The assignments are not hard, but it's impossible to complete them a few hours before they are due even if you know what the answers are. Writing with math symbols simply takes longer than writing in English.
+
+---
+
+[March 2022] This class is a major time sink, so number 1 advice would be to start early on projects / homework assignments so that you aren't rushing to turn in assignments last minute. Get a calendar and write down when you plan on finishing assignments.
+
+---
+
+[March 2022] There are great teachers on youtube (Eddie Woo!!!), so don't bash your head against a wall if the OSU lessons aren't clicking.
+
+---
+
+[February 2022] Start early and try to stay ahead! I've always loved math but was still a little nervous to take the class based on what people said about it. It seems to be an unpopular opinion, but I really liked the class, but it did keep me really busy. It was a lot of work and there were a lot of things to stay on top of (hw, group problems, discussions, quizzes, etc.), but the content itself wasn't overly difficult to comprehend.
+
+---
+
+[February 2022] Strong algebra skills will help in this course, but the most difficult part of it is the constant assignments and discussions. The professor was very active on the discussion board and very helpful. She truly wanted the students to understand the material and succeed. Try to stay "ahead" of schedule, because that will keep you from actually getting behind. Ahead of schedule will translate to on schedule.
+
+---
+
+[February 2022] I prepared for this class by doing Khan Academy Algebra 1+2, and also spent about 40 hours reading through chapters 1-6 of the textbook before the class started. Despite all of that, I spent an average of 233/11 = 21.2 hours per week on this class. I got an A, but it was the most difficult class that I've taken in my life (harder than stuff like Calc 2 and Econometrics). Weeks 3-6 are especially brutal, I was pushing 30+ hours/week during that period. I strongly recommend getting Chegg and using it to verify your work, because HW feedback is too slow. Most of the time you won't get your HW back until 1-3 days before the end of a quiz deadline. The only way to stay ahead of the curriculum is to do the quizzes before you receive HW feedback, but it's really risky to do the quizzes without feedback. So you'll either need to regularly engage in tutoring/office hours, or you'll need to subscribe to Chegg and cross-reference your solutions with other similar problems. Thankfully there are several editions of the course's textbook on Chegg, so you can work similar problems and verify your answers without violating OSU's academic honesty standards. The assigned HW problems are significantly more difficult than the problems outlined in the reading/lectures, and the curriculum skips most of the sections that cover the practical applications of discrete math. So just be prepared to learn a lot of theory without any context. You don't need any Geometry/Trigonmetry/Precalc skills for this class, just really strong Algebra skills (particularly exponents, summations, and inequalities). This class is a lot of work, and the content is very challenging, but the grading was very forgiving. The professor that I took the course with (Samina) was wonderful, and responded very quickly to all of my questions.
+
+---
+
+[December 2021] The first couple of weeks are incredibly time consuming, but once you hit about week 6 the work load drops off dramatically. By far the hardest parts were the formal proofs, especially mathematical induction. Pay special attention to the exact wording that is used by the instructor in their examples as you will be docked points for not using correct terms.
+
+---
+
+[November 2021] This class was a rude awakening for me - I spent 20-30 hours per week on it on average, sometimes more. It definitely felt like another full-time job. Be prepared - this class covers A LOT of material in a short period of time. It has been a while since I have taken a math course and I found some of the topics to be pretty challenging, but Professor Eshan and the ULAs were incredibly supportive and helpful. Since this class moves so fast through each topic I found it hard to retain everything and to go back and review mistakes I had made. My advice: -Do the readings. DO THE READINGS. The professor doesn't cover everything in the lectures, and relies heavily on the book. -Don't take this class during the 8 week summer term. Just... don't do that to yourself. -Go to office hours. Ask questions. ULAs will help you if you're stuck, will tell you if your answer is correct, and will help to guide you through. This can help to save your grade, since homework is graded based on correctness. -The lectures aren't great, so I recommend supplementing with TrevTutor, Dr. Trefor Bazett, and Khan Academy videos on YouTube. (especially if you aren't great at absorbing material from reading) -Make sure you have enough time to commit to this class. I worked a full time job 40 hours per week, then spent 20-30 hours per week on this class, and then 3-6 hours on 161. If I didn't already have some background in python, 161 on top of everything else would have killed me. My life this semester was eat-sleep-work-study. Say goodbye to your social life. -Some of the discussion questions are stupid hard. Make sure you pick your questions as soon as possible so you don't get stuck with a crazy hard problem. If you're short on time you can just post an incomplete/incorrect answer to the discussion question, and then focus on getting it correct for when the correction post is due. This can help you to manage your time to get homework assignments done on time, and also helps you to prioritize based on the weight of the grades.
+
+---
+
+[September 2021] This class wrecked me. Body and soul. If you have kids, a day-job, hobbies, friends, or a social life at all: say your goodbyes now. I hadn't taken a math class in years but I did get a high enough score on ALEKS to get in. The math is the least of your problems in this class. The instruction is HORRIBLE. God-awful lectures and even worse readings. Prepare to spend 30-40 hours per week the first 6-ish weeks of the course, and 20-30 after that. I worked this class like a second job most of the time. Clock out from my actual job and clock in to Discrete. The assignments are long, awful, and terrible at actually teaching you what the teacher and ULA's want to see on tests. Do they want a specific format of proofs and the like? Yes. Do they ever demonstrate an exact format to follow? Of course not. Grading is all over the place, and you'll question your sanity many times. There was a test later in the semester that the entire class average was a D. Did they curve or drop this test? Of course not. Should such a bad grade from the whole class demonstrate that the teacher should re-teach that week or adjust their lessons in any way? Yes. Will that happen? Nope. The homework and discussions will save your grade. I got 100% on all of the discussions and I had no idea what I was doing half the time. They are less discussions and more extra homework, on top of the 10+ hours it will take each week JUST for the homework. I would consistently get 90-100 on the homework and 80-90 on the tests. That's just how it is. The book is riddled with errors and the teacher, although she seems like an ok person, not mean or anything, is just bad at teaching. She talks like she is at a math convention with a dozen math nerds, and everyone in the room understands all of the material perfectly. She doesn't seem to understand that people who are new to this need EXPLANATIONS and not really hard examples right from the get go. There was one week where some other guy did the lectures and that was by far the best week of the course! I worked my a** off and got an A-. Good luck and god-speed fellow CS hopefuls!
+
+---
+
+[June 2021] I found that watching the lectures then doing the homework and discussion problems was the best way to learn the material. A small portion of the material was taught only from the book, but it wasn't too hard to find the relevant sections a few pages before the homework problems in the book. Using the appendix in the back of the book to see solutions to similar problems was also helpful. I spent a lot of time on this class and lost points for silly errors. Definitely double check your work and follow up with your TA if you feel you should get points back for something that you understood and did correctly.
+
+---
+
+[June 2021] Get an early start on the hw as soon as you can. Videos are likely late to post so use them instead as clarification and support for what you learn in the hw
+
+---
+
+[June 2021] Overall, I learned a lot and this course is pretty well designed. Put in the work and you'll be rewarded. I learned a lot more from the readings than from the lectures. Your mileage may vary. I created flashcards (using Anki) every week to memorize the key facts. I don't think this was strictly necessary, but I found a lot of value in it. It helped me do the work more confidently and quickly since I didn't need to go double check every definition and property. The Discussions seem like they're still a work in progress. I found them to be a larger time commitment than they originally appeared and the organization is kind of a mess. I also found there to be a wide variance in difficulty of the discussion problems. If you pick your questions early, you can get the easy ones (if you want), and leave the hard ones to your group mates.
+
+---
+
+[March 2021] do the readings, watch youtube videos about subjects, and maybe get a chegg account to * **help** walk through problems because there is so much variety within concepts.
+
+---
+
+[February 2021] Very time consuming, and quite difficult at times. Ask lots of questions and go to office hours. You will need to google additional resources, spend lots of time on homework, studying for tests, and discussions. Lots of extra points to be had but a LOT of work.
+
+---
+
+[December 2020] I took the CS version of the class with Ehsan. Learning proofs for the first time was hard and that homework was time consuming, so I had to use various Youtube videos to help me understand it (TrevTutor and Trefor Bazett). The rest of the course was not as time consuming. I highly recommend using slader and/or chegg to confirm your problem-solving approach is correct for the first problem of each homework assignment. Also, it's not hard to get 100% in all your discussion posts, and I highly recommend you take the time to get full points for them. It's basically a free 20% towards your final grade, and you might learn something new by writing them.
+
+---
+
+[December 2020] The work isn't necessarily hard, but there is so much of it. Brush up on your algebra as well, as you'll be using it more as the semester goes on.
+
+---
+
+[December 2020] This class is a slog, but really not that difficult. Samina and the ULA's are great and you could generally get a response to a question within a few hours. It ramps up in difficulty with the peak being induction in week 5, then slides down in difficulty for the rest of the term.
+
+---
+
+[December 2020] Do the homework several times over, do the reading, ask questions, you should be fine!
+
+---
+
+[November 2020] Class is overall easy. Quizzes match the demo quiz and homework. Lecture aren't too bad and book is useful. Anyone can get an A in this class if you put in the work.
+
+---
+
+[October 2020] I took the math version of this course. Professor Krughoff was fantastic - always willing to help, and very kind. If you happen to have him, and you're confused, ask him! There was a second professor, but I never interacted with her. This class was infrequently overwhelming, and every time it was, my confusion could have been resolved much sooner if I had ASKED FOR HELP instead of trying to plow through it on my own. Don't be like me. Just ask. I will say this - this class was definitely time consuming. I took it with Intro to CS, and 80% of my time went to this class. This is largely because reading the textbook is important, and the textbook is...well, a math textbook. Hard to read a lot in one go. Spread it out as much as you can. And this may be unique to me, but I found that my math skills really deteriorate once I'm frustrated. That's probably generally true for most things, but it seemed especially true with math. If you feel the same, force yourself to take a break.
+
+---
+
+[September 2020] A lot of material and the homework and the assignment took time. I took it during the COVID-19 pandemic so there was no mid term or final exams. If you put in an effort you will do good.
+
+---
+
+[September 2020] Took MTH231 with Maisch. While I liked Maisch as a person very much and how engaged/helpful he was with the class, the class is completely unreasonable. Exam averages for final and midterm were upper-50s lower 60-s. Kept holding out for the curve but the curve was very mediocre at the end, between 3-8 points towards final grade. I did feel I learned a lot but it came at a cost of how difficult he made the class and how much busy work there is. A lot of work for a mediocre grade. If you’re really banking on getting an A do not take this class or be prepared to put in huge amounts of hours.
+
+---
+
+[August 2020] Be sure to read the grading rubrics for the homework. I was docked frequently for things I thought were very small. The devil is in the details for this class. I found Kristen Jaskie's videos on Youtube SUPER helpful (I also used TrevTutor in the beginning). Toward the end I barely skimmed the official slides in order to make sure I wasn't missing anything. Find a supplemental resource you like early.
+
+---
+
+[August 2020] Keep up with the readings. Some test questions come straight from the videos.
+
+---
+
+[August 2020] Biggest time sink of a class. Personally, I took notes as I read through the textbook and had an okay time understanding the material, anything I didn't understand in full, I went to youtube for but this only happened a few times. Quizzes every week on material for the week prior. Don't expect the material to get any easier and less time consuming until after induction lesson is over.
+
+---
+
+[August 2020] For the problems that were due each week, also do all of the related problems in the book as well. For the midterm and final, keep doing each of these problems until you can easily finish them.
+
+---
+
+[June 2020] This class is the pinnacle of busy work. Textbook does a very poor job of explaining a lot of the material and the professor is equally terrible at explaining anything. Expect this class to be a huge time sink due to how it is designed. Every week you have a 1.5-2 hour quiz, so effectively every week is a midterm, although the worst 2 quiz scores are dropped and quizzes only count for 30% of your grade. This was during COVID, so this may change. Lean as much on the TAs as you can. They will be a lifesaver for you in this class!
+
+---
+
+[June 2020] Actually took MTH 231 which is an equivalent class, but be warned it's very different from CS 225. If possible, take CS 225. At least it adequately prepares you for the exams. I suspect enough people failed the class so that there was a curve. There should have been way more work assigned to practice and review proofs.
+
+---
+
+[June 2020] Do not take the Math version of this course. The class average on both the mid term and final were in the high 50s. The professor informed us that between the notes, homework, quizzes, and practice tests that we should be well prepared for the tests, but this was not the case. In fact, the provided work was not nearly enough and I suspect that those who did well (B and higher) probably spent a ton of time going through the textbook that was supposedly not needed. While it sounds like the CS version has a lot more required work, it also probably prepares you better overall for the mid term and final, which weigh heavily on your final grade.
+
+---
+
+[June 2020] took the math version of this course. The exams are completely unreasonable and wrecked my otherwise fine grade. Take the CS version if at all possible
+
+---
+
+[June 2020] The class is just a huge time-sink. Having taken or done previous math classes will most likely not help you. It's not hard to get a good grade, but it does take a lot of time to get through the required materials, any outside sources to fill any gaps you may have, the assignments, and the weekly 2 hour quizzes. This quarter had the benefit of no midterm and no final and it still stressed me out getting through everything each week.
+
+---
+
+[June 2020] I was able to get an A in this class. Review every HW and quiz in preparation for the Tests. There are excellent videos on YouTube. Any subjects I had questions about, I would check on YT. The lectures were not that useful.
+
+---
+
+[May 2020] Actually took MTH 231 - and my biggest tip is to study the proofs the professor provides & to read the book. I often found the book to be much easier to understand than professor notes.
+
+---
+
+[April 2020] Brush up on Algebra before this course. Especially exponent rules. Also, get familiar with using LATEX to write mathematical symbols on Microsoft Word. Other than that, be prepared to use the book... a lot. You will need to comb through the book and pay attention to the nitty gritty details that are covered in each section. The lectures are OK but don't provide enough detail and rigor that are required for the quizzes/exams. Do lots of practice problems, go to outside resources for help, and you'll be fine. But be prepared to spend a lot of time on this course. If you have any experience with Python, you should pair this course with 161, as 161 will likely be a breeze if you have experience. My first quarter I took 225 and 161 and probably 90% of my studying time was devoted to 225.
+
+---
+
+[April 2020] Stay ahead on all of your coursework.
+
+---
+
+[March 2020] The concepts in this class weren’t terribly hard, but the class was handled like a complete circus. Quizzes and assignments would take up to two weeks longer to grade than indicated in the syllabus (meaning 3 weeks without grades and going into the midterm/final with heavily weighted assignments still out), TAs offered no feedback on grading decisions, and the lectures and textbooks were mostly useless. Also, the grading was not lenient for me at all. Any slight mistake would guarantee I’d lose the maximum amount of points possible in a question: for example, I lost 5 points for putting “if” and “then” in a proof supposition once. Take MTH 231 or get another discrete math class transferred in. Just don’t take this course. You are quite literally paying $2,000 to teach yourself material and become beholden to the whims of teacher’s assistants.
+
+---
+
+[March 2020] The structure of this course was terrible, and you waste so time writing in pointless discussions that nobody even cares about. Quizzes were like having a 2 hour midterm every week (a bit much) and there was always a week lag between the quiz you were due and the assignment for that week - would have been much easier to sync them up.
+
+---
+
+[March 2020] This class is essentially a logic class. There is math involved but that is secondary to the logic. Focus on understanding the logic and definitions and then the math portion. This class doesn't use trig or calculus, so basic algebra will suffice (exponents, inequalities, add, sub, div). With that said, you can get the math correct but miss points for incorrect logic so focus on the logic.
+
+---
+
+[March 2020] Start the reading and practice early. Review concepts ahead of taking quizzes. There are lots of text and youtube resources out there, so figure out what learning style works for you and stay on top of it..
+
+---
+
+[March 2020] The actual material you learn in this course is middle of the road in terms of difficulty. I came in with a strong math background, but still had to put in the time to fully understand what was going on. Definitely a course where the more you put in, the more you get out of it. The sheer volume of work in this course is what makes this class truly difficult. The class is very front loaded(quizzes/homeworks/readings are longer at the start). Other people will reiterate this, but stay ahead and on top of this course, at least through the midterm. The TAs and instructors were all incredibly helpful, so utilize them!
+
+---
+
+[March 2020] The first half of the class is more work and harder concepts in my opinion. Tackle the first few weeks and do the additional practice questions. Rework the homework if you do not understand it. Redo the mock and real quizzes. The exams are graded generously, but still require a fair amount of comfort with the concepts. Second half of the class is much less of a slog. Honestly the hardest part of this class was motivating myself to do the work because it is not terribly interesting.
+
+---
+
+[January 2020] The level of difficulty from this course stems from the amount of workload every week - a weekly quiz (which are more like exams, since they take 1-2 hours to complete), 2 weekly homework assignments, biweekly discussions, and a midterm and final. While the material is challenging, it is definitely doable if you put in the time. And if you make the effort to understand the material thoroughly each week, it will greatly prepare you for the midterm and final and lessen the amount of studying you will have to do for each exam. Luckily, the grading is lenient, and as long as you make an effort to answer an exam question, you will receive partial credit. The final exam grading was especially generous. As others have recommended: check out TrevTutor, Eddie Woo, and Trefor Bazett's YouTube channels for extra guidance. Make use of Piazza and Slack for questions—the TAs and instructor are typically very responsive. As for studying, review your homework assignments and pay attention to the types of questions asked on the practice midterms and practice finals, as those are the types of questions that were asked on each exam. I haven't seen this recommended yet, but if you'd like to get a head start on learning the material, I highly recommend Richard Hammack's "Book of Proof" which is available as a free PDF by the author (specifically pay attention to sections I, II, and III). This book covers a lot of the topics you will see in this course.
+
+---
+
+[December 2019] Start early with homework. Make sure you do every exercise and read each assigned reading. Try doing extra problems. The class is not hard as long as you’re studying every day. Midterm and Final exams guides are there for a reason - do every problem listed there. Make sure to do problems in the lecture slides as well as in weekly quizzes. The TAs are very helpful, but make sure that you read assignments and do the problems first.
+
+---
+
+[December 2019] I came in with an unusual level of preparation for this course, so I'm not the best judge of difficulty. The structure (two weekly assignments, weekly 2-hour quiz, bi-weekly discussion post) means that all students will spend a lot of time on this course. Most of my classmates who took both 161 and 225 spent at least 80% of their school time on 225. The grading is extremely lenient overall, rewarding effort and attempts with large partial credit allocations. The professor was extremely present on Slack and Piazza both, and she seemed to be working hard to answer questions posed by students. Please ask your questions on Piazza and Slack. (And, goodness gracious, please understand that "Anonymous" posts on Piazza are only anonymous from the students -- the instructor and TAs know who posted what.)
+
+---
+
+[December 2019] Use outside resources especially on topics before the midterm. Make sure you understand homework and quizzes prior to midterm and final. Keep on top of the material as it is easy to fall behind.
+
+---
+
+[December 2019] I am not really sure what advice I can offer here. The hardest part of the class, for me, is weak/strong mathematical induction around week 4. Things get dramatically easier after that. I am coming up on my finals and still really don't understand induction. The best advice I can give is put something on paper for every question even if it is blatantly wrong (within reason). Whether we are talking about quizzes, exams or assignments, I found the grading to be abundantly lax in this class which I think is its saving grace.
+
+---
+
+[December 2019] The algebra that you take on ALEKS will not be enough for this course. Best way to prepare is to buy the solutions guide to the textbook and do extra practice problems that resemble the assignments. Pay particular attention to the algebraic techniques. There is a good reason that you are taught Boolean Algebra initially... it carries on for the rest of the quarter into math induction and proofs.
+
+---
+
+[November 2019] Be honest about your class understanding with your group mates, be engaged in the Piazza discussions, start work early, and keep good notes.
+
+---
+
+[November 2019] I found the book and course material to be difficult to understand but with enough time spent slowly re-reading everything I was able to get it. I subscribed to Chegg.com specifically for this class which helped me a ton. They literally have the answers on Chegg so be careful not to use it as a crutch. I found it really difficult to see what was done between each step when reading the book or going over lecture materials and found Chegg had more in-depth examples as well as additional examples for other forms.
+
+---
+
+[November 2019] Spend more time working exercises and reviewing the answers in the appendix than trying to understand the material from reading or watching the lecture videos.
+
+---
+
+[November 2019] I was pretty lost the first few weeks of class, which starts with logic and expressions. This wasn't a typical 'numerical math' class, where you just operate on numbers. There is a lot of terminology and evaluating written statements. I think some general context and background of discrete math would have been helpful to ground the material in the real world, so if you want to prepare I'd suggest reading up on the subject and learning the basics of what this type of math is about and what it's used for. As the class progressed I could start to see how all the modules fit together and tied into computers (as well as many other areas of life). Toward the end of the class I was enjoying the subject much more and wondered why I hadn't learned this stuff before. The language in the required book can be confusing at times, and using the other recommended book or outside materials was helpful to parse some of the concepts. I also tried using an ebook version of the textbook for the first half of the class but eventually broke down and bought a physical copy around the midterm. I think having the physical version helps a lot when you need to skip around and review material. Unfortunately the midterm and final make up a HUGE portion of your grade (50%). However, the teacher provides some nice practice exams and the questions appear to be taken directly from the homework or quizzes with only slight changes. I thought the TA's and teacher were good at responding on Piazza and Slack.
+
+---
+
+[September 2019] Take advantage of the free ALEKS review materials before this class if you feel like you need to brush up on any math topics. Give yourself ample time for homework and quiz/midterm/final review, as the topics you cover will increase in scope quickly. Take the practice quizzes/midterm/final multiple times and get comfortable with them, as you will see very similar and sometimes exact problems on the actual quizzes/midterm/final. Get ready to do more proofs than you've ever imagined you'd do. The grading was fair and the instructor and TA's were quick to respond. Trefor Bazett's Discrete Math tutorials on YouTube were EXTREMELY helpful multiple times when I was stuck on particular topics. I took this during the compressed Summer term and the pace was very fast and merciless, so do your best not to fall behind as it would be extremely tough to catch up.
+
+---
+
+[August 2019] Practice the sample quizes and exams. Find youtube videos to help with example clarification. Make sure your text editor is solid, I used Microsoft word. Just grind away at practice problems and homework examples and you got it.
+
+---
+
+[July 2019] Do all the problems on the exam study guides.
+
+---
+
+[June 2019] This class, as taught by Ehsan, is not bad. You might not come away from it being a discrete maths genius (it is a very lite survey over the topics with no deep dives into them), but as a class it's not a tough one to get through. The content in this class can be obtuse in spots, but as others have mentioned after the midterm things get easier. As a person that isn't a mathy in any way at all I managed to do ok by simply brute forcing the information. Continuously go over the answers provided to you for assigned HW questions and quizzes, as those are the types you will see on the exams. Familiarity with the subject matter makes everything easier. Also, using chegg/slader to check your answers and see how problems are worked out is very helpful as well. And you might even find that these concepts start to make sense to you after a while.
+
+---
+
+[June 2019] This class is a grind. The book is really dry, and the video lectures are generally unrelated to what you'll be asked to do on homework/quizzes. This course suffers from its "memorize and regurgitate" format. It's tough to build intuition because the topics change so much from week to week. TrevTutor and Eddie Woo should be first stops on YouTube after you take a browse through the weekly homework. If you're looking to do prep before your quarter starts and you haven't taken Calc II, go over series and sequences. It seems like a lot of people got lost there. On a positive note, you can pull off a good grade if you put the time in since the grading is pretty lenient.
+
+---
+
+[June 2019] Do the homework, do the quizzes, work on assigned problems. Complete the study guide for midterm and final and if you don't know the answer write down how you would solve the problem. Midterm and final have lenient grading.
+
+---
+
+[June 2019] The first half of the class you might be like "wtf" but it seriously gets easier as you go along. It just took a bit for me to adjust to thinking logically after so long! The book is basically trash, use youtube instead! I used TrevTutor videos a lot. The videos are also not very helpful. Take advantage of the free tutoring, that helped me the most. Grading was super lenient, as long as they saw that you know what you're doing. Problems repeat a lot, so you will recognize patterns.
+
+---
+
+[May 2019] If you don't have a Math background, you'll spend a lot of time trying to understand concepts.
+
+---
+
+[April 2019] The book is dry. If you review the quizzes you should be able to do okay on the exams.
+
+---
+
+[April 2019] Finish homework and quizzes early. Make sure to absorb the material as best as you can each week. To supplement the course material I suggest watching TrevTutor, Trefor Bazett, and Eddie Woo on YouTube. Start studying for the midterm and final the moment that the materials are released. Grading is lenient; as long as you show your work and try to regurgitate theorems/proofs you should get the majority of the points.
+
+---
+
+[March 2019] Make sure you take the time with the homework to study it and absorb material. It will make things easier on the long run. Everyone on here says "Just review the study guide, quizzes, homework and textbook and you can easily get an A!!". Well, duh, that's a majority of college courses. I thought the homework is the most useful, because the study guides reference it a lot.
+
+---
+
+[March 2019] If this is your first math class in a while, I would recommend reviewing basic algebra before you take this course. It was usually the algebra that made things difficult, instead of the actual concepts we were learning. Grading is very lenient.
+
+---
+
+[December 2018] Practice problems are your friend. Try to find the answers online so you can look back at your work and correct yourself.
+
+---
+
+[December 2018] The course introduces various concepts. Some concepts are used to build further concepts on top of, while some are kept at a very introductory level. Start early on the homework assignments and use the other problems that have answers in the back of the book as a guide. On Youtube, find the Eddie Woo and TrevTutor discrete math tutorials as additional guidance. Find a LaTeX editor and get comfortable with it for the first half of the class (through the mid-term). After the mid-term switch back to Microsoft Word. Grading is forgiving.
+
+---
+
+[December 2018] The reading is tough and the subject matter can be hard to wrap your head around. Try taking good notes on theories and starting off strong, which will help you get in the mindset for the logic taught in the course. Grading was rather lenient, it seemed that the instructor/graders cared more about you understanding the concept as opposed to getting it perfectly correct, which was a big positive of the course. Brush up on some math if it has been a while, and get familiar with your text editor of choice early in the course so you can spend more time on the test material as opposed to formatting and getting the symbols right. Also definitely save your work often for homework and tests - I used Microsoft Word which crashed on me twice during a test and having to re-type an answer wasted a lot of time.
+
+---
+
+[December 2018] Course is more work heavy than I expected. Lots of different concepts (boolean math, basic probability, basic data structures) lumped together into one class so you will feel like your changing gears every other week or so. The course was more annoying than anything having to deal with equation editors. Still, it's pretty easy if you have a decent math background, but perhaps a struggle if you don't.
+
+---
+
+[September 2018] There was a lot of complaining about this class this quarter, but the truth is, you are given everything you need to succeed. There are even practice quizzes for the quizzes. Study the homework, quiz and practice exam questions, and you will be fine on exams. You may need to use almost all of the time on the exams, but the grading is fair and lenient.
+
+---
+
+[September 2018] Do the homework and all the practice you can. If you have a question, be prepared to look for it on your own because there doesn't really seem like there's anyone to help. It isn't terribly bad though. Lectures are well done, grading is generous, and the class is actually kind of interesting if you like logic games.
+
+---
+
+[August 2018] This class feels slapdash and indifferently maintained. The primary book is bloated and the videos are from some other class using some other book, though you can get by with them. Assignments are graded slowly, often still not returned by the time you have to take a quiz, midterm or final on the material. During the quarter I took it, the second section got their stuff back much more quickly, presumably because they had a lot fewer people, so consider that when registering. Teacher presence is minimal.
+
+---
+
+[August 2018] The lecture videos don't quiet cover the full scope of the material each week and could use updating. The test and quiz questions come directly from the textbook, so your best bet is to study and understand those as best as you can.
+
+---
+
+[August 2018] Don't wait until the weekend to cram in all the info. Read the book; the lectures were pretty bad near the end. Literally, the professor said that the definitions in the video were wrong and you were expect to remember the book definitions, but here's the video anyway.
+
+---
+
+[August 2018] I found this class to be more difficult than CS 161. The book is difficult to follow at times. The lecture videos are helpful about half the time and they are dated. Sometimes the lectures aren't in line with the book. As everyone else has said, Youtube videos are a great resource: TheTrev Tutor and Eddie Woo. Chegg can be a good resource for checking homework or additional problems not included in the back of the book. Piazza is pretty dead in this course, but slack was fairly active.
+
+---
+
+[August 2018] The Epp text is so full of errors and badly organized that you'll need the Rosen text for clarity. Obtain both. Study the old homework and quizzes from on-campus classes; their questions show up on exams. Video lectures are not very helpful.
+
+---
+
+[July 2018] Watch the lectures and take notes carefully, and you can skip the readings entirely. Be able to solve all of the problems from the lectures and try to relate questions on the quizzes and exams back to them. Don't stress if you feel like you didn't do well on the quizzes and exams - grading is very lenient, so make sure you answer all questions so you get partial credit. Don't worry about formatting too nicely on the exams, that can be a real time suck that you want to avoid. Chegg can save you quite a bit of time every week.
+
+---
+
+[July 2018] The material is challenging but the grading is lenient. The prof wants to make sure that you understand the material more than get the perfect answer.
+
+---
+
+[April 2018] Complex concepts, shallow depth so the class was a lot easier than it can be. Grading is very lenient as well.
+
+---
+
+[March 2018] Don't spend too long trying to understand everything from the book. If you get stuck, read/watch internet resources/videos. Review every homework assignment/quizzes on a regular basis. They will repeat or be in a slight variation on the exam. Grading is lenient, but I spent way too much time relearning concepts from previous weeks. Final grade 93%
+
+---
+
+[March 2018] Like always, do the readings, read the examples, do your assignments yourself, don't copy from others and utilize the resources they give you (old exams, old quizzes, old hw).
+
+---
+
+[March 2018] Use her study guides! The class is very fair. No one is trying to trick you !
+
+---
+
+[March 2018] Do the readings and homework. Do not be discouraged by the tough material. The exams are similar to the practice exams the teacher supplies. If you need help use your resources! TA appointments, NetTutor, YouTube videos (TrevTutor), etc. Class is pretty fun once you get a hang of it.
+
+---
+
+[March 2018] I watched a lot of TrevTutor on youtube and I paid for a Chegg subscription that was definitely worth the cost for the quarter. The concepts can be difficult to grasp at times but they grade pretty easily. I thought the weekly quizzes were harder than the midterm and final exam.
+
+---
+
+[March 2018] Can be challenging if you aren't proof/math inclined, but otherwise very easy and light. Study and make sure you understand the proofs and why, don't just memorize patterns. It's helpful for later courses.
+
+---
+
+[March 2018] The book is terrible at explaining concepts for the first half of the class (weeks 1-5), so look up videos on YouTube to make up for that. The assignments, quizzes, and tests are graded generously, so always attempt to answer a question, even if it's just a general explanation of HOW you would solve the problem.
+
+---
+
+[March 2018] Utilize outside lectures/videos a lot in addition to course materials.
+
+---
+
+[February 2018] The homework, demo quizzes, real quizzes, and exams all build on each other. Use these examples. Don't expect support from TAs or the instructor. You're on your own here.
+
+---
+
+[January 2018] Just do the work. The grading is lenient so don't stress too much.
+
+---
+
+[November 2017] Marking is very generous, just make sure to justify your answer. If on the midterm or final exam you use the wrong formula but still work through the problem, you will likely still get 9/10. Quizzes are mc but are open book and are very similar to the assignment questions. Lectures are alright, but youtube teaches most concepts better. The textbook is written in a more mathematical and rigorous style than required for this class. Use chegg if possible, but remember the academic policy and keep in mind that you paid to learn this stuff, and it is useful in program design.
+
+---
+
+[October 2017] This class seems really difficult at first. We had weekly homework and weekly quizzes. She provides you with previous homework assignments and previous quizzes to help you study. Make sure you study and understand all of this material and you should do fine. The grading is VERY generous.
+
+---
+
+[September 2017] Do the homework and watch the lectures. Don't both reading the book. The real explanations are in the answered questions in the back of the book.
+
+---
+
+[September 2017] In my term, there were two textbooks (the required textbook and an optional textbook). If your CS 225 term is like mine, definitely use both textbooks. Sometimes one textbook explained certain concepts better than the other textbook. Practice the homework problems, previous term homework problems, the demo quizzes, and similar problems from the textbooks. CS 225 was difficult for me at first, but I got the hang of it by constantly practicing problems and rereading the required readings. Make sure you review how to do algebra especially if math is not your strength. Also, don't wait until the last minute to do assignments and quizzes.
+
+---
+
+[August 2017] This class is not particularly hard, but does involve quite a bit of course work. Read the assigned readings and supplement with the videos provided as needed, talk to your peers (Ehsan and the TAs are available but pretty hands off unless you email them - take advantage of them as resources if you're really struggling). Look into YouTube videos (TrevTutor and Eddie Woo). Know your basic algebra - it will help you understand induction.
+
+---
+
+[August 2017] Do lots of practice problems. Check out trevtutor and Eddie Woo on youtube as both often explain things better than the text. Grading is super lenient so don't stress too much. As long as you take the course seriously and do lots of practice problems, an A is very attainable (our class average was a 90%!).
+
+---
+
+[August 2017] Practice a lot of example problems
+
+---
+
+[August 2017] Tests are very easy, generously graded, and often times repeat questions. The homework and quizzes are what you need to focus on doing well on.
+
+---
+
+[August 2017] This class is not too difficult, just if you make sure you understand all the concepts and can do all the HW problems without difficulty. All of the mid-term and final question will be drawn form the HW and quizzes so there will be no surprises. Grading is very generous too so at least try to solve every problem on the tests for partial credit. While not too hard the HW and reading do take a lot of time so make sure you don't get overwhelmed especially if you are taking other classes.
+
+---
+
+[August 2017] I had to do extra examples each week to prepare myself for quizzes and exams. If you do well in assignments and quizzes, exams will be easy.
+
+---
+
+[June 2017] Get a chegg.com subscription for help with answers. Do more than just the assigned homework questions: do the practice quizzes, do the previous homework(s), do the example problems that have answers in the back of the book. The midterm is harder than the final. Review fraction multiplication, division, addition. Class gets hard around week 4, 5, then really calms down around week 6, 7 and 10. YouTube has better video tutorials than the class.
+
+---
+
+[June 2017] This is a logic course, not so much a math course. Review basic algebra and you'll be ok
+
+---
+
+[June 2017] Don't give up if you don't understand a concept at first exposure. I'd often have to watch the lectures and read the book a couple times to let the information really sink in. After you have a decent understanding, most problems are fairly straightforward. Grading on the quizzes and exams is very fair, so be sure to show work or exhibit some level of understanding even if you can't get a final answer that you believe is correct. The practice quizzes and exams are extremely similar to the actual versions, so use those as guides when preparing.
+
+---
+
+[June 2017] Brush up on your algebra before taking this. There are some really complicated algebraic operations, especially with the strong induction.
+
+---
+
+[June 2017] I hadn't taken a math class in 10 years and I struggled. Ended up with an A, but it took a lot of effort. Use the study guides for the tests and review all of the questions listed. If you understand those, you'll do just fine.
+
+---
+
+[May 2017] Do all the homeworks, even if they aren't worth a whole lot, because it will help you understand how to approach the quizzes. This class is all about recognizing patterns. I'd say this class is easy if you have decent algebra skills and are good at memorization. This class is definitely doable otherwise, as all the math/logic tools you need to approach most questions are taught/reviewed during the course.
+
+---
+
+[March 2017] Use the answer keys from the quizzes for how to format your answers. It can be a little confusing how to format the homework based off of the lectures and book, but you get a demo quiz every week whose answers will make it clear on how you should format everything. Most people struggle a little with induction, but the trickiest parts of induction just involve manipulating equations with algebra. It's definitely the hardest homework, but don't psych yourself out over it and you'll figure it out.
+
+---
+
+[March 2017] Certain topics are challenging later on in the quarter. Read the book. That is your best resource. They grade easily and give a lot of partial credit
+
+---
+
+[March 2017] Some weeks I spent less than 2~3 hours on assignments, some weeks you had to spend a little more, thus averaging somewhere between 6 and 10 hours. I pulled through due to prior math knowledge and doing quite a lot of ALEKS prep before the course. This class is one where if you took it by itself, it would seem like it was too slow or too little. However, a solid time investment should get you a 100% final grade. The grading is very lenient, just make sure you do the work and put in a little genuine effort. People made a big deal about induction, but it wasn't that bad. Weak induction is pretty easy, but there are some tricky things you can do with algebra that aren't taught very well. Strong induction is probably one of the more difficult sections in the course, but it isn't that bad. Put in a few extra hours and you will be fine. Definitely use some outside resources to supplement the book.
+
+---
+
+[March 2017] I had a very interesting relationship with this class. Sometimes I loved it, other times I hated it. Looking back, I really do enjoy the material. I didn't find that this class get harder/easier after a certain point in the course - I think it remained at the same level of difficulty for the most part. I read somewhere that induction is the hardest part of the course, but unfortunately that was not the case for me and many others in the class. Permutation and combinations were very challenging (2nd to last week). You'll find that most weeks are challenging since everything is new stuff but then you look back and study for the midterm/final and you're a pro at all the stuff before. Induction becomes fairly simple after a few weeks of letting it sit in your head, so don't sweat it if it's taking you a while to grasp it immediately. Regarding the lectures, for some weeks they were good and others they weren't. I found them more useful in the beginning , very weak during the middle, and better the last weeks. You'd think the practice problems they go over in the lectures would help you in the HW but for most weeks they don't. Apparently the lectures were made while they were using another textbook. Be prepared to watch youtube videos - plenty of great content on there. TrevTutor was especially helpful for me.
+
+---
+
+[March 2017] The class starts off fairly challenging but levels off towards the end. If you have never done proofs before, the class goes over direct proofs, proof by contraposition, by contradiction and by (weak and strong) induction. The proofs were the most challenging part for me. If you have not taken any math classes in a while, I would suggest practicing some algebra using the ALEKS program. Things like factoring, combining like terms, properties of different number types and other math concepts are useful for proofs. It is doable just put in the time.
+
+---
+
+[March 2017] Just do the homework and have it open when u take quizzes
+
+---
+
+[March 2017] Do all the homework problems seriously. Samina takes so many exam questions from hwk and prior quizzes. Really just memorize how to do the problems and the exams should be okay. Also almost any assignment or quiz question can be found using the power of Google.
+
+---
+
+[March 2017] Don't stress. Material is confusing but they grade fairly easily. Follow the study guides and practice tests and you'll be fine.
+
+---
+
+[March 2017] Not a very difficult class. Induction can be a difficult concept at first but there are plenty of outside resources and example problems. The grading is also very lenient on exams.
+
+---
+
+[March 2017] The hardest part of this course is proofs, especially by induction. Quiz and exam proof questions are frequently taken straight from the book. The professor provides plenty of practice exams, and they are very closely aligned with the real exams.
+
+---
+
+[March 2017] Be comfortable with basic algebra and learn properties of integers and rational numbers. Overall, the grading in the class was pretty easy, but some people have a hard time with logic and proofs. Fortunately, everything is covered in the textbook, so if you can remember the proofs from there, you will probably be fine.
+
+---
+
+[February 2017] I had not taken a math class in 10+ years. I did terribly on ALEKS, but I went through most of the modules. I came out with a B+ and was thrilled. The quizzes and HW are basically the tests. Show all of your work-she is very generous on a couple points here and there.
+
+---
+
+[January 2017] The material is not too difficult, but with other obligations you may find that you just need more time to let it really sink in.
+
+---
+
+[December 2016] Make sure to spend time understanding the homework problems. Try some similar problems with answers in the back of the book if you are struggling. Exams were very similar to practice exams/problems provided.
+
+---
+
+[August 2016] Reading the material before watching the lectures helped my understanding.
+
+---
+
+[June 2016] Do homeworks, and memorise quizzes for the tests
+
+---
+
+[June 2016] A lot of the questions on exams come from the homework and quizzes throughout the term or are closely related. Take time to do the work and study and you should be fine.
+
+---
+
+[June 2016] Don't panic during quizzes and exams.
+
+---
+
+[April 2016] This class isn't particularly difficult unless you struggle with grasping abstract concepts when it comes to logic. Mostly I found that it was time-consuming. While the work was not tough most of the time, doing all of the homework was tedious and took the better part of a weekend day to complete the homework and quiz for the week. I would suggest not procrastinating and spreading the work out during the week to make room for any other class you might be working on it or free time.
+
+---
+
+[March 2016] Bone up on your algebra before taking this class and make sure you're familiar with summations.
+
+---
+
+[March 2016] Don't bother with the lectures, skim the readings, do as many practice problems as you can. Make sure to be prepared for the quizzes each week.
+
+---
+
+[March 2016] Quizzes are posted on Thursdays and due Sunday nights. Homework will not be graded by the time you do the quiz, so look at the homework solutions. Exams and quizzes are pulled directly from homework!
+
+---
+
+[March 2016] Practice different problems in the book, not just the ones for the homework
+
+---
+
+[March 2016] This class really isn't that bad. For a person coming in with a non stem background it could be a challenge because a lot of the concepts are...weird. Especially when you get into recursion and Iterations. Make use of the tutors, don't underestimate their ability and worth.
+
+---
+
+[December 2015] Be prepared to use outside resources for better explanations. The lectures are tied to the old book (Rosen) instead of the required book (Epp).
+
+---
+
+[December 2015] The study guides for exams are spot on, make sure to know everything on the study guide. Homework is the hardest difficulty. Quizzes are easier than homework. Exams are easier than quizzes. If you know homework and quiz questions really well you will breeze through the exams no sweat.
+
+---
+
+[December 2015] Practice practice practice! If you aren't good at mathematics, there is no shortcut to get around doing practice problems. The lecture videos are very well done in my opinion, and going back to those notes always helped me. There were always plenty of examples in the book as well.
+
+---
+
+[December 2015] Make sure you're up on your algebra. Find a good youtube channel to help you through it. The reading and the videos could be confusing or not great for providing an easier way to understand what you're actually meant to be doing. Grading on homework seemed haphazard at best. Try to do the example problems in the book while you're reading and as many in the exercise sets as you can.
+
+---
+
+[November 2015] She gives guides, use them. Many of these questions will be on the tests.
+
+---
+
+[November 2015] Study your algebra and get a head start on proofs!
+
+---
+
+[August 2015] Get ready for induction it's probably the most difficult topic in this class. And brush up on algebra it should be second nature.
+
+---
+
+[August 2015] Brush up on your algebra if you haven't taken a math class in a while.

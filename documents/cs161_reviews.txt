@@ -1,0 +1,589 @@
+[Unknown] Common pairings "Just start early or take a Udemy class on python.
+
+---
+
+[August 2025] If you have any programming background at all, this class will be extremely easy for you. I could see how it would be challenging if you walked in with no knowledge of coding, but even then, I think you could expect to get an A with just a bit more effort. It's a nice slow-paced class.
+
+---
+
+[March 2025] Don't listen to people who say that you're not cut out for CS if you struggle with these concepts. I don't have a CS/tech background, and it took me longer to understand the subjects and complete the assignments than it did for some other students. However, I wouldn't say the class itself is very difficult or confusing. There are lots of resources out there that can help you understand the modules (though it can be hard to find resources that don't use techniques that aren't allowed in this class). The subjects covered in this class are important, so if you don't understand something, ask for help! The professors and TAs are kind and helpful. The biggest piece of advice I can give for this class and program is to resist comparing yourself to other students. The people who want to brag that they finished an assignment in 10 minutes are much louder and fewer in number than the quiet majority of people who find concepts harder or take a longer time to finish assignments.
+
+---
+
+[July 2024] If you want, you can brush up on some python skills via youtube, but this course will teach you what you need to know to be successful on the assignments.
+
+---
+
+[March 2024] I have an engineering background, and have built python tools with a rudimentary ME knowledge of programming. AKA I know some basics, but have spent lots of time debugging code because of a poor programming foundation. I leaned on that early in the term, and spent the final day of the week going over course material and doing assignments - DONT DO THIS! Recursions wrecked me a little, and the late term string modifications wrecked me. If given enough time, these would not have been an issue. I think this is an easy course overall, especially if you have some programming experience, but don't let that be an excuse to slack off like me and roll your school work in at the last minute.
+
+---
+
+[March 2024] If you have any experience with python this class is a breeze
+
+---
+
+[March 2024] This course is very easy. I had a very minor background in python when it was used in my Math undergrad courses 6 years before starting this program. My advice is to practice every example in the modules, and keep practicing different problems than what's given in the course. Also, I would regularly try to "teach" the material to my partner in order to test how well l understood the material. For me, I felt a real sense of accomplishment feeling like I was mastering the material as I was going. This will set you up very well for 162.
+
+---
+
+[February 2024] I enjoyed this class. I had no programming experience coming into it, so I had to study more than some of the other reviewers here, and the later homework assignments tripped me up at times. That being said, the modules are easy to follow and are relevant to the homework. I felt like I had a good basic knowledge of Python by the end of the course.
+
+---
+
+[December 2023] The class was pretty easy if you have any basic programming knowledge. I recommend doing a udemy class alongside it or something.
+
+---
+
+[July 2023] This "class" is the equivalent of a week's reading of online tutorials. I should've taken the advice and transferred it in to save money.
+
+---
+
+[June 2023] This class is very easy if you watch the lectures and experiment with the exploratory examples. You will submit assignments through a program called Gradescope that is very finicky with grading solutions. Your programs print statements and outputs must be formatted exactly as shown, or your assignment will be graded incorrectly. There are no quizzes or exams.
+
+---
+
+[June 2023] If you have studied Python this will be a cakewalk. If you have studied other languages this will probably still be a cakewalk. If this is your first time coding, it will take you some time and you probably won't get the right answer the first time, but the office hours will be very helpful so use them!
+
+---
+
+[June 2023] This course isn't terribly difficult. It only provides a high level overview on some seriously important programming concepts. You only spend two weeks on object oriented programming. You'll need to supplement this course with other studies, projects, and examples.
+
+---
+
+[February 2023] The content on the exploration pages is well structured and covers everything you need for the earlier projects. Give yourself more time to understand OOP if you have no prior programming experience, as the last weeks focus on this entirely. While this course pairs well with 225, be careful not to let the latter monopolize all your time. Do all the module exercises!
+
+---
+
+[January 2023] Before taking this just review the basics of python. That way you can focus on getting deeper into the hard stuff!
+
+---
+
+[December 2022] This class is totally doable with no prior Python knowledge. Though if you've ever done a Udemy course or anything else, you'll sail through without even trying.
+
+---
+
+[December 2022] I came in with a good understanding of JS and some Python. I think the entire course took me 10 hours total. Extremely easy with not that much busy work.
+
+---
+
+[November 2022] Utilize the TAs as much as possibl e
+
+---
+
+[November 2022] You don't need any background in coding at all to get an A in this class. I had minimal C++ experience, and the Python taught in this course was a breeze in bite-sized increments. I put maybe 3 hours a week into this class and genuinely found it fun.
+
+---
+
+[August 2022] It’s an easy course, but understanding the concepts is vital. Absolutely use office hours when confused. Ask questions! Otherwise, this class was wonderful.
+
+---
+
+[August 2022] If you have familiarity with basic programming in Python, the course should be mostly a breeze. I had completed Codecademy's beginner and intermediate Python courses before the class and was able to complete all of the assignments in under an hours without using the learning modules. Based on Ed discussions, it seems many people started to struggle a little when it came to classes and objects, so get some practice with those if you can. There are a couple group assignments in this class where you collectively assess each other's work as well as your own reflection on your work. It's a good idea to get started on them early since we're all adults, many of us with jobs and families to balance, so setting mutually feasible deadlines can be tricky. The group assignments themselves are relatively short and simple, you just have to coordinate getting them done. You'll also likely want to use a different platform to coordinate and possibly to discuss your group work. We used Discord and it worked well. If you are trying to group up with specific other people, pick a time in advance to all join a discussion group, or you may end up with a random person in there!
+
+---
+
+[August 2022] Stay on top of lectures and give yourself time to debug your code
+
+---
+
+[March 2022] Learn some Python basics before taking it.
+
+---
+
+[March 2022] Class is structured well. Prof has weekly office hours sessions on zoom that can help a LOT with the homework. Try not to wait until the day before or the day of to start assignments.
+
+---
+
+[March 2022] The modules are helpful, but be prepared to go to office hours and get help from your TAs if you do not understand a concept.
+
+---
+
+[March 2022] My approach to solving the assignments and understanding new concepts is to read through the module, do practice, check solutions, read more recommended materials and finally do the assignment. If I could not solve the assignment, I go to the help session to see if it was explained in the session or check the sample code discussed in the session. The help session will give similar examples to the assignment.
+
+---
+
+[March 2022] I already knew Python prior to taking this course, so it was very easy for me, but it may take some time for those that don’t have experience. It is a good introduction to programming, though.
+
+---
+
+[March 2022] Be ahead of the game. Read the whole "Think Python" book.
+
+---
+
+[March 2022] Be prepared for the difficulty to ramp up near the end of the term. Module 9 and 10 had a new revamp Winter 2022 and module 9 was crazy difficult. Hopefully they reorder those two. "Where to watch" ugh... You'll know when you get there. Also watch the help sessions.
+
+---
+
+[March 2022] Nothing to worry about this class, make sure you learn and code on your own.
+
+---
+
+[March 2022] If you have any previous python experience, this will be fine.
+
+---
+
+[March 2022] study fundamentals if possible. Really basic syntax knowledge would have been helpful before getting started.
+
+---
+
+[March 2022] Course material opens up two weeks in advance. If you’ve had any background in computer science this course won’t be that challenging. Try to stay a week ahead of when assignments are due, as life happens. The last two assignments are a leap in difficulty from the first portion of the course so don’t be fooled and forget to manage your time for those assignments.
+
+---
+
+[March 2022] This is the easiest course in the program. All of the material you need is right in canvas.
+
+---
+
+[March 2022] finish at least one of Dr. Angela Yu as well as Colt Steele Python Udemy courses respectively before the start of the semester.
+
+---
+
+[March 2022] take the 100 Days of Code in Python Udemy course by Angela Yu before the semester starts
+
+---
+
+[March 2022] I found this course very easy, however I had prior experience coding in C and also web dev by going through most of the Odin Project. It was a good intro to Python. If you are brand new to coding and have zero experience going into this course, you'll probably spend a bit more time on the assignments, especially the last 2 weeks where the projects scale up somewhat. I would highly recommend familiarizing yourself with basic coding concepts so you do not have to spend much time on this course (assuming you work or have other obligations). I took this course with CS225 (discrete maths) and 90-95% of my time doing school work after work was focused on that course.
+
+---
+
+[March 2022] Follow the directions carefully and edit your code after it works to make it cleaner.
+
+---
+
+[February 2022] If you already have some programming skills, this course will take almost none of your time. If you don't have any programming experience, this course will take more time (and I would imagine be more difficult). It is truly meant as an introduction to programming, NOT as a challenging class for anyone who already has programming skills. The ULAs and professors were active on the discussion boards and ran a weekly live office hours/help session that was then posted to Canvas for anyone who couldn't make it live.
+
+---
+
+[February 2022] This class is really a intro to an intro of computer science. Its very simple but not always easy. My advice is to carefully read the provided readme for each assignment and it would not hurt to take a intro Udemy course prior if you want to guarantee an A. I think this class is a really good time to understand the value of the various types of python objects. I think the class can be challenging if paired with CS225.
+
+---
+
+[February 2022] If you read through the explorations and test out concepts you're not familiar with, you shouldn't have any problems working through the assignments. Course is well laid out and sets you up for success if you engage with it.
+
+---
+
+[November 2021] If you have any experience in Python or programming this class should be a breeze. Even if you don't, the modules are done in a way that effectively builds your foundation of concepts, and most of the assignments are short and straightforward until the last few weeks of the semester. If you get stuck the professors and ULAs are awesome and super helpful! I wish that this class gave an intro to debugging, it would have been helpful for the final project. You may want to acquaint yourself with the debugger in pycharm, since pythontutor (which was recommended by our professor) has a limit on lines of code so you can't really use it effectively for the final project.
+
+---
+
+[September 2021] I spent 92 hours on this class in a summer semester (so 11.5 hr/wk in accelerated summer, or 8.3 hr/wk in a normal 11 week semester). I didn't have much other programming experience, so I prepared for the class by spending 27 hours going through the written/video resources of the "Python for Everybody" course (skipping all of the problems, because I was going to do those in 161). I felt like that was the perfect amount of prep, so going through the actual 161 course materials was actually pretty good review. I honestly probably could've finished 161 about 30% faster if I wasn't so fixated on maximizing my grade. This class is an easy A because you can retake quizzes, and you're not graded on your code's efficiency, just whether or not it works.
+
+---
+
+[September 2021] Get ahead and stay ahead! Do some light python programming prep before the class if possible. I did up to the last couple of weeks of PY4E.com and zipped right through this course with very few issues. Google will be your friend! Read the specs carefully and get to work ASAP as soon assignments drop. I only have to spend at max 2-3 weeknights per assignment, and for the most part they were pretty straightforward. The last 2 assignments are longer and harder, but only because they combine more topics. There are quizzes but you can take each one twice, so there is literally no reason to get a bad grade on the quizzes. I liked this course a lot and got an A.
+
+---
+
+[June 2021] Work ahead as much as possible.
+
+---
+
+[March 2021] Start early and ask for help, keeps stress levels down
+
+---
+
+[February 2021] If you have no experience like me, the coding might take a couple extra hours a week than other people have said just because its new ...all in all not difficult
+
+---
+
+[February 2021] Get familiar with the syntax. That way you can focus on learning the strategy and logic. Python Crash Course is a great book to learn from.
+
+---
+
+[January 2021] Very basic course in a simple language. Slack and Instructors are responsive so ask questions and pay attention to deadlines/requirements.
+
+---
+
+[December 2020] This class isn't that difficult. The professors are very responsive if you ever get stuck. The last 2 projects are a bit longer so start earlier on them, but everything you need to complete them is given to you.
+
+---
+
+[December 2020] I found this class super easy, but I'd started learning with The Odin Project in the months building up to it. I seems like a very kind class, though - weekly lessons with a quiz, pretty straightforward assignments, occasional group work, few surprises. Didn't interact with the professors much. Felt very in control the whole time.
+
+---
+
+[September 2020] Pay attention to the module exercises. Also some of the assignments comes from the option reading book.
+
+---
+
+[September 2020] Not too bad, felt like busy work at some points with the group assignments but not too bad and captures fundamentals pretty well.
+
+---
+
+[August 2020] It's really helpful if you take any intro Python. I already had coding experience, but I took the Codecademy python course. It covered everything you needed, and made the projects very easy.
+
+---
+
+[August 2020] Learn how to use the debugger now and it'll serve you well your entire coding career.
+
+---
+
+[August 2020] Focus on the material in Canvas and don't get lost in the weeds. Practice, practice, practice. Do the problems on your own before looking for solutions elsewhere.
+
+---
+
+[August 2020] As someone who's taken a prior programming class two years ago at another college (in c++), this is definitely an easy-to-get-into intro class (not because of the language switch). Curriculum is laid out pretty clearly. Most projects took between 20 minutes and an hour each week. Ample time to finish two bigger, final, projects.
+
+---
+
+[August 2020] I found the book "Python Crash Course" very helpful. I read the sections reviewing the topics that were being covered on Canvas for that week.
+
+---
+
+[June 2020] Very easy class if you're familiar with coding already. If not, it's a gentle and fair introduction, and should still not take up much of your time. The concepts are explained quite well and you are given plenty of exercises to work through to solidify those concepts.
+
+---
+
+[June 2020] Be sure to start the assignments early because you WILL run into issues along the way especially if you are completely new to programming, or suck at technical computer stuff! Otherwise this is a very manageable course.
+
+---
+
+[June 2020] Most modules can be completed in one day. If you don't have any programming experience, it may be better to spread out the material or assignments throughout the week so you don't forget what you've learned. The last two projects are larger so don't procrastinate.
+
+---
+
+[June 2020] Fairly straight forward class. I have an accounting background and was able to succeed in this class. My advice would be to not procrastinate.
+
+---
+
+[May 2020] I went into this class with no prior CS experience, and it was my first class at OSU. If I could do it differently, I would have taken it at a comm. college to save money (you can transfer up to 12 credits). I thought the class was very easy in the beginning, and then difficulty just ramped up towards the end. Other students have commented before that it really depends on the TA you get, and I completely agree. I had a TA who docked me for tiny formatting things, largely based on preference. When we worked in a group, other students in this class shared that this wasn't their experience at all (confirming that difficulty depends partially on TA). However, because it was my first class, I felt like I learned a lot.
+
+---
+
+[April 2020] It was very helpful to get a “jump” on the course by starting Codecademy’s python course beforehand. I spent a week or two before class started delving into the Codecademy course, and it really helped.
+
+---
+
+[April 2020] If you have time before you start at OSU, take the MIT Introduction to Computer Science and Programming Using Python course on EDX. It is free and will prepare you not just for 161 but also 162.
+
+---
+
+[April 2020] I had no programming experience and came from a non technical background and spent 1-2 hours per week on the class until the last two assignments, so taking a programming course before this class definitely isn’t needed. The difficulty in assignments was pretty uneven, however. Start those last two assignments early and contact TAs/instructors if you need help. Retake the quizzes if you don’t get a perfect score on them as missing one question on a few quizzes can add up over the term. Group work was easy.
+
+---
+
+[March 2020] The class is decently easy for assignments 1-8, if you understand programming somewhat. But if you have no software experience be prepared to get wrecked by projects 9 and 10. I was sitting on an almost perfect A, until I got hit with 9 and 10. The instructors and TA's did well at making themselves available via slack, but some Google Hangouts video chat office hours would have been nice.
+
+---
+
+[March 2020] This course is really straightforward, but you have to be willing to put a little effort in. If you have no experience, be prepared to spend some time playing around with concepts and be sure to practice with repl in Canvas. IF you don't spend the time in the beginning , you will struggle with the last 2 projects.
+
+---
+
+[March 2020] Take a Udemy course or watch Youtube videos for a great foundation. You can never get enough practice in programming. Learn to read code for clarity and understanding. Simply writing a program only through trial and error will not give you a firm foundation. If you can read code before executing it and understand what is going to happen you will do very well in this course. Share your solutions and critique each other's programs for additional practice. Some of the projects are just a couple lines of code, while others towards the end are 50-100 lines depending on how you design your program. Sometimes you'll spend a few hours in the week for the module and sometimes you'll spend 15-20 hours. I've heard that students often have trouble with modules 1-5 or 6-10. So if you're having a hard time with the first half, then it will likely get clearer for you as you keep going. The TA's were great and readily available. Same with the instructors...everybody is eager to help and encouraging.
+
+---
+
+[March 2020] Do some quick you tube tutorials on basic coding in any language before the class
+
+---
+
+[March 2020] As everyone has said, take at least a Udemy course on Python before this course. It will overly prepare you to where you'll find this class boring until the small projects at the end. The TAs and professor are all extremely helpful, so even if you come into the class with 0 preparation, you will have a great support system to learn.
+
+---
+
+[March 2020] If you have any prior programming experience, you will likely find this course very simple. If you don't, I highly recommend taking Harvard's free online course called CS50; It is much higher quality and more in-depth. It will be harder to complete, but absolutely worth it. 161 is easy, but I worry about how prepared students will actually be for later courses after taking it. Although, I've heard that 162 is easier now that it's been switched to Python, so maybe a slower ramp-up through 161 and 162 is what OSU is going for?
+
+---
+
+[February 2020] Since the course is now taught in Python, it's certainly worth getting a head start via any of the free online resources that teach beginner programming, many of which also use Python. The rigor is somewhat uneven, with some weeks requiring very little (<2 hours) work, and some closer to 10. I had experience with programming going into this class and found it easy, but also rewarding. Side Note: If you've already got some experience, be prepared to write more comments and docstrings than you're used to. Other than that, it should be a breeze.
+
+---
+
+[January 2020] I took this class as part of the first Python cohort (Fall 2019). If you'd like to have a much easier time the class, I recommend taking a Python class on Udemy to get ahead learning the material. The assignments consisted of 2-3 weekly coding assignments, 2 group projects (which were written assignments), and weekly quizzes that are meant to reinforce your understanding of the material. If you have prior programming experience, this class should be a breeze. And even if you come in to the class with zero coding experience, the class is set up so that beginners can understand it. The weeks with the largest workload were weeks 9 and 10. My biggest piece of advice is to make sure to test your programs thoroughly and read the assignment specs carefully—the single Gradescope test that is run when you submit is not reflective of all of the tests that will be performed after the due date deadline.
+
+---
+
+[December 2019] Do Repl.it code problems; study the model solutions carefully; try reading all the optional chapters; pay attention to what is covered on Canvas; do not use concepts/tools not covered yet; find a way to organize the material to keep track of what has been covered; revisit each week at least 2-3 times as you progress through the course; start coding week 9 and week 10 projects early; participate in online discussions — ask & answer; explain concepts to your classmates — helps you solidify; use pythontutor; get in the habit of drawing diagrams and variable states; get in the habit of tracing the code; the learning materials are thoroughly thought-through and have solid underlying logic.
+
+---
+
+[December 2019] Do your best to stay on top of things and get help from TAs/Slack/Piazza. There's no book and no proctored exams in this python redesign, so the external annoyances are minimal. I took it knowing very little python or programming, and found it to be really quite easy. I found the optional text (which can be downloaded as free PDF or purchased inexpensively as a paperback) to be a wonderful extension and secondary resource. Weekly assignments are short (too short, I would say), and quizzes were open-internet and allowed for a retake. I took the quizzes first and used them to help guide what I looked at as I reviewed the weekly lessons on Canvas. Instructor clearly wants everyone to have reasonable shot at 100% on quizzes, based on this setup. Quiz items are randomized from a larger problem set, and the quiz answer options are randomized as well, so you do have to focus on actually learning the ideas. The instructor introduces git on week one, and assignments are submitted through GitHub. However, the true power of git becomes apparent during weeks 8, 9, and 10, when the projects become long enough to warrant branching and merging. Try to remember that git is your friend when you get there. You can do some early studying via Udemy or other Python resources if you like, but it is not at all required. People who come in knowing Python are actually at a sort of disadvantage: we are forbidden from using non-covered topics and tools, and some Piazza/Slack convos were complaints about "Why can't I use function.method()??" Do your best to stick to the script, because we are meant to learn the actual logical execution.
+
+---
+
+[December 2019] No textbook required, but free online PDF helps a lot when understanding material. Don't get behind on early material as is all reused on assignments... especially classes.
+
+---
+
+[December 2019] Take a Udemy/Coursera class on Python beforehand. Doing so will morph this class into a cakewalk. I watched people with no prior programming experience wade into this class and have a ton of difficulty. I have no prior professional programming experience but took the Python Masterclass on Udemy over the summer before starting this class and the hardest I had to work was probably on the two projects at the end, both of which took me about 4-8 hours total time each. The time was simply due to how large the projects are compared to previous assignments and subsequent debugging and documenting you will have to do.
+
+---
+
+[December 2019] Take an intro to python programing course and you will be fine.
+
+---
+
+[December 2019] Take an intro to CS course in Python on Coursera or Udemy before this class. No textbook is needed, but I would google what the best beginner Python books are and buy one of those for extra practice/understanding. Stack Overflow has some pretty bad/inefficient code that doesn’t always work. Rely on academic literature online or your personal Python beginner’s book.
+
+---
+
+[November 2019] Start projects early. Stay on top of concepts.
+
+---
+
+[November 2019] Practice as much hand-tracing of code as you can, especially for the midterm and final exam. The book is adequate at explaining concepts, but the video lectures were not very helpful. Do the end of chapter reviews, and code and compile examples from the book if you're having a tough time with a topic. Reach out for help when you feel you need it, as once you fall behind it's tough to catch back up. Google and YouTube will become your close friends as they have tons of available helpful information. The accelerated Summer schedule made this class feel a lot tougher than the original reviews I'd read here.
+
+---
+
+[June 2019] Start assignments early, watch Cherno, participate in slack and ask TA questions.
+
+---
+
+[June 2019] I came in without any prior programming experience, so admittedly I probably spent way more time on everything than most people. That being said, Todd is very responsive on Piazza, so take advantage of that. Read the book and really know how to step through lines of code and figure out what the output will be. I just forced myself to use VIM the whole time, but perhaps using an IDE would have saved me some headaches.
+
+---
+
+[May 2019] Not as hard as 162, but careful with the last project.
+
+---
+
+[April 2019] If you have no background in CS, I would spend way more time trying to learn C++. Get a head start on all the readings because they are really long. Watch youtube videos to help you explain concepts. The exams can be tricky, try hand tracing everything before you answer exam questions. Be prepared for the last assignments which can take a long time to debug and figure out.
+
+---
+
+[March 2019] Just read the book and do your homework in time. Make sure you test your stuff thoroughly.
+
+---
+
+[March 2019] I had no programming experience beforehand. The assignments are not time intensive until the second half when you are introduced to pointers and arrays. For a beginner this was a little confusing but the TAs were willing to help look at my code. For this reason I would recommend starting on the assignments when you can so you can get feedback outside mimir on what you can do to improve your code. I found the exams difficult. Textbook checkpoints are suitable review. Overall enjoyable class though.
+
+---
+
+[February 2019] Do the readings and chapter exercises, and you'll do great. The final project takes a lot more time than the previous ones, so be ready for that. I preferred YouTube and Udemy videos to the lecture videos.
+
+---
+
+[December 2018] Read the book for the technical jargon and concepts. Tests focus on the terms heavily.
+
+---
+
+[December 2018] Fairly straight forward class if you have any sort of programming background. For the coding assignment, follow the specifications strictly and you will get full credit. Study the end of chapter problems in the textbook for the exam.
+
+---
+
+[December 2018] If you are familiar with programming, this class will be rather easy. If you aren't, I wouldn't stress - concepts and syntax may be unfamiliar or hard to wrap you head around, but you will be able to pick up on it quickly. Reading the textbook and looking through practice problems in each section, particularly ones where it asks you what the result of some code is. Being able to step through lines of code will help a lot. Getting a head start on reading or looking up an online tutorial for C++ basics before the course can help a lot if you are unfamiliar.
+
+---
+
+[December 2018] If you've had previous experience in C++ or Java, consider taking 2225 at the same time even if working full time if you don't have a ton of other responsibilities.
+
+---
+
+[November 2018] This is a solid introductory C++ course. If you have some experience with OO programming, you'll find the course very easy. Most of the assignments can be completed in just a few hours, but I still found them valuable in drilling down the fundamentals and building a foundation. While it can be boring to once again learn conditional statements, loops, and other basic programming techniques, it's good practice.
+
+---
+
+[September 2018] The class starts off really easy, which is a great opportunity to make use of the book and stay ahead. If you spend a consistent amount of time each week, then the exams and final project should be a breeze. If you are new to programming, I do suggest reading the book as the exam questions may seem tricky if you didn’t.
+
+---
+
+[September 2018] Having programming experience beforehand really helps make things really easy. I didn't really read the book until it came to midterms. The TAs were much better at getting answers than the professor. Not a difficult class. it was a busy summer paired with CS225 though.
+
+---
+
+[August 2018] Watch the lecture videos, take notes, and read the textbook. All of the assignments in this course are fairly simple as they're meant to go over basic programming concepts. Be sure to READ the assignments and the syllabus as all of the information you need is contained within them.
+
+---
+
+[August 2018] Read the book and get started on the assignments sooner than later. I would start the week off with reading and lecture videos, and then start the assignments afterwards. The lecture videos were sometimes helpful for reinforcing concepts, but I don't think you'll be missing out on much if you skip them. Piazza was a great resource. The last 2 assignments were significantly more work than the earlier assignments. Get started on those projects early. Read the exam questions carefully and take the time to study for exams. Very enjoyable class.
+
+---
+
+[August 2018] If you can start reading ahead of time (before the course), do it! Getting ahead of the material will be super helpful. Also, I recommend using videos to really hone in on concepts you're having a hard time grasping.
+
+---
+
+[July 2018] Try to get a copy of the textbook in advance and read as many chapters as you can to prepare. Staying ahead of the course was a big help. The lecture videos aren't too helpful but outside resources such as learncpp.com were. The professor is very responsive on Piazza. The midterm and final are proctored and mostly M/C and T/F questions from the readings. Overall the courseload is pretty light up until the assignments for the last two weeks.
+
+---
+
+[June 2018] Practice C++ everyday, especially to prepare for CS 162
+
+---
+
+[March 2018] Do the readings, read all the Piazza posts and announcements made by the instructors and of course, start your assignments early.
+
+---
+
+[March 2018] CS161 is a great course and I learned a lot. Workload is not really that bad if you stay on top of things. Read the the textbook and highlight any unusual exceptions or tricky concepts (these are likely to be tested on the exams). If you take your time and test thoroughly, you should be able to get close to 100% on all of the programming assignments (which represent 60% of the course grade). This leaves you some slack to get a few wrong on the exams and still earn an A.
+
+---
+
+[March 2018] Reading the material is important but practice is even more important. Exams involve a lot of hand tracing and can be tricky at times. Also join Slack to communicate with your peers, they will be very helpful.
+
+---
+
+[March 2018] Make sure you read and are very clear on the specifications for each assignment. Learn hand-tracing and how passing to functions works for each data type
+
+---
+
+[March 2018] Read the book, look up how to implement unfamiliary library functions, familiarize yourself with finding answers on Stack Overflow, and always attempt to fix the first error when your program fails to compile.
+
+---
+
+[March 2018] Read the book and work through the end of chapter questions - ideally with a study group.
+
+---
+
+[November 2017] I had prior programming experience, which made this course fairly straight forward. I recommend getting ahead and taking an online introductory programming class before you take this class. Start your programs early and use the review questions in the book to help you study for the exams. The exams can be tricky, so make sure you understand everything.
+
+---
+
+[September 2017] Practice coding in C++, writing your own code, and debugging to become more famiiar with C++ and programming. Read the textbook and supplemental notes. Doing the review problems in the book is also helpful. Don't be afraid to ask questions in Piazza or the Slack group if you're stuck on a concept you don't understand. Don't wait until the last minute to do assignments. Make sure to plan your assignments' programs before writing code so you can understand the logic of your program and catch any bugs before writing your code.
+
+---
+
+[August 2017] Start reading the book as soon as possible
+
+---
+
+[August 2017] I had prior programming experience, so tbh, this course was quite easy and straightforward. If you have prior programming exp, you should be fine and able to get an A quite easily. If you don't have (or pretty minimal) prior programming exp, read the book, take notes, do some/all of the checkpoints and chapter reviews with special attention to any code-tracing questions, and start the assignments as early as you can.
+
+---
+
+[August 2017] Exams are mostly code tracing with "tricks" in the code (e.g. a single "=" where you would normally put "=="). The programming assignments have a big spike upward in complexity the last couple weeks, but not too terrible. Make sure you plan before you code, use Piazza for questions, and you should be fine. It's relevant to note, however, that I had prior experience before taking this class so I might not have the most relevant perspective for a total beginner.
+
+---
+
+[August 2017] Exams pretty much determine your final grade for this course. Carefully read the book + course material and look for material that could be possibly be used as trick questions.
+
+---
+
+[August 2017] The exams are very tough so the assignments will save your grade. Start them early and double and triple check that you did everything that was asked in them.
+
+---
+
+[August 2017] Start projects early, class is never particularly hard but the projects especially in the second half of the quarter do ramp up in difficulty and time required to complete them. Get familiar with pointers in particular and c++ syntax in general since you need to be able to read a block of code and understand how a program will function on the tests.
+
+---
+
+[August 2017] Do the readings and take some notes. I used notes for reference when doing assignments and for review when studying for exams. If you have prior dev. experience, this course is easy. When studying for exams, answer the quick check questions at the end of most sections in the book.
+
+---
+
+[June 2017] Watch the lecture videos, they often cover the same principles that will be applied to the week's project. Reading the textbook is good for gaining basic understanding of programming principles, but implementing what you've learned through the completion of the assignments is far more helpful for overall development. Learning how to hand-trace code is important for the exams, and the textbook has checkpoint questions within each chapter that are very useful for studying.
+
+---
+
+[June 2017] The programming assignments were not bad or difficult, however Alcons midterm and final were seriously on another level. For the midterm the whole class , including myself thought we did well, however our grade showed otherwise. Make sure you hand trace and practice writing code, and take some time to read the test questions, dont just breeze through them. The only reason why I am giving the class a 4 rating is because of the exams.
+
+---
+
+[June 2017] This wasn't the first programming course I have taken. If you prep before and learn basic programming in c/c++, you'll easily ace the class.
+
+---
+
+[May 2017] Keep ahead in the reading, practice extra problems in checkpoints and the review questions, learn pointers very well.
+
+---
+
+[March 2017] I've been through CS50 before taking the course so if you're a brand new coder my advice may not be very useful. This class was easy and as others say the textbook is phenomenal. Don't get too cocky for the exams because they are very detail oriented. The textbook has blurbs that begin with: "Note" or "Warning" pay close attention to those 'notes' and 'warnings' as they may make there way unto the exam.
+
+---
+
+[March 2017] Start early on the assignments. Utilize the resources available, such as the Slack channel and Piazza, they are especially helpful for later assignments. I would read the required reading before working on the assignments, but as the class progressed this took time away from actually working on the assignment that was due, so I would suggest reading the relevant parts for the assignment and once the assignment is done read thoroughly for the test. Do not take test 1 lightly. There are many gotcha's that can hurt your score. Pay attention to any notes in the text labeled 'warning' and also practice hand tracing code.
+
+---
+
+[March 2017] You should be able to get 100 on all programming assignments if your code works. Read the book-it is pretty good. Watch Bucky's videos for stuff that doesn't click. Alcon is great on Piazza(very dry, don't let this discourage you). If you know anything about any programming language, you should ace this course.
+
+---
+
+[March 2017] Study pointers and start your projects early! Also practice your hand coding.
+
+---
+
+[March 2017] Don't get behind on the reading. The textbook is your friend. Join slack!
+
+---
+
+[March 2017] Spend extra time learning the pointers. These will be a major component of 162. The workload in this course is far less than 162, so make sure you use the extra time to really understand the topics, peruse chapter 11 in Gaddis, and dive head first into double pointers (indirection.) 161 tests are basically T/F and code tracing. Be prepared to trace code without a computer/compiler.
+
+---
+
+[February 2017] Read the book. I had prior JavaScript experience, but even without that, the book is well written. DO NOT wait to start programs each week. There are late days starting Winter 17, but there were not my quarter and this burned me.
+
+---
+
+[January 2017] Do the practice problems in the textbook
+
+---
+
+[August 2016] Early Objects is a great textbook. Take time to do the reading and do a great job on assignments and you will have a good grasp of the material, which will buy you room to miss a few tricky questions on the tests. I did have some prior programming experience so the material came easier to me, as there was less completely new material.
+
+---
+
+[August 2016] Read the book and look at example code
+
+---
+
+[June 2016] Don't anticipate much feedback from TAs. If you have time, I'd recommend doing the practice program assignments in the book. Definitely practice code tracing before the exams, that's really most of the exams.
+
+---
+
+[June 2016] For the exams practice code tracing, the theoretical stuff is way less important. Score as high as you can on the homeworks so you have wiggle room for the exams.
+
+---
+
+[June 2016] The midterm and final were decent. You need to be able to hand trace code otherwise you'll have a rough time on the exams. The last two coding assignments were challenging, everything else was pretty easy.
+
+---
+
+[April 2016] Practice hand-tracing skills early on. This will be important on the exams. Be careful not to rely on your programming software too much for error messages. The exams will try make sure you know the exact syntax and "punctuation" exactly. If you rely too much on your compiler to tell you what you did wrong you will not do well on the exams. Also, begin your homework as soon as possible. Do not wait until the last minute because programs may be surprisingly difficult and time consuming. You don't want to be caught having to submit partially working code because you ran out of time.
+
+---
+
+[March 2016] Read the book and practice writing lots of code both in an ide and away from the computer.
+
+---
+
+[March 2016] Try to get ahead on readings before the course begins. Try to code as many of the review questions for each chapter as you can. Pay attention to the lecture notes, in addition to the textbook.
+
+---
+
+[February 2016] Stay on top of homework. it is critical
+
+---
+
+[December 2015] Start projects early, use the tutoring services often and early if you do not get something. Do all review problems in the textbook to study for exams.
+
+---
+
+[December 2015] Class was a bit unorganized - lectures didn't align to the reading very well. If you're new to programming, don't want until due dates to compile your assignments on the school server. Your local environment may work fine despite underlying issues.
+
+---
+
+[December 2015] Plan to have to practice the material on your own. Each new concept should be practiced thoroughly until you have mastery of it BEFORE attempting the assignments. This will allow you to attack the problem with tools you understand instead of learning as you go. Don't be afraid to break things and then go back a fix it. I restructured my bigger programs a couple times each because they sucked my first go through.
+
+---
+
+[December 2015] The reading was very helpful and doing all of the exercises in the book can help ensure you're grasping the concepts. Figure out a way to learn pointers and referencing. It can be really tricky for many people. Start working on your programs as early as you can. For the exams, don't be fooled by how easy they seem. For the midterm especially people were really in for a shock. Go back over everything and look at it all again, Practice hand tracing!
+
+---
+
+[November 2015] I would say this class is medium difficulty (fairly easy if you have previous programming experience, possibly difficult if you don't). I don't feel the class is too bad, but there is a lot of info thrown at you, and you need to know a lot. The projects ramp up in difficulty, with a few easier ones here and there. If you are having trouble, you really need to start them early as lots of people struggle right up to the end - but you never see many people asking questions earlier in the week. The first exam probably differs a lot from what people expect from a computer science exam, and a lot of people did poorly (learn how to trace code, learn the unusual cases and what type of errors there are). Actually messing with the errors the and warnings the book gives might be good practice. The second exam is a bit more conventional. The professor's communication is decent, but he neglects to fully answer questions sometimes, and frequently revises assignment requirements halfway through (again, get started early). He is also very inflexible considering this is a course partly aimed at people pursuing a second career. The book is decent, but has lots of errors. The course notes are helpful, but also have errors. The video lectures were practically unwatchable to me (accent, voice, pacing).
+
+---
+
+[November 2015] Pay attention to details. Grading is done by running scripts. Points will be lost for simple mistakes like extra spaces etc.
+
+---
+
+[November 2015] Take an intro to programming class on EdX or Coursera in any language and you'll be set.
+
+---
+
+[November 2015] The first few weeks start off really easy and then it starts escalating with classes, arrays and pointers. Make sure you get the fundamentals down really well as everything builds upon the previous unit. Take time designing what your code will look like before jumping into the actual coding!
+
+---
+
+[November 2015] Get ahead on the readings. Put the time in to understand the basics
+
+---
+
+[August 2015] My advice would be more relevant for students coming in with programming experience -- don't underestimate the first exam! It sounds silly, but without intending it, I had become really used to letting the compiler fix my errors for me. When it came time to do the test, where no compiler was there to catch my stupid errors for me, I was ill prepared and did much worse than expected.
+
+---
+
+[August 2015] Ideally come into 161 with prior programming experience. If not, be sure to do the readings and watch the lectures. Doing the programming challenges at the end of each chapter in addition to the homework really helps with solidifying the material as well.

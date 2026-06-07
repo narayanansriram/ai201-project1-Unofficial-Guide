@@ -1,0 +1,87 @@
+CS 271: Don't Be Afraid!
+
+Hey all, I just finished up with 271 and wanted to get some thoughts down while everything is still fresh. Overall, I'd say that while the material isn't terribly interesting, it really does a great job forcing you to think like a computer. It also makes you miss high-level languages dearly. Now that it's over, I wanted to give some advice for posterity.
+
+Going into this class, I was a little worried because of the many threads talking about how dry the material is and how rough the exams can be. Additionally, since the program moved over to Python before I started, I was worried that the lack of exposure to pointers might make things more difficult. Like many others have suggested, I got a pdf of the textbook and read the first 3 chapters the week before summer term started. I cannot overstate how helpful this was. The amount of material covered in the first few weeks is excessive. Perhaps this was worsened because of the shortened quarter, but it definitely felt like a lot. Even just skimming over the first few chapters will help set you up for success. Other than that, there really aren't a lot of outside resources available. Luckily, everything you need to learn is contained within the course.
+
+None of the assignments are that complex, but the implementation can be a chore. The first thing to familiarize yourself with is the debugger. Master that and the assignments can be knocked out pretty quickly. There is always extra credit offered, but be cautious. Go for the low-hanging fruit. Don't kill yourself trying to make something awesome. I made the mistake of spending hours implementing quicksort in one of the assignments, all for 2 measly points. Meanwhile, I had glossed over one of the requirements in the assignment grading rubric, costing me 5 points. Take your time reading the rubric, the assignment description does not include everything that you can get marked off for.
+
+I may be in the minority here, but I thought the exams were very fair. There wasn't any coding portion this term, so everything was multiple choice or fill in the blanks. Like other threads have mentioned, the midterm was largely similar to the summary exercises while the final was almost exactly like the practice final. I ended up acing both, but got really lucky on the final since my note sheet aligned really well with the questions.
+
+Not strictly related to just 271, but if you use ProctorU try to get a wired connection. I had wifi problems during the midterm and ended up getting bounced back and forth to technical support for over 2 hours. The setup ended up taking much longer than the test itself. Now I just run a 50 ft. ethernet cable from the router to my desktop.
+
+TLDR/Tips
+
+USE THE MAC OR WINDOWS CALCULATOR. Seriously, programming mode takes the guesswork out of bin/hex/dec conversions.
+
+Read the assignment rubric and check all of the boxes. When it comes to extra credit, go for the low hanging fruit
+
+Get good at tracing code and keeping track of registers and memory. Use your whiteboard to keep a record of how registers change as code is executed. This will make it much easier to figure out what the output will be, especially when you get into recursion.
+
+Don't waste time memorizing esoteric details about instructions. If you think you need it, put it on your note sheet.
+
+Put examples from summary exercises/quizzes on your note sheet. Make sure that you have helpful in-line comments.
+
+That's about all I can think of now. The class as a whole may be hit or miss depending on how much you like low-level programming. While it was definitely dry, I did appreciate getting to learn about different types of CPU architectures. If you follow tech at all, Apple announced recently that they are moving their computers away from Intel to their own SoC. Taking this class gives you a better understanding of what it means to go from x86 to ARM, CISC to RISC.
+
+This is a great post. Thank you!
+
+Regarding the windows calculator, I did this list awhile back. Hope it helps:
+
+This is a cross-post from another thread seen here
+
+With the CS271 midterm coming up and the godsend that is Windows Calculator for converting between binary, hex and decimal it's pretty awesome. However, the windows calculator doesn't have any unofficial support for signed binary. But there's a work around!
+
+You simply need to change DWORD -> WORD for 16 bits, and WORD -> BYTE for 8 bits, then put in the binary number and now you have the signed version.
+
+Also, it works for analyzing what number would be in a 8, 16 bit or 32 bit register.
+
+For example, if we have the question:
+
+The following instructions will set the Sign flag:
+
+mov al,0FEh
+
+sub al,2
+
+We know the al is a 8 bit register, so if you plug in 0FEH and have the setting to BYTE, you'll see you will get 0FEH == -2. So the answer here is yes, the sign flag would be set. However, if you have the setting to WORD or DWORD OFEH == 254. And the sign flag would not be set.
+
+I hope this helps someone :)
+
+I apologize that I don't know how to recreate this on a Mac, but this calculator can be a possible solution
+
+I recall the the Windows calculator and the Mac calculator have different, almost opposite limitations. As you note, the Windows calculator really really wants you to always be DWORDING. Meanwhile, IIRC, the Mac calculator makes entering the bits extra tedious and has to be told, forcefully, to do a 2s complement.
+
+Both work, but each requires a bit of learning on how to work around the default thinking.
+
+The biggest win in this class is the windows calculator. Seriously, use it.
+
+"the implementation can be a chore"
+
+The best distillation of MASM I have yet seen. :)
+
+CS381 would like to have a word.
+
+This might be a dumb question, but are summer semesters shorter than the others? Or is there some option to take courses in shortened down semesters? Would it best to wait till Fall/Spring for 271?
+
+Not a dumb question at all, summer scheduling is a bit weird. Every other quarter is 10 weeks, but summer is 8. If you went to the OSU website here,
+
+https://summer.oregonstate.edu/session-schedule
+
+you'd likely be confused since there are 6 different Sessions. I believe that all CS courses would be during Session 3 like 271 was.
+
+So potentially if you weren't too enthusiastic about a certain course, you could take it during the summer and get it out of the way. I wouldn't recommend doing that with harder courses, but it's up to you. As far as when to take 271, I think what matters more is what you take it with. I took it by itself, so it was pretty manageable even over the condensed term.
+
+Sweet, thank you so much for the insight!!!!
+
+What textbook is required for the course?
+
+Assembly Language for x86 Processors by Kip Irvine (8th Ed). I got mine through the OSU bookstore. Turns out it's only a digital rental which made me kinda mad at first, but the search functionality was actually really helpful during the summary exercises. Plus, after taking the course I don't think I would ever willingly open up this textbook again.
+
+The revamp is supposed to be rolled out starting in Fall and they may be moving away from the textbook so just be aware of that before buying it.
+
+In the meantime you'll be able to find a pdf of the 7th edition online that will be good enough if you want to start early. I actually just used the 7th edition for the whole course
+
+Oh interesting. First time hearing about a revamp for 271. Any idea what they're revamping exactly? I heard when 161 and 162 were revamped to python they became easier.
+
+One more tip that's kind of out there but ended up being a HUGE help to me -- try to use arrays on programs before it's required. I think I started using arrays on the second program, while the projects were otherwise pretty straightforward. The arrays are required until the mkre intense projects, so you're only doing yourself a favor by introducing yourself to them early. Also basically got to skip week 5 :)

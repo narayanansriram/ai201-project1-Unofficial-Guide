@@ -1,0 +1,149 @@
+RIP 225 bro (PSA if you want to rant anonymously don't do it on Ed, they can see who you are lol)
+
+r/OSUOnlineCS - RIP 225 bro (PSA if you want to rant anonymously don't do it on Ed, they can see who you are lol)
+
+This is wild
+
+Haha, yeah, anonymous to other students, not anonymous to instructors/ULAs.
+
+225 is there to teach you how to think logically. I think people confuse computer science and software engineering.
+
+[deleted]
+
+Bro de morgan’d when he should’ve de morgan’dnt
+
+∃ cricket smasher such that ThrowsTantrumOnEdDiscussions(a) ∧ ThoughtTheyWereAnon(b)
+
+[deleted]
+
+k but why is he smashing crickets on the ground? Also, I think this beats the end-of-semester post from Anon in 271 of Summer '23, pretty impressive
+
+Do you have a link?
+
+michaeljacksonpopcorn.gif
+
+How can someone complain about the best course in the program (271 summer). There are literally custom docs for your pleasure. There isn’t even a final exam. I took it summer22, so maybe It has been updated. 271 is where I really started grasping the fundamentals.
+
+I’ve only been in the program for a year but I have seen a TREMENDOUS incline in posts like these in the past 6 months vs the first 6 months idk what happened. You could not torture me into posting something like this on a SCHOOL’S PUBLIC FORUM.
+
+Was this posted today?
+
+I dropped this class like two weeks ago in favor of UND's MATH 208.
+
+Yeah it must have been, but it’s gone now.
+
+This class brings out strong emotions it seems. I wonder how long this took to write? There’s no reason to smash crickets either. That’s rude.
+
+The time it probably took them to write this, they probably would’ve figured out it was referencing a table a page or two above the exercise section. Yeah, the cricket statement came out of left field
+
+I just finished UND 208 yesterday. Challenging but very fair course
+
+The problem with this class is that it is poorly constructed. The professor’s lectures are just regurgitations of the book. We all have a degree, so we can read. The homework problems seemed to be designed as “gotchas” rather than to reinforce learning. Huge leaps without any scaffolding. The professors don’t know how to teach. I spent a lot of time watching a better professor on YouTube actually teach. If I taught like the 225 professors, I’d be fired. There is content knowledge, which the professors have, and then there is knowing how to teach, which they suck at. To teach properly, you have to know the content and how to teach. It’s easier for a teacher to teach a subject matter they don’t know than a subject matter expert with no training on teaching pedagogy to teach. I hated that class with a passion.
+
+225 is for sure challenging and made me want to pull my hair out sometimes, but the amount of whining I’ve seen about it lately is disproportionate to how bad it actually is. I’m glad to be done with it, but I also found value in a lot of the topics 🤷
+
+I did not particularly enjoy the class, but from what I remember these type of problems weren’t even the toughest part of that section. Seems like the final straw for them
+
+Inductive proofs were the worst for me, those homeworks took FOREVER. (That was fall 2020, maybe it’s different now)
+
+Look I’m in my last term. 225 was definitely hard. But this sounds like the student didn’t even bother reading the textbook. 225 has the best textbook in the program in my opinion. It literally explains every concept, and then half of the practice problems have answers to them. You can’t really ask for much more. I took this class before chatgpt even existed (hard to think about the dark days…). I will say the exam was hard af, but the resources are there if you need help (Ed, office hours were amazing). This student is looking to be a victim. Instead they should just use chatgpt as a tutor. This is entirely possible without even coming close to cheating. I can’t imagine how this student will fair in 374 or 271.
+
+Someone let him know it gets worse
+
+younger gen z do be outing themselves sometimes
+
+It’s the “backwards E” for me
+
+if a moderately difficult class like 225 is weeding out people like this, then I’d say it’s doing its job
+
+GG if they’re already feeling this on Week 2 😭
+
+Wow, dude did a old person fb rant on Ed. This is crazy, like political ranting.
+
+Funny thing about the specific question being referenced is it’s one of the easier problems in 225…Tarski’s world was about one of the only things I didn’t have to study more than once lol
+
+ETA: CS225 did help me start to think more logically. I wasn’t too fond of the class myself, so this was a bit cathartic to read. Would never rant like this though that’s wild lmao.
+
+[deleted]
+
+225 isn’t even that bad. If you can’t think logically, don’t even remotely try to go further in CS. You’ll get wrecked sideways.
+
+Is this real!? I am in 325 and using a fair bit of knowledge from 225, like proof by induction, sequences and series, and other general stuff. I'm not sure it would be possible to understand algorithms at a high level without 225. I remember the class being challenging, but if you spent the time, I found it to be a rewarding class.
+
+that cricket line really spoke to me lol. i try to avoid killing bugs when possible though
+
+Haha I love this. I felt it..
+
+has 225 changed in the last few years? i thought it was a decent class, without being very difficult.
+
+While this post is a little much (and you're not anonymous to the staff on Ed), I agree with the general sentiment and never pass a chance to rip on CS 225. Everything about 225 is terrible, including but not limited to: the amount of work, the ULAs grading almost completely randomly, the material frequently having a massive disconnect from the assignments, and an unhealthy focus on pure proof copying. I also can't forget the fact that we were about 5 weeks late on getting our grades during my first torture session time in the class.
+
+Plus, so much of your experience in the class comes down to the ULAs and how bloodthirsty they are. The first time I took CS 225 I was nearly guaranteed to lose the maximum amount of points on every single question no matter what I submitted. The ULAs gave me literally no room for error, including one time where I lost 60% of the points on a single proof because of a small grammatical error. I ended up dropping the class and retaking it, with the second go around being much simpler due to the ULAs being a little bit more reasonable in grading. Still, I'm looking at the work I submitted both times and the grading on many of the similar questions boiled down to sheer randomness. At least with the other difficult programming classes you more or less knew what grade you were getting thanks to the autograder being an objective party.
+
+Remember, you can avoid all this frustration by taking UND 208! It's self-paced, online, and transfers perfectly to OSU. You're going to end up taking real stinkers during your time at OSU, don't let them push the abomination that is CS 225 on you. It's too late for me--the time I wasted on my A in CS 225 will haunt me until death--but those of you who haven't taken it can still be saved.
+
+I don't miss this class. It was satisfying though to get an A in it.
+
+225 isn’t a walk in the park, but damn I don’t remember it this being this bad. I think it’s common to take this class without being introduced to such concepts (I wasn’t) Once you see the patterns and the way questions are answered, you can still make a good attempt and get the necessary points to move on. I remember quite a few of my proofs being pretty scarce at the end.
+
+225 and 344 are by far the most difficult classes I have ever taken
+
+I don’t know why we have to get into this tug of war all the time. Plenty of people have complained about the difficulty of 225. We all are coming from different different sets of learning skills. We also have different degrees. Just because somebody has trouble with something that you didn’t have trouble with, it doesn’t mean they don’t belong where you are (it’s not rocket science, that’s probably more intuitive).
+
+but CS225 was a nice class! it didn't even touch harder topics in the textbook. I feel sorry for the professor.
+
+All I can say is if he can't handle 225 wait until he meets gamboard in 344 lol.
+
+225 was pretty easy, though lol. 374 is pulling my hair out.
+
+This. I made a 98 in 225. I made a B- in 374. Oh lord don’t make me go back.
+
+As the great Sean Connery once said
+
+Losers always complain about doing their best, while winners go home and fuck the prom queen.
+
+In this case winners suck it up and pass this class
+
+Anyone replied in Ed?
+
+Week 3 is summations week. They just finished p and q remember..
+
+Same rant can be used with every class I've taken so far. They really need to break them up a little
+
+Are these classes really that poorly constructed? I've been looking at taking OSU courses since I found out about it two years ago, but it seems like every reddit post talks about how bad the classes are. Is OSU even worth it? Or should I find a postbacc somewhere else? Thanks.
+
+The content is really challenging. I took a fair amount of math in undergrad 5+ years ago and had trouble with some things. I can only imagine how much worse the experience would be for something without those additional classes under their belt
+
+I'm sorry... how are we going from...
+
+gawking at a lazy rant that was posted anonymously from a student that clearly isn't doing the reading or attending office hours to get their questions answered so that they can actually learn something...
+
+to...
+
+2. Taking it as evidence that the program is poorly constructed?
+
+There’s a couple courses where it’s poorly constructed / very difficult or both lmao.
+
+Math was never my strong suit and the highest math class heading into the program was business calculus so CS225 was very difficult for me but managed to pass with a B.
+
+Others found it difficult (those with more math exp) due to the sheer amount of work.
+
+With that said, I decided to enroll here because I felt it was the best fit for me. It’s not perfect but it would give me a BS in Comp Sci from a regionally recognized University.
+
+There’s a couple other Post Bacc programs like CBU and Auburn but OSU’s has been around the longest I believe, so opted for the known quantity out of those options
+
+Are these classes really that poorly constructed?
+
+Kinda, but I'm almost done with the program and I'd take it again if I had to. Most classes that people complain about suffer from subpar materials, but you can usually power through that via good old fashioned effort and online resources. The material in CS 261 (data structures), for example, is an extremely poorly done adaptation of the CLRS section on data structures. The good part is that you can easily apply the same source material OSU utilized to the concepts and leave with a much better understanding of nearly every topic.
+
+The exception to this is CS 225, which suffers from the above problems in addition to the ULA slot machine as well as being a tricky topic to wrap your ahead around. The optimal path for sanity preservation, in my opinion, is completing the degree while transferring UND 208.
+
+This isn't really about OSU specifically. Nearly all (10) online classes I've taken (among 4 schools) are hot garbage. I have managed a 4.0 in all of them, but that doesn't mean it wasn't stressful af and frustrating. A 4-5 credit hour class usually has 1 hour worth of lecture per week, tops. That's pretty shitty. If I had my ass planted in a seat in a classroom, I'd have 4 - 5 hours of lecture per week. That leaves you to self teach any concepts that they either missed or didn't spend enough time covering (mostly this).
+
+Based on my small sample size of 10, you aren't likely to find high praise for many online classes.
+
+Why is he getting in trouble? One of my classes in a previous college I had a rude af user name , but encoded and I never got in trouble. Pretty sure the prof decoded it too
+
+more people having 225 issues
+
+I'll admit I'm concerned I'll fail this class. I've got an 80% right now but without much of a buffer for the final I am not sure how things will go. I made it through Assembly which was a challenging class.. but to be honest I enjoyed the challenge. Discrete math, while it has some interesting moments, it feels 10x harder to focus on. The algebra also makes it challenging as I haven't taken math in 10 years. Algebra isn't rocket science.. but if you are fumbling on that, it's very distracting from what you are trying to prove.

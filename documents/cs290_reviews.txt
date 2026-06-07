@@ -1,0 +1,573 @@
+[Unknown] How to design and implement a multi-tier application using web technologies: creation of extensive custom client- and server-side code, consistent with achieving a high-quality software architecture. "Keep good track of your code as you will end up reusing a lot of it in future assignments
+
+---
+
+[March 2026] Learning JavaScript and brushing up on CRUD operations before the course starts will make your life much easier. The course opens a couple weeks early, speed run as much as possible before your other classes start. The final only felt moderately close to the quizzes and practice finals, so knowing general JS behavior will come in handy for it.
+
+---
+
+[December 2025] This course has been reworked so Pam and Nauman's courses are the same. They are both kind and helpful, you can go to either office hour. Start your homework early in case you get stuck - there are a lot of moving pieces to the later assignments, lots can go wrong. TAs and Ed Discussions are really helpful in these cases. Most assignments have helpful starter code. The subject matter itself isn't difficult, but there sure is a lot of it. Highly recommend taking CS340 right after as your portfolio project really builds on the skills from CS290.
+
+---
+
+[May 2025] Basically Web Dev Mini Bootcamp: Severely Unbalanced RTFM Edition. Familiarize yourself with the Express and Mongoose APIs beforehand and during the first half of the course if possible. HTML/CSS/JS takes up five of ten modules, one exclusively on React, then the final one is wasted on rudimentary security and usability concepts, so only two or three pertain to key aspects of the most important course outcome (a full-stack MERN SPA). Also be prepared to use outside learning resources. Canvas content is mostly just expanded, reworded regurgitation of reference documentation for specific features (and a couple key API usage patterns in those important weeks). ULAs aren’t helpful, but that’s hardly their fault. Web dev is convoluted and fractured so advising on specific stacks requires experience with them, which I don’t think the department screens for when hiring. Experience with other stacks helps tremendously in this course but, because of its generally low educational quality, doesn’t necessarily compound to expertise.
+
+---
+
+[March 2025] Familiarize yourself with the express and mongoose. APIs are the most important aspect of this course. They're the glue that holds everything together and arguably the most valuable takeaway. Unfortunately, they're explored in far too narrow breadth and shallow depth. This can lead to severe difficulties using the otherwise simple tools and frameworks that everyone loves to hem and haw about. Ignore the food service employee cigarette break whining about JS, CSS, etc. -- these difficulties are exaggerated for social reasons (cultural signaling).
+
+---
+
+[March 2025] I took this class with Pam, who is a very kind professor and gives good feedback. You can get an A if you do the extra credit, even if you lose some points on the homework assignments. Make sure you read the assignment details thoroughly! I enjoyed learning about web development, but I wish the content emphasized depth over breadth. There was too much information and not enough time for it to really sink in. I liked that each homework project built upon what you had done the previous weeks.
+
+---
+
+[November 2024] Took 290 during the summer with Naumann. If you take his course during Summer, then I highly recommend learning the basics of JavaScript and HTML/CSS before the course starts. It is a lot of information for 8 weeks, and you will learn more if you already know the basics starting out. It is worth mentioning that he gives a final that is worth 25% of your grade! If all you care about is getting an A or easily passing, then I would probably recommend Pam over Naumann. Overall, Naumann is a good professor and I thought it was a solid class.
+
+---
+
+[August 2024] Take with Nauman Chaudhry. Very well-organized course and he explain concepts well in the videos. I think it was just revamped. I went into the program with some web development background and clocked 60 hours total. It was a great standalone class for summer as I worked full-time. I'll be taking more classes from Naumann if I can.
+
+---
+
+[August 2024] It's a decent introduction/first exposure to web dev concepts and technologies if you let go of your expectations and just enjoy the ride. You might find that you learn a lot if you try to understand every line of the skeleton code the course provides, even if you disagree with their coding decisions or if their code is out of date (for instance, check out the current react-router tutorial documentation). I became a lot better at React thanks to this course. You can accidentally spend a lot of time on styling/color choices/layout, but as long as you follow the rubric and instructions carefully, you'll be fine. No exams with Pam was awesome.
+
+---
+
+[June 2024] I took it with Pam. Like others say, if you want an easy A, take it with Pam. If you want to actually learn something, take it with Naumann. Pam's class pairs well with 261 (Data Structures) because most of the assignments are just copy/pasting her templates into your own words (you literally ctrl+F on two assignments and change "movies" to your topic, it's ridiculous). The last few weeks they cram a ridiculous amount of information (which you won't retain) trying to cover Mongo, Rest and React. I'm talking like 7-8 explorations per module, but the assignments aren't hard. They just try to cover too much ground in this course and the whole thing suffers as a result. Again, easy A though
+
+---
+
+[March 2024] Make sure to use online tutorials. Later half of the class gets more complicated. Front part is easy. Plenty of extra credit! Can get an A if you commit 6-10 hours every week. Final week required 15hrs or more.
+
+---
+
+[December 2023] Took the course with Pam. During the first few weeks, you'll learn HTML, CSS, and a high-level overview of how the web works. Pacing during the first few weeks is a little slow, but don't let that fool you. When the latter half of the course kicks in, the course turns into an insane info dump of MongoDB, JavaScript, Node, Express, and React. You'll be given mostly-functional code that contains elements of the MERN stack, and you'll be asked to manipulate things in some fashion. You'll likely feel as if you have no idea what you're doing. Fortunately, every assignment contains a follow-along video from the professor (Pam) where she shows you how to complete the assignment. Most of this work involves getting really good at Ctrl F and replacing variable names within functions you barely understand. Grading in the course seems to be very subjective, so quadruple check the rubric to ensure you've completed every step and prepare to have a few points knocked off anyways. All being said, if you follow-along to the assignment videos and do the extra credit, you'll earn an easy A.
+
+---
+
+[December 2023] This course starts very slow with HTML and CSS for the six weeks, then it goes to 11 and drowns you in JavaScript, Node, Express, and React for the final few weeks. Luckily, all the modules were open from the beginning, so students are free to work ahead. There are plenty of extra credit opportunities, so I never felt like my grade was at risk, but I would definitely try to learn JavaScript on my own if I were starting this semester over again.
+
+---
+
+[December 2023] Prepare by learning web development (HTML/CSS/JavaScript, little bit of MongoDB, Node, Express, React) ahead of time, and this class will be a breeze. Without the preparation beforehand, you may feel overwhelmed by the end of this course, since they stuff React, Node, Express, MongoDB into two weeks. Do not feel like this class will prepare you for web development - they really need to split this course into two different courses. Supplement by taking something else externally afterwards anyway, if you're really interested in it. Pam makes the course very accessible to extra credit - I ended up needing to get a 0 on the final project to get an A (still required to be turned in though). You do not need to take a final with Pam. I heard the Naumann final can be pretty detail-oriented, and really wasn't much better (experience may vary). My conclusion was to just try to get this course out of the way as easily as possible, and doing it without a final helped me that way. Took with CS372 and CS362 in same quarter, but I'm a full time student. Had some previous web development experience.
+
+---
+
+[December 2023] The ratings for this class may make it seem like an easy class and that everyone can get an A. Yes there are copious amounts of extra credit, however this class is not without its work. It's easy to put this class on the back burner and then have your jaw drop when you see the size of the module you put off reading. Even worse is that the modules are at times nonsensical until you work through the assignment. If you're taking it with Pam, work ahead of the HTML/CSS sections, they don't require as much time as the later JavaScript frameworks. Working ahead will give you a lot more time for the React/Express/Node components to marinate in your brain. I started to get a better understanding of how everything clicked after the final assignment so I've definitely calmed down on this class towards the end of the term.
+
+---
+
+[December 2023] Took it with Pam, not a bad course but def just a supplement. Take it with a hard course.
+
+---
+
+[November 2023] Treat this as an introductory survey of web dev, knowing that 90% of what you will use in the future will come from your own discoveries outside this class.
+
+---
+
+[September 2023] Assignments can be frustrating due to harsh grading and seemingly pointless requirments but extra credit is extremely generous, you can make so many mistakes and still end up with over 100% if you do the extra credit, it is tedious though. By the end of the course, you will have very shallow knowledge of the MERN stack.
+
+---
+
+[August 2023] Go through assignments slowly as to not miss a key detail, as they can take HOURS to hunt down bugs. Just know that you will probably not be in love with your website and accept that; don't kill yourself trying to make an awe-inspiring site because your time is better spent elsewhere. Pam is so sweet and tries hard to help everyone. I think she gets a bad wrap when really it is just way too much content to fit into 1 quarter, so be respectful to her and she will work hard to help you improve.
+
+---
+
+[June 2023] Make sure to triple check your spelling.
+
+---
+
+[May 2023] Get in one of Pam's sections. Start assignments early.
+
+---
+
+[March 2023] I took this class with Pam VanLonden. Where to begin. PROS: The class is extremely easy to get an A in. When I took it, there were walkthrough videos provided for most of the assignments, and the assignment descriptions are literally broken down step by step instead of being a description of the assignment requirements. Extra Credit is copious and easy; at one point the class average was above 100 (by Pam's own admission - this may change in the future). The modules are very informative about most topics, though they seem slightly outdated in some ways when you reach sections about modern, fast-moving tools like Mongoose and React. It is very satisfying to build up a site over the course of the term with continuity, culminating in a web app with the essential functionality you find in almost any website. Finally, Pam is very dedicated, available, and approachable. If you're on her good side, she is friendly and keen for feedback and suggestions. CONS: Extremely frustrating! People will tell you, "the class was being revamped this term." I think those people are misidentifying the reason this course is miserable. And it is pretty miserable. Aspects of Professor VanLonden's approach to course design and teaching are just very bad. She has a tendency to hand-hold (remember me talking about walkthroughs and step-by-step instructions?), but she doesn't want to fully give away the answers to things. This results in her writing instructions and quiz questions that are practically unintelligible. This quirk is highly ironic, because Pam is also very particular about grammar and spelling. Don't be pressed about this; despite the fact that she talks constantly (and in an honestly patronizing manner) about spelling and grammar, it only accounts for a single point in the rubric. Yes, spelling is in the rubric. That's because our audience is a "future employer". This is also ironic, because the extremely particular assignment requirements include design specifications that would have you laughed out of any contemporary web design shop, if your application was not immediately binned. She accepts non-anonymous feedback forms after every module. However, if you bring suggestions to Professor VanLonden, she is often dismissive or puts the onus on you to figure out solutions for her. Others in the class have described situations where she seemed to engage in retaliatory behavior when they raised grading reconsideration (such as reviewing TAs' grading to find other points to dock). You might be thinking this contradicts how I described her behavior in the Pros section, and you're right! Pam truly is a mystery wrapped in an enigma. Long story short, take Pam, don't sweat the small stuff, get the easy A, and have fun playing with the technology. You will need to relearn most of the material because the course is both overpacked with content and very hand-holdy, but you'll get a good overview of how to go about making an interactive website. Focus on the technology and not the trifling superficial requirements, and let the extra credit cushion you if need be. Otherwise, you may not quite know how to build a MERN site on your own when you finish, but hey, you'll know how to use the LanguageTool browser extension very well!
+
+---
+
+[March 2023] I took it with Pam, and I would make that choice again. If you do the extra credit and attend at least one of her help sessions per week, an A is incredibly smooth sailing. A lot of her instructions are unclear and she is nit-picky, so the help sessions are key to actually do the assignment the way she wants it done. Not ideal, obviously, but still very doable. One other thing I would note is don't try to be one of the first to do the assignment. She posts walkthrough videos a couple days in after she's gotten feedback from people and they make each assignment a breeze.
+
+---
+
+[March 2023] don't expect to retain everything you learn in this class because it's a ton of information and you'll only get overwhelmed. focus on the underlying concepts and the problem solving skills you develop while writing your apps and you'll be fine
+
+---
+
+[December 2022] Use outside resources to supplement your learning ASAP
+
+---
+
+[December 2022] Do some beginner JavaScript youtube videos prior to the course.
+
+---
+
+[December 2022] I was in Pam Van Londen's class this quarter. Usually, the instructor doesn't matter for the course and all the assignments are the same. Not this quarter. Pam had two assignments as extra credit and graded weekly quizzes instead of a big final. I very much prefer to have many small graded assignments rather than one big graded assignment. I've heard that Nauman's final can bring your grade down a full letter or more. That said, I don't think this is a good class. Way too much information on a different topic every week. Rambling explorations that are difficult to follow and take notes on. Confusing wording on quizzes and refusal to listen to student feedback. I highly, HIGHLY recommend taking Colt Steele or Angela Yu's web dev courses on udemy before/alongside this one. You're going to need it. I don't feel like I learned much in this class. I still don't know how to make a web app on my own.
+
+---
+
+[December 2022] If you can, try to learn some web development before taking this course. There’s so much material in this course that it’s impossible to actually get a good grip on most of the concepts and you will not learn much. It’s not difficult to do well on assignments because there are videos basically walking you through them step by step. If you actually want to learn web dev, I recommend using a Udemy course like Colt Steele’s.
+
+---
+
+[September 2022] The instructor is a very nice person who is trying to improve on the course with each Module having a survey at the end of it. If you can try and fill out the surveys when you complete each module. There is a lot that is covered with CSS that you might not be able to get right away when you read through it the first time, so try and reread it when you can. While a lot of people have said that this course was pretty terrible in the past, I'd say the rework has helped it significantly since many Students on the OSU Online CS Subreddit have said that the portfolio project of this course has helped them with getting jobs and internships.
+
+---
+
+[August 2022] This class is interesting in that you are introduced to a lot of new concepts (Javascript, node.js, react.js, mongoDB) and most of the project information/code is given to you to follow along with. It is up to you as the learner to decide what you want to do with it. If you simply code along with the provided videos, you will end the course feeling like you didn't learn anything (because, you know, you didn't actually put in the time to learn anything... surprise!) Take the time to actually UNDERSTAND what you are doing when you are working on projects. My advice is to watch the videos and then try to do the projects on your own afterwards. Refer back to the materials when you get stuck. Within the explorations, you are provided a lot of links to documentation, which you can review to deepen your understanding as well. People do poorly on the final (which is not difficult by any means) because they never took the time to understand concepts. Put in the work and you will do well in this course and leave with a strong understanding of how to create basic web applications.
+
+---
+
+[June 2022] Treat this as a survey course. You are going to get a brief introduction to web dev, you are not going to finish the course knowing how to completely code your own website from scratch. Follow the video walkthroughs and project specs very carefully. Make sure you keep tabs on Ed for updates/clarification about project specs.
+
+---
+
+[June 2022] Material absorption is by far the hardest thing in this course. There is a lot of material to go through and the course doesn't even cover it all. Expect to spend a lot of time reading, espcially if you hope to pass the final with an A. If I could change one this about this class I would make the Final worth 15% and distribute the difference among the various assignments.
+
+---
+
+[June 2022] This class kinda sucked. It covered way too much material to be able to understand what was actually going on. There was tons of hand-wavy stuff where you would just code along with the professor in the video, but it was not explained what each word/method/function actually did and how it worked. The professor was friendly enough, and the materials were decently written. But still kind of a shitty class. Though I got almost 100% (pre-final), I still have no idea how to build a website and would barely know where to start.
+
+---
+
+[June 2022] Read the notes and watch the videos. Assignment code is taken directly from what they give you, but you have to make alterations to complete assignment goals. Professors were active in office hours. Unofficial Discord was more helpful in my opinion. Completed the assignments fairly fast, getting through the notes was the hard part. Take notes and quiz yourself throughout the term since there is only a final that's cumulative, and weighted heavily on your final grade. Arbitrarily difficult based on just the final. Easy 100% on projects leading into the final. Many students dropped letter grades after the final.
+
+---
+
+[March 2022] Answer end of module review questions as you go and study them for final.
+
+---
+
+[March 2022] This class was more frustrating than it was difficult. I went into it with 0 web development knowledge, and now wish it hadn't been my first exposure to the topic. I would recommend transferring it from another school if you're able to. The projects are all pretty easy because you don't really have to write anything new. Most of it is copy and paste from the explorations, with a few minor edits. I tried going through the explorations in their entirety before working on the projects, but there's a huge amount of content and it is presented in a very disjointed manner that constantly had me wondering what exactly I was learning and why. I inevitably started each project with no clue about what any of it meant. All of that said, it is not hard to get an A in the course -- keep up with the projects and make sure you broadly understand the concepts (especially JS). The final is basically a trivia of the explorations. They will provide a practice quiz that covers pretty much every topic that the final goes over. Just pay careful attention to the sections that each question comes from and you should be OK.
+
+---
+
+[March 2022] I recommend learning web dev before doing this course. 290's curriculum is taught in a weird order. Several videos were recorded in a different order than they were presented, and several submodules were written in a different order than they were presented. There is very little connection between one week and the next. So you won't understand what or why you're learning something every individual week, until you reach the very end of the class. The only prep book that I'd really recommend would be "JavaScript for Python Programmers" by Brad Miller. Online courses are better for web dev. Colt Steele's web dev bootcamp, Angela Yu's web dev bootcamp, FreeCodeCamp's certs, or Odin Project are all good alternatives to 290. All of those cover 290's MERN stack, and teach concepts in a more logical order. 290's modules contain a firehose of information that is not necessary to complete the assignments, but it is necessary for the final exam. I think there was a total of something like 200+ review questions at the end of the modules, and the 40 final exam questions were drawn from a pretty good sample of that list. If you want to get an A in the class, then you'll need to memorize those question-answer pairs, due to the 30% weight final. You will produce a full stack MERN app with a REST API by the end of the course, but you probably won't remember how to code it from scratch, because of the disorganized curriculum. However the profs and TAs are great and very helpful, if you have problems then it's definitely worth going to office hours.
+
+---
+
+[March 2022] Take a web dev course online first. Study for the final way before the last week.
+
+---
+
+[March 2022] Assignment code is spoon-fed to you which I didn't like, but there's so much material that is covered that it's almost necessary. The Final exam was weighted 30% of overall grade which I felt was unfair considering you could fail the class with 100% on assignments. Prepare yourself with the sheer amount of material that will be covered; it's ridiculous and borderline impossible to absorb everything.
+
+---
+
+[March 2022] Don't miss any points on projects because the final exam is awful. I went in with a 98% and came out with a B+
+
+---
+
+[March 2022] Study the explorations weekly. The final is cumulative and can cover everything and anything from the modules! Don't wait until finals weeks to study, there is too much information and you won't retain it all cramming.
+
+---
+
+[March 2022] Read the modules and study each of the review questions for the final
+
+---
+
+[March 2022] The volume of material covered is pretty overwhelming. Since the scope of the class is so vast, the modules don’t go into much detail on any one topic, so nothing really sticks. Felt lost for most of the class. Would recommend answering the review questions at the end of each module as you go- don’t wait until the end to prepare for the final.
+
+---
+
+[March 2022] This course covers the MERN stack. It has a lot of good information, but the 12 week term does not seem like enough to get in deep in many of the topics. Recommend looking at free/cheap courses outside to prepare for this course. Learning basic JS beforehand couldn't hurt either.
+
+---
+
+[March 2022] My tip is to watch videos from Web Dev Simplified to supplement your studies in this class.
+
+---
+
+[March 2022] Don’t be too intimidated by the overload of information. You only need to know it for the final honestly. The assignments are practically done for you in the videos inside the exploration and you change some stuff to make it work for the assignment. One of the assignments, the whole assignment walkthrough was posted on the assignment page. It’s too much crammed into one course. Not much stuck with me. The final this quarter was worth 30% of our grade and it was proctored. Practically having an A+ and possibly having to retake the class if you full tank the final that is comprehensive is sort of annoying. Really need to lower the percentage of the final. Hopefully they eventually make this a two class thing in the future. I want to learn more and will probably do so in the summer.
+
+---
+
+[March 2022] Maybe take a web dev course on udemy.
+
+---
+
+[March 2022] This course is extremely interesting. It starts off very organized, but a lot of information is sort of crammed into modules. The assignments aren't that time consuming so you have much more time reading through and understanding the modules. I liked how this course covered all aspects of web dev including a bit of backend development with MongoDB, middleware programming in Express, as well as creating front end interfaces for applications.
+
+---
+
+[February 2022] Try to prepare ahead of time by taking a Web Dev class on Udemy, like Dr. Angela Yu's or Colt Steele's. There is way too much content shoved into this course and not enough time for it to be absorbed. It just whizzes by your head.
+
+---
+
+[December 2021] Yes, this class is pretty copy and paste with projects. There are some changes to the copied code but go to office hours if your stuck so you don't spend hours going nowhere. With that said I still see the averages to be about a B+ in the projects(I had a 97.5 going into the final). The final was NOT EASY, class average of C. So the median grade in this class overall is a B. Based on speaking with classmates almost everyone's grades were dropped due to the final exam, so read the modules early, thoroughly, and multiple times! (I skimmed them until two days before the final and got a C- in the final and a B+ in the course)
+
+---
+
+[December 2021] This class was easy. Assignments were literally copy the provided starter code, then change one word repeatedly from the starter code or video lectures to match the rubric and yay, you're done. Class finishes up with a 30% of your grade final, which wasn't terribly difficult but because it's 30% of your grade, not knowing 1-2 concepts and missing a few points can drop you a letter grade. Wouldn't be surprised if this class got a bump up in difficulty, because a lot of students didn't feel the copy and paste contributed to actually learning.
+
+---
+
+[December 2021] Easy A. Most of the projects you could literally copy and paste the code from the modules, changing only necessary parts to fit the projects. I almost wish it was harder so that we learned more, I will have to supplement this course with another online course to really learn the material. There was one final exam, which was proctored, that was very easy. I wouldn't be surprised if they eventually revamp this again to make it a little harder when they get reviews back.
+
+---
+
+[December 2021] This was revamped in 2021 summer. I’d say you get what you put in but it’s an easy A. Get an A in all of the assignments and you won’t even need to pass the final. Use office hours to your advantage if you’re stuck and you’re golden if you just wanna glide by.
+
+---
+
+[August 2021] Course was phenomenal. The professors constructed the class to teach you how to build a Full-Stack MERN app. The frameworks/languages learned in the course contributed to building my resume, and the final (fourth) assignment is constructed in such a way that the student can showcase it as a portfolio project. The professors even encouraged this. The course is project-based with four total projects (70% of grade) and a final exam (30%). The projects were simple enough that I could complete them in a reasonable amount of time (5 to 15 hours during the weeks the projects were due). I couldn’t complete any of the projects without having completed the explorations and readings. Everything that was needed for the projects was covered in the explorations in one form or another. Thus, I didn’t need Colt Steele or much outside coursework. However, the professor provided extensive reference material: WS3, Wiki, MDN, Express, MondoDG, Mongoose, etc. As a developer, one would go to the original documentation to expand upon their application development, so it made sense to provide the resources to the learner in such a fashion. (I think this structure is how he constructed cloud dev, which made it the hit it has become.) Comparing to the course before the revamp, the new course taught Express and Node within the first few weeks of its start so that by the time the final project was assigned we had a decent amount of experience. Node wasn’t even taught until week 7 in the previous course. The pros of the course (or negatives, depending on how you view them) is that learning JavaScript is condensed to one week of basic training. JS is covered more throughout the course but as it applies to what you need it for. The previous course spends quite a bit of upfront time learning JS before even getting to Node in Week/Module 7. This could be viewed negatively because the teaching staff expects for the student to learn JS on their own by reading the required textbook. I am by no means now an expert with JS, but I know where to research what I’m looking for. Overall, anyone could run through the course material quickly and focus on the projects and put little time in order to get a high grade. But with the breadth of material covered each week (every week we learned a new framework, technology, or language), I spent more time rewriting the course content to engrain it before attempting the projects. I think this helped cement a lot of the content. I noticed that the teaching staff (professors/ULAs) provided practically everything you needed for each project in EdSTEM to get a 100%. This course could be paired with a harder course and still do well.
+
+---
+
+[August 2021] Take Colt Steele's class on Udemy. Don't waste your time trying to deep learn HTML and CSS because it is a minor part of this class. Spend all your time on Javascript, Node.js, learning API's and how server side programming works. If you are not strong with JS then you will start to suffer in week 3 until the end. The website project is easy. The exam is difficult and does not help you learn anything. Most questions are multiple choice, but there are about 5 coding questions. The whole course is about to be revamped, but honestly I don't think it will get any better
+
+---
+
+[July 2021] Supplement with more modern learning/material/courses, this course is quite general, not comprehensive, and outdated. HTML and CSS are quite easy to learn, but very little is covered. Spend extra time on CSS in particular. Use Colt Steele's Udemy course, or Brad Traversy on Youtube for free. Learn things like media queries, flexbox, grid, and many modern techinques not taught in this class. Javascript is also outdated. Learn how to use let and const in addition to var. Learn newer dom manipulation such as document.querySelector. Take time to learn a modern framework such as React, Vue, or Angluar. The database portion of the class is a joke and barely shoehorned in at the very end of the class. Do yourself a favor and either spend time with SQL databases (such as in the database class) or else learn MongoDB for a no SQL modern option. Learn to deploy sites using MongoDB Atlas (database), Heroku (host), Netlify (host), Cloudinary (image storage), and similar in order to be competent in the real world. This class badly needs an update. As it is it could be called Javascript and Ajax class, because you don't really learn how to do actual modern web development.
+
+---
+
+[June 2021] This course is generally not too difficult. The materials cover Node, Handlebars, Express, JavaScript, and CSS (and perhaps some more stuff). I didn't think the course was as terrible as I had been led to believe, but the last assignment was a real step up in difficulty compared to everything else we had worked on. The final was rough. A lot of the questions seemed to be more about minor details from throughout the term and some short answer/code questions.
+
+---
+
+[June 2021] Some of the content is outdated since web development progresses so quickly. It's a bit annoying that the later materials don't fully show how everything you learned in the quarter is integrated, so you'll have to figure that out yourself. I didn't have any prep for any classes this quarter and that was fine, since the actual content isn't that difficult. Just make sure you try to get full points on the assignments where you can, because the final is a bit of a ball-breaker compared to the rest of the course. It covers content you maybe saw earlier in the quarter but never used yourself, which I thought was pretty dumb. Probably my least favorite course this quarter, even though it wasn't the most difficult, but I expect it will be much better once the course is refreshed/content is updated. That said, I still did enjoy it, just wish the content was current.
+
+---
+
+[March 2021] This course is deceptive because in terms of grading, it's probably easy to get an A without much effort. The problem is if you want to actually learn the material you're going to have to invest time on your own (especially if you're like me and haven't had previous exposure to HTML/CSS/JS). The assignments are again misleading because they are literally knowledge checks that don't have any depth until you get to the last assignment which requires you to put everything together. It is easy to go through the course and then realize you haven't learned enough to complete the last assignment. I'd recommend spending the time week to week to make sure you're understanding the concepts as they come so that you're not scrambling last minute to try to relearn everything for the last assignment.
+
+---
+
+[March 2021] I supplemented the canvas course material with Colt Steele's Udemy class and, occasionally, youtube videos. I felt really good about all the front end stuff we learned for the first 6-8 weeks of the class, but combining that with the back end side of things the last few weeks of the class got really tough. The last assignment completely kicked my butt and I felt very unprepared to put everything together. If I could go back, I'd have tried to set aside more time for that last assignment. I did most of the work for each week in this class Friday through Monday(3-4 days), which was enough time for most of the assignments in the course. The last assignment, however, I ran out of time so start early on that last assignment.
+
+---
+
+[December 2020] This class was pretty easy for the hw and only had 1 quiz/exam - the final. I go 70% on the final but only needed 60% to get a 4.0 because I got 100% on the homeworks. The final exam average was 67% so you're better off doing the homework diligently and using that to hold your grade up after the final. If you really want to ace the final, :shrug: read and remember all of eloquent javascript?
+
+---
+
+[December 2020] The first half of this class is easy, but the second half is a significant step up in complexity and time commitment for assignments. As other's mentioned, buy Colt Steele's Udemy course and do most of it (30 sections or so). This course will prepare you greatly for 290. The final project is not difficult, just time consuming, but very manageable to get a 100% on. The last homework assignment is far more complex than the project or anything else in the class so start it early. The final in this class is tricky and tedious. This class simply does not prepare you to be tested in this way, so your best bet is to maximize your cheat sheet.
+
+---
+
+[December 2020] The last half of this class gets more difficult since it deals more with the sever-side and JavaScript. having some knowledge of HTML and CSS will make the first few weeks a breeze. Also recommend Colt’s updated Web dev course. It will immensely help you for the last few weeks. The course book is good but I also recommend the Jon Duckett book. It took me about 15+ hours per week but it really helped and got me an A. The course is well laid out and even though some of the syntax may be out of date, it doesn’t really affect anything since you can use more updated syntax if you wish. Ianni is a great instructor and the TAs were very helpful. A lot of students complain about this class but in reality, there is no “holy grail” course that is the best although Colt Steel’s course is really good. Learn from as many resources as you can.
+
+---
+
+[December 2020] Ugh. I really hated this class. Found it to be very frustrating. Like every one else has said, unless you have web development experience you absolutely must take the udemy course before taking this one. It's sad but that 12 dollar course is so much better than this course it's not comparable. If you take the udemy course the first 6 weeks will be doable. Once you move to the server side it all kind of falls apart. I found myself hopelessly lost. My impression is that the course is taught with the assumption that the student has at least some web development experience. I think the reason for this is that many people taking this course do in fact have prior experience. None of the concepts are all that difficult but its a bit like trying to navigate public transportation in a foreign country. My opinion is that the activity's need to be smaller with more step by step instructions then build up to more of the complex implementations. Instead the lessons will say things like "this is all complex and we are adding more and more things so go and practice everything". I found myself staring at a blinking cursor not knowing where to even start. Bottom line, probably the worst, most frustrating class I have ever taken, anywhere.
+
+---
+
+[November 2020] Go through the materials and do the assignments, don’t worry about the final... the questions it ask are non sensical. After the semester ends spend some time learning web development on your own that isn’t outdated and learn what’s actually important to web dev.
+
+---
+
+[September 2020] Start on the final homework early, don't get sucked into making the project better than it needs to be(like I did)
+
+---
+
+[September 2020] I did 50% of Colt Steele course on Udemy and that was enough to do majority of CS290. Sign up for Eric Ianni's section so you can get Greg as a TA. He is very helpful for any sort of problem.
+
+---
+
+[August 2020] Ho boy. Probably the worst course I've taken thus far in the program. Everything is so disjointed and a patchwork of different tools that it's incredibly hard to come away with anything meaningful from this course. Like others have said, definitely take a web dev course online before this one. Colt Steele's is one that's recommended a lot, but people say that it's outdated. Fortunately, this class is also outdated, so it works out. I went with Colt's class, and the first ~75% of the class was a breeze. Once the class transitions into the backend, the lectures and assignments become way more confusing simply due to you having to figure the majority of it out on your own- including the lectures. The final is a joke as well, it's a terrible way to gauge your understanding of the class. Take a web dev class before this one, get 100% of the points you can in the first half of the class, then just coast for the last assignment and final.
+
+---
+
+[August 2020] Don't expect every assignment to be similar, especially the last one. Almost every assignment took me 1 or 2 days but the last assignment took multiple and I wasn't able to finish it on time. It's harder than the website project, which really surprised me as I poured most of my time into the website.
+
+---
+
+[August 2020] Took this class during summer, so it was a bit accelerated. After reading the other reviews here, I went into this class with pretty low expectations. The first few weeks are definitely easy, and as everyone else says, the project/database assignments/final cram time near the end really hits you. For the project, I personally did the minimum and did fine. Make sure to cite any outside code you may use, check off everything on the rubric, and you'll get an A. For all database/mySQL homeworks, study the crap out of all the material you can. I mean go over it until you understand it, and then go over it again until you hate it. If you do that, the last database homework will really be connecting the dots on a process you already know well (it will also give you the knowledge to fix any bugs that will 100% come up). As far as the final goes... good luck. The questions cast a wide net on information that isn't required in the previous assignments, and I only knew some of the answers from going through Colt Steele's Web Dev course. They're not impossible, but they go into far more detail than any homework assignments call for. Overall, this class gets a 3/5 from me. It wasn't as bad as I thought it would be, and I walked away a lot more interested in web dev than I was originally.
+
+---
+
+[August 2020] Understand the material, don't imitate. Brute-force various tutorials, textbooks, etc., and find the ones that explain the concepts well. Be prepared to waste your time on extensive trial-and-error. The class is putting high demands on a student's time, unfortunately. It is fun, but you pay for the fun with long wasted hours.
+
+---
+
+[June 2020] Do some form of preparation before coming into this class. For me, I took Colt Steele's Web Developer Bootcamp on Udemy and I felt like that was sufficient. There are other great courses out there too. If you have a good foundation of HTML/CSS/JS and understand front-end and back-end technologies, you will likely be OK. The flow of this class darts all over the place and if you try to take this class with no prior knowledge, you will hate life, surely. The class ramps incredibly fast, starting with a basic HTML page in Week 2, jumping to advanced JS concepts by Week 5, to Sessions and Databases at the end. Assignments are manageable if you use the allotted time to complete them. You will not come out of this knowing everything there is to know about Web Dev. You get a taste. Focus on doing really well on all the small homework assignments and the project. The final exam will throw questions out of left field at you and even though I had a 99 going into the final, I am certain that will be pared down a bit after the final.
+
+---
+
+[June 2020] Do not get comfortable with the easy pace in the beginning. The last 3 weeks are extremely challenging. It was 4-6 hours of work a week until the last 3 weeks, and then I was doing 30+ hours a week to keep up the A. In the last few weeks you get two of the most difficult homework assignments, where everything comes together, as well as the final project and test preparation. As others have said, the test is garbage. I prepped a lot and was still caught mostly off guard. Get an A on all assignments and you should be ok going into the exam.
+
+---
+
+[June 2020] Worst required class yet in the program. But I didn't feel it bad for the same reasons I see commonly posted here. The lesson pages and videos are definitely weak, somewhat disorganized, and typo-ridden. But I did find them sufficient for learning the core materials. I enjoyed the last assignment. It brought much of the course together, in a way that was challenging but doable. The "project" is done about 2/3 of the way through the course. It's... meh. It's kind of a CSS showcase, since the required JavaScript is so minimal. There's an extra credit option for the best projects, which mainly highlights the work of many who are already full-time web devs. Kinda stupid, but whatever. The final exam is where this class really crashes and burns. There are no assessments during the course, and the final exam at the end is a mix of good questions, JavaScript oddities, and strange coding questions. Since JavaScript syntax was not an emphasis of the course during the semester, one is not naturally attuned to be on the lookout for such issues during the exam. My "favorite" part was the exam instructions that told us to assume all typos didn't exist....and then many of the questions or answer options were about different error options. One of the instructors is basically absent. The other is smug and unhelpful. The TAs can be nice and helpful though.
+
+---
+
+[June 2020] I went into this program with 0 prior CS expereince. After taking 161 and 162, I ended up in this class because I felt I was struggling in this program, and the advisor I spoke to said this was one of the easiest classes. I have to agree with her assessment. For people who have prior web dev experience, I could tell it was a REALLY easy class. The best thing about this class are that the book is OER, so you don't have to pay. I bought the Colt Steele Web Dev Bootcamp on Udemy since it was recommended by redditors (don't pay more than $11 for it - if you see it listed at a higher price than that, try using incognito mode or switching to a diff device). The bootcamp was helpful in the beginning of the course, but the second half is all about node.js, and that's where I struggled. I think this can be a really fun class. You have lots of room to be creative with the final project. For the final project, you have to make your own website. I saw examples that looked like they could have been made in the 1st week of classes, and ones that looked extremely well-put together.
+
+---
+
+[April 2020] This course needs a major update. To pass this course and actually understand what is going on take Colt steele's udemy class. It comes on sale every few weeks and is totally worth the price. A 20-10$ (depending on when you buy it) class is worth way more then this 2k monstrosity. The beginning of the course is very light and the assignments are as well. If you take colts in the first modules of colts you will be learning and building stuff that is much more detailed then the course assignments and the assignments will be a breeze. The second half of the class is when it gets dicey. The server side stuff is a mess, the professors and TA's have admitted as much. The videos are hard to follow and the material does not adequately prepare you. For the last assignment so many people who otherwise were good students wee struggling. This class is one of the poorest the E-campus CS course has to offer and frankly felt like a rip-off. Oregon State University should be ashamed to offer this course as it is and some major changes need to happen.
+
+---
+
+[December 2019] Doing a web dev course before this course would help immensely since it's not due for a revamp until late 2020. The front-end portion will be easy, but once you reach the backend prepare to spend a lot of time trying to understand why your requests are not working. All in all it's an easy course but don't slack off.
+
+---
+
+[December 2019] This is hands down the worst class I have ever taken, ever, at any school or program.The provided material is confusing and doesn't explain what you're doing or why. It fails to connect any previous topics to later topics and frankly made me lose all interest in Web Development. I was told by numerous people to take Colt Steeles Web Dev course on Udemy before taking this class and I'd recommend that to anyone else. It's around $12 and supposedly covers all the topics for this class except way better. Full disclosure, I haven't personally taken Colt Steele course but I'm planning on it cause I actually wanna learn Web Dev and not hate it.
+
+---
+
+[November 2019] Take Colt Steele's Udemy course beforehand, and you'll get a lot more out of this class. This class seems to focus quite a bit on odd exceptions rather than building things. The Colt Steele Udemy class takes the opposite approach, and the introduction and framework will give you something to hang all of these little oddities and exceptions off of.
+
+---
+
+[November 2019] If you have a little professional experience with web development, this class will be a breeze. Knowing how to use git from the command line and how to start/stop a node server (with forever) would be good things to practice before starting class. Do an hour long node tutorial on this so you can focus on learning the development concepts. If you want to prepare for the final project, learn how to setup a mysql server on your computer and make a connection from a simple node app. The mysql queries are super simple - no worries there.
+
+---
+
+[September 2019] First half is super light.... don't get used to it. Not sure what else to add that hasn't already been added. Watch out for due date of final assignment. All quarter long, everything was due on Sunday, except the last assignment.
+
+---
+
+[May 2019] I'm late to review my experience in 290 but looking back, after taking almost all the classes in the program, I would rate this as one of the 3 worst classes. The course is theoretically supposed to help you develop the skills needed for Databases(CS340) but it is presented very poorly.The lecture content was pretty awful. The lectures are given as if everyone is already familiar with the topics and just needs a refresh on material. You'll find that a large amount of the class does have Web Dev experience and will rate the class as easy but do not be lulled into a false sense of security if this is your first time with Web Dev. This course was my first experience with Web Dev and it was one of the hardest classes I've taken. I would rate it harder than 325 because of the lack of quality reference material. I took this course over the summer along with data structs and found myself spending about twice as much time on 290 than 261. The asynchronous requests on the last project were brutal and I went to office hours multiple times to try to get my code working but the TAs would just alter the code for you and not really explain anything. Final thoughts: If you are concerned about this course I would strongly recommend Colt Steele's Web Dev Bootcamp Course on Udemy. In total it has about 45 hours of lecture and covers almost every topic from 290 in much better detail. I came out of 290 scared of web development and I took the Udemy course and feel so much more confident in my ability to put together professional web pages.
+
+---
+
+[March 2019] I really hope this class gets a rework very soon as it's one of the worst in the program. The first couple weeks teach basic things, which is ok. I found it very difficult to stay focused while watching the lecture videos. By the way, the general theme of those lectures is "this is a deep topic, so we're going to hardly cover it and instead spoon feed you an outdated and incorrect implementation." While it's not hard to get an A in this class, you won't learn much if you just watch the lectures and do the assignments. Definitely invest in other resources to be anywhere near competent at web dev.
+
+---
+
+[March 2019] Forget about the lecture and books. It would be better to teach yourself with outside resources unless you already have some strong experience in JS and Ajax. Also, there are two options: Zhang and Ianni. If you are good at JavaScript/Ajax and want to talk to the professor personally for some reason, Dr. Ianni's class might be good. Otherwise, you should take Zhang's class. It saves you time.
+
+---
+
+[March 2019] Take Colt Steele's Udemy course and prepare to do a lot of googling.
+
+---
+
+[February 2019] If you have any web development experience at all, or if you take an online course in webdev before this class, it'll be a breeze. The last homework assignment is much more time consuming than the main project; start it early.
+
+---
+
+[December 2018] Starting after week 5 or so, start the assignments as early as possible. A lot of the material required to do the homeworks isn't covered well in the modules provided in the class. Some others suggested taking Udemy courses or others beforehand - I highly recommend this, especially if ones exist that focus on client/server side interactions in Javascript and other JS extensions as this was a focus that was significantly under-covered in this course. Maybe the pain of this course is that HTML and JS are so fragmented, but this course is extremely poorly organized relatively to other courses (344, for example).
+
+---
+
+[December 2018] While the lecture videos are some of the more interesting I've seen to date, the material included doesn't give you everything you need to be successful for the final project and the final exam. If you've had experience with Javascript, AJAX, and Express then you'll be fine. But for a newbie like me, it was a lot to get used to. Especially when some of the assignments essentially throw you into the deep end that you're not sure what questions to ask. It also didn't help that the instructor and the TAs were non-existent during the duration of the quarter. I would recommend avoiding this class over the summer. And if you're new to JS, the take this class by itself during the summer.
+
+---
+
+[August 2018] Brush up on Javascript/Node before the class and it'll be easy
+
+---
+
+[August 2018] Don't spend too much time reading the textbook - it's not the most helpful and there are much better resources out there. Lectures are great and do a good job at stepping through each of the concepts using sample code. If you are struggling with a concept - especially with express or AJAX - find outside resources immediately. The course modules provide a basic overview of these concepts and do not go too in-depth. The class project is relatively straightforward - if you are only looking to complete the requirements then just make a quick static website. You do NOT need to implement any server-side code for the project. However, be prepared to spend a fair amount of time on the final homework assignment, especially if you are not comfortable with express, AJAX/asynchronous events, and mySQL. The last assignment combines everything you cover in the course in a basic CRUD app, so you'll be juggling a lot both on the client and server side.
+
+---
+
+[August 2018] Most of the assignments can be done fairly quick, maybe a couple of days or so. As everyone mentions the last assignment is killer, but you get the most out of it. It seems like putting in a lot of effort and features in your website project is not a factor to get you in the running for EC. Also, it seems like the EC list is chosen willy-nilly.The lectures are really good and worth it, same with the readings. Supplement with Colt Steele's Web Dev course and you're golden.
+
+---
+
+[June 2018] If you come into the course with HTML / CSS experience, you will be fine for 20% of the course. The course instructor tries to be funny but the material taught just isn't very enough... Last two weeks would be difficult. Comment on your early assignments, it will come back to help you later in the term. There was a project worth 10% of the final grade - don't spend too much time on it. I made the mistake of spending over two weeks on fine tuning it, and end up falling behind on my other two courses.
+
+---
+
+[April 2018] This class seems to be constantly changing, but it's honestly pretty easy in its current state. The project could be done in a few hours. The final assignment was challenging, and the final was pretty tough (the class average was a D), but it was only a small percentage of the grade. Just do all of the assignments and coast into the final.
+
+---
+
+[March 2018] Find outside sources for content. Lecture videos are a dud
+
+---
+
+[March 2018] Colt Steele's class on udemy is useful for some concepts like http requests (post/get), DOM manipulation, and most of the js covered in the lectures. If you want a more rigorous web dev education, freecodecamp is the place to be. You will be learning front end: html/css/js backend: node.js, express, handlebars, sessions, request. jQuery, bootstrap, etc. are not covered, although you can use whatever you want on most projects.
+
+---
+
+[March 2018] It is super easy until the very end, where you will be wrecked if you didn't really bother trying to internalize the JavaScript concepts being taught ("taught"?) in particular. The final tests a lot of tiny pedantic detail, much of it drawn from the lectures/readings.
+
+---
+
+[March 2018] Start the project early! Get comfortable with javascript
+
+---
+
+[March 2018] Instructor simply recycles material left by the previous instructor and barely ever answers any questions on Piazza. Answers given by the instructor even when she does respond are superficial and of little help. That said, the HW assignments are easy enough, and grading is fairly lenient. Start the last two assignments early though (final project and database HW). These will take up more time than all the other assignments combined.
+
+---
+
+[March 2018] Learn some bootstrap to make things look nice. Start early for the last homework assignment.
+
+---
+
+[March 2018] I found the 2nd half of the course to be incredibly difficult. Don't be lulled into a sense of complacency after the first 6 weeks. The final is also insane so try hard to go into it with 100s on all hw
+
+---
+
+[March 2018] Decent class. It teaches you HTML/CSS/JavaScript, along with NodeJS - Express, Handlebars and a few other modules. The class is pretty light overall, but the assignments could take longer than you expect. Watch out for the last assignment! The difficulty of it compared to the others is way higher and can catch you off guard, especially if you're procrastinating and think you can do it in one day like your other assignments! I encourage taking time to build a decent website - you can do the bare requirements and get full points, but you walk away not really learning much, because so many things can be built copy+paste from the lecture notes. I recommend taking this class with CS340, because you can use the same project for both classes, and what you learn here will help you with the CS340 immensely (requires you to build a website with databases).
+
+---
+
+[March 2018] Final project took much more time than the assignments. Don't delay.
+
+---
+
+[February 2018] An easy A, fairly low stress. The material got much harder the last few weeks but the grading was very lenient. I didn't come out of the class knowing much more than I did going in. If you're looking for a GPA booster, this is a good course. If you're looking to actually learn web development, this is a terrible course.
+
+---
+
+[January 2018] Don't get complacent with the first few weeks. HTML and CSS are easy and not covered. The final isn't as bad as everyone says, get your grade up before going in and don't worry about it. Think about how to start the projects before you start the base of the server side stuff is important.
+
+---
+
+[December 2017] Use outside resources. The majority of the grade is based on assignments/activities so it's easy enough to do well. The end of the course is where topics tend to get overwhelming and confusing; the material provided isn't incredibly helpful so try to find some supplemental resources in the last few weeks. The final is pretty difficult. Make sure to put plenty of information on your note sheet of things you wouldn't expect to need to know for the final.
+
+---
+
+[December 2017] If you've never seen HTML/CSS this is perhaps an uphill battle, however I found it to be easier than 161. The last assignment is the only thing that will have you scratching your head for a couple days as you are asked to bring everything together, but if you just look over past assignments it will make sense. You are given 2-3 weeks to complete it. Make sure you get 100% on all assignments as that is literally 75% of the final grade. Final project has very low standards for getting a 100% (basic website with menu bar, pictures, etc). No midterm, final is aight and covers a bunch of minutiae you barely ever saw in class...if you did the assignments like I advised you can get an F on the final and still get an A in the class.
+
+---
+
+[December 2017] The assignments are pretty easy overall except for the last assignment, which is incredibly difficult. Start on it immediately, and get help.
+
+---
+
+[December 2017] Take udemy boot camp by Colt Steele first if you have time.
+
+---
+
+[August 2017] Check out Udemy's Web Developer's Bootcamp. They really do not go deep into anything but the assignments are not too difficult. Unfortunately, that means that you do not get a lot of good practice. This does not count for the final project. It is way more complex than any other project.
+
+---
+
+[August 2017] The last project requires you to combine DOM interaction and server-side javascript to create a database tracker. It feels clunky though because you don't really use a framework other than vanilla JS for client-side and node.js for server-side.
+
+---
+
+[August 2017] You need to do reading and practice beyond the course material.
+
+---
+
+[August 2017] Some topics are explained poorly or not at all. Get started on How-To and database projects ASAP. Course is extremely back-loaded.
+
+---
+
+[June 2017] If you have ANY prior webdev experience, ANY at all, this class is a breeze. If you're thinking about getting an override to take it with CS162, I'd say do it because it was a nice, low-effort class that enabled me to focus more time on CS162.
+
+---
+
+[June 2017] Really pretty easy. I found the textbook to be boring and hard to focus on. Last assignment requires a synthesis of server side and client side coding.
+
+---
+
+[June 2017] Do you assignments a week early so you can get TAs to help you through any bugs you encounter. Look up an Express tutorial on youtube
+
+---
+
+[June 2017] Be prepared to use google A LOT. Instructor is completely worthless, and the assignments, though only worth 10 points require 40+ hours a week.
+
+---
+
+[June 2017] After the first half of the class get on the assignments early. The difficulty and time to finish ramps up significantly.
+
+---
+
+[June 2017] Last 2 weeks are intense, don't procrastinate
+
+---
+
+[June 2017] Extremely backloaded workload with the database assignment coming right after the how-to guide. Minimal engagement from the instructor, so Slack is probably your best bet for getting help.
+
+---
+
+[June 2017] Learn Javascript and some web development basics before taking the course. It's easy to get an A but doesn't teach the material well.
+
+---
+
+[April 2017] It's been said before, but the course is seriously weighted to the last few weeks so after mid-term, make sure to stay on top of your other classes. The final is not a gimme, but it is not difficult to go in to it with nearly full marks from the rest of the assignments.
+
+---
+
+[March 2017] It's easy to get A's on all of the assignments (the last couple are harder) and in the class doing the bare minimum, but you won't learn much. If you are interested in web dev, you'll have to put in extra work than what it required.
+
+---
+
+[March 2017] Don't skip the lectures. The videos/notes can be boring, but they give you a lot to get started with for the assignments. Definitely check out the class examples that you clone from Git during the first week, these are very useful towards the end of the class for the node.js/express/handlebars assignments. Start every assignment as soon as you get it, and write your code in small testable units.
+
+---
+
+[March 2017] Don't rely on the course content; Justin Wolford's teaching style does not work for everyone. If you're struggling with the concepts, don't punish yourself by trying to use the modules. Instead, figure out what they want you to know and go find a good resource from which to learn.
+
+---
+
+[March 2017] The first few weeks are cake - the last few weeks are time-consuming and the content is very detailed and complex (for me). Work ahead if you can (modules may not be available ahead of time), and, if you have extra time, learn about node.js and express ahead of time. The two recommended texts are useful, and the JavaScript text 'Eloquent JS' is available online for free.
+
+---
+
+[December 2016] There is a lot of group work, so anything you can do to make sure your group works well together, with everyone happily contributing, will make this class (even) easier.
+
+---
+
+[August 2016] This course starts off quite slowly and ramps up considerably once you get to node. Make sure to nail every assignment, they aren't particularly hard, and for the final project start on it right away. The final focuses on syntax for each of the elements covered, so make sure you have an accurate understanding of what each piece does.
+
+---
+
+[August 2016] The final is a poorly designed beast. Expect to see things on it that the prof said not to expect. Syntax is a weirdly large portion of the exam. The term I took 290, I was also taking 325, and the average final exam score for 290 was about 14 points lower than the one for 325 (and 325's content is more challenging), 61% versus 75%, which is ridiculous. As for the course itself, it squishes client-side and server-side together into a course and may well leave you feeling like you learned little about either. Don't discount web development as a career path if you leave 290 hating web dev, it's just the course.
+
+---
+
+[August 2016] node school tutorials. Take them seriously. mozilla javascript guide, mozilla forms guide, mozilla css guide, mozilla html guide. practice and work on your own projects simultaneously while doing the course materials. You should be done with your assignments on wednesday before they are due.
+
+---
+
+[August 2016] Course is not terribly difficult until the final project and the final exam. Study the details. Exam is mostly Javascript trivia, be sure you know AJAX html requests backwards and forwards. Lots of 'select all that apply'. Did worse on this final than CS 261 & 271...
+
+---
+
+[August 2016] The course is quite easy, both conceptually and time-wise, until the last couple of weeks. The final project is very difficult based on what you have been taught up until that point.
+
+---
+
+[August 2016] You must do outside exercises and practice to succeed in this course. The lectures alone will not be enough to really understand the material. Make sure you fully understand a concept before moving on to the next week's material. Do not just copy and paste code, as this will make things very hard for you later on.
+
+---
+
+[June 2016] If you have Sheela Surrisetty, don't expect any instructor help. The TAs will be doing all of the work. Not a difficult class. Give yourself lots of time for the database assignment (the last one) because it is disproportionately time consuming compared to the rest of the assignments. How-to guide doesn't need to be any prettier than the professor's weekly module pages (throw some headers and paragraphs in there, distinguish your code sections somehow, you'll be fine). They give a very very polished example, but it's not graded on aesthetics at all. Final exam bit a lot of people in the ass (class average: 63%). Know the finer details. Sort of nitpicky. Brush up on code.
+
+---
+
+[June 2016] Since the class starts off slow, dig into some extra JavaScript resources on the side, that way you're better prepared when the class ramps up later in the quarter.
+
+---
+
+[June 2016] Be prepared to be blindsided the last two weeks by the increase in the amount of time required for assignments. A big problem with this class is that there is no structure. It is possible to have over 100% average on assignments and feel lost when the exam and final assignment come.
+
+---
+
+[March 2016] Each assignment is graded equally but the class difficulty spikes. Make sure to collect easy points at the beginning to help the end. There are trendy technologies. This class is best suited for the over-achiever. You can loaf and do well.
+
+---
+
+[March 2016] Read head and managed your time towards the end of class
+
+---
+
+[March 2016] Starts slow but the curve sharply increases quickly after the second week. Do each of the activities at the end of the modules, as they are usually the weekly assignment broken up into increments, so if you go through all of them to the end, your assignment is 90% done. Last homework assignment is a BEAST.
+
+---
+
+[March 2016] This class starts off at a very easy pace, especially if you are familiar with web development at all. The last two assignments take up SO MUCH time, from general feedback this term about 25-35 hours apiece. Make sure you get an early start on them, as the first 8 weeks do not prepare you for this work load. Otherwise a great class, I learned a lot!
+
+---
+
+[March 2016] So much new material. Conceptually not bad. Debugging in node can be challenging, and the professors material is relatively thorough. Watch out for The last assignment: database interactions.
+
+---
+
+[January 2016] The lectures were way more useful than the book. Don't get lulled into a false sense of security the first few weeks. It starts off slow, but the last few weeks were rough. Make sure to understand each new concept, because the final homework is fairly comprehensive.
+
+---
+
+[January 2016] Find other resources outside of the class to learn javascript and node.js. I signed up for a udemy course (Rob Percival Build 15 Websites) since it was only $10 when I purchased. The assignments aren't too difficult but definitely get started on them early.
+
+---
+
+[December 2015] If you can find time, create little projects on the side to help reinforce the concepts. From what I hear, it's a lot better than past quarters but there is still a lot of material to cover. Didn't use the book a lot, mostly did searches for online documentation and questions.
+
+---
+
+[December 2015] The old version was brutal. Be glad it's been changed.

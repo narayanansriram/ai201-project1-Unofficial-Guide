@@ -1,0 +1,69 @@
+Anyone else have a tougher time with 492 than expected?
+
+I'm currently in 492 (Mobile Development) and was expecting it to be a relative cakewalk. The first few assignments were easy, but the last one was way more difficult and I turned it in late half-complete.
+
+I'm already worried about the final assignment. If I end up doing badly on these last 2 assignments, my grade will hover dangerously around 70.
+
+To those considering taking the course, I have this to say about it: It is well-structured and interesting, but if you're expecting a class you can devote a few hours a week to while working full-time, this may not be the one for you.
+
+Anyone else have this experience?
+
+I’m enjoying the course overall. Journal was challenging for sure.
+
+Complaints are that Null safety and not showing all of the files so we can code along broke what are otherwise great lectures. The amount of context and suggested readings in a given week is usually too high for me to fully absorb. Also, I dislike when classes make you do something ‘the old fashioned way’ for the sake of learning, but then don’t cover the standard way afterward (state management specifically)
+
+I also struggled with Project 4 and was not happy with what I turned in. I started working on Project 5 this week and I have found it much more approachable. They gave us some plug and play functions in the explorations for retrieving location data and images plus a function to upload the data to firebase. Also, I was able to reference some of my code from Project 4 and adapt it to this project.
+
+Overall, I would say this project is quite a bit easier than the last. Be sure to read the section on extra credit if you need the boost - they honestly don't look that bad to implement and you can add up to 5% to your class grade.
+
+Thanks! Appreciate the info. Are you finding you need to watch the final module videos before starting the project or can I start it after going through Module 9?
+
+I've got 90% of the project implemented just based off Module 9. Haven't even looked at Module 10.
+
+Yeah, that last project was awful. Also pretty frustrating that they use lecture videos with nonfunctional code due to null safety.
+
+Yeah I like the course a lot overall, and the lecture videos are generally great, except they need to update the videos to cover Flutter 2. And a lot of the Firestore videos are out of date due to all the changes that package has undergone in recent releases. They really need to re-do the videos that are now filled with syntax that literally won't work.
+
+I’m really enjoying the class but definitely wasn’t anticipating the amount of time it requires. I paired it with 344 this quarter thinking it’d be a few hours a week but that last project definitely took a few more hours.
+
+I wish I’d have taken this class alone. I’m really interested in the content and wish I had the time to fully explore instead of devoting all my free time to string manipulation in c
+
+Same about wishing I had the time to fully understand the material. I don't envy you for taking it alongside 344 friend.
+
+It’s definitely not a cakewalk like 90% of the program, but it’s definitely the best taught and structured class available. The material in that class was far and above the others as most relevant and useful to what I actually use in industry. Being able to talk intelligently about things like state management in an interview is huge. Embrace the difficulty of this class and put in the effort. I’d say that is more worthwhile than any other sort of interview prep you could do.
+
+It seems most entry level jobs nowadays are in mobile and web development. This class teaches you what 290 should have and also teaches you about good coding practices.
+
+Damn, this is good to know! I'm leaning away from webdev career-wise, but feeling really disappointed with what I'm getting from 290, so I might look into this as a third elective. Thanks.
+
+Webdev skills are still pretty crucial to have. My first job was dealing with microservices and apis and understanding HTTP requests is essential
+
+better tought and structured than 492 or 475? asking for a friend =P
+
+I didn’t take parallel programming but I did hear good things about that class. I think those sorts of low level programming jobs aren’t as often remote offerings, and I didn’t come across much work in that domain in my region.
+
+[deleted]
+
+Same, I had to turn this past one in a little late. There was definitely a difficulty spike, particularly with state management (not being allowed to use Provider sucked). Starting early on these assignments helps a lot.
+
+It looks like Project 5 doesn’t lean as heavily on previous concepts other than the basics. There are also extra credit points available, and the exam is heavily weighted and unproctored. You’ll be alright. :)
+
+I think the class is great in my opinion. The material is laid out so well, and it's very digestible. It's made capstone an amazing parallel class to take as well since we're developing a mobile app.
+
+The Journal project took some effort. We have a lot of time in between projects though so I feel like it was pretty fair. I would say the difficulty is moderate, and not nearly as hard as 344.
+
+Project 4 took me a long time but now I have a very good understanding of flutter and its ecosystem and I'm blasting through project 5. The flutter framework sort of reminds me of React, it obviously doesn't use JSX but the concept of composition and 1 way data passing is very similar.
+
+Like everyone else here, I had a lot of trouble and turned in late too. I think a lot of my problems came from thinking I could grind it out in a few days. I really needing a lot longer to understand places where I went wrong and try different approaches until things worked the way I wanted. I went through a lot of revisions and had to troubleshoot A LOT. That’s on me though, and to be realistic, it’s part of the learning process (especially for a language and platform that has been new to me). Yeah it was a jump in difficulty from the rest, but it’s still a really great class. I’m starting project 5 earlier.
+
+_No_1_Ever_
+
+In 492 right now. I’m sorry you had to turn in the project half complete. Honestly it’s worth trying to complete it in your spare time as it teaches you a lot of great concepts you’ll likely need for future employment in the mobile space (if that’s what interests you).
+
+Although managing state manually without the use of things like Provider was a pain in the ass I was super satisfied when I had everything working correctly.
+
+This project also implicitly teaches the concept of really abstracting each individual part of what it takes to show something on the screen. In my submission I broke it out so that there was a main Scaffold widget, which then had a vertical or horizontal layout builder, which then had a vertical version of the screen or a horizontal version of the screen. I also made what I called Views, with the idea that different Screens can use the same View to reduce code duplication. So the vertical screen imported a View for the list of journal entries, and when clicking on an entry it pushed the Entry Detail View. For the horizontal screen I imported that same Entry Detail View, plus I made a horizontal version of the Journal List Entries View as the behavior of clicking on an entry in the horizontal version had to be different from the vertical version. I’m sure I probably could’ve abstracted the horizontal and vertical versions of the Journal List Entries View into a single View that behaved differently depending on device orientation but I ran out of time to try it out.
+
+Hope that’s a helpful concept for the next upcoming project. :)
+
+Yes! I was looking for a simple elective, read a post here one day saying how great this class was and I fell for it!! What a regret. The lectures and videos are good (outdated but good), but man, Android Studio sucks sooo bad!!! My computer freezes all the time. I spent more time in this class troubleshooting my machine, restarting, uninstalling and re-installing, opening Task Manager, this was a nightmare!!!! The emulator sucked the entire cpu power from my laptop, it was so hard to get anything done. Frustrating, stressful and ridiculous amount of hours just staring at the screen waiting for things to stop freezing. Absolute regret. Do not recommend.
