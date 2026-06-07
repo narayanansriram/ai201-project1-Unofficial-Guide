@@ -82,7 +82,7 @@ The free tier of groq for llama-3.3-70b is a good fit for this project as it per
 | 2 | How difficult is CS 325 and what do students recommend to get through it? | Should mention heavy math/proofs, poorly organized lectures, recommends Abdul Bari on YouTube or MIT OpenCourseWare as supplements, grind homework and extra credit to offset bad exam scores |
 | 3 | Is CS 344 a good course and how much time should I expect to spend on it? | Should mention 20+ hours per week, requires C programming, test on os1 not local machine, one of the hardest required courses but well-designed compared to others |
 | 4 | What are students' complaints about CS 340? | Should mention vague project requirements scattered across Ed Discussion posts, too much peer review busywork, choosing the right partner matters a lot, admin-facing vs client-facing confusion |
-| 5 | Which courses do students say pair well together and which combos should I avoid? | Should mention 162+271 as a heavy combo to avoid, 162+225 also mentioned as rough, 271 alone for summer is manageable, 162 pairs better with an easy course |
+| 5 | What class should I take with CS 162? | Should mention 162+271 as a heavy combo to avoid, 162+225 also mentioned as rough, 271 alone for summer is manageable, 162 pairs better with a low-effort course; note: abstract "pair well together" phrasing does not retrieve well — concrete course-specific questions do |
 
 
 ---

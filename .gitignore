@@ -16,5 +16,8 @@ env/
 chroma_db/
 chroma/
 
+# Claude Code
+.claude/
+
 # macOS
 .DS_Store
