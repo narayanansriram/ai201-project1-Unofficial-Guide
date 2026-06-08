@@ -4,9 +4,19 @@ from query import ask
 from retriever import get_collection
 
 COURSES = [
-    "CS 161", "CS 162", "CS 165", "CS 225", "CS 261",
-    "CS 271", "CS 290", "CS 325", "CS 340", "CS 344",
-    "CS 372", "CS 492", "CS 493",
+    "CS 161 - Introduction to Computer Science I",
+    "CS 162 - Introduction to Computer Science II",
+    "CS 165 - Introduction to Computer Science I & II (Accelerated)",
+    "CS 225 - Discrete Structures in Computer Science",
+    "CS 261 - Data Structures",
+    "CS 271 - Computer Architecture and Assembly Language",
+    "CS 290 - Web Development",
+    "CS 325 - Analysis of Algorithms",
+    "CS 340 - Introduction to Databases",
+    "CS 344 - Operating Systems",
+    "CS 372 - Introduction to Computer Networks",
+    "CS 492 - Mobile Software Development",
+    "CS 493 - Cloud Application Development",
 ]
 
 
@@ -52,7 +62,7 @@ with gr.Blocks(title="OSU CS Unofficial Guide") as demo:
                     "What do students say about the AVL tree assignment in CS 261?",
                     "How difficult is CS 325 and what do students recommend?",
                     "Is CS 344 worth taking and how many hours per week?",
-                    "What are the biggest complaints about CS 340?",
+                    "How hard is CS 225 and what math background do I need?",
                     "What class should I take with CS 162?",
                 ],
                 inputs=msg,

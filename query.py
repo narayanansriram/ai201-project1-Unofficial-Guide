@@ -17,7 +17,7 @@ if __name__ == "__main__":
         "What do students say about the AVL tree assignment in CS 261?",
         "How difficult is CS 325 and what do students recommend to get through it?",
         "Is CS 344 a good course and how much time should I expect to spend on it?",
-        "What are students' complaints about CS 340?",
+        "How hard is CS 225 and what math background do I need?",
         "What class should I take with CS 162?",
         # Out-of-scope — should refuse
         "What is the CS 499 capstone like?",

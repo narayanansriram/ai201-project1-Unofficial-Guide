@@ -11,7 +11,7 @@ EMBEDDING_MODEL = "all-MiniLM-L6-v2"
 CHROMA_COLLECTION = "unofficial_guide"
 CHROMA_PATH = os.path.join(os.path.dirname(__file__), "chroma_db")
 
-TOP_K = 5
+TOP_K = 7
 DISTANCE_THRESHOLD = 0.5
 
 DOCS_PATH = os.path.join(os.path.dirname(__file__), "documents")

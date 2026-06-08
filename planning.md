@@ -10,7 +10,7 @@
 ## Domain
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
-Oregon State University has an eCampus BS in Computer Science program. The program has several asynchronous, online students who review the courses in a variety of websites such as reddit (subreddit r/OSUOnlineCS) and it's own bespoke website https://osu-cs-course-explorer.com/. The reviews are scattered throughout these sources and are not available on Oregon State's ecampus website.
+I chose Oregon State University's Computer Science course reviews. Oregon State University has an eCampus BS in Computer Science program. The program has several asynchronous, online students who review the courses in a variety of websites such as reddit (subreddit r/OSUOnlineCS) and it's own bespoke website https://osu-cs-course-explorer.com/. The reviews are scattered throughout these sources and are not available on Oregon State's ecampus website.
 ---
 
 ## Documents
@@ -63,10 +63,14 @@ Oregon State University has an eCampus BS in Computer Science program. The progr
 all-MiniLM-L6-v2 via sentence-transformers
 
 **Top-k:**
-5
+7
 
 **Production tradeoff reflection:**
-The free tier of groq for llama-3.3-70b is a good fit for this project as it performs well for synthesis tasks like summarizing student reviews. Groq's rate limits would, however, be a bottleneck in a production scenario which might require a paid plan or queueing strategy.
+
+Context length: Several CS 344 and CS 290 reviews have between 2000-4500 characters which are detailed and are cut into smaller pieces and therefore losing nuance and coherence. A better fit would be text-embedding-3-small which supports up to 8191 tokens and for 1538 chunks would cost less than a cent
+Privacy concerns/local vs API hosted: The data here contains student opinions on instructors which when sent to an API means leaving the infrastructure completely [concerns about FERPA-adjacent data leaving infrastructure, i.e.]. all-MiniLM-L6-v2 would keep it on-prem, therefore allaying privacy concerns
+Multilingual support and domain-specific accuracy: non issues here since the data is in informal American English which are handled well by general-purpose models
+Latency: Negligible since embedding happens once at index time
 ---
 
 ## Evaluation Plan
@@ -81,7 +85,7 @@ The free tier of groq for llama-3.3-70b is a good fit for this project as it per
 | 1 | What do students say about the AVL tree assignment in CS 261? | Should mention it's the hardest assignment in the course, pseudocode is intentionally incorrect/incomplete, BST implementation affects AVL compatibility, most time-consuming part of the class |
 | 2 | How difficult is CS 325 and what do students recommend to get through it? | Should mention heavy math/proofs, poorly organized lectures, recommends Abdul Bari on YouTube or MIT OpenCourseWare as supplements, grind homework and extra credit to offset bad exam scores |
 | 3 | Is CS 344 a good course and how much time should I expect to spend on it? | Should mention 20+ hours per week, requires C programming, test on os1 not local machine, one of the hardest required courses but well-designed compared to others |
-| 4 | What are students' complaints about CS 340? | Should mention vague project requirements scattered across Ed Discussion posts, too much peer review busywork, choosing the right partner matters a lot, admin-facing vs client-facing confusion |
+| 4 | How hard is CS 225 and what math background do I need? | Should mention it is challenging especially with limited math background, algebra skills are important, MTH 231 (Discrete Math) is a relevant prerequisite, heavy assignment load throughout the term |
 | 5 | What class should I take with CS 162? | Should mention 162+271 as a heavy combo to avoid, 162+225 also mentioned as rough, 271 alone for summer is manageable, 162 pairs better with a low-effort course; note: abstract "pair well together" phrasing does not retrieve well — concrete course-specific questions do |
 
 
@@ -111,13 +115,13 @@ The free tier of groq for llama-3.3-70b is a good fit for this project as it per
 
 ```mermaid
 flowchart LR
-    A["📄 Document Ingestion\n―――――――――――\nRaw .txt files\n(course explorer +\nreddit threads)\nclean_reviews.py\nclean_reddit.py"] --> B["✂️ Chunking\n―――――――――――\nReview-boundary split\n(--- separator)\nSentence split if\n>800 chars\n100-char overlap"]
+    A["📄 Document Ingestion\n―――――――――――\nRaw .txt files\n(course explorer +\nreddit threads)\ningest.py"] --> B["✂️ Chunking\n―――――――――――\nReview-boundary split\n(--- separator)\nBlank-line split\n(reddit)\nSentence split if\n>1000 chars\n100-char overlap\nmin 100 chars"]
 
     B --> C["🔢 Embedding\n―――――――――――\nsentence-transformers\nall-MiniLM-L6-v2\n384 dimensions"]
 
     C --> D["🗄️ Vector Store\n―――――――――――\nChromaDB\n(local)\nmetadata: source\nfilename + course"]
 
-    D --> E["🔍 Retrieval\n―――――――――――\nSemantic similarity\nCosine distance\ntop-k = 5"]
+    D --> E["🔍 Retrieval\n―――――――――――\nSemantic similarity\nCosine distance\ntop-k = 7"]
 
     E --> F["💬 Generation\n―――――――――――\nGroq API\nllama-3.3-70b-versatile\nGrounded prompt\n+ source attribution"]
 ```
@@ -144,9 +148,9 @@ flowchart LR
 
 ### Chunking
 - **Tool:** Claude (claude.ai)
-- **Input:** Chunking Strategy section of planning.md (review-boundary split on `---`, paragraph split for Reddit files, sentence-boundary fallback for chunks >800 chars, 100-char overlap), Architecture diagram, sample output from Stage 1
-- **Expected output:** `chunk_text()` function in `ingest.py` that splits review files on `---` separators and Reddit files on blank lines, then applies sentence-boundary splitting with overlap for any chunk exceeding 800 chars
-- **Verification:** Print 10 random chunks across 3 different course files; confirm each is self-contained, between 50–800 chars, and has correct source/course metadata; confirm total chunk count is between 1,500–2,000
+- **Input:** Chunking Strategy section of planning.md (review-boundary split on `---`, paragraph split for Reddit files, sentence-boundary fallback for chunks >1000 chars, 100-char overlap, 100-char minimum), Architecture diagram, sample output from Stage 1
+- **Expected output:** `load_and_chunk()` function in `ingest.py` that splits review files on `---` separators and Reddit files on blank lines, then applies sentence-boundary splitting with overlap for any chunk exceeding 1000 chars
+- **Verification:** Print 10 random chunks across 3 different course files; confirm each is self-contained, between 100–1000 chars, and has correct source/course metadata; confirm no chunks below MIN_CHUNK threshold
 
 **Milestone 4 — Embedding and retrieval:**
 ### Embedding
@@ -157,11 +161,11 @@ flowchart LR
 ### Retrieval
 - **Tool:** Claude (claude.ai)
 - **Input:** Retrieval Approach section (top-k=5, cosine similarity), Architecture diagram, `embed.py` from Stage 3
-- **Expected output:** `retrieve(query: str) -> list[dict]` function in `query.py` that takes a plain-language query, embeds it, queries ChromaDB for top-5 chunks, and returns each chunk with its text, source filename, course, and distance score
+- **Expected output:** `retrieve(query: str) -> list[dict]` function in `retriever.py` that takes a plain-language query, embeds it, queries ChromaDB for top-5 chunks, and returns each chunk with its text, source filename, course, and distance score
 - **Verification:** Run all 5 evaluation plan questions through retrieval only (no LLM); print returned chunks and distance scores; confirm top results are visibly relevant and distance scores are below 0.5
 - 
 **Milestone 5 — Generation and interface:**
 - **Tool:** Claude (claude.ai)
 - **Input:** Grounding requirement (answer only from retrieved context, refuse if insufficient), output format (answer + source list), Gradio skeleton from project instructions, `retrieve()` function from Stage 4, evaluation plan questions
-- **Expected output:** `ask(query: str) -> {"answer": str, "sources": list[str]}` function in `query.py` wired to Groq `llama-3.3-70b-versatile`, plus `app.py` with a Gradio UI showing answer and source fields
+- **Expected output:** `ask(query: str) -> {"answer": str, "sources": list[str]}` function in `query.py` wiring `retrieve()` from `retriever.py` and `generate_response()` from `generator.py` (Groq `llama-3.3-70b-versatile`), plus `app.py` with a Gradio UI showing answer and source fields
 - **Verification:** Run all 5 evaluation plan questions end-to-end; confirm each response cites at least one source filename; ask one out-of-scope question (e.g. "What is the CS 499 capstone like?") and confirm the system says it doesn't have enough information rather than generating a plausible-sounding answer

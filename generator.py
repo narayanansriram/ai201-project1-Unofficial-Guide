@@ -29,7 +29,7 @@ def generate_response(query: str, retrieved_chunks: list[dict]) -> dict:
         "You are an unofficial guide for the OSU eCampus BS Computer Science program. "
         "Answer the student's question using ONLY the review excerpts provided below. "
         "Do not add information from your own knowledge — if the excerpts don't cover it, say so. "
-        "Be concise and specific. At the end of your answer, list the source filenames you drew from."
+        "Be concise and specific."
     )
 
     response = _client.chat.completions.create(
