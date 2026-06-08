@@ -88,10 +88,11 @@ I chose Oregon State University's Computer Science course reviews. Oregon State 
 all-MiniLM-L6-v2 via sentence-transformers. It is a good fit for this (albeit student) project as it performs well for synthesis tasks like summarizing student reviews.
 
 **Production tradeoff reflection:**
-Context length: Several CS 344 and CS 290 reviews have between 2000-4500 characters which are detailed and are cut into smaller pieces and therefore losing nuance and coherence. A better fit would be text-embedding-3-small which supports up to 8191 tokens and for 1538 chunks would cost less than a cent
-Privacy concerns/local vs API hosted: The data here contains student opinions on instructors which when sent to an API means leaving the infrastructure completely [concerns about FERPA-adjacent data leaving infrastructure, i.e.]. all-MiniLM-L6-v2 would keep it on-prem, therefore allaying privacy concerns
-Multilingual support and domain-specific accuracy: non issues here since the data is in informal American English which are handled well by general-purpose models
-Latency: Negligible since embedding happens once at index time
+
+- **Context length:** Several CS 344 and CS 290 reviews have between 2000–4500 characters which are detailed and are cut into smaller pieces, losing nuance and coherence. A better fit would be `text-embedding-3-small` which supports up to 8191 tokens and for 1538 chunks would cost less than a cent.
+- **Privacy / local vs. API hosted:** The data contains student opinions on instructors — sending it to an API means leaving the infrastructure entirely (FERPA-adjacent concern). `all-MiniLM-L6-v2` keeps everything on-prem.
+- **Multilingual support and domain-specific accuracy:** Non-issues here since the data is informal American English, handled well by general-purpose models.
+- **Latency:** Negligible since embedding happens once at index time.
 ---
 
 ## Grounded Generation
@@ -304,4 +305,4 @@ I specified (in the spec) that the chunk split should be 800 chars at sentence b
 
 ## Demo Video
 
-[![Watch the demo](https://cdn.loom.com/sessions/thumbnails/beff1e496a764fbda2a13307a3f5ee8a-with-play.gif)](https://www.loom.com/share/beff1e496a764fbda2a13307a3f5ee8a)
+[Watch the demo here](https://www.loom.com/share/beff1e496a764fbda2a13307a3f5ee8a)
