@@ -276,6 +276,7 @@ Writing the chunking strategy before implementing the code forced me to walk thr
 
 **One way your implementation diverged from the spec, and why:**
 I specified (in the spec) that the chunk split should be 800 chars at sentence boundaries with a 100 character overlap. During implementation, I increased it to 1000 chars after further testing with the documents and diving deep into all-MiniLM-L6-v2. all-MiniLM-L6-v2 has a truncation limit at about 1000 chars since the 800 char-split was breaking apart ~170 chunks that did not need splitting - therefore reducing retrieval benefits from longer reviews. The increase to 1000 chars, therefore, allowed for longer multi-sentence reviews.
+
 ---
 
 ## AI Usage
