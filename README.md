@@ -15,6 +15,7 @@
      course descriptions don't reflect teaching style, exam difficulty, or workload." -->
 
 I chose Oregon State University's Computer Science course reviews. Oregon State University has an eCampus BS in Computer Science program. The program has several asynchronous, online students who review the courses in a variety of websites such as reddit (subreddit r/OSUOnlineCS) and its own bespoke website https://osu-cs-course-explorer.com/. The reviews are scattered throughout these sources and are not available on Oregon State's ecampus website.
+
 ---
 
 ## Document Sources
